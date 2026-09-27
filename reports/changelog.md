@@ -1,5 +1,68 @@
 # Changelog
 
+## v3: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v2.yaml`. The branches were the ones named in `reports/handoff.md` (v2); item 5
+named two categories, and both were done. No pillar or category was added or removed, and no nodes were cut.
+Almost every change is an addition: subcategories that sat at the 3-leaf minimum now have 4–7
+specific leaves. The additions are listed below.
+
+| Old location (v2) | Before | After | Reason |
+|---|---|---|---|
+| Public Interest & Impact | (no note) | Scope note: main buyer is government, nonprofits or development funders, plus accessibility | Was a catch-all |
+| Public Interest & Impact | `Emergency response` | `Public safety` | Scope: adds alerting and evidence management |
+| Public Interest & Impact | `Development & inclusion` | `Global development` | Wording; adds health, energy and agtech for emerging markets |
+| Wealth › Financial inclusion | `see:` → `Development & inclusion` | `see:` → `Global development > Financial-inclusion infrastructure` | Follows the rename |
+| Death, Grief & Legacy › Grief support | `Online memorials` | `Memorialization > Online memorials` | New subcategory; memorials are a separate market from grief support |
+| Legal & Compliance Tech | (none) | `Privacy & data compliance` · `ESG & sustainability reporting` · `IP management` | Gap fill; Legal had no privacy, ESG or IP coverage |
+| Legal & Compliance Tech | (no cross-ref) | `see:` → `Wealth > Tax & Legal > Consumer legal services` | Links B2B legal tech to the consumer legal market |
+| Productivity › ADHD-friendly productivity | (no cross-ref) | `see:` → `Executive-function coaching` | Links to the clinical side |
+| Spirituality & Faith | (no note) | Note: covers all traditions and secular paths | Neutrality |
+
+<!-- ADDITIONS:v3:START -->
+89 added nodes.
+
+- **Relationships › Death, Grief & Legacy › End-of-life planning**: End-of-life planning apps · Funeral pre-planning
+- **Relationships › Death, Grief & Legacy › Funeral services**: Alternative dispositions · Funeral home software
+- **Relationships › Death, Grief & Legacy › Memorialization**: Memorial keepsakes · AI memorial avatars · Livestreamed services
+- **Relationships › Death, Grief & Legacy › Grief support**: Grief apps · Child grief programs · Workplace bereavement support
+- **Relationships › Death, Grief & Legacy › Digital legacy**: Crypto inheritance
+- **Relationships › Death, Grief & Legacy › After-death logistics**: Death admin concierge · Survivor benefits claims
+- **Mind, Meaning & Growth › Spirituality & Faith › Faith tech**: Congregant engagement apps · Faith-based school software
+- **Mind, Meaning & Growth › Spirituality & Faith › Prayer & scripture**: AI scripture study · Sermons & religious audio
+- **Mind, Meaning & Growth › Spirituality & Faith › Spiritual guidance**: Chaplaincy services · Online religious education
+- **Mind, Meaning & Growth › Spirituality & Faith › Modern spirituality**: Manifestation apps · Sound baths & ceremonies
+- **Mind, Meaning & Growth › Spirituality & Faith › Philosophy & Stoicism**: Philosophy media
+- **Mind, Meaning & Growth › Productivity › Tasks & habits**: Routine builders · Gamified productivity
+- **Mind, Meaning & Growth › Productivity › Time management**: Scheduling links · Time-blocking tools
+- **Mind, Meaning & Growth › Productivity › Knowledge management**: Personal wikis · Whiteboards & mind mapping
+- **Mind, Meaning & Growth › Productivity › ADHD-friendly productivity**: AI task breakdown
+- **Mind, Meaning & Growth › Productivity › AI personal assistants**: AI browser agents
+- **Enterprise & AI › Legal & Compliance Tech › Legal AI**: Litigation analytics · AI for small firms
+- **Enterprise & AI › Legal & Compliance Tech › Legal operations**: Contract lifecycle management · Legal intake & triage · Entity management
+- **Enterprise & AI › Legal & Compliance Tech › Regulatory compliance**: Policy management · Ethics & whistleblowing
+- **Enterprise & AI › Legal & Compliance Tech › Privacy & data compliance**: Consent management · Data mapping & DSARs · Privacy program automation · Children's privacy compliance
+- **Enterprise & AI › Legal & Compliance Tech › ESG & sustainability reporting**: CSRD reporting · Supply-chain due diligence · ESG data platforms
+- **Enterprise & AI › Legal & Compliance Tech › AI governance**: Model inventories
+- **Enterprise & AI › Legal & Compliance Tech › Trade compliance**: Customs brokerage tech · Country-of-origin tracking · Forced-labor compliance
+- **Enterprise & AI › Legal & Compliance Tech › IP management**: Patent search AI · IP portfolio management · Trademark monitoring · Open-source license compliance
+- **Planet & Frontier › Industry & Supply Chain › Smart manufacturing**: Cobots · Manufacturing execution systems · Industrial AI copilots
+- **Planet & Frontier › Industry & Supply Chain › Additive manufacturing**: Metal additive · Digital spare-parts inventory
+- **Planet & Frontier › Industry & Supply Chain › Industrial IoT**: Digital twins · OT security
+- **Planet & Frontier › Industry & Supply Chain › Freight & shipping**: Freight audit & payment · Air cargo tech
+- **Planet & Frontier › Industry & Supply Chain › Warehousing**: Micro-fulfillment · On-demand warehousing
+- **Planet & Frontier › Industry & Supply Chain › Last-mile delivery**: Parcel lockers · Crowdsourced couriers
+- **Planet & Frontier › Industry & Supply Chain › Reverse logistics**: B2B recommerce · Repair networks
+- **Planet & Frontier › Industry & Supply Chain › Critical minerals**: Mining automation · Rare-earth processing
+- **Planet & Frontier › Public Interest & Impact › GovTech**: Legacy-system modernization · Government AI assistants · Public records & FOIA
+- **Planet & Frontier › Public Interest & Impact › Public safety**: Emergency alerting · Evidence management
+- **Planet & Frontier › Public Interest & Impact › Smart cities & transit**: Microtransit · Curb management · Road-safety analytics
+- **Planet & Frontier › Public Interest & Impact › Accessibility tech**: Live captioning · Sign-language AI · Cognitive-accessibility tools
+- **Planet & Frontier › Public Interest & Impact › Nonprofit tech**: Grant-seeking tools · Grantmaking software · Impact measurement
+- **Planet & Frontier › Public Interest & Impact › Global development**: Last-mile health delivery · Off-grid energy · Smallholder agtech
+- **Planet & Frontier › Public Interest & Impact › Civic participation & justice**: Court modernization · Reentry services · Participatory budgeting
+<!-- ADDITIONS:v3:END -->
+
 ## v2: strengthen the five weakest branches
 
 Input: `source/taxonomy-v1.yaml`. The five branches were the ones named in `reports/handoff.md` (v1).

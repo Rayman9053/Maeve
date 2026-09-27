@@ -10,6 +10,10 @@ startup markets.
 
 Format: `node name` (old location): reason.
 
+## v3
+
+No nodes cut.
+
 ## v2
 
 - `Active listening` · `Assertiveness` · `Conversation skills` (Social Skills › Communication skills): skills, not markets. Folded into the note on Communication training › Communication coaching.

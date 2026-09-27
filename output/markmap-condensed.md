@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,795 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,888 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -47,7 +47,7 @@ markmap:
 ### <span title="&#x27;Death tech.&#x27; | Tags: underserved | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">Death, Grief &amp; Legacy ↗</span>
 ## <span title="Contemplative practice, meaning, personal development, learning, creativity and career growth.">Mind, Meaning &amp; Growth</span>
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">Contemplative Practice ↗</span>
-### Spirituality &amp; Faith
+### <span title="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">Spirituality &amp; Faith</span>
 ### <span title="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">Purpose &amp; Life Transitions</span>
 ### <span title="Self-directed growth products: content, programs, experiences and peer groups.">Personal Development</span>
 ### Productivity
@@ -68,7 +68,7 @@ markmap:
 ### Software &amp; Developer Tools
 ### Cybersecurity &amp; Trust
 ### Work &amp; HR Tech
-### Legal &amp; Compliance Tech
+### <span title="See also: Wealth &gt; Tax &amp; Legal &gt; Consumer legal services">Legal &amp; Compliance Tech ↗</span>
 ### Marketing &amp; Sales Tech
 ### <span title="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">Commerce &amp; Retail Tech ↗</span>
 ### Business Finance Tech
@@ -80,4 +80,4 @@ markmap:
 ### <span title="Leaves are organized around what a startup sells: platforms, tools, services or therapeutics. | Tags: regulated">Biotech &amp; Life Sciences</span>
 ### Aerospace &amp; Defense 🔥
 ### Deep Tech
-### Public Interest &amp; Impact
+### <span title="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">Public Interest &amp; Impact</span>

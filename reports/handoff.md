@@ -1,5 +1,33 @@
 # Handoff
 
+## v3: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v2 | v3 | What changed |
+|---|---|---|---|
+| Planet › Public Interest & Impact | 7 / 22 / 6 | 7 / 42 / 0 | Scope note (government, nonprofit or development-funder buyer, plus accessibility). Public safety, global development (health, off-grid energy, smallholder agtech), court modernization and reentry, grantmaking, live captioning and sign-language AI |
+| Planet › Industry & Supply Chain | 8 / 25 / 7 | 8 / 42 / 0 | MES, cobots, digital twins, OT security, freight audit, micro-fulfillment, parcel lockers, B2B recommerce, rare-earth processing |
+| Enterprise › Legal & Compliance Tech | 5 / 15 / 5 | 8 / 37 / 1 | New privacy, ESG-reporting and IP subcategories; CLM, legal intake, litigation analytics; forced-labor and customs compliance |
+| Relationships › Death, Grief & Legacy | 5 / 15 / 5 | 6 / 28 / 0 | New Memorialization subcategory (incl. AI memorial avatars, with an ethics note), alternative dispositions, funeral-home software, bereavement benefits, crypto inheritance |
+| Mind › Spirituality & Faith | 5 / 15 / 5 | 5 / 24 / 0 | Note covering all traditions; chaplaincy, online religious education, AI scripture study, sermons & audio, philosophy media |
+| Mind › Productivity | 5 / 15 / 5 | 5 / 23 / 0 | Scheduling links, time-blocking, personal wikis, whiteboards, AI task breakdown, AI browser agents |
+
+Overall: 1,795 → 1,888 nodes; subcategories at the 3-leaf minimum 177 → 145 (of 366); cross-references 53 → 58.
+No pillar or category was added or removed, and nothing was cut. All versions (v0, v1, v2) reconcile with 0 unaccounted.
+
+### Next weakest (for v4)
+
+1. **Care › Health Technology**: 4 of 5 subcategories at the minimum, and only 16 leaves for a very large B2B market.
+2. **Wealth › Banking & Payments**: 5 of 6 at the minimum.
+3. **Enterprise › Work & HR Tech**: 5 of 6 at the minimum.
+4. **Planet › Deep Tech**: 4 of 5 at the minimum. Quantum, robotics and BCI each have 3 generic leaves.
+5. **Mind › Creativity & Craft**: 5 of 6 at the minimum.
+
+Close behind: Marketing & Sales Tech, Cars & Transportation, Pets & Animal Care, Breakups & Divorce, Contemplative Practice.
+
+---
+
 ## v2: the five weakest branches, reworked
 
 | Branch | v1 | v2 | What changed |

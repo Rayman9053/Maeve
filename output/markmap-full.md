@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,795 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,888 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -515,7 +515,7 @@ markmap:
   - Sharia-compliant banking
   - Halal investing
   - Islamic home finance
-- <span title="Tags: underserved | See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Development &amp; inclusion &gt; Financial-inclusion infrastructure">Financial inclusion ↗</span>
+- <span title="Tags: underserved | See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Global development &gt; Financial-inclusion infrastructure">Financial inclusion ↗</span>
   - <span title="CDFIs and credit unions.">Community finance</span>
   - Unbanked onboarding
   - Microloans
@@ -889,24 +889,38 @@ markmap:
 ### <span title="&#x27;Death tech.&#x27; | Tags: underserved | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">Death, Grief &amp; Legacy ↗</span>
 - End-of-life planning
   - Advance directives
-  - Hospice &amp; palliative care
+  - End-of-life planning apps
+  - Funeral pre-planning
   - Death doulas
+  - Hospice &amp; palliative care
 - <span title="State funeral law and the FTC Funeral Rule. | Tags: regulated">Funeral services</span>
   - Direct cremation
   - Green burial
+  - <span title="Water cremation and human composting; legal only in some jurisdictions.">Alternative dispositions</span>
   - Funeral price comparison
+  - <span title="Tags: b2b">Funeral home software</span>
+- Memorialization
+  - Online memorials
+  - <span title="e.g. cremation jewelry.">Memorial keepsakes</span>
+  - <span title="&#x27;Griefbots&#x27;. Open ethical questions about consent and the effect on grief. | Tags: ai-native">AI memorial avatars</span>
+  - Livestreamed services
 - <span title="See also: Lifestyle, Home &amp; Experiences &gt; Pets &amp; Animal Care &gt; Pet lifestyle &gt; Pet loss &amp; grief">Grief support ↗</span>
   - Grief support groups
   - Grief counseling
-  - Online memorials
+  - Grief apps
+  - Child grief programs
+  - <span title="Tags: b2b">Workplace bereavement support</span>
 - <span title="e.g. Empathy.">Digital legacy</span>
   - Account closure
   - Digital estate vaults
+  - Crypto inheritance
   - Legacy memoirs
 - After-death logistics
+  - Death admin concierge
+  - Survivor benefits claims
+  - Probate navigation
   - Estate cleanout
   - Downsizing services
-  - Probate navigation
 ## <span title="Contemplative practice, meaning, personal development, learning, creativity and career growth.">Mind, Meaning &amp; Growth</span>
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">Contemplative Practice ↗</span>
 - Meditation
@@ -930,26 +944,35 @@ markmap:
   - Screen-time apps
   - Minimalist phones
   - Digital detox retreats
-### Spirituality &amp; Faith
+### <span title="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">Spirituality &amp; Faith</span>
 - <span title="Faith communities: giving, streaming and church management. | Tags: b2b">Faith tech</span>
   - Church management
   - Giving platforms
   - Service streaming
+  - Congregant engagement apps
+  - Faith-based school software
 - <span title="e.g. Hallow.">Prayer &amp; scripture</span>
   - Prayer apps
   - Scripture study
+  - <span title="Tags: ai-native">AI scripture study</span>
   - Faith-based meditation
+  - Sermons &amp; religious audio
 - Spiritual guidance
   - Spiritual direction
+  - <span title="Hospitals, workplaces, universities.">Chaplaincy services</span>
+  - Online religious education
   - Pilgrimages &amp; retreats
   - Interfaith communities
 - Modern spirituality
   - <span title="e.g. Co-Star.">Astrology apps</span>
   - Tarot &amp; divination
+  - Manifestation apps
+  - Sound baths &amp; ceremonies
   - Spiritual retail
 - Philosophy &amp; Stoicism
   - Stoicism apps
   - Philosophy courses
+  - <span title="Newsletters, podcasts, YouTube.">Philosophy media</span>
   - Secular communities
 ### <span title="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">Purpose &amp; Life Transitions</span>
 - Life coaching
@@ -995,21 +1018,29 @@ markmap:
 - Tasks &amp; habits
   - Habit trackers
   - To-do apps
+  - Routine builders
+  - Gamified productivity
   - Goal-setting &amp; accountability
 - Time management
   - <span title="e.g. Motion. | Tags: ai-native">AI calendars</span>
+  - <span title="e.g. Calendly.">Scheduling links</span>
+  - Time-blocking tools
   - Time tracking
   - Focus apps
 - <span title="Second brain / PKM.">Knowledge management</span>
   - <span title="e.g. Notion, Obsidian.">Note-taking apps</span>
+  - Personal wikis
+  - Whiteboards &amp; mind mapping
   - Read-later &amp; highlights
   - <span title="Tags: ai-native">AI knowledge assistants</span>
-- ADHD-friendly productivity
+- <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">ADHD-friendly productivity ↗</span>
   - <span title="e.g. Flow Club, Focusmate.">Body doubling</span>
   - ADHD planners
+  - <span title="Tags: ai-native">AI task breakdown</span>
   - Visual timers
 - <span title="Tags: ai-native">AI personal assistants 🔥</span>
   - Personal AI agents
+  - AI browser agents
   - Inbox &amp; email AI
   - Voice assistants
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">Learning &amp; Education ↗</span>
@@ -1454,27 +1485,52 @@ markmap:
   - Shift scheduling
   - Frontline communication
   - Workforce management
-### Legal &amp; Compliance Tech
+### <span title="See also: Wealth &gt; Tax &amp; Legal &gt; Consumer legal services">Legal &amp; Compliance Tech ↗</span>
 - <span title="Tags: ai-native">Legal AI 🔥</span>
   - <span title="e.g. Harvey.">Contract AI</span>
   - Legal research AI
   - eDiscovery
+  - Litigation analytics
+  - AI for small firms
+- Legal operations
+  - Contract lifecycle management
+  - Matter management
+  - Legal intake &amp; triage
+  - Legal spend management
+  - Entity management
+  - Law-firm practice management
 - Regulatory compliance
   - KYC &amp; AML
   - <span title="e.g. SOC 2.">Compliance automation</span>
   - Regulatory monitoring
+  - Policy management
+  - Ethics &amp; whistleblowing
+- Privacy &amp; data compliance
+  - Consent management
+  - Data mapping &amp; DSARs
+  - <span title="GDPR, US state privacy laws.">Privacy program automation</span>
+  - <span title="COPPA and age-appropriate-design codes.">Children's privacy compliance</span>
+- <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon accounting">ESG &amp; sustainability reporting ↗</span>
+  - CSRD reporting
+  - Supply-chain due diligence
+  - ESG data platforms
 - AI governance
   - AI risk management
+  - Model inventories
   - AI audits
   - EU AI Act compliance
 - Trade compliance 🔥
   - Tariff management
+  - Customs brokerage tech
+  - Country-of-origin tracking
+  - <span title="e.g. US UFLPA.">Forced-labor compliance</span>
   - Export controls
   - Sanctions screening
-- Legal operations
-  - Matter management
-  - Legal spend management
-  - Law-firm practice management
+- IP management
+  - <span title="Tags: ai-native">Patent search AI</span>
+  - IP portfolio management
+  - Trademark monitoring
+  - Open-source license compliance
 ### Marketing &amp; Sales Tech
 - <span title="Tags: ai-native">Generative marketing</span>
   - AI content generation
@@ -1639,35 +1695,52 @@ markmap:
 ### Industry &amp; Supply Chain
 - <span title="Reshoring and smart factories.">Smart manufacturing 🔥</span>
   - Reshoring platforms
-  - Factory automation
   - Contract-manufacturing marketplaces
+  - Factory automation
+  - Cobots
+  - Manufacturing execution systems
+  - <span title="Tags: ai-native">Industrial AI copilots</span>
 - Additive manufacturing
   - Industrial 3D printing
+  - Metal additive
   - On-demand parts
+  - Digital spare-parts inventory
   - Printing materials
 - Industrial IoT
   - Predictive maintenance
   - Industrial sensors
+  - Digital twins
   - Machine-vision QC
+  - OT security
 - Freight &amp; shipping
   - Freight marketplaces
   - Freight visibility
+  - Freight audit &amp; payment
   - Autonomous trucking
   - Maritime tech
+  - Air cargo tech
 - Warehousing
   - Warehouse robotics
   - Warehouse management systems
+  - Micro-fulfillment
+  - On-demand warehousing
   - 3PL marketplaces
-- Last-mile delivery
+- <span title="See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Delivery &amp; quick commerce">Last-mile delivery ↗</span>
+  - Route optimization
+  - Parcel lockers
+  - Crowdsourced couriers
   - <span title="Tags: regulated">Delivery drones</span>
   - Sidewalk robots
-  - Route optimization
 - Reverse logistics
   - Returns management
+  - B2B recommerce
   - Liquidation marketplaces
   - Refurbishment
+  - Repair networks
 - Critical minerals
   - AI mineral exploration
+  - Mining automation
+  - Rare-earth processing
   - Battery-metal refining
   - Urban mining
 ### <span title="PropTech and construction. | See also: Wealth &gt; Housing &amp; Real Estate">Built Environment ↗</span>
@@ -1775,33 +1848,53 @@ markmap:
   - <span title="Tags: ai-native">AI materials discovery</span>
   - Advanced composites
   - Next-gen batteries
-### Public Interest &amp; Impact
+### <span title="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">Public Interest &amp; Impact</span>
 - GovTech
   - Permitting software
   - Benefits access
   - Government procurement
-- Emergency response
+  - Legacy-system modernization
+  - <span title="Tags: ai-native">Government AI assistants</span>
+  - Public records &amp; FOIA
+- Public safety
   - 911 &amp; dispatch tech
-  - Disaster response
+  - Emergency alerting
   - Early-warning systems
+  - Disaster response
+  - Evidence management
 - Smart cities &amp; transit
   - Transit tech
+  - Microtransit
   - Traffic management
+  - Curb management
+  - <span title="Vision Zero programs.">Road-safety analytics</span>
   - Civic data platforms
 - <span title="Tags: underserved">Accessibility tech</span>
   - Screen readers
   - AAC devices
+  - Live captioning
+  - <span title="Tags: ai-native">Sign-language AI</span>
+  - Cognitive-accessibility tools
   - <span title="Tags: regulated">Prosthetics &amp; mobility aids</span>
   - <span title="Web and app compliance as a service.">Accessibility compliance 🔥</span>
-- <span title="e.g. Givebutter.">Nonprofit tech</span>
+- <span title="e.g. Givebutter. | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Wealth management &gt; Philanthropy &amp; DAFs">Nonprofit tech ↗</span>
   - Fundraising platforms
   - Nonprofit CRM
   - Volunteer management
-- Development &amp; inclusion
+  - Grant-seeking tools
+  - Grantmaking software
+  - Impact measurement
+- Global development
   - Emerging-market edtech
+  - Last-mile health delivery
+  - Off-grid energy
+  - Smallholder agtech
   - Financial-inclusion infrastructure
   - Digital public infrastructure
 - Civic participation &amp; justice
   - Access to justice
+  - Court modernization
+  - Reentry services
   - Civic engagement platforms
+  - Participatory budgeting
   - Election administration

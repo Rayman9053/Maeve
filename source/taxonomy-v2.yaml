@@ -717,7 +717,7 @@ children:
               - {name: Islamic home finance}
           - name: Financial inclusion
             tags: [underserved]
-            see: ["Planet & Frontier > Public Interest & Impact > Global development > Financial-inclusion infrastructure"]
+            see: ["Planet & Frontier > Public Interest & Impact > Development & inclusion > Financial-inclusion infrastructure"]
             children:
               - {name: Community finance, note: "CDFIs and credit unions."}
               - {name: Unbanked onboarding}
@@ -1241,47 +1241,32 @@ children:
           - name: End-of-life planning
             children:
               - {name: Advance directives}
-              - {name: End-of-life planning apps}
-              - {name: Funeral pre-planning}
-              - {name: Death doulas}
               - {name: Hospice & palliative care}
+              - {name: Death doulas}
           - name: Funeral services
             tags: [regulated]
             note: "State funeral law and the FTC Funeral Rule."
             children:
               - {name: Direct cremation}
               - {name: Green burial}
-              - {name: Alternative dispositions, note: "Water cremation and human composting; legal only in some jurisdictions."}
               - {name: Funeral price comparison}
-              - {name: Funeral home software, tags: [b2b]}
-          - name: Memorialization
-            children:
-              - {name: Online memorials}
-              - {name: Memorial keepsakes, note: "e.g. cremation jewelry."}
-              - {name: AI memorial avatars, tags: [ai-native], note: "'Griefbots'. Open ethical questions about consent and the effect on grief."}
-              - {name: Livestreamed services}
           - name: Grief support
             see: ["Lifestyle, Home & Experiences > Pets & Animal Care > Pet lifestyle > Pet loss & grief"]
             children:
               - {name: Grief support groups}
               - {name: Grief counseling}
-              - {name: Grief apps}
-              - {name: Child grief programs}
-              - {name: Workplace bereavement support, tags: [b2b]}
+              - {name: Online memorials}
           - name: Digital legacy
             note: "e.g. Empathy."
             children:
               - {name: Account closure}
               - {name: Digital estate vaults}
-              - {name: Crypto inheritance}
               - {name: Legacy memoirs}
           - name: After-death logistics
             children:
-              - {name: Death admin concierge}
-              - {name: Survivor benefits claims}
-              - {name: Probate navigation}
               - {name: Estate cleanout}
               - {name: Downsizing services}
+              - {name: Probate navigation}
   # ───────────────────────────────────────────────────────── 5
   - name: Mind, Meaning & Growth
     note: "Contemplative practice, meaning, personal development, learning, creativity and career growth."
@@ -1317,7 +1302,6 @@ children:
               - {name: Digital detox retreats}
 
       - name: Spirituality & Faith
-        note: "Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths."
         children:
           - name: Faith tech
             tags: [b2b]
@@ -1326,35 +1310,26 @@ children:
               - {name: Church management}
               - {name: Giving platforms}
               - {name: Service streaming}
-              - {name: Congregant engagement apps}
-              - {name: Faith-based school software}
           - name: Prayer & scripture
             note: "e.g. Hallow."
             children:
               - {name: Prayer apps}
               - {name: Scripture study}
-              - {name: AI scripture study, tags: [ai-native]}
               - {name: Faith-based meditation}
-              - {name: Sermons & religious audio}
           - name: Spiritual guidance
             children:
               - {name: Spiritual direction}
-              - {name: Chaplaincy services, note: "Hospitals, workplaces, universities."}
-              - {name: Online religious education}
               - {name: Pilgrimages & retreats}
               - {name: Interfaith communities}
           - name: Modern spirituality
             children:
               - {name: Astrology apps, note: "e.g. Co-Star."}
               - {name: Tarot & divination}
-              - {name: Manifestation apps}
-              - {name: Sound baths & ceremonies}
               - {name: Spiritual retail}
           - name: Philosophy & Stoicism
             children:
               - {name: Stoicism apps}
               - {name: Philosophy courses}
-              - {name: Philosophy media, note: "Newsletters, podcasts, YouTube."}
               - {name: Secular communities}
 
       - name: Purpose & Life Transitions
@@ -1418,36 +1393,27 @@ children:
             children:
               - {name: Habit trackers}
               - {name: To-do apps}
-              - {name: Routine builders}
-              - {name: Gamified productivity}
               - {name: Goal-setting & accountability}
           - name: Time management
             children:
               - {name: AI calendars, tags: [ai-native], note: "e.g. Motion."}
-              - {name: Scheduling links, note: "e.g. Calendly."}
-              - {name: Time-blocking tools}
               - {name: Time tracking}
               - {name: Focus apps}
           - name: Knowledge management
             note: "Second brain / PKM."
             children:
               - {name: Note-taking apps, note: "e.g. Notion, Obsidian."}
-              - {name: Personal wikis}
-              - {name: Whiteboards & mind mapping}
               - {name: Read-later & highlights}
               - {name: AI knowledge assistants, tags: [ai-native]}
           - name: ADHD-friendly productivity
-            see: ["Care & Conditions > Brain & Neurological Health > Neurodivergence > Executive-function coaching"]
             children:
               - {name: Body doubling, note: "e.g. Flow Club, Focusmate."}
               - {name: ADHD planners}
-              - {name: AI task breakdown, tags: [ai-native]}
               - {name: Visual timers}
           - name: AI personal assistants
             tags: [trending, ai-native]
             children:
               - {name: Personal AI agents}
-              - {name: AI browser agents}
               - {name: Inbox & email AI}
               - {name: Voice assistants}
 
@@ -2063,7 +2029,6 @@ children:
               - {name: Workforce management}
 
       - name: Legal & Compliance Tech
-        see: ["Wealth > Tax & Legal > Consumer legal services"]
         children:
           - name: Legal AI
             tags: [trending, ai-native]
@@ -2071,56 +2036,27 @@ children:
               - {name: Contract AI, note: "e.g. Harvey."}
               - {name: Legal research AI}
               - {name: eDiscovery}
-              - {name: Litigation analytics}
-              - {name: AI for small firms}
-          - name: Legal operations
-            children:
-              - {name: Contract lifecycle management}
-              - {name: Matter management}
-              - {name: Legal intake & triage}
-              - {name: Legal spend management}
-              - {name: Entity management}
-              - {name: Law-firm practice management}
           - name: Regulatory compliance
             children:
               - {name: KYC & AML}
               - {name: Compliance automation, note: "e.g. SOC 2."}
               - {name: Regulatory monitoring}
-              - {name: Policy management}
-              - {name: Ethics & whistleblowing}
-          - name: Privacy & data compliance
-            children:
-              - {name: Consent management}
-              - {name: Data mapping & DSARs}
-              - {name: Privacy program automation, note: "GDPR, US state privacy laws."}
-              - {name: Children's privacy compliance, note: "COPPA and age-appropriate-design codes."}
-          - name: ESG & sustainability reporting
-            see: ["Planet & Frontier > Climate & Energy > Carbon > Carbon accounting"]
-            children:
-              - {name: CSRD reporting}
-              - {name: Supply-chain due diligence}
-              - {name: ESG data platforms}
           - name: AI governance
             children:
               - {name: AI risk management}
-              - {name: Model inventories}
               - {name: AI audits}
               - {name: EU AI Act compliance}
           - name: Trade compliance
             tags: [trending]
             children:
               - {name: Tariff management}
-              - {name: Customs brokerage tech}
-              - {name: Country-of-origin tracking}
-              - {name: Forced-labor compliance, note: "e.g. US UFLPA."}
               - {name: Export controls}
               - {name: Sanctions screening}
-          - name: IP management
+          - name: Legal operations
             children:
-              - {name: Patent search AI, tags: [ai-native]}
-              - {name: IP portfolio management}
-              - {name: Trademark monitoring}
-              - {name: Open-source license compliance}
+              - {name: Matter management}
+              - {name: Legal spend management}
+              - {name: Law-firm practice management}
 
       - name: Marketing & Sales Tech
         children:
@@ -2348,60 +2284,42 @@ children:
             note: "Reshoring and smart factories."
             children:
               - {name: Reshoring platforms}
-              - {name: Contract-manufacturing marketplaces}
               - {name: Factory automation}
-              - {name: Cobots}
-              - {name: Manufacturing execution systems}
-              - {name: Industrial AI copilots, tags: [ai-native]}
+              - {name: Contract-manufacturing marketplaces}
           - name: Additive manufacturing
             children:
               - {name: Industrial 3D printing}
-              - {name: Metal additive}
               - {name: On-demand parts}
-              - {name: Digital spare-parts inventory}
               - {name: Printing materials}
           - name: Industrial IoT
             children:
               - {name: Predictive maintenance}
               - {name: Industrial sensors}
-              - {name: Digital twins}
               - {name: Machine-vision QC}
-              - {name: OT security}
           - name: Freight & shipping
             children:
               - {name: Freight marketplaces}
               - {name: Freight visibility}
-              - {name: Freight audit & payment}
               - {name: Autonomous trucking}
               - {name: Maritime tech}
-              - {name: Air cargo tech}
           - name: Warehousing
             children:
               - {name: Warehouse robotics}
               - {name: Warehouse management systems}
-              - {name: Micro-fulfillment}
-              - {name: On-demand warehousing}
               - {name: 3PL marketplaces}
           - name: Last-mile delivery
-            see: ["Lifestyle, Home & Experiences > Food & Beverage > Delivery & quick commerce"]
             children:
-              - {name: Route optimization}
-              - {name: Parcel lockers}
-              - {name: Crowdsourced couriers}
               - {name: Delivery drones, tags: [regulated]}
               - {name: Sidewalk robots}
+              - {name: Route optimization}
           - name: Reverse logistics
             children:
               - {name: Returns management}
-              - {name: B2B recommerce}
               - {name: Liquidation marketplaces}
               - {name: Refurbishment}
-              - {name: Repair networks}
           - name: Critical minerals
             children:
               - {name: AI mineral exploration}
-              - {name: Mining automation}
-              - {name: Rare-earth processing}
               - {name: Battery-metal refining}
               - {name: Urban mining}
 
@@ -2556,64 +2474,42 @@ children:
               - {name: Next-gen batteries}
 
       - name: Public Interest & Impact
-        note: "Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech."
         children:
           - name: GovTech
             children:
               - {name: Permitting software}
               - {name: Benefits access}
               - {name: Government procurement}
-              - {name: Legacy-system modernization}
-              - {name: Government AI assistants, tags: [ai-native]}
-              - {name: Public records & FOIA}
-          - name: Public safety
+          - name: Emergency response
             children:
               - {name: 911 & dispatch tech}
-              - {name: Emergency alerting}
-              - {name: Early-warning systems}
               - {name: Disaster response}
-              - {name: Evidence management}
+              - {name: Early-warning systems}
           - name: Smart cities & transit
             children:
               - {name: Transit tech}
-              - {name: Microtransit}
               - {name: Traffic management}
-              - {name: Curb management}
-              - {name: Road-safety analytics, note: "Vision Zero programs."}
               - {name: Civic data platforms}
           - name: Accessibility tech
             tags: [underserved]
             children:
               - {name: Screen readers}
               - {name: AAC devices}
-              - {name: Live captioning}
-              - {name: Sign-language AI, tags: [ai-native]}
-              - {name: Cognitive-accessibility tools}
               - {name: Prosthetics & mobility aids, tags: [regulated]}
               - {name: Accessibility compliance, tags: [trending], note: "Web and app compliance as a service."}
           - name: Nonprofit tech
             note: "e.g. Givebutter."
-            see: ["Wealth > Retirement & Wealth Planning > Wealth management > Philanthropy & DAFs"]
             children:
               - {name: Fundraising platforms}
               - {name: Nonprofit CRM}
               - {name: Volunteer management}
-              - {name: Grant-seeking tools}
-              - {name: Grantmaking software}
-              - {name: Impact measurement}
-          - name: Global development
+          - name: Development & inclusion
             children:
               - {name: Emerging-market edtech}
-              - {name: Last-mile health delivery}
-              - {name: Off-grid energy}
-              - {name: Smallholder agtech}
               - {name: Financial-inclusion infrastructure}
               - {name: Digital public infrastructure}
           - name: Civic participation & justice
             children:
               - {name: Access to justice}
-              - {name: Court modernization}
-              - {name: Reentry services}
               - {name: Civic engagement platforms}
-              - {name: Participatory budgeting}
               - {name: Election administration}

@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**1,795 nodes**: 8 pillars · 63 categories · 362 subcategories · 1362 leaves.
+**1,888 nodes**: 8 pillars · 63 categories · 366 subcategories · 1451 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -599,7 +599,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Halal investing
   - Islamic home finance
 - **Financial inclusion** `underserved`
-  - ↗ *see* Planet & Frontier > Public Interest & Impact > Development & inclusion > Financial-inclusion infrastructure
+  - ↗ *see* Planet & Frontier > Public Interest & Impact > Global development > Financial-inclusion infrastructure
   - Community finance: *CDFIs and credit unions.*
   - Unbanked onboarding
   - Microloans
@@ -1029,25 +1029,39 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **End-of-life planning**
   - Advance directives
-  - Hospice & palliative care
+  - End-of-life planning apps
+  - Funeral pre-planning
   - Death doulas
+  - Hospice & palliative care
 - **Funeral services** `regulated`: *State funeral law and the FTC Funeral Rule.*
   - Direct cremation
   - Green burial
+  - Alternative dispositions: *Water cremation and human composting; legal only in some jurisdictions.*
   - Funeral price comparison
+  - Funeral home software `b2b`
+- **Memorialization**
+  - Online memorials
+  - Memorial keepsakes: *e.g. cremation jewelry.*
+  - AI memorial avatars `ai-native`: *'Griefbots'. Open ethical questions about consent and the effect on grief.*
+  - Livestreamed services
 - **Grief support**
   - ↗ *see* Lifestyle, Home & Experiences > Pets & Animal Care > Pet lifestyle > Pet loss & grief
   - Grief support groups
   - Grief counseling
-  - Online memorials
+  - Grief apps
+  - Child grief programs
+  - Workplace bereavement support `b2b`
 - **Digital legacy**: *e.g. Empathy.*
   - Account closure
   - Digital estate vaults
+  - Crypto inheritance
   - Legacy memoirs
 - **After-death logistics**
+  - Death admin concierge
+  - Survivor benefits claims
+  - Probate navigation
   - Estate cleanout
   - Downsizing services
-  - Probate navigation
 ---
 
 ## Mind, Meaning & Growth
@@ -1083,25 +1097,36 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Spirituality & Faith
 
+*Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.*  
+
 - **Faith tech** `b2b`: *Faith communities: giving, streaming and church management.*
   - Church management
   - Giving platforms
   - Service streaming
+  - Congregant engagement apps
+  - Faith-based school software
 - **Prayer & scripture**: *e.g. Hallow.*
   - Prayer apps
   - Scripture study
+  - AI scripture study `ai-native`
   - Faith-based meditation
+  - Sermons & religious audio
 - **Spiritual guidance**
   - Spiritual direction
+  - Chaplaincy services: *Hospitals, workplaces, universities.*
+  - Online religious education
   - Pilgrimages & retreats
   - Interfaith communities
 - **Modern spirituality**
   - Astrology apps: *e.g. Co-Star.*
   - Tarot & divination
+  - Manifestation apps
+  - Sound baths & ceremonies
   - Spiritual retail
 - **Philosophy & Stoicism**
   - Stoicism apps
   - Philosophy courses
+  - Philosophy media: *Newsletters, podcasts, YouTube.*
   - Secular communities
 
 ### Purpose & Life Transitions
@@ -1157,21 +1182,30 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Tasks & habits**
   - Habit trackers
   - To-do apps
+  - Routine builders
+  - Gamified productivity
   - Goal-setting & accountability
 - **Time management**
   - AI calendars `ai-native`: *e.g. Motion.*
+  - Scheduling links: *e.g. Calendly.*
+  - Time-blocking tools
   - Time tracking
   - Focus apps
 - **Knowledge management**: *Second brain / PKM.*
   - Note-taking apps: *e.g. Notion, Obsidian.*
+  - Personal wikis
+  - Whiteboards & mind mapping
   - Read-later & highlights
   - AI knowledge assistants `ai-native`
 - **ADHD-friendly productivity**
+  - ↗ *see* Care & Conditions > Brain & Neurological Health > Neurodivergence > Executive-function coaching
   - Body doubling: *e.g. Flow Club, Focusmate.*
   - ADHD planners
+  - AI task breakdown `ai-native`
   - Visual timers
 - **AI personal assistants 🔥** `ai-native`
   - Personal AI agents
+  - AI browser agents
   - Inbox & email AI
   - Voice assistants
 
@@ -1677,26 +1711,54 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Legal & Compliance Tech
 
+↗ *see* Wealth > Tax & Legal > Consumer legal services  
+
 - **Legal AI 🔥** `ai-native`
   - Contract AI: *e.g. Harvey.*
   - Legal research AI
   - eDiscovery
+  - Litigation analytics
+  - AI for small firms
+- **Legal operations**
+  - Contract lifecycle management
+  - Matter management
+  - Legal intake & triage
+  - Legal spend management
+  - Entity management
+  - Law-firm practice management
 - **Regulatory compliance**
   - KYC & AML
   - Compliance automation: *e.g. SOC 2.*
   - Regulatory monitoring
+  - Policy management
+  - Ethics & whistleblowing
+- **Privacy & data compliance**
+  - Consent management
+  - Data mapping & DSARs
+  - Privacy program automation: *GDPR, US state privacy laws.*
+  - Children's privacy compliance: *COPPA and age-appropriate-design codes.*
+- **ESG & sustainability reporting**
+  - ↗ *see* Planet & Frontier > Climate & Energy > Carbon > Carbon accounting
+  - CSRD reporting
+  - Supply-chain due diligence
+  - ESG data platforms
 - **AI governance**
   - AI risk management
+  - Model inventories
   - AI audits
   - EU AI Act compliance
 - **Trade compliance 🔥**
   - Tariff management
+  - Customs brokerage tech
+  - Country-of-origin tracking
+  - Forced-labor compliance: *e.g. US UFLPA.*
   - Export controls
   - Sanctions screening
-- **Legal operations**
-  - Matter management
-  - Legal spend management
-  - Law-firm practice management
+- **IP management**
+  - Patent search AI `ai-native`
+  - IP portfolio management
+  - Trademark monitoring
+  - Open-source license compliance
 
 ### Marketing & Sales Tech
 
@@ -1885,35 +1947,53 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Smart manufacturing 🔥**: *Reshoring and smart factories.*
   - Reshoring platforms
-  - Factory automation
   - Contract-manufacturing marketplaces
+  - Factory automation
+  - Cobots
+  - Manufacturing execution systems
+  - Industrial AI copilots `ai-native`
 - **Additive manufacturing**
   - Industrial 3D printing
+  - Metal additive
   - On-demand parts
+  - Digital spare-parts inventory
   - Printing materials
 - **Industrial IoT**
   - Predictive maintenance
   - Industrial sensors
+  - Digital twins
   - Machine-vision QC
+  - OT security
 - **Freight & shipping**
   - Freight marketplaces
   - Freight visibility
+  - Freight audit & payment
   - Autonomous trucking
   - Maritime tech
+  - Air cargo tech
 - **Warehousing**
   - Warehouse robotics
   - Warehouse management systems
+  - Micro-fulfillment
+  - On-demand warehousing
   - 3PL marketplaces
 - **Last-mile delivery**
+  - ↗ *see* Lifestyle, Home & Experiences > Food & Beverage > Delivery & quick commerce
+  - Route optimization
+  - Parcel lockers
+  - Crowdsourced couriers
   - Delivery drones `regulated`
   - Sidewalk robots
-  - Route optimization
 - **Reverse logistics**
   - Returns management
+  - B2B recommerce
   - Liquidation marketplaces
   - Refurbishment
+  - Repair networks
 - **Critical minerals**
   - AI mineral exploration
+  - Mining automation
+  - Rare-earth processing
   - Battery-metal refining
   - Urban mining
 
@@ -2038,32 +2118,55 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Public Interest & Impact
 
+*Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.*  
+
 - **GovTech**
   - Permitting software
   - Benefits access
   - Government procurement
-- **Emergency response**
+  - Legacy-system modernization
+  - Government AI assistants `ai-native`
+  - Public records & FOIA
+- **Public safety**
   - 911 & dispatch tech
-  - Disaster response
+  - Emergency alerting
   - Early-warning systems
+  - Disaster response
+  - Evidence management
 - **Smart cities & transit**
   - Transit tech
+  - Microtransit
   - Traffic management
+  - Curb management
+  - Road-safety analytics: *Vision Zero programs.*
   - Civic data platforms
 - **Accessibility tech** `underserved`
   - Screen readers
   - AAC devices
+  - Live captioning
+  - Sign-language AI `ai-native`
+  - Cognitive-accessibility tools
   - Prosthetics & mobility aids `regulated`
   - Accessibility compliance 🔥: *Web and app compliance as a service.*
 - **Nonprofit tech**: *e.g. Givebutter.*
+  - ↗ *see* Wealth > Retirement & Wealth Planning > Wealth management > Philanthropy & DAFs
   - Fundraising platforms
   - Nonprofit CRM
   - Volunteer management
-- **Development & inclusion**
+  - Grant-seeking tools
+  - Grantmaking software
+  - Impact measurement
+- **Global development**
   - Emerging-market edtech
+  - Last-mile health delivery
+  - Off-grid energy
+  - Smallholder agtech
   - Financial-inclusion infrastructure
   - Digital public infrastructure
 - **Civic participation & justice**
   - Access to justice
+  - Court modernization
+  - Reentry services
   - Civic engagement platforms
+  - Participatory budgeting
   - Election administration

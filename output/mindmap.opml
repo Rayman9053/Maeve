@@ -623,7 +623,7 @@
             <outline text="Halal investing"/>
             <outline text="Islamic home finance"/>
           </outline>
-          <outline text="Financial inclusion #underserved" _note="See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Development &amp; inclusion &gt; Financial-inclusion infrastructure">
+          <outline text="Financial inclusion #underserved" _note="See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Global development &gt; Financial-inclusion infrastructure">
             <outline text="Community finance" _note="CDFIs and credit unions."/>
             <outline text="Unbanked onboarding"/>
             <outline text="Microloans"/>
@@ -1082,28 +1082,43 @@
         <outline text="Death, Grief &amp; Legacy #underserved" _note="'Death tech.' | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">
           <outline text="End-of-life planning">
             <outline text="Advance directives"/>
-            <outline text="Hospice &amp; palliative care"/>
+            <outline text="End-of-life planning apps"/>
+            <outline text="Funeral pre-planning"/>
             <outline text="Death doulas"/>
+            <outline text="Hospice &amp; palliative care"/>
           </outline>
           <outline text="Funeral services #regulated" _note="State funeral law and the FTC Funeral Rule.">
             <outline text="Direct cremation"/>
             <outline text="Green burial"/>
+            <outline text="Alternative dispositions" _note="Water cremation and human composting; legal only in some jurisdictions."/>
             <outline text="Funeral price comparison"/>
+            <outline text="Funeral home software #b2b"/>
+          </outline>
+          <outline text="Memorialization">
+            <outline text="Online memorials"/>
+            <outline text="Memorial keepsakes" _note="e.g. cremation jewelry."/>
+            <outline text="AI memorial avatars #ai-native" _note="'Griefbots'. Open ethical questions about consent and the effect on grief."/>
+            <outline text="Livestreamed services"/>
           </outline>
           <outline text="Grief support" _note="See also: Lifestyle, Home &amp; Experiences &gt; Pets &amp; Animal Care &gt; Pet lifestyle &gt; Pet loss &amp; grief">
             <outline text="Grief support groups"/>
             <outline text="Grief counseling"/>
-            <outline text="Online memorials"/>
+            <outline text="Grief apps"/>
+            <outline text="Child grief programs"/>
+            <outline text="Workplace bereavement support #b2b"/>
           </outline>
           <outline text="Digital legacy" _note="e.g. Empathy.">
             <outline text="Account closure"/>
             <outline text="Digital estate vaults"/>
+            <outline text="Crypto inheritance"/>
             <outline text="Legacy memoirs"/>
           </outline>
           <outline text="After-death logistics">
+            <outline text="Death admin concierge"/>
+            <outline text="Survivor benefits claims"/>
+            <outline text="Probate navigation"/>
             <outline text="Estate cleanout"/>
             <outline text="Downsizing services"/>
-            <outline text="Probate navigation"/>
           </outline>
         </outline>
       </outline>
@@ -1136,30 +1151,39 @@
             <outline text="Digital detox retreats"/>
           </outline>
         </outline>
-        <outline text="Spirituality &amp; Faith">
+        <outline text="Spirituality &amp; Faith" _note="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">
           <outline text="Faith tech #b2b" _note="Faith communities: giving, streaming and church management.">
             <outline text="Church management"/>
             <outline text="Giving platforms"/>
             <outline text="Service streaming"/>
+            <outline text="Congregant engagement apps"/>
+            <outline text="Faith-based school software"/>
           </outline>
           <outline text="Prayer &amp; scripture" _note="e.g. Hallow.">
             <outline text="Prayer apps"/>
             <outline text="Scripture study"/>
+            <outline text="AI scripture study #ai-native"/>
             <outline text="Faith-based meditation"/>
+            <outline text="Sermons &amp; religious audio"/>
           </outline>
           <outline text="Spiritual guidance">
             <outline text="Spiritual direction"/>
+            <outline text="Chaplaincy services" _note="Hospitals, workplaces, universities."/>
+            <outline text="Online religious education"/>
             <outline text="Pilgrimages &amp; retreats"/>
             <outline text="Interfaith communities"/>
           </outline>
           <outline text="Modern spirituality">
             <outline text="Astrology apps" _note="e.g. Co-Star."/>
             <outline text="Tarot &amp; divination"/>
+            <outline text="Manifestation apps"/>
+            <outline text="Sound baths &amp; ceremonies"/>
             <outline text="Spiritual retail"/>
           </outline>
           <outline text="Philosophy &amp; Stoicism">
             <outline text="Stoicism apps"/>
             <outline text="Philosophy courses"/>
+            <outline text="Philosophy media" _note="Newsletters, podcasts, YouTube."/>
             <outline text="Secular communities"/>
           </outline>
         </outline>
@@ -1217,25 +1241,33 @@
           <outline text="Tasks &amp; habits">
             <outline text="Habit trackers"/>
             <outline text="To-do apps"/>
+            <outline text="Routine builders"/>
+            <outline text="Gamified productivity"/>
             <outline text="Goal-setting &amp; accountability"/>
           </outline>
           <outline text="Time management">
             <outline text="AI calendars #ai-native" _note="e.g. Motion."/>
+            <outline text="Scheduling links" _note="e.g. Calendly."/>
+            <outline text="Time-blocking tools"/>
             <outline text="Time tracking"/>
             <outline text="Focus apps"/>
           </outline>
           <outline text="Knowledge management" _note="Second brain / PKM.">
             <outline text="Note-taking apps" _note="e.g. Notion, Obsidian."/>
+            <outline text="Personal wikis"/>
+            <outline text="Whiteboards &amp; mind mapping"/>
             <outline text="Read-later &amp; highlights"/>
             <outline text="AI knowledge assistants #ai-native"/>
           </outline>
-          <outline text="ADHD-friendly productivity">
+          <outline text="ADHD-friendly productivity" _note="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">
             <outline text="Body doubling" _note="e.g. Flow Club, Focusmate."/>
             <outline text="ADHD planners"/>
+            <outline text="AI task breakdown #ai-native"/>
             <outline text="Visual timers"/>
           </outline>
           <outline text="AI personal assistants #trending #ai-native">
             <outline text="Personal AI agents"/>
+            <outline text="AI browser agents"/>
             <outline text="Inbox &amp; email AI"/>
             <outline text="Voice assistants"/>
           </outline>
@@ -1794,31 +1826,59 @@
             <outline text="Workforce management"/>
           </outline>
         </outline>
-        <outline text="Legal &amp; Compliance Tech">
+        <outline text="Legal &amp; Compliance Tech" _note="See also: Wealth &gt; Tax &amp; Legal &gt; Consumer legal services">
           <outline text="Legal AI #trending #ai-native">
             <outline text="Contract AI" _note="e.g. Harvey."/>
             <outline text="Legal research AI"/>
             <outline text="eDiscovery"/>
+            <outline text="Litigation analytics"/>
+            <outline text="AI for small firms"/>
+          </outline>
+          <outline text="Legal operations">
+            <outline text="Contract lifecycle management"/>
+            <outline text="Matter management"/>
+            <outline text="Legal intake &amp; triage"/>
+            <outline text="Legal spend management"/>
+            <outline text="Entity management"/>
+            <outline text="Law-firm practice management"/>
           </outline>
           <outline text="Regulatory compliance">
             <outline text="KYC &amp; AML"/>
             <outline text="Compliance automation" _note="e.g. SOC 2."/>
             <outline text="Regulatory monitoring"/>
+            <outline text="Policy management"/>
+            <outline text="Ethics &amp; whistleblowing"/>
+          </outline>
+          <outline text="Privacy &amp; data compliance">
+            <outline text="Consent management"/>
+            <outline text="Data mapping &amp; DSARs"/>
+            <outline text="Privacy program automation" _note="GDPR, US state privacy laws."/>
+            <outline text="Children's privacy compliance" _note="COPPA and age-appropriate-design codes."/>
+          </outline>
+          <outline text="ESG &amp; sustainability reporting" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon accounting">
+            <outline text="CSRD reporting"/>
+            <outline text="Supply-chain due diligence"/>
+            <outline text="ESG data platforms"/>
           </outline>
           <outline text="AI governance">
             <outline text="AI risk management"/>
+            <outline text="Model inventories"/>
             <outline text="AI audits"/>
             <outline text="EU AI Act compliance"/>
           </outline>
           <outline text="Trade compliance #trending">
             <outline text="Tariff management"/>
+            <outline text="Customs brokerage tech"/>
+            <outline text="Country-of-origin tracking"/>
+            <outline text="Forced-labor compliance" _note="e.g. US UFLPA."/>
             <outline text="Export controls"/>
             <outline text="Sanctions screening"/>
           </outline>
-          <outline text="Legal operations">
-            <outline text="Matter management"/>
-            <outline text="Legal spend management"/>
-            <outline text="Law-firm practice management"/>
+          <outline text="IP management">
+            <outline text="Patent search AI #ai-native"/>
+            <outline text="IP portfolio management"/>
+            <outline text="Trademark monitoring"/>
+            <outline text="Open-source license compliance"/>
           </outline>
         </outline>
         <outline text="Marketing &amp; Sales Tech">
@@ -2023,42 +2083,59 @@
         <outline text="Industry &amp; Supply Chain">
           <outline text="Smart manufacturing #trending" _note="Reshoring and smart factories.">
             <outline text="Reshoring platforms"/>
-            <outline text="Factory automation"/>
             <outline text="Contract-manufacturing marketplaces"/>
+            <outline text="Factory automation"/>
+            <outline text="Cobots"/>
+            <outline text="Manufacturing execution systems"/>
+            <outline text="Industrial AI copilots #ai-native"/>
           </outline>
           <outline text="Additive manufacturing">
             <outline text="Industrial 3D printing"/>
+            <outline text="Metal additive"/>
             <outline text="On-demand parts"/>
+            <outline text="Digital spare-parts inventory"/>
             <outline text="Printing materials"/>
           </outline>
           <outline text="Industrial IoT">
             <outline text="Predictive maintenance"/>
             <outline text="Industrial sensors"/>
+            <outline text="Digital twins"/>
             <outline text="Machine-vision QC"/>
+            <outline text="OT security"/>
           </outline>
           <outline text="Freight &amp; shipping">
             <outline text="Freight marketplaces"/>
             <outline text="Freight visibility"/>
+            <outline text="Freight audit &amp; payment"/>
             <outline text="Autonomous trucking"/>
             <outline text="Maritime tech"/>
+            <outline text="Air cargo tech"/>
           </outline>
           <outline text="Warehousing">
             <outline text="Warehouse robotics"/>
             <outline text="Warehouse management systems"/>
+            <outline text="Micro-fulfillment"/>
+            <outline text="On-demand warehousing"/>
             <outline text="3PL marketplaces"/>
           </outline>
-          <outline text="Last-mile delivery">
+          <outline text="Last-mile delivery" _note="See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Delivery &amp; quick commerce">
+            <outline text="Route optimization"/>
+            <outline text="Parcel lockers"/>
+            <outline text="Crowdsourced couriers"/>
             <outline text="Delivery drones #regulated"/>
             <outline text="Sidewalk robots"/>
-            <outline text="Route optimization"/>
           </outline>
           <outline text="Reverse logistics">
             <outline text="Returns management"/>
+            <outline text="B2B recommerce"/>
             <outline text="Liquidation marketplaces"/>
             <outline text="Refurbishment"/>
+            <outline text="Repair networks"/>
           </outline>
           <outline text="Critical minerals">
             <outline text="AI mineral exploration"/>
+            <outline text="Mining automation"/>
+            <outline text="Rare-earth processing"/>
             <outline text="Battery-metal refining"/>
             <outline text="Urban mining"/>
           </outline>
@@ -2193,41 +2270,61 @@
             <outline text="Next-gen batteries"/>
           </outline>
         </outline>
-        <outline text="Public Interest &amp; Impact">
+        <outline text="Public Interest &amp; Impact" _note="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">
           <outline text="GovTech">
             <outline text="Permitting software"/>
             <outline text="Benefits access"/>
             <outline text="Government procurement"/>
+            <outline text="Legacy-system modernization"/>
+            <outline text="Government AI assistants #ai-native"/>
+            <outline text="Public records &amp; FOIA"/>
           </outline>
-          <outline text="Emergency response">
+          <outline text="Public safety">
             <outline text="911 &amp; dispatch tech"/>
-            <outline text="Disaster response"/>
+            <outline text="Emergency alerting"/>
             <outline text="Early-warning systems"/>
+            <outline text="Disaster response"/>
+            <outline text="Evidence management"/>
           </outline>
           <outline text="Smart cities &amp; transit">
             <outline text="Transit tech"/>
+            <outline text="Microtransit"/>
             <outline text="Traffic management"/>
+            <outline text="Curb management"/>
+            <outline text="Road-safety analytics" _note="Vision Zero programs."/>
             <outline text="Civic data platforms"/>
           </outline>
           <outline text="Accessibility tech #underserved">
             <outline text="Screen readers"/>
             <outline text="AAC devices"/>
+            <outline text="Live captioning"/>
+            <outline text="Sign-language AI #ai-native"/>
+            <outline text="Cognitive-accessibility tools"/>
             <outline text="Prosthetics &amp; mobility aids #regulated"/>
             <outline text="Accessibility compliance #trending" _note="Web and app compliance as a service."/>
           </outline>
-          <outline text="Nonprofit tech" _note="e.g. Givebutter.">
+          <outline text="Nonprofit tech" _note="e.g. Givebutter. | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Wealth management &gt; Philanthropy &amp; DAFs">
             <outline text="Fundraising platforms"/>
             <outline text="Nonprofit CRM"/>
             <outline text="Volunteer management"/>
+            <outline text="Grant-seeking tools"/>
+            <outline text="Grantmaking software"/>
+            <outline text="Impact measurement"/>
           </outline>
-          <outline text="Development &amp; inclusion">
+          <outline text="Global development">
             <outline text="Emerging-market edtech"/>
+            <outline text="Last-mile health delivery"/>
+            <outline text="Off-grid energy"/>
+            <outline text="Smallholder agtech"/>
             <outline text="Financial-inclusion infrastructure"/>
             <outline text="Digital public infrastructure"/>
           </outline>
           <outline text="Civic participation &amp; justice">
             <outline text="Access to justice"/>
+            <outline text="Court modernization"/>
+            <outline text="Reentry services"/>
             <outline text="Civic engagement platforms"/>
+            <outline text="Participatory budgeting"/>
             <outline text="Election administration"/>
           </outline>
         </outline>
