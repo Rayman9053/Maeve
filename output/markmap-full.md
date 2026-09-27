@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,978 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,075 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -1334,25 +1334,40 @@ markmap:
 ### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
 - Pet food
   - <span title="e.g. The Farmer&#x27;s Dog.">Fresh pet food</span>
-  - Treats &amp; supplements
+  - Personalized pet nutrition
   - Raw &amp; specialty diets
+  - <span title="Includes insect-based protein.">Sustainable pet food</span>
+  - Treats &amp; supplements
 - Pet health
   - Vet telehealth
   - Modern vet clinics
+  - Pet wellness plans
   - Pet pharmacy
+  - Pet DNA &amp; diagnostics
+  - <span title="Tags: b2b">Vet practice software</span>
 - Pet tech
   - GPS trackers
+  - Pet health wearables
   - Pet cameras
   - Smart feeders
+  - Smart litter boxes
 - <span title="e.g. Rover.">Pet services</span>
   - Pet grooming
+  - Mobile grooming
   - Boarding &amp; daycare
+  - Pet sitting
   - Dog walking
   - Training &amp; behavior
 - Pet lifestyle
-  - Pet-friendly travel
-  - Pet loss &amp; grief
   - Pet adoption
+  - Pet apparel &amp; accessories
+  - Pet-friendly travel
+  - Pet aftercare
+  - Pet loss &amp; grief
+- Other animals
+  - Equine care
+  - Backyard poultry
+  - Aquarium &amp; reptile care
 ### Sports &amp; Hobbies
 - Racquet sports 🔥
   - <span title="Fastest-growing US sport, 2021-24 (SFIA).">Pickleball</span>
@@ -1430,26 +1445,42 @@ markmap:
 ### Cars &amp; Transportation
 - Car buying
   - <span title="e.g. Carvana.">Online car buying</span>
+  - Car marketplaces
+  - Trade-in valuation
+  - Used-car inspections
   - Car subscriptions
   - Car-buying advisors
 - <span title="See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance">Car ownership ↗</span>
-  - Detailing &amp; care
   - Maintenance &amp; repair
+  - Mobile mechanics
+  - Detailing &amp; care
+  - Connected-car apps
   - Parking apps
+  - Tolls &amp; tickets
+- Car enthusiasts
   - Collector cars
+  - Parts &amp; modification
+  - Car clubs &amp; events
   - Motorsports &amp; track days
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">EV ownership ↗</span>
   - Home charging
+  - Charger installation
   - Charging apps
+  - EV trip planning
   - Used EVs &amp; battery health
 - Micromobility
   - E-bikes
+  - Cargo bikes
   - E-scooters
+  - E-bike subscriptions
   - Bike &amp; scooter sharing
+  - Bike theft protection
 - Autonomous &amp; shared rides 🔥
   - Robotaxis
   - Ride-hailing
+  - <span title="e.g. Turo.">Peer-to-peer car sharing</span>
   - Carpooling
+  - <span title="Non-emergency medical transportation. | Tags: underserved">Medical &amp; senior rides</span>
 ## <span title="Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology). | Tags: b2b">Enterprise &amp; AI</span>
 ### <span title="Tags: ai-native">AI Infrastructure 🔥</span>
 - Foundation models
@@ -1613,23 +1644,45 @@ markmap:
   - AI content generation
   - Creative automation
   - AI video ads
+  - Personalization engines
+  - <span title="Getting brands surfaced in AI assistants&#x27; answers.">Generative engine optimization 🔥</span>
+- Lifecycle marketing
+  - Email &amp; SMS marketing
+  - Push &amp; in-app messaging
+  - Referral programs
+  - Community-led growth tools
 - Creator platforms
   - Influencer marketplaces
   - UGC marketplaces
   - Affiliate networks
+  - Creator analytics
+  - Creator payments
 - Retail media &amp; ads 🔥
   - Retail media networks
   - CTV advertising
+  - Programmatic ad tech
+  - Data clean rooms
   - Ad measurement
 - Analytics &amp; attribution
   - Multi-touch attribution
   - Marketing mix modeling
+  - Incrementality testing
+  - Product analytics
+  - Server-side tracking
   - Customer data platforms
+- Event marketing
+  - Event management platforms
+  - Webinar platforms
+  - Trade-show tech
+  - Direct-mail automation
 - Sales tech
+  - CRM
   - <span title="Tags: ai-native">AI SDRs 🔥</span>
   - Sales engagement
+  - Sales data &amp; enrichment
+  - Sales enablement
   - Revenue intelligence
-  - CRM
+  - <span title="Configure-price-quote.">CPQ</span>
 ### <span title="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">Commerce &amp; Retail Tech ↗</span>
 - E-commerce enablement
   - Storefront platforms
@@ -1823,21 +1876,48 @@ markmap:
 ### <span title="PropTech and construction. | See also: Wealth &gt; Housing &amp; Real Estate">Built Environment ↗</span>
 - Property management
   - Property-management software
+  - <span title="FCRA and fair-housing rules apply. | Tags: regulated">Resident screening</span>
+  - Rent collection
+  - Maintenance coordination
   - Tenant experience
   - Short-term rental operations
+- Commercial real estate tech
+  - Lease management
+  - CRE analytics
+  - Flexible workspace
+  - Space planning
 - Construction tech
+  - Construction project management
+  - BIM software
+  - <span title="Tags: ai-native">Takeoff &amp; estimating AI</span>
+  - Jobsite safety monitoring
   - Prefab &amp; modular
   - Construction robotics
-  - Construction project management
   - Permitting automation
+- Construction supply chain
+  - Materials procurement
+  - Subcontractor marketplaces
+  - Construction payments &amp; lien waivers
+  - Equipment rental
 - Smart buildings
   - Building automation
   - Building energy management
+  - HVAC optimization
+  - Access control
   - Occupancy analytics
+  - Building electrification retrofits
 - Real estate transactions
+  - Brokerage tech
+  - Transaction management
+  - <span title="Automated valuation models.">Home valuation</span>
+  - iBuying
   - Mortgage tech
   - Title &amp; escrow
-  - Brokerage tech
+- <span title="Tools that help more housing get built. | Tags: underserved">Housing supply</span>
+  - Zoning analytics
+  - Land acquisition platforms
+  - Affordable-housing development tools
+  - Office-to-residential conversion
 ### <span title="Leaves are organized around what a startup sells: platforms, tools, services or therapeutics. | Tags: regulated">Biotech &amp; Life Sciences</span>
 - <span title="The AlphaFold wave. | Tags: ai-native">AI drug discovery 🔥</span>
   - Protein design
@@ -1885,23 +1965,40 @@ markmap:
   - Cellular reprogramming
   - Aging biomarker discovery
 ### Aerospace &amp; Defense 🔥
-- <span title="e.g. Starlink.">Commercial space</span>
+- Launch &amp; in-space
   - Launch services
-  - Earth-observation imagery
-  - Satellite connectivity
-  - Space tourism
   - In-space servicing
+  - In-space manufacturing
+  - Lunar missions
+  - Space tourism
+- <span title="e.g. Starlink.">Satellites &amp; space data</span>
+  - Earth-observation imagery
+  - <span title="Tags: ai-native">Geospatial analytics</span>
+  - Satellite connectivity
+  - Direct-to-device satellite
+  - Smallsat components
+  - <span title="Tracking debris and objects in orbit.">Space situational awareness</span>
 - Next-gen aviation
   - eVTOL air taxis
+  - Electric &amp; hybrid aircraft
+  - Regional air mobility
   - Sustainable aviation fuel
   - Supersonic flight
+  - Aviation maintenance tech
 - <span title="Anduril model. ITAR and export controls apply. | Tags: regulated">Defense tech</span>
   - Dual-use hardware
   - Defense software
   - Sensors &amp; ISR
+  - <span title="Unmanned ground, sea and undersea vehicles.">Autonomous systems</span>
+  - Electronic warfare
+  - Defense manufacturing
+  - Defense procurement tools
 - <span title="Tags: regulated">Drones &amp; counter-drone</span>
   - Military drones
   - Commercial drones
+  - Drone inspection services
+  - <span title="Including non-Chinese supply chains.">Drone components</span>
+  - Drone traffic management
   - Counter-drone systems
 ### Deep Tech
 - Semiconductors &amp; AI chips 🔥

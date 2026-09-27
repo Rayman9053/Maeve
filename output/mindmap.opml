@@ -1624,29 +1624,45 @@
         <outline text="Pets &amp; Animal Care" _note="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">
           <outline text="Pet food">
             <outline text="Fresh pet food" _note="e.g. The Farmer's Dog."/>
-            <outline text="Treats &amp; supplements"/>
+            <outline text="Personalized pet nutrition"/>
             <outline text="Raw &amp; specialty diets"/>
+            <outline text="Sustainable pet food" _note="Includes insect-based protein."/>
+            <outline text="Treats &amp; supplements"/>
           </outline>
           <outline text="Pet health">
             <outline text="Vet telehealth"/>
             <outline text="Modern vet clinics"/>
+            <outline text="Pet wellness plans"/>
             <outline text="Pet pharmacy"/>
+            <outline text="Pet DNA &amp; diagnostics"/>
+            <outline text="Vet practice software #b2b"/>
           </outline>
           <outline text="Pet tech">
             <outline text="GPS trackers"/>
+            <outline text="Pet health wearables"/>
             <outline text="Pet cameras"/>
             <outline text="Smart feeders"/>
+            <outline text="Smart litter boxes"/>
           </outline>
           <outline text="Pet services" _note="e.g. Rover.">
             <outline text="Pet grooming"/>
+            <outline text="Mobile grooming"/>
             <outline text="Boarding &amp; daycare"/>
+            <outline text="Pet sitting"/>
             <outline text="Dog walking"/>
             <outline text="Training &amp; behavior"/>
           </outline>
           <outline text="Pet lifestyle">
-            <outline text="Pet-friendly travel"/>
-            <outline text="Pet loss &amp; grief"/>
             <outline text="Pet adoption"/>
+            <outline text="Pet apparel &amp; accessories"/>
+            <outline text="Pet-friendly travel"/>
+            <outline text="Pet aftercare"/>
+            <outline text="Pet loss &amp; grief"/>
+          </outline>
+          <outline text="Other animals">
+            <outline text="Equine care"/>
+            <outline text="Backyard poultry"/>
+            <outline text="Aquarium &amp; reptile care"/>
           </outline>
         </outline>
         <outline text="Sports &amp; Hobbies">
@@ -1743,30 +1759,47 @@
         <outline text="Cars &amp; Transportation">
           <outline text="Car buying">
             <outline text="Online car buying" _note="e.g. Carvana."/>
+            <outline text="Car marketplaces"/>
+            <outline text="Trade-in valuation"/>
+            <outline text="Used-car inspections"/>
             <outline text="Car subscriptions"/>
             <outline text="Car-buying advisors"/>
           </outline>
           <outline text="Car ownership" _note="See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance">
-            <outline text="Detailing &amp; care"/>
             <outline text="Maintenance &amp; repair"/>
+            <outline text="Mobile mechanics"/>
+            <outline text="Detailing &amp; care"/>
+            <outline text="Connected-car apps"/>
             <outline text="Parking apps"/>
+            <outline text="Tolls &amp; tickets"/>
+          </outline>
+          <outline text="Car enthusiasts">
             <outline text="Collector cars"/>
+            <outline text="Parts &amp; modification"/>
+            <outline text="Car clubs &amp; events"/>
             <outline text="Motorsports &amp; track days"/>
           </outline>
           <outline text="EV ownership" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">
             <outline text="Home charging"/>
+            <outline text="Charger installation"/>
             <outline text="Charging apps"/>
+            <outline text="EV trip planning"/>
             <outline text="Used EVs &amp; battery health"/>
           </outline>
           <outline text="Micromobility">
             <outline text="E-bikes"/>
+            <outline text="Cargo bikes"/>
             <outline text="E-scooters"/>
+            <outline text="E-bike subscriptions"/>
             <outline text="Bike &amp; scooter sharing"/>
+            <outline text="Bike theft protection"/>
           </outline>
           <outline text="Autonomous &amp; shared rides #trending">
             <outline text="Robotaxis"/>
             <outline text="Ride-hailing"/>
+            <outline text="Peer-to-peer car sharing" _note="e.g. Turo."/>
             <outline text="Carpooling"/>
+            <outline text="Medical &amp; senior rides #underserved" _note="Non-emergency medical transportation."/>
           </outline>
         </outline>
       </outline>
@@ -1967,27 +2000,51 @@
             <outline text="AI content generation"/>
             <outline text="Creative automation"/>
             <outline text="AI video ads"/>
+            <outline text="Personalization engines"/>
+            <outline text="Generative engine optimization #trending" _note="Getting brands surfaced in AI assistants' answers."/>
+          </outline>
+          <outline text="Lifecycle marketing">
+            <outline text="Email &amp; SMS marketing"/>
+            <outline text="Push &amp; in-app messaging"/>
+            <outline text="Referral programs"/>
+            <outline text="Community-led growth tools"/>
           </outline>
           <outline text="Creator platforms">
             <outline text="Influencer marketplaces"/>
             <outline text="UGC marketplaces"/>
             <outline text="Affiliate networks"/>
+            <outline text="Creator analytics"/>
+            <outline text="Creator payments"/>
           </outline>
           <outline text="Retail media &amp; ads #trending">
             <outline text="Retail media networks"/>
             <outline text="CTV advertising"/>
+            <outline text="Programmatic ad tech"/>
+            <outline text="Data clean rooms"/>
             <outline text="Ad measurement"/>
           </outline>
           <outline text="Analytics &amp; attribution">
             <outline text="Multi-touch attribution"/>
             <outline text="Marketing mix modeling"/>
+            <outline text="Incrementality testing"/>
+            <outline text="Product analytics"/>
+            <outline text="Server-side tracking"/>
             <outline text="Customer data platforms"/>
           </outline>
+          <outline text="Event marketing">
+            <outline text="Event management platforms"/>
+            <outline text="Webinar platforms"/>
+            <outline text="Trade-show tech"/>
+            <outline text="Direct-mail automation"/>
+          </outline>
           <outline text="Sales tech">
+            <outline text="CRM"/>
             <outline text="AI SDRs #trending #ai-native"/>
             <outline text="Sales engagement"/>
+            <outline text="Sales data &amp; enrichment"/>
+            <outline text="Sales enablement"/>
             <outline text="Revenue intelligence"/>
-            <outline text="CRM"/>
+            <outline text="CPQ" _note="Configure-price-quote."/>
           </outline>
         </outline>
         <outline text="Commerce &amp; Retail Tech" _note="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">
@@ -2224,24 +2281,54 @@
         <outline text="Built Environment" _note="PropTech and construction. | See also: Wealth &gt; Housing &amp; Real Estate">
           <outline text="Property management">
             <outline text="Property-management software"/>
+            <outline text="Resident screening #regulated" _note="FCRA and fair-housing rules apply."/>
+            <outline text="Rent collection"/>
+            <outline text="Maintenance coordination"/>
             <outline text="Tenant experience"/>
             <outline text="Short-term rental operations"/>
           </outline>
+          <outline text="Commercial real estate tech">
+            <outline text="Lease management"/>
+            <outline text="CRE analytics"/>
+            <outline text="Flexible workspace"/>
+            <outline text="Space planning"/>
+          </outline>
           <outline text="Construction tech">
+            <outline text="Construction project management"/>
+            <outline text="BIM software"/>
+            <outline text="Takeoff &amp; estimating AI #ai-native"/>
+            <outline text="Jobsite safety monitoring"/>
             <outline text="Prefab &amp; modular"/>
             <outline text="Construction robotics"/>
-            <outline text="Construction project management"/>
             <outline text="Permitting automation"/>
+          </outline>
+          <outline text="Construction supply chain">
+            <outline text="Materials procurement"/>
+            <outline text="Subcontractor marketplaces"/>
+            <outline text="Construction payments &amp; lien waivers"/>
+            <outline text="Equipment rental"/>
           </outline>
           <outline text="Smart buildings">
             <outline text="Building automation"/>
             <outline text="Building energy management"/>
+            <outline text="HVAC optimization"/>
+            <outline text="Access control"/>
             <outline text="Occupancy analytics"/>
+            <outline text="Building electrification retrofits"/>
           </outline>
           <outline text="Real estate transactions">
+            <outline text="Brokerage tech"/>
+            <outline text="Transaction management"/>
+            <outline text="Home valuation" _note="Automated valuation models."/>
+            <outline text="iBuying"/>
             <outline text="Mortgage tech"/>
             <outline text="Title &amp; escrow"/>
-            <outline text="Brokerage tech"/>
+          </outline>
+          <outline text="Housing supply #underserved" _note="Tools that help more housing get built.">
+            <outline text="Zoning analytics"/>
+            <outline text="Land acquisition platforms"/>
+            <outline text="Affordable-housing development tools"/>
+            <outline text="Office-to-residential conversion"/>
           </outline>
         </outline>
         <outline text="Biotech &amp; Life Sciences #regulated" _note="Leaves are organized around what a startup sells: platforms, tools, services or therapeutics.">
@@ -2300,26 +2387,44 @@
           </outline>
         </outline>
         <outline text="Aerospace &amp; Defense #trending">
-          <outline text="Commercial space" _note="e.g. Starlink.">
+          <outline text="Launch &amp; in-space">
             <outline text="Launch services"/>
-            <outline text="Earth-observation imagery"/>
-            <outline text="Satellite connectivity"/>
-            <outline text="Space tourism"/>
             <outline text="In-space servicing"/>
+            <outline text="In-space manufacturing"/>
+            <outline text="Lunar missions"/>
+            <outline text="Space tourism"/>
+          </outline>
+          <outline text="Satellites &amp; space data" _note="e.g. Starlink.">
+            <outline text="Earth-observation imagery"/>
+            <outline text="Geospatial analytics #ai-native"/>
+            <outline text="Satellite connectivity"/>
+            <outline text="Direct-to-device satellite"/>
+            <outline text="Smallsat components"/>
+            <outline text="Space situational awareness" _note="Tracking debris and objects in orbit."/>
           </outline>
           <outline text="Next-gen aviation">
             <outline text="eVTOL air taxis"/>
+            <outline text="Electric &amp; hybrid aircraft"/>
+            <outline text="Regional air mobility"/>
             <outline text="Sustainable aviation fuel"/>
             <outline text="Supersonic flight"/>
+            <outline text="Aviation maintenance tech"/>
           </outline>
           <outline text="Defense tech #regulated" _note="Anduril model. ITAR and export controls apply.">
             <outline text="Dual-use hardware"/>
             <outline text="Defense software"/>
             <outline text="Sensors &amp; ISR"/>
+            <outline text="Autonomous systems" _note="Unmanned ground, sea and undersea vehicles."/>
+            <outline text="Electronic warfare"/>
+            <outline text="Defense manufacturing"/>
+            <outline text="Defense procurement tools"/>
           </outline>
           <outline text="Drones &amp; counter-drone #regulated">
             <outline text="Military drones"/>
             <outline text="Commercial drones"/>
+            <outline text="Drone inspection services"/>
+            <outline text="Drone components" _note="Including non-Chinese supply chains."/>
+            <outline text="Drone traffic management"/>
             <outline text="Counter-drone systems"/>
           </outline>
         </outline>

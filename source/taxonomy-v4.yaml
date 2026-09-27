@@ -1839,46 +1839,30 @@ children:
           - name: Pet food
             children:
               - {name: Fresh pet food, note: "e.g. The Farmer's Dog."}
-              - {name: Personalized pet nutrition}
-              - {name: Raw & specialty diets}
-              - {name: Sustainable pet food, note: "Includes insect-based protein."}
               - {name: Treats & supplements}
+              - {name: Raw & specialty diets}
           - name: Pet health
             children:
               - {name: Vet telehealth}
               - {name: Modern vet clinics}
-              - {name: Pet wellness plans}
               - {name: Pet pharmacy}
-              - {name: Pet DNA & diagnostics}
-              - {name: Vet practice software, tags: [b2b]}
           - name: Pet tech
             children:
               - {name: GPS trackers}
-              - {name: Pet health wearables}
               - {name: Pet cameras}
               - {name: Smart feeders}
-              - {name: Smart litter boxes}
           - name: Pet services
             note: "e.g. Rover."
             children:
               - {name: Pet grooming}
-              - {name: Mobile grooming}
               - {name: Boarding & daycare}
-              - {name: Pet sitting}
               - {name: Dog walking}
               - {name: Training & behavior}
           - name: Pet lifestyle
             children:
-              - {name: Pet adoption}
-              - {name: Pet apparel & accessories}
               - {name: Pet-friendly travel}
-              - {name: Pet aftercare}
               - {name: Pet loss & grief}
-          - name: Other animals
-            children:
-              - {name: Equine care}
-              - {name: Backyard poultry}
-              - {name: Aquarium & reptile care}
+              - {name: Pet adoption}
 
       - name: Sports & Hobbies
         children:
@@ -1981,50 +1965,33 @@ children:
           - name: Car buying
             children:
               - {name: Online car buying, note: "e.g. Carvana."}
-              - {name: Car marketplaces}
-              - {name: Trade-in valuation}
-              - {name: Used-car inspections}
               - {name: Car subscriptions}
               - {name: Car-buying advisors}
           - name: Car ownership
             see: ["Wealth > Insurance > Property & casualty > Auto insurance"]
             children:
-              - {name: Maintenance & repair}
-              - {name: Mobile mechanics}
               - {name: Detailing & care}
-              - {name: Connected-car apps}
+              - {name: Maintenance & repair}
               - {name: Parking apps}
-              - {name: Tolls & tickets}
-          - name: Car enthusiasts
-            children:
               - {name: Collector cars}
-              - {name: Parts & modification}
-              - {name: Car clubs & events}
               - {name: Motorsports & track days}
           - name: EV ownership
             see: ["Planet & Frontier > Climate & Energy > EV infrastructure > Charging networks"]
             children:
               - {name: Home charging}
-              - {name: Charger installation}
               - {name: Charging apps}
-              - {name: EV trip planning}
               - {name: Used EVs & battery health}
           - name: Micromobility
             children:
               - {name: E-bikes}
-              - {name: Cargo bikes}
               - {name: E-scooters}
-              - {name: E-bike subscriptions}
               - {name: Bike & scooter sharing}
-              - {name: Bike theft protection}
           - name: Autonomous & shared rides
             tags: [trending]
             children:
               - {name: Robotaxis}
               - {name: Ride-hailing}
-              - {name: Peer-to-peer car sharing, note: "e.g. Turo."}
               - {name: Carpooling}
-              - {name: Medical & senior rides, tags: [underserved], note: "Non-emergency medical transportation."}
   # ───────────────────────────────────────────────────────── 7
   - name: Enterprise & AI
     tags: [b2b]
@@ -2248,52 +2215,28 @@ children:
               - {name: AI content generation}
               - {name: Creative automation}
               - {name: AI video ads}
-              - {name: Personalization engines}
-              - {name: Generative engine optimization, tags: [trending], note: "Getting brands surfaced in AI assistants' answers."}
-          - name: Lifecycle marketing
-            children:
-              - {name: Email & SMS marketing}
-              - {name: Push & in-app messaging}
-              - {name: Referral programs}
-              - {name: Community-led growth tools}
           - name: Creator platforms
             children:
               - {name: Influencer marketplaces}
               - {name: UGC marketplaces}
               - {name: Affiliate networks}
-              - {name: Creator analytics}
-              - {name: Creator payments}
           - name: Retail media & ads
             tags: [trending]
             children:
               - {name: Retail media networks}
               - {name: CTV advertising}
-              - {name: Programmatic ad tech}
-              - {name: Data clean rooms}
               - {name: Ad measurement}
           - name: Analytics & attribution
             children:
               - {name: Multi-touch attribution}
               - {name: Marketing mix modeling}
-              - {name: Incrementality testing}
-              - {name: Product analytics}
-              - {name: Server-side tracking}
               - {name: Customer data platforms}
-          - name: Event marketing
-            children:
-              - {name: Event management platforms}
-              - {name: Webinar platforms}
-              - {name: Trade-show tech}
-              - {name: Direct-mail automation}
           - name: Sales tech
             children:
-              - {name: CRM}
               - {name: AI SDRs, tags: [trending, ai-native]}
               - {name: Sales engagement}
-              - {name: Sales data & enrichment}
-              - {name: Sales enablement}
               - {name: Revenue intelligence}
-              - {name: CPQ, note: "Configure-price-quote."}
+              - {name: CRM}
 
       - name: Commerce & Retail Tech
         note: "Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon & spa tech, field-service software."
@@ -2554,56 +2497,24 @@ children:
           - name: Property management
             children:
               - {name: Property-management software}
-              - {name: Resident screening, tags: [regulated], note: "FCRA and fair-housing rules apply."}
-              - {name: Rent collection}
-              - {name: Maintenance coordination}
               - {name: Tenant experience}
               - {name: Short-term rental operations}
-          - name: Commercial real estate tech
-            children:
-              - {name: Lease management}
-              - {name: CRE analytics}
-              - {name: Flexible workspace}
-              - {name: Space planning}
           - name: Construction tech
             children:
-              - {name: Construction project management}
-              - {name: BIM software}
-              - {name: Takeoff & estimating AI, tags: [ai-native]}
-              - {name: Jobsite safety monitoring}
               - {name: Prefab & modular}
               - {name: Construction robotics}
+              - {name: Construction project management}
               - {name: Permitting automation}
-          - name: Construction supply chain
-            children:
-              - {name: Materials procurement}
-              - {name: Subcontractor marketplaces}
-              - {name: Construction payments & lien waivers}
-              - {name: Equipment rental}
           - name: Smart buildings
             children:
               - {name: Building automation}
               - {name: Building energy management}
-              - {name: HVAC optimization}
-              - {name: Access control}
               - {name: Occupancy analytics}
-              - {name: Building electrification retrofits}
           - name: Real estate transactions
             children:
-              - {name: Brokerage tech}
-              - {name: Transaction management}
-              - {name: Home valuation, note: "Automated valuation models."}
-              - {name: iBuying}
               - {name: Mortgage tech}
               - {name: Title & escrow}
-          - name: Housing supply
-            tags: [underserved]
-            note: "Tools that help more housing get built."
-            children:
-              - {name: Zoning analytics}
-              - {name: Land acquisition platforms}
-              - {name: Affordable-housing development tools}
-              - {name: Office-to-residential conversion}
+              - {name: Brokerage tech}
 
       - name: Biotech & Life Sciences
         tags: [regulated]
@@ -2670,30 +2581,19 @@ children:
       - name: Aerospace & Defense
         tags: [trending]
         children:
-          - name: Launch & in-space
-            children:
-              - {name: Launch services}
-              - {name: In-space servicing}
-              - {name: In-space manufacturing}
-              - {name: Lunar missions}
-              - {name: Space tourism}
-          - name: Satellites & space data
+          - name: Commercial space
             note: "e.g. Starlink."
             children:
+              - {name: Launch services}
               - {name: Earth-observation imagery}
-              - {name: Geospatial analytics, tags: [ai-native]}
               - {name: Satellite connectivity}
-              - {name: Direct-to-device satellite}
-              - {name: Smallsat components}
-              - {name: Space situational awareness, note: "Tracking debris and objects in orbit."}
+              - {name: Space tourism}
+              - {name: In-space servicing}
           - name: Next-gen aviation
             children:
               - {name: eVTOL air taxis}
-              - {name: Electric & hybrid aircraft}
-              - {name: Regional air mobility}
               - {name: Sustainable aviation fuel}
               - {name: Supersonic flight}
-              - {name: Aviation maintenance tech}
           - name: Defense tech
             tags: [regulated]
             note: "Anduril model. ITAR and export controls apply."
@@ -2701,18 +2601,11 @@ children:
               - {name: Dual-use hardware}
               - {name: Defense software}
               - {name: Sensors & ISR}
-              - {name: Autonomous systems, note: "Unmanned ground, sea and undersea vehicles."}
-              - {name: Electronic warfare}
-              - {name: Defense manufacturing}
-              - {name: Defense procurement tools}
           - name: Drones & counter-drone
             tags: [regulated]
             children:
               - {name: Military drones}
               - {name: Commercial drones}
-              - {name: Drone inspection services}
-              - {name: Drone components, note: "Including non-Chinese supply chains."}
-              - {name: Drone traffic management}
               - {name: Counter-drone systems}
 
       - name: Deep Tech

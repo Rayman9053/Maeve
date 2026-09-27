@@ -1,5 +1,32 @@
 # Handoff
 
+## v5: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v4 | v5 | What changed |
+|---|---|---|---|
+| Planet › Built Environment | 4 / 13 / 3 | 7 / 37 / 0 | New Commercial real estate tech, Construction supply chain (procurement, subcontractors, lien waivers) and Housing supply (zoning analytics, office-to-residential). BIM, estimating AI, jobsite safety, resident screening, iBuying, AVMs |
+| Planet › Aerospace & Defense | 4 / 14 / 3 | 5 / 30 / 0 | Commercial space split into Launch & in-space and Satellites & space data. Electric aircraft, aviation MRO tech, autonomous systems, electronic warfare, defense manufacturing, drone components and traffic management |
+| Enterprise › Marketing & Sales Tech | 5 / 16 / 4 | 7 / 36 / 0 | New Lifecycle marketing and Event marketing. Generative engine optimization, data clean rooms, incrementality testing, sales data & enrichment, CPQ |
+| Lifestyle › Cars & Transportation | 5 / 17 / 4 | 6 / 32 / 0 | New Car enthusiasts. Car marketplaces, trade-in valuation, mobile mechanics, connected-car apps, charger installation, cargo bikes, P2P car sharing, medical & senior rides |
+| Lifestyle › Pets & Animal Care | 5 / 16 / 4 | 6 / 30 / 1 | New Other animals (equine, poultry, aquarium & reptile). Pet wellness plans, pet DNA, vet practice software, health wearables, smart litter boxes, pet sitting, aftercare |
+
+Overall: 1,978 → 2,075 nodes; subcategories at the 3-leaf minimum 122 → 105 (of 378). No pillar or category was
+added or removed, and nothing was cut. Every version (v0–v4) reconciles with 0 unaccounted.
+
+### Next weakest (for v6)
+
+1. **Relationships › Breakups & Divorce**: 4 of 5 subcategories at the minimum.
+2. **Mind › Contemplative Practice**: 4 of 5 at the minimum.
+3. **Care › Integrative Medicine**: 3 of 4 at the minimum.
+4. **Mind › Personal Development**: 3 of 4 at the minimum (improved structurally in v2, still thin).
+5. **Lifestyle › Food & Beverage**: 6 of 8 at the minimum.
+
+Close behind: Couples & Marriage, Pain & Musculoskeletal, Population-Specific Care, Cybersecurity & Trust, Learning & Education.
+
+---
+
 ## v4: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.

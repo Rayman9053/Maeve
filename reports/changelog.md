@@ -1,5 +1,56 @@
 # Changelog
 
+## v5: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v4.yaml`. The branches were the ones named in `reports/handoff.md` (v4). No pillar or
+category was added or removed, and no nodes were cut. Every subcategory in these branches now has 3–7
+specific leaves (4–7 everywhere except the new *Other animals*), and eight subcategories are new. The
+additions are listed below.
+
+| Old location (v4) | Before | After | Reason |
+|---|---|---|---|
+| Aerospace & Defense | `Commercial space` | `Launch & in-space` · `Satellites & space data` | R7: split to add depth (in-space manufacturing, direct-to-device, space situational awareness) |
+| Built Environment | (none) | `Commercial real estate tech` · `Construction supply chain` · `Housing supply` | Gap fill: CRE, construction procurement/payments and housing-supply tools were missing |
+| Marketing & Sales Tech | (none) | `Lifecycle marketing` · `Event marketing` | Gap fill: email/SMS/referral and events were missing |
+| Cars & Transportation | (none) | `Car enthusiasts` | Split from `Car ownership`: `Collector cars` and `Motorsports & track days` moved here |
+| Pets & Animal Care | (none) | `Other animals` | Gap fill: horses, poultry, aquariums and reptiles |
+
+<!-- ADDITIONS:v5:START -->
+89 added nodes.
+
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Pet food**: Personalized pet nutrition · Sustainable pet food
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Pet health**: Pet wellness plans · Pet DNA & diagnostics · Vet practice software
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Pet tech**: Pet health wearables · Smart litter boxes
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Pet services**: Mobile grooming · Pet sitting
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Pet lifestyle**: Pet apparel & accessories · Pet aftercare
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Other animals**: Equine care · Backyard poultry · Aquarium & reptile care
+- **Lifestyle, Home & Experiences › Cars & Transportation › Car buying**: Car marketplaces · Trade-in valuation · Used-car inspections
+- **Lifestyle, Home & Experiences › Cars & Transportation › Car ownership**: Mobile mechanics · Connected-car apps · Tolls & tickets
+- **Lifestyle, Home & Experiences › Cars & Transportation › Car enthusiasts**: Parts & modification · Car clubs & events
+- **Lifestyle, Home & Experiences › Cars & Transportation › EV ownership**: Charger installation · EV trip planning
+- **Lifestyle, Home & Experiences › Cars & Transportation › Micromobility**: Cargo bikes · E-bike subscriptions · Bike theft protection
+- **Lifestyle, Home & Experiences › Cars & Transportation › Autonomous & shared rides**: Peer-to-peer car sharing · Medical & senior rides
+- **Enterprise & AI › Marketing & Sales Tech › Generative marketing**: Personalization engines · Generative engine optimization
+- **Enterprise & AI › Marketing & Sales Tech › Lifecycle marketing**: Email & SMS marketing · Push & in-app messaging · Referral programs · Community-led growth tools
+- **Enterprise & AI › Marketing & Sales Tech › Creator platforms**: Creator analytics · Creator payments
+- **Enterprise & AI › Marketing & Sales Tech › Retail media & ads**: Programmatic ad tech · Data clean rooms
+- **Enterprise & AI › Marketing & Sales Tech › Analytics & attribution**: Incrementality testing · Product analytics · Server-side tracking
+- **Enterprise & AI › Marketing & Sales Tech › Event marketing**: Event management platforms · Webinar platforms · Trade-show tech · Direct-mail automation
+- **Enterprise & AI › Marketing & Sales Tech › Sales tech**: Sales data & enrichment · Sales enablement · CPQ
+- **Planet & Frontier › Built Environment › Property management**: Resident screening · Rent collection · Maintenance coordination
+- **Planet & Frontier › Built Environment › Commercial real estate tech**: Lease management · CRE analytics · Flexible workspace · Space planning
+- **Planet & Frontier › Built Environment › Construction tech**: BIM software · Takeoff & estimating AI · Jobsite safety monitoring
+- **Planet & Frontier › Built Environment › Construction supply chain**: Materials procurement · Subcontractor marketplaces · Construction payments & lien waivers · Equipment rental
+- **Planet & Frontier › Built Environment › Smart buildings**: HVAC optimization · Access control · Building electrification retrofits
+- **Planet & Frontier › Built Environment › Real estate transactions**: Transaction management · Home valuation · iBuying
+- **Planet & Frontier › Built Environment › Housing supply**: Zoning analytics · Land acquisition platforms · Affordable-housing development tools · Office-to-residential conversion
+- **Planet & Frontier › Aerospace & Defense › Launch & in-space**: In-space manufacturing · Lunar missions
+- **Planet & Frontier › Aerospace & Defense › Satellites & space data**: Geospatial analytics · Direct-to-device satellite · Smallsat components · Space situational awareness
+- **Planet & Frontier › Aerospace & Defense › Next-gen aviation**: Electric & hybrid aircraft · Regional air mobility · Aviation maintenance tech
+- **Planet & Frontier › Aerospace & Defense › Defense tech**: Autonomous systems · Electronic warfare · Defense manufacturing · Defense procurement tools
+- **Planet & Frontier › Aerospace & Defense › Drones & counter-drone**: Drone inspection services · Drone components · Drone traffic management
+<!-- ADDITIONS:v5:END -->
+
 ## v4: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v3.yaml`. The branches were the ones named in `reports/handoff.md` (v3). No pillar or

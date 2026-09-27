@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**1,978 nodes**: 8 pillars · 63 categories · 370 subcategories · 1537 leaves.
+**2,075 nodes**: 8 pillars · 63 categories · 378 subcategories · 1626 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -1537,25 +1537,40 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Pet food**
   - Fresh pet food: *e.g. The Farmer's Dog.*
-  - Treats & supplements
+  - Personalized pet nutrition
   - Raw & specialty diets
+  - Sustainable pet food: *Includes insect-based protein.*
+  - Treats & supplements
 - **Pet health**
   - Vet telehealth
   - Modern vet clinics
+  - Pet wellness plans
   - Pet pharmacy
+  - Pet DNA & diagnostics
+  - Vet practice software `b2b`
 - **Pet tech**
   - GPS trackers
+  - Pet health wearables
   - Pet cameras
   - Smart feeders
+  - Smart litter boxes
 - **Pet services**: *e.g. Rover.*
   - Pet grooming
+  - Mobile grooming
   - Boarding & daycare
+  - Pet sitting
   - Dog walking
   - Training & behavior
 - **Pet lifestyle**
-  - Pet-friendly travel
-  - Pet loss & grief
   - Pet adoption
+  - Pet apparel & accessories
+  - Pet-friendly travel
+  - Pet aftercare
+  - Pet loss & grief
+- **Other animals**
+  - Equine care
+  - Backyard poultry
+  - Aquarium & reptile care
 
 ### Sports & Hobbies
 
@@ -1640,28 +1655,44 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Car buying**
   - Online car buying: *e.g. Carvana.*
+  - Car marketplaces
+  - Trade-in valuation
+  - Used-car inspections
   - Car subscriptions
   - Car-buying advisors
 - **Car ownership**
   - ↗ *see* Wealth > Insurance > Property & casualty > Auto insurance
-  - Detailing & care
   - Maintenance & repair
+  - Mobile mechanics
+  - Detailing & care
+  - Connected-car apps
   - Parking apps
+  - Tolls & tickets
+- **Car enthusiasts**
   - Collector cars
+  - Parts & modification
+  - Car clubs & events
   - Motorsports & track days
 - **EV ownership**
   - ↗ *see* Planet & Frontier > Climate & Energy > EV infrastructure > Charging networks
   - Home charging
+  - Charger installation
   - Charging apps
+  - EV trip planning
   - Used EVs & battery health
 - **Micromobility**
   - E-bikes
+  - Cargo bikes
   - E-scooters
+  - E-bike subscriptions
   - Bike & scooter sharing
+  - Bike theft protection
 - **Autonomous & shared rides 🔥**
   - Robotaxis
   - Ride-hailing
+  - Peer-to-peer car sharing: *e.g. Turo.*
   - Carpooling
+  - Medical & senior rides `underserved`: *Non-emergency medical transportation.*
 ---
 
 ## Enterprise & AI `b2b`
@@ -1847,23 +1878,45 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - AI content generation
   - Creative automation
   - AI video ads
+  - Personalization engines
+  - Generative engine optimization 🔥: *Getting brands surfaced in AI assistants' answers.*
+- **Lifecycle marketing**
+  - Email & SMS marketing
+  - Push & in-app messaging
+  - Referral programs
+  - Community-led growth tools
 - **Creator platforms**
   - Influencer marketplaces
   - UGC marketplaces
   - Affiliate networks
+  - Creator analytics
+  - Creator payments
 - **Retail media & ads 🔥**
   - Retail media networks
   - CTV advertising
+  - Programmatic ad tech
+  - Data clean rooms
   - Ad measurement
 - **Analytics & attribution**
   - Multi-touch attribution
   - Marketing mix modeling
+  - Incrementality testing
+  - Product analytics
+  - Server-side tracking
   - Customer data platforms
+- **Event marketing**
+  - Event management platforms
+  - Webinar platforms
+  - Trade-show tech
+  - Direct-mail automation
 - **Sales tech**
+  - CRM
   - AI SDRs 🔥 `ai-native`
   - Sales engagement
+  - Sales data & enrichment
+  - Sales enablement
   - Revenue intelligence
-  - CRM
+  - CPQ: *Configure-price-quote.*
 
 ### Commerce & Retail Tech
 
@@ -2085,21 +2138,48 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Property management**
   - Property-management software
+  - Resident screening `regulated`: *FCRA and fair-housing rules apply.*
+  - Rent collection
+  - Maintenance coordination
   - Tenant experience
   - Short-term rental operations
+- **Commercial real estate tech**
+  - Lease management
+  - CRE analytics
+  - Flexible workspace
+  - Space planning
 - **Construction tech**
+  - Construction project management
+  - BIM software
+  - Takeoff & estimating AI `ai-native`
+  - Jobsite safety monitoring
   - Prefab & modular
   - Construction robotics
-  - Construction project management
   - Permitting automation
+- **Construction supply chain**
+  - Materials procurement
+  - Subcontractor marketplaces
+  - Construction payments & lien waivers
+  - Equipment rental
 - **Smart buildings**
   - Building automation
   - Building energy management
+  - HVAC optimization
+  - Access control
   - Occupancy analytics
+  - Building electrification retrofits
 - **Real estate transactions**
+  - Brokerage tech
+  - Transaction management
+  - Home valuation: *Automated valuation models.*
+  - iBuying
   - Mortgage tech
   - Title & escrow
-  - Brokerage tech
+- **Housing supply** `underserved`: *Tools that help more housing get built.*
+  - Zoning analytics
+  - Land acquisition platforms
+  - Affordable-housing development tools
+  - Office-to-residential conversion
 
 ### Biotech & Life Sciences `regulated`
 
@@ -2154,23 +2234,40 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Aerospace & Defense 🔥
 
-- **Commercial space**: *e.g. Starlink.*
+- **Launch & in-space**
   - Launch services
-  - Earth-observation imagery
-  - Satellite connectivity
-  - Space tourism
   - In-space servicing
+  - In-space manufacturing
+  - Lunar missions
+  - Space tourism
+- **Satellites & space data**: *e.g. Starlink.*
+  - Earth-observation imagery
+  - Geospatial analytics `ai-native`
+  - Satellite connectivity
+  - Direct-to-device satellite
+  - Smallsat components
+  - Space situational awareness: *Tracking debris and objects in orbit.*
 - **Next-gen aviation**
   - eVTOL air taxis
+  - Electric & hybrid aircraft
+  - Regional air mobility
   - Sustainable aviation fuel
   - Supersonic flight
+  - Aviation maintenance tech
 - **Defense tech** `regulated`: *Anduril model. ITAR and export controls apply.*
   - Dual-use hardware
   - Defense software
   - Sensors & ISR
+  - Autonomous systems: *Unmanned ground, sea and undersea vehicles.*
+  - Electronic warfare
+  - Defense manufacturing
+  - Defense procurement tools
 - **Drones & counter-drone** `regulated`
   - Military drones
   - Commercial drones
+  - Drone inspection services
+  - Drone components: *Including non-Chinese supply chains.*
+  - Drone traffic management
   - Counter-drone systems
 
 ### Deep Tech
