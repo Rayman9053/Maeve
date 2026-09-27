@@ -556,20 +556,35 @@
             <outline text="Naturopathy #regulated" _note="Licensure and scope vary by jurisdiction."/>
             <outline text="Homeopathy #regulated" _note="Scientific consensus finds no effect beyond placebo; understand the category before entering."/>
           </outline>
+          <outline text="Herbal medicine" _note="Drug-interaction risk; botanical claims are regulated. | See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; Supplements &gt; Herbal supplements">
+            <outline text="Clinical herbalism"/>
+            <outline text="Herbal apothecaries"/>
+            <outline text="Herbalism education"/>
+          </outline>
           <outline text="Manual therapies">
             <outline text="Acupuncture"/>
             <outline text="Chiropractic"/>
             <outline text="Massage &amp; bodywork"/>
+            <outline text="Reflexology" _note="Limited evidence for therapeutic claims."/>
+            <outline text="Cupping &amp; gua sha"/>
           </outline>
           <outline text="Integrative clinics">
             <outline text="Functional medicine" _note="'Root-cause' clinic model; contested evidence for some protocols."/>
+            <outline text="Integrative primary care"/>
+            <outline text="Integrative oncology" _note="Evidence-informed supportive care alongside standard treatment."/>
             <outline text="Integrative health coaching"/>
-            <outline text="Practitioner platforms #b2b"/>
+          </outline>
+          <outline text="Practitioner tools #b2b">
+            <outline text="Practice-management software"/>
+            <outline text="Practitioner certification"/>
+            <outline text="Practitioner marketplaces"/>
+            <outline text="Practitioner-grade supplements" _note="Dispensaries, e.g. Fullscript."/>
           </outline>
           <outline text="Energy &amp; movement practices" _note="Limited evidence for therapeutic claims. Qigong and tai chi have support as gentle exercise.">
             <outline text="Reiki"/>
             <outline text="Qigong"/>
             <outline text="Tai chi"/>
+            <outline text="Yoga therapy"/>
           </outline>
         </outline>
       </outline>
@@ -987,28 +1002,45 @@
         <outline text="Breakups &amp; Divorce">
           <outline text="Breakup support" _note="Covers emotional recovery, no-contact and rebuilding confidence.">
             <outline text="Breakup coaching"/>
-            <outline text="No-contact apps"/>
             <outline text="Heartbreak programs"/>
+            <outline text="No-contact apps"/>
+            <outline text="Breakup support communities"/>
           </outline>
           <outline text="Divorce process">
             <outline text="Divorce preparation"/>
-            <outline text="Divorce mediation"/>
-            <outline text="Online divorce #regulated"/>
             <outline text="Divorce coaching"/>
+            <outline text="Divorce mediation"/>
+            <outline text="Collaborative divorce"/>
+            <outline text="Online divorce #regulated"/>
+            <outline text="Divorce attorney matching #regulated"/>
           </outline>
           <outline text="Divorce finance">
             <outline text="Asset-splitting tools"/>
             <outline text="Financial transition planning"/>
             <outline text="Divorce financial analysts"/>
+            <outline text="Retirement-account division" _note="QDROs."/>
+            <outline text="Support calculators" _note="Child and spousal support."/>
+            <outline text="Marital home buyouts"/>
           </outline>
           <outline text="Co-parenting">
             <outline text="Co-parenting apps"/>
             <outline text="Custody scheduling"/>
+            <outline text="Co-parent expense sharing"/>
             <outline text="Parallel parenting support"/>
+            <outline text="Children's divorce support"/>
+          </outline>
+          <outline text="Safe separation #underserved" _note="Leaving an abusive relationship. Handle with trauma-informed design and strict privacy. | See also: Health &amp; Wellness &gt; Mental Health &gt; Trauma &amp; PTSD &gt; Domestic-violence support">
+            <outline text="Safety planning apps"/>
+            <outline text="Protective-order assistance #regulated"/>
+            <outline text="Stalkerware detection"/>
+            <outline text="Emergency housing search"/>
           </outline>
           <outline text="Life after divorce">
             <outline text="Dating after divorce"/>
+            <outline text="Divorce support groups"/>
             <outline text="Social rebuilding"/>
+            <outline text="Post-divorce housing"/>
+            <outline text="Name-change services"/>
             <outline text="Personal reinvention"/>
           </outline>
         </outline>
@@ -1166,28 +1198,42 @@
         <outline text="Contemplative Practice" _note="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">
           <outline text="Meditation">
             <outline text="Meditation apps" _note="e.g. Calm, Headspace."/>
+            <outline text="Meditation studios"/>
             <outline text="Meditation retreats"/>
-            <outline text="Teacher training"/>
+            <outline text="Meditation teacher training"/>
             <outline text="Workplace mindfulness #b2b"/>
           </outline>
           <outline text="Breathwork">
             <outline text="Breathwork apps"/>
             <outline text="Breathwork facilitators"/>
+            <outline text="Breathwork certification"/>
+            <outline text="Breath coaching for athletes"/>
             <outline text="Breath-training devices"/>
           </outline>
           <outline text="Journaling &amp; reflection">
             <outline text="Journaling apps" _note="e.g. Day One."/>
             <outline text="AI journaling #ai-native"/>
+            <outline text="Gratitude apps"/>
+            <outline text="Printed guided journals"/>
             <outline text="Guided reflection programs"/>
           </outline>
           <outline text="Somatics &amp; embodiment">
             <outline text="Somatic practices"/>
-            <outline text="Ecstatic dance"/>
+            <outline text="Somatic practitioner training"/>
+            <outline text="Nervous-system regulation apps"/>
             <outline text="Embodiment coaching"/>
+            <outline text="Ecstatic dance"/>
+          </outline>
+          <outline text="Nature practices">
+            <outline text="Forest bathing"/>
+            <outline text="Nature-therapy programs"/>
+            <outline text="Mindful hiking groups"/>
           </outline>
           <outline text="Digital wellness">
             <outline text="Screen-time apps"/>
             <outline text="Minimalist phones"/>
+            <outline text="Phone lockers &amp; pouches" _note="e.g. Yondr."/>
+            <outline text="Phone-free social events"/>
             <outline text="Digital detox retreats"/>
           </outline>
         </outline>
@@ -1256,7 +1302,9 @@
           <outline text="Self-help content">
             <outline text="Book summaries &amp; audio"/>
             <outline text="Self-help courses"/>
+            <outline text="Self-help media" _note="Newsletters, podcasts, YouTube."/>
             <outline text="Personal development apps"/>
+            <outline text="Challenge programs" _note="e.g. 30-day and 75-day challenges."/>
           </outline>
           <outline text="Inner-work programs" _note="Non-clinical. Clinical care lives in Mental Health.">
             <outline text="Self-esteem programs"/>
@@ -1266,15 +1314,24 @@
             <outline text="Attachment-healing courses"/>
             <outline text="Boundaries coaching"/>
           </outline>
+          <outline text="Performance &amp; mindset">
+            <outline text="Mindset coaching"/>
+            <outline text="Peak-performance coaching"/>
+            <outline text="Mental-skills coaching" _note="For athletes, performers and executives."/>
+            <outline text="Habit coaching"/>
+          </outline>
           <outline text="Transformational experiences">
             <outline text="Transformational workshops" _note="Some large-group programs have been criticized for high-pressure sales; vet providers."/>
             <outline text="Growth retreats"/>
             <outline text="Wilderness programs"/>
+            <outline text="Personal-growth festivals"/>
           </outline>
           <outline text="Growth communities">
             <outline text="Men's circles"/>
             <outline text="Women's circles"/>
             <outline text="Mastermind groups"/>
+            <outline text="Peer coaching networks"/>
+            <outline text="Online growth communities"/>
           </outline>
         </outline>
         <outline text="Productivity">
@@ -1500,44 +1557,62 @@
           <outline text="Meal solutions" _note="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods">
             <outline text="Meal kits"/>
             <outline text="Prepared meals"/>
+            <outline text="Personal chefs"/>
+            <outline text="Kids' &amp; school meals"/>
+            <outline text="Corporate catering #b2b"/>
             <outline text="Meal-planning apps"/>
           </outline>
           <outline text="Better-for-you foods">
             <outline text="Functional beverages #trending" _note="Prebiotic sodas, e.g. Olipop, Poppi."/>
             <outline text="Protein-forward foods #trending"/>
+            <outline text="Low-sugar snacks"/>
+            <outline text="Gut-health foods"/>
             <outline text="Allergen-free foods"/>
             <outline text="Diet-specific foods"/>
           </outline>
           <outline text="Beverages">
             <outline text="Specialty coffee"/>
+            <outline text="Tea &amp; matcha #trending"/>
+            <outline text="Energy drinks"/>
             <outline text="Non-alcoholic drinks #trending" _note="e.g. Athletic Brewing."/>
             <outline text="Wine &amp; spirits"/>
           </outline>
           <outline text="Restaurant tech #b2b">
-            <outline text="Ghost kitchens"/>
             <outline text="Restaurant ops software"/>
-            <outline text="Reservations &amp; waitlists"/>
             <outline text="Restaurant POS" _note="e.g. Toast."/>
+            <outline text="Online ordering &amp; loyalty"/>
+            <outline text="Reservations &amp; waitlists"/>
+            <outline text="Kitchen automation"/>
+            <outline text="Restaurant supplier marketplaces"/>
+            <outline text="Ghost kitchens"/>
           </outline>
           <outline text="Delivery &amp; quick commerce" _note="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery">
             <outline text="Food delivery"/>
             <outline text="Quick commerce"/>
             <outline text="Grocery delivery"/>
+            <outline text="Senior meal delivery #underserved"/>
           </outline>
           <outline text="Artisanal &amp; local food">
             <outline text="Farmers-market platforms"/>
             <outline text="Specialty food DTC"/>
             <outline text="Farm subscriptions" _note="Community-supported agriculture (CSA)."/>
+            <outline text="Cottage-food businesses #regulated" _note="Home food businesses under state cottage-food laws."/>
+            <outline text="Food incubators &amp; commissaries #b2b"/>
           </outline>
           <outline text="Food waste" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Circular economy">
             <outline text="Surplus-food apps" _note="e.g. Too Good To Go."/>
+            <outline text="Food donation logistics #b2b"/>
+            <outline text="Food-freshness tracking"/>
             <outline text="Home composting"/>
             <outline text="Upcycled foods"/>
           </outline>
           <outline text="Cooking &amp; groceries">
             <outline text="Recipe apps"/>
+            <outline text="AI cooking assistants #ai-native"/>
             <outline text="Cooking classes"/>
             <outline text="Kitchen gadgets"/>
+            <outline text="Smart cooking appliances"/>
+            <outline text="Grocery price comparison"/>
           </outline>
         </outline>
         <outline text="Home &amp; Living">

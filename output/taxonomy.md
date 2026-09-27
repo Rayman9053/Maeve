@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**2,075 nodes**: 8 pillars · 63 categories · 378 subcategories · 1626 leaves.
+**2,145 nodes**: 8 pillars · 63 categories · 383 subcategories · 1691 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -539,18 +539,32 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Indigenous medicine
   - Naturopathy `regulated`: *Licensure and scope vary by jurisdiction.*
   - Homeopathy `regulated`: *Scientific consensus finds no effect beyond placebo; understand the category before entering.*
+- **Herbal medicine**: *Drug-interaction risk; botanical claims are regulated.*
+  - ↗ *see* Health & Wellness > Nutrition & Metabolic Health > Supplements > Herbal supplements
+  - Clinical herbalism
+  - Herbal apothecaries
+  - Herbalism education
 - **Manual therapies**
   - Acupuncture
   - Chiropractic
   - Massage & bodywork
+  - Reflexology: *Limited evidence for therapeutic claims.*
+  - Cupping & gua sha
 - **Integrative clinics**
   - Functional medicine: *'Root-cause' clinic model; contested evidence for some protocols.*
+  - Integrative primary care
+  - Integrative oncology: *Evidence-informed supportive care alongside standard treatment.*
   - Integrative health coaching
-  - Practitioner platforms `b2b`
+- **Practitioner tools** `b2b`
+  - Practice-management software
+  - Practitioner certification
+  - Practitioner marketplaces
+  - Practitioner-grade supplements: *Dispensaries, e.g. Fullscript.*
 - **Energy & movement practices**: *Limited evidence for therapeutic claims. Qigong and tai chi have support as gentle exercise.*
   - Reiki
   - Qigong
   - Tai chi
+  - Yoga therapy
 ---
 
 ## Wealth
@@ -943,24 +957,41 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Breakup support**: *Covers emotional recovery, no-contact and rebuilding confidence.*
   - Breakup coaching
-  - No-contact apps
   - Heartbreak programs
+  - No-contact apps
+  - Breakup support communities
 - **Divorce process**
   - Divorce preparation
-  - Divorce mediation
-  - Online divorce `regulated`
   - Divorce coaching
+  - Divorce mediation
+  - Collaborative divorce
+  - Online divorce `regulated`
+  - Divorce attorney matching `regulated`
 - **Divorce finance**
   - Asset-splitting tools
   - Financial transition planning
   - Divorce financial analysts
+  - Retirement-account division: *QDROs.*
+  - Support calculators: *Child and spousal support.*
+  - Marital home buyouts
 - **Co-parenting**
   - Co-parenting apps
   - Custody scheduling
+  - Co-parent expense sharing
   - Parallel parenting support
+  - Children's divorce support
+- **Safe separation** `underserved`: *Leaving an abusive relationship. Handle with trauma-informed design and strict privacy.*
+  - ↗ *see* Health & Wellness > Mental Health > Trauma & PTSD > Domestic-violence support
+  - Safety planning apps
+  - Protective-order assistance `regulated`
+  - Stalkerware detection
+  - Emergency housing search
 - **Life after divorce**
   - Dating after divorce
+  - Divorce support groups
   - Social rebuilding
+  - Post-divorce housing
+  - Name-change services
   - Personal reinvention
 
 ### Parenting & Family
@@ -1115,24 +1146,37 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Meditation**
   - Meditation apps: *e.g. Calm, Headspace.*
+  - Meditation studios
   - Meditation retreats
-  - Teacher training
+  - Meditation teacher training
   - Workplace mindfulness `b2b`
 - **Breathwork**
   - Breathwork apps
   - Breathwork facilitators
+  - Breathwork certification
+  - Breath coaching for athletes
   - Breath-training devices
 - **Journaling & reflection**
   - Journaling apps: *e.g. Day One.*
   - AI journaling `ai-native`
+  - Gratitude apps
+  - Printed guided journals
   - Guided reflection programs
 - **Somatics & embodiment**
   - Somatic practices
-  - Ecstatic dance
+  - Somatic practitioner training
+  - Nervous-system regulation apps
   - Embodiment coaching
+  - Ecstatic dance
+- **Nature practices**
+  - Forest bathing
+  - Nature-therapy programs
+  - Mindful hiking groups
 - **Digital wellness**
   - Screen-time apps
   - Minimalist phones
+  - Phone lockers & pouches: *e.g. Yondr.*
+  - Phone-free social events
   - Digital detox retreats
 
 ### Spirituality & Faith
@@ -1200,7 +1244,9 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Self-help content**
   - Book summaries & audio
   - Self-help courses
+  - Self-help media: *Newsletters, podcasts, YouTube.*
   - Personal development apps
+  - Challenge programs: *e.g. 30-day and 75-day challenges.*
 - **Inner-work programs**: *Non-clinical. Clinical care lives in Mental Health.*
   - Self-esteem programs
   - Self-compassion training
@@ -1208,14 +1254,22 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Resilience training
   - Attachment-healing courses
   - Boundaries coaching
+- **Performance & mindset**
+  - Mindset coaching
+  - Peak-performance coaching
+  - Mental-skills coaching: *For athletes, performers and executives.*
+  - Habit coaching
 - **Transformational experiences**
   - Transformational workshops: *Some large-group programs have been criticized for high-pressure sales; vet providers.*
   - Growth retreats
   - Wilderness programs
+  - Personal-growth festivals
 - **Growth communities**
   - Men's circles
   - Women's circles
   - Mastermind groups
+  - Peer coaching networks
+  - Online growth communities
 
 ### Productivity
 
@@ -1425,39 +1479,57 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - ↗ *see* Health & Wellness > Nutrition & Metabolic Health > GLP-1 economy > GLP-1 companion foods
   - Meal kits
   - Prepared meals
+  - Personal chefs
+  - Kids' & school meals
+  - Corporate catering `b2b`
   - Meal-planning apps
 - **Better-for-you foods**
   - Functional beverages 🔥: *Prebiotic sodas, e.g. Olipop, Poppi.*
   - Protein-forward foods 🔥
+  - Low-sugar snacks
+  - Gut-health foods
   - Allergen-free foods
   - Diet-specific foods
 - **Beverages**
   - Specialty coffee
+  - Tea & matcha 🔥
+  - Energy drinks
   - Non-alcoholic drinks 🔥: *e.g. Athletic Brewing.*
   - Wine & spirits
 - **Restaurant tech** `b2b`
-  - Ghost kitchens
   - Restaurant ops software
-  - Reservations & waitlists
   - Restaurant POS: *e.g. Toast.*
+  - Online ordering & loyalty
+  - Reservations & waitlists
+  - Kitchen automation
+  - Restaurant supplier marketplaces
+  - Ghost kitchens
 - **Delivery & quick commerce**
   - ↗ *see* Planet & Frontier > Industry & Supply Chain > Last-mile delivery
   - Food delivery
   - Quick commerce
   - Grocery delivery
+  - Senior meal delivery `underserved`
 - **Artisanal & local food**
   - Farmers-market platforms
   - Specialty food DTC
   - Farm subscriptions: *Community-supported agriculture (CSA).*
+  - Cottage-food businesses `regulated`: *Home food businesses under state cottage-food laws.*
+  - Food incubators & commissaries `b2b`
 - **Food waste**
   - ↗ *see* Planet & Frontier > Climate & Energy > Circular economy
   - Surplus-food apps: *e.g. Too Good To Go.*
+  - Food donation logistics `b2b`
+  - Food-freshness tracking
   - Home composting
   - Upcycled foods
 - **Cooking & groceries**
   - Recipe apps
+  - AI cooking assistants `ai-native`
   - Cooking classes
   - Kitchen gadgets
+  - Smart cooking appliances
+  - Grocery price comparison
 
 ### Home & Living
 

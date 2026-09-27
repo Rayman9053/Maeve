@@ -636,40 +636,22 @@ children:
               - {name: Indigenous medicine}
               - {name: Naturopathy, tags: [regulated], note: "Licensure and scope vary by jurisdiction."}
               - {name: Homeopathy, tags: [regulated], note: "Scientific consensus finds no effect beyond placebo; understand the category before entering."}
-          - name: Herbal medicine
-            note: "Drug-interaction risk; botanical claims are regulated."
-            see: ["Health & Wellness > Nutrition & Metabolic Health > Supplements > Herbal supplements"]
-            children:
-              - {name: Clinical herbalism}
-              - {name: Herbal apothecaries}
-              - {name: Herbalism education}
           - name: Manual therapies
             children:
               - {name: Acupuncture}
               - {name: Chiropractic}
               - {name: Massage & bodywork}
-              - {name: Reflexology, note: "Limited evidence for therapeutic claims."}
-              - {name: Cupping & gua sha}
           - name: Integrative clinics
             children:
               - {name: Functional medicine, note: "'Root-cause' clinic model; contested evidence for some protocols."}
-              - {name: Integrative primary care}
-              - {name: Integrative oncology, note: "Evidence-informed supportive care alongside standard treatment."}
               - {name: Integrative health coaching}
-          - name: Practitioner tools
-            tags: [b2b]
-            children:
-              - {name: Practice-management software}
-              - {name: Practitioner certification}
-              - {name: Practitioner marketplaces}
-              - {name: Practitioner-grade supplements, note: "Dispensaries, e.g. Fullscript."}
+              - {name: Practitioner platforms, tags: [b2b]}
           - name: Energy & movement practices
             note: "Limited evidence for therapeutic claims. Qigong and tai chi have support as gentle exercise."
             children:
               - {name: Reiki}
               - {name: Qigong}
               - {name: Tai chi}
-              - {name: Yoga therapy}
   # ───────────────────────────────────────────────────────── 3
   - name: Wealth
     note: "Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise & AI."
@@ -1142,48 +1124,28 @@ children:
             note: "Covers emotional recovery, no-contact and rebuilding confidence."
             children:
               - {name: Breakup coaching}
-              - {name: Heartbreak programs}
               - {name: No-contact apps}
-              - {name: Breakup support communities}
+              - {name: Heartbreak programs}
           - name: Divorce process
             children:
               - {name: Divorce preparation}
-              - {name: Divorce coaching}
               - {name: Divorce mediation}
-              - {name: Collaborative divorce}
               - {name: Online divorce, tags: [regulated]}
-              - {name: Divorce attorney matching, tags: [regulated]}
+              - {name: Divorce coaching}
           - name: Divorce finance
             children:
               - {name: Asset-splitting tools}
               - {name: Financial transition planning}
               - {name: Divorce financial analysts}
-              - {name: Retirement-account division, note: "QDROs."}
-              - {name: Support calculators, note: "Child and spousal support."}
-              - {name: Marital home buyouts}
           - name: Co-parenting
             children:
               - {name: Co-parenting apps}
               - {name: Custody scheduling}
-              - {name: Co-parent expense sharing}
               - {name: Parallel parenting support}
-              - {name: Children's divorce support}
-          - name: Safe separation
-            tags: [underserved]
-            note: "Leaving an abusive relationship. Handle with trauma-informed design and strict privacy."
-            see: ["Health & Wellness > Mental Health > Trauma & PTSD > Domestic-violence support"]
-            children:
-              - {name: Safety planning apps}
-              - {name: Protective-order assistance, tags: [regulated]}
-              - {name: Stalkerware detection}
-              - {name: Emergency housing search}
           - name: Life after divorce
             children:
               - {name: Dating after divorce}
-              - {name: Divorce support groups}
               - {name: Social rebuilding}
-              - {name: Post-divorce housing}
-              - {name: Name-change services}
               - {name: Personal reinvention}
 
       - name: Parenting & Family
@@ -1371,42 +1333,28 @@ children:
           - name: Meditation
             children:
               - {name: Meditation apps, note: "e.g. Calm, Headspace."}
-              - {name: Meditation studios}
               - {name: Meditation retreats}
-              - {name: Meditation teacher training}
+              - {name: Teacher training}
               - {name: Workplace mindfulness, tags: [b2b]}
           - name: Breathwork
             children:
               - {name: Breathwork apps}
               - {name: Breathwork facilitators}
-              - {name: Breathwork certification}
-              - {name: Breath coaching for athletes}
               - {name: Breath-training devices}
           - name: Journaling & reflection
             children:
               - {name: Journaling apps, note: "e.g. Day One."}
               - {name: AI journaling, tags: [ai-native]}
-              - {name: Gratitude apps}
-              - {name: Printed guided journals}
               - {name: Guided reflection programs}
           - name: Somatics & embodiment
             children:
               - {name: Somatic practices}
-              - {name: Somatic practitioner training}
-              - {name: Nervous-system regulation apps}
-              - {name: Embodiment coaching}
               - {name: Ecstatic dance}
-          - name: Nature practices
-            children:
-              - {name: Forest bathing}
-              - {name: Nature-therapy programs}
-              - {name: Mindful hiking groups}
+              - {name: Embodiment coaching}
           - name: Digital wellness
             children:
               - {name: Screen-time apps}
               - {name: Minimalist phones}
-              - {name: Phone lockers & pouches, note: "e.g. Yondr."}
-              - {name: Phone-free social events}
               - {name: Digital detox retreats}
 
       - name: Spirituality & Faith
@@ -1484,9 +1432,7 @@ children:
             children:
               - {name: Book summaries & audio}
               - {name: Self-help courses}
-              - {name: Self-help media, note: "Newsletters, podcasts, YouTube."}
               - {name: Personal development apps}
-              - {name: Challenge programs, note: "e.g. 30-day and 75-day challenges."}
           - name: Inner-work programs
             note: "Non-clinical. Clinical care lives in Mental Health."
             children:
@@ -1496,25 +1442,16 @@ children:
               - {name: Resilience training}
               - {name: Attachment-healing courses}
               - {name: Boundaries coaching}
-          - name: Performance & mindset
-            children:
-              - {name: Mindset coaching}
-              - {name: Peak-performance coaching}
-              - {name: Mental-skills coaching, note: "For athletes, performers and executives."}
-              - {name: Habit coaching}
           - name: Transformational experiences
             children:
               - {name: Transformational workshops, note: "Some large-group programs have been criticized for high-pressure sales; vet providers."}
               - {name: Growth retreats}
               - {name: Wilderness programs}
-              - {name: Personal-growth festivals}
           - name: Growth communities
             children:
               - {name: Men's circles}
               - {name: Women's circles}
               - {name: Mastermind groups}
-              - {name: Peer coaching networks}
-              - {name: Online growth communities}
 
       - name: Productivity
         children:
@@ -1764,65 +1701,47 @@ children:
             children:
               - {name: Meal kits}
               - {name: Prepared meals}
-              - {name: Personal chefs}
-              - {name: Kids' & school meals}
-              - {name: Corporate catering, tags: [b2b]}
               - {name: Meal-planning apps}
           - name: Better-for-you foods
             children:
               - {name: Functional beverages, tags: [trending], note: "Prebiotic sodas, e.g. Olipop, Poppi."}
               - {name: Protein-forward foods, tags: [trending]}
-              - {name: Low-sugar snacks}
-              - {name: Gut-health foods}
               - {name: Allergen-free foods}
               - {name: Diet-specific foods}
           - name: Beverages
             children:
               - {name: Specialty coffee}
-              - {name: Tea & matcha, tags: [trending]}
-              - {name: Energy drinks}
               - {name: Non-alcoholic drinks, tags: [trending], note: "e.g. Athletic Brewing."}
               - {name: Wine & spirits}
           - name: Restaurant tech
             tags: [b2b]
             children:
-              - {name: Restaurant ops software}
-              - {name: Restaurant POS, note: "e.g. Toast."}
-              - {name: Online ordering & loyalty}
-              - {name: Reservations & waitlists}
-              - {name: Kitchen automation}
-              - {name: Restaurant supplier marketplaces}
               - {name: Ghost kitchens}
+              - {name: Restaurant ops software}
+              - {name: Reservations & waitlists}
+              - {name: Restaurant POS, note: "e.g. Toast."}
           - name: Delivery & quick commerce
             see: ["Planet & Frontier > Industry & Supply Chain > Last-mile delivery"]
             children:
               - {name: Food delivery}
               - {name: Quick commerce}
               - {name: Grocery delivery}
-              - {name: Senior meal delivery, tags: [underserved]}
           - name: Artisanal & local food
             children:
               - {name: Farmers-market platforms}
               - {name: Specialty food DTC}
               - {name: Farm subscriptions, note: "Community-supported agriculture (CSA)."}
-              - {name: Cottage-food businesses, tags: [regulated], note: "Home food businesses under state cottage-food laws."}
-              - {name: Food incubators & commissaries, tags: [b2b]}
           - name: Food waste
             see: ["Planet & Frontier > Climate & Energy > Circular economy"]
             children:
               - {name: Surplus-food apps, note: "e.g. Too Good To Go."}
-              - {name: Food donation logistics, tags: [b2b]}
-              - {name: Food-freshness tracking}
               - {name: Home composting}
               - {name: Upcycled foods}
           - name: Cooking & groceries
             children:
               - {name: Recipe apps}
-              - {name: AI cooking assistants, tags: [ai-native]}
               - {name: Cooking classes}
               - {name: Kitchen gadgets}
-              - {name: Smart cooking appliances}
-              - {name: Grocery price comparison}
 
       - name: Home & Living
         children:

@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,075 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,145 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -464,18 +464,31 @@ markmap:
   - Indigenous medicine
   - <span title="Licensure and scope vary by jurisdiction. | Tags: regulated">Naturopathy</span>
   - <span title="Scientific consensus finds no effect beyond placebo; understand the category before entering. | Tags: regulated">Homeopathy</span>
+- <span title="Drug-interaction risk; botanical claims are regulated. | See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; Supplements &gt; Herbal supplements">Herbal medicine ↗</span>
+  - Clinical herbalism
+  - Herbal apothecaries
+  - Herbalism education
 - Manual therapies
   - Acupuncture
   - Chiropractic
   - Massage &amp; bodywork
+  - <span title="Limited evidence for therapeutic claims.">Reflexology</span>
+  - Cupping &amp; gua sha
 - Integrative clinics
   - <span title="&#x27;Root-cause&#x27; clinic model; contested evidence for some protocols.">Functional medicine</span>
+  - Integrative primary care
+  - <span title="Evidence-informed supportive care alongside standard treatment.">Integrative oncology</span>
   - Integrative health coaching
-  - <span title="Tags: b2b">Practitioner platforms</span>
+- <span title="Tags: b2b">Practitioner tools</span>
+  - Practice-management software
+  - Practitioner certification
+  - Practitioner marketplaces
+  - <span title="Dispensaries, e.g. Fullscript.">Practitioner-grade supplements</span>
 - <span title="Limited evidence for therapeutic claims. Qigong and tai chi have support as gentle exercise.">Energy &amp; movement practices</span>
   - Reiki
   - Qigong
   - Tai chi
+  - Yoga therapy
 ## <span title="Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise &amp; AI.">Wealth</span>
 ### <span title="Tags: consumer">Money Management</span>
 - Budgeting
@@ -818,24 +831,40 @@ markmap:
 ### Breakups &amp; Divorce
 - <span title="Covers emotional recovery, no-contact and rebuilding confidence.">Breakup support</span>
   - Breakup coaching
-  - No-contact apps
   - Heartbreak programs
+  - No-contact apps
+  - Breakup support communities
 - Divorce process
   - Divorce preparation
-  - Divorce mediation
-  - <span title="Tags: regulated">Online divorce</span>
   - Divorce coaching
+  - Divorce mediation
+  - Collaborative divorce
+  - <span title="Tags: regulated">Online divorce</span>
+  - <span title="Tags: regulated">Divorce attorney matching</span>
 - Divorce finance
   - Asset-splitting tools
   - Financial transition planning
   - Divorce financial analysts
+  - <span title="QDROs.">Retirement-account division</span>
+  - <span title="Child and spousal support.">Support calculators</span>
+  - Marital home buyouts
 - Co-parenting
   - Co-parenting apps
   - Custody scheduling
+  - Co-parent expense sharing
   - Parallel parenting support
+  - Children's divorce support
+- <span title="Leaving an abusive relationship. Handle with trauma-informed design and strict privacy. | Tags: underserved | See also: Health &amp; Wellness &gt; Mental Health &gt; Trauma &amp; PTSD &gt; Domestic-violence support">Safe separation ↗</span>
+  - Safety planning apps
+  - <span title="Tags: regulated">Protective-order assistance</span>
+  - Stalkerware detection
+  - Emergency housing search
 - Life after divorce
   - Dating after divorce
+  - Divorce support groups
   - Social rebuilding
+  - Post-divorce housing
+  - Name-change services
   - Personal reinvention
 ### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
 - Parenting stages
@@ -963,24 +992,37 @@ markmap:
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">Contemplative Practice ↗</span>
 - Meditation
   - <span title="e.g. Calm, Headspace.">Meditation apps</span>
+  - Meditation studios
   - Meditation retreats
-  - Teacher training
+  - Meditation teacher training
   - <span title="Tags: b2b">Workplace mindfulness</span>
 - Breathwork
   - Breathwork apps
   - Breathwork facilitators
+  - Breathwork certification
+  - Breath coaching for athletes
   - Breath-training devices
 - Journaling &amp; reflection
   - <span title="e.g. Day One.">Journaling apps</span>
   - <span title="Tags: ai-native">AI journaling</span>
+  - Gratitude apps
+  - Printed guided journals
   - Guided reflection programs
 - Somatics &amp; embodiment
   - Somatic practices
-  - Ecstatic dance
+  - Somatic practitioner training
+  - Nervous-system regulation apps
   - Embodiment coaching
+  - Ecstatic dance
+- Nature practices
+  - Forest bathing
+  - Nature-therapy programs
+  - Mindful hiking groups
 - Digital wellness
   - Screen-time apps
   - Minimalist phones
+  - <span title="e.g. Yondr.">Phone lockers &amp; pouches</span>
+  - Phone-free social events
   - Digital detox retreats
 ### <span title="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">Spirituality &amp; Faith</span>
 - <span title="Faith communities: giving, streaming and church management. | Tags: b2b">Faith tech</span>
@@ -1036,7 +1078,9 @@ markmap:
 - Self-help content
   - Book summaries &amp; audio
   - Self-help courses
+  - <span title="Newsletters, podcasts, YouTube.">Self-help media</span>
   - Personal development apps
+  - <span title="e.g. 30-day and 75-day challenges.">Challenge programs</span>
 - <span title="Non-clinical. Clinical care lives in Mental Health.">Inner-work programs</span>
   - Self-esteem programs
   - Self-compassion training
@@ -1044,14 +1088,22 @@ markmap:
   - Resilience training
   - Attachment-healing courses
   - Boundaries coaching
+- Performance &amp; mindset
+  - Mindset coaching
+  - Peak-performance coaching
+  - <span title="For athletes, performers and executives.">Mental-skills coaching</span>
+  - Habit coaching
 - Transformational experiences
   - <span title="Some large-group programs have been criticized for high-pressure sales; vet providers.">Transformational workshops</span>
   - Growth retreats
   - Wilderness programs
+  - Personal-growth festivals
 - Growth communities
   - Men's circles
   - Women's circles
   - Mastermind groups
+  - Peer coaching networks
+  - Online growth communities
 ### Productivity
 - Tasks &amp; habits
   - Habit trackers
@@ -1235,37 +1287,55 @@ markmap:
 - <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods">Meal solutions ↗</span>
   - Meal kits
   - Prepared meals
+  - Personal chefs
+  - Kids' &amp; school meals
+  - <span title="Tags: b2b">Corporate catering</span>
   - Meal-planning apps
 - Better-for-you foods
   - <span title="Prebiotic sodas, e.g. Olipop, Poppi.">Functional beverages 🔥</span>
   - Protein-forward foods 🔥
+  - Low-sugar snacks
+  - Gut-health foods
   - Allergen-free foods
   - Diet-specific foods
 - Beverages
   - Specialty coffee
+  - Tea &amp; matcha 🔥
+  - Energy drinks
   - <span title="e.g. Athletic Brewing.">Non-alcoholic drinks 🔥</span>
   - Wine &amp; spirits
 - <span title="Tags: b2b">Restaurant tech</span>
-  - Ghost kitchens
   - Restaurant ops software
-  - Reservations &amp; waitlists
   - <span title="e.g. Toast.">Restaurant POS</span>
+  - Online ordering &amp; loyalty
+  - Reservations &amp; waitlists
+  - Kitchen automation
+  - Restaurant supplier marketplaces
+  - Ghost kitchens
 - <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery">Delivery &amp; quick commerce ↗</span>
   - Food delivery
   - Quick commerce
   - Grocery delivery
+  - <span title="Tags: underserved">Senior meal delivery</span>
 - Artisanal &amp; local food
   - Farmers-market platforms
   - Specialty food DTC
   - <span title="Community-supported agriculture (CSA).">Farm subscriptions</span>
+  - <span title="Home food businesses under state cottage-food laws. | Tags: regulated">Cottage-food businesses</span>
+  - <span title="Tags: b2b">Food incubators &amp; commissaries</span>
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Circular economy">Food waste ↗</span>
   - <span title="e.g. Too Good To Go.">Surplus-food apps</span>
+  - <span title="Tags: b2b">Food donation logistics</span>
+  - Food-freshness tracking
   - Home composting
   - Upcycled foods
 - Cooking &amp; groceries
   - Recipe apps
+  - <span title="Tags: ai-native">AI cooking assistants</span>
   - Cooking classes
   - Kitchen gadgets
+  - Smart cooking appliances
+  - Grocery price comparison
 ### Home &amp; Living
 - Smart home
   - Smart home devices

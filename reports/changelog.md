@@ -1,5 +1,54 @@
 # Changelog
 
+## v6: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v5.yaml`. The branches were the ones named in `reports/handoff.md` (v5). No pillar or
+category was added or removed, and no nodes were cut. Every subcategory in these branches now has 3–7
+specific leaves, and six subcategories are new. The additions are listed below.
+
+| Old location (v5) | Before | After | Reason |
+|---|---|---|---|
+| Integrative clinics | `Practitioner platforms` | `Practitioner tools` (new subcategory) › `Practice-management software` · `Practitioner marketplaces` | R7: one vague leaf became a B2B subcategory |
+| Contemplative Practice › Meditation | `Teacher training` | `Meditation teacher training` | R6: context-free name |
+| Breakups & Divorce | (none) | `Safe separation` | Gap fill: leaving an abusive relationship (safety planning, protective orders, stalkerware detection); cross-referenced to Domestic-violence support |
+| Contemplative Practice | (none) | `Nature practices` | Gap fill: forest bathing and nature therapy |
+| Integrative Medicine | (none) | `Herbal medicine` | Gap fill; cross-referenced to Herbal supplements |
+| Personal Development | (none) | `Performance & mindset` | Gap fill: mindset, peak-performance and habit coaching |
+
+<!-- ADDITIONS:v6:START -->
+64 added nodes.
+
+- **Care & Conditions › Integrative Medicine › Herbal medicine**: Clinical herbalism · Herbal apothecaries · Herbalism education
+- **Care & Conditions › Integrative Medicine › Manual therapies**: Reflexology · Cupping & gua sha
+- **Care & Conditions › Integrative Medicine › Integrative clinics**: Integrative primary care · Integrative oncology
+- **Care & Conditions › Integrative Medicine › Practitioner tools**: Practitioner certification · Practitioner-grade supplements
+- **Care & Conditions › Integrative Medicine › Energy & movement practices**: Yoga therapy
+- **Relationships › Breakups & Divorce › Breakup support**: Breakup support communities
+- **Relationships › Breakups & Divorce › Divorce process**: Collaborative divorce · Divorce attorney matching
+- **Relationships › Breakups & Divorce › Divorce finance**: Retirement-account division · Support calculators · Marital home buyouts
+- **Relationships › Breakups & Divorce › Co-parenting**: Co-parent expense sharing · Children's divorce support
+- **Relationships › Breakups & Divorce › Safe separation**: Safety planning apps · Protective-order assistance · Stalkerware detection · Emergency housing search
+- **Relationships › Breakups & Divorce › Life after divorce**: Divorce support groups · Post-divorce housing · Name-change services
+- **Mind, Meaning & Growth › Contemplative Practice › Meditation**: Meditation studios
+- **Mind, Meaning & Growth › Contemplative Practice › Breathwork**: Breathwork certification · Breath coaching for athletes
+- **Mind, Meaning & Growth › Contemplative Practice › Journaling & reflection**: Gratitude apps · Printed guided journals
+- **Mind, Meaning & Growth › Contemplative Practice › Somatics & embodiment**: Somatic practitioner training · Nervous-system regulation apps
+- **Mind, Meaning & Growth › Contemplative Practice › Nature practices**: Forest bathing · Nature-therapy programs · Mindful hiking groups
+- **Mind, Meaning & Growth › Contemplative Practice › Digital wellness**: Phone lockers & pouches · Phone-free social events
+- **Mind, Meaning & Growth › Personal Development › Self-help content**: Self-help media · Challenge programs
+- **Mind, Meaning & Growth › Personal Development › Performance & mindset**: Mindset coaching · Peak-performance coaching · Mental-skills coaching · Habit coaching
+- **Mind, Meaning & Growth › Personal Development › Transformational experiences**: Personal-growth festivals
+- **Mind, Meaning & Growth › Personal Development › Growth communities**: Peer coaching networks · Online growth communities
+- **Lifestyle, Home & Experiences › Food & Beverage › Meal solutions**: Personal chefs · Kids' & school meals · Corporate catering
+- **Lifestyle, Home & Experiences › Food & Beverage › Better-for-you foods**: Low-sugar snacks · Gut-health foods
+- **Lifestyle, Home & Experiences › Food & Beverage › Beverages**: Tea & matcha · Energy drinks
+- **Lifestyle, Home & Experiences › Food & Beverage › Restaurant tech**: Online ordering & loyalty · Kitchen automation · Restaurant supplier marketplaces
+- **Lifestyle, Home & Experiences › Food & Beverage › Delivery & quick commerce**: Senior meal delivery
+- **Lifestyle, Home & Experiences › Food & Beverage › Artisanal & local food**: Cottage-food businesses · Food incubators & commissaries
+- **Lifestyle, Home & Experiences › Food & Beverage › Food waste**: Food donation logistics · Food-freshness tracking
+- **Lifestyle, Home & Experiences › Food & Beverage › Cooking & groceries**: AI cooking assistants · Smart cooking appliances · Grocery price comparison
+<!-- ADDITIONS:v6:END -->
+
 ## v5: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v4.yaml`. The branches were the ones named in `reports/handoff.md` (v4). No pillar or

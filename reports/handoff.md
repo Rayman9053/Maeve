@@ -1,5 +1,32 @@
 # Handoff
 
+## v6: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v5 | v6 | What changed |
+|---|---|---|---|
+| Relationships › Breakups & Divorce | 5 / 16 / 4 | 6 / 31 / 0 | New Safe separation (safety planning, protective orders, stalkerware detection, emergency housing; trauma-informed note). Collaborative divorce, attorney matching, QDROs, support calculators, co-parent expense sharing, children's divorce support, name-change services |
+| Mind › Contemplative Practice | 5 / 16 / 4 | 6 / 28 / 1 | New Nature practices (forest bathing, nature therapy). Meditation studios, breathwork certification, gratitude apps, nervous-system regulation apps, phone lockers, phone-free social events |
+| Care › Integrative Medicine | 4 / 15 / 3 | 6 / 26 / 1 | New Herbal medicine and Practitioner tools (practice software, certification, marketplaces, practitioner-grade supplement dispensaries). Integrative primary care and oncology, reflexology and cupping (evidence notes), yoga therapy |
+| Mind › Personal Development | 4 / 15 / 3 | 5 / 24 / 0 | New Performance & mindset. Self-help media, challenge programs, personal-growth festivals, peer coaching networks |
+| Lifestyle › Food & Beverage | 8 / 26 / 6 | 8 / 44 / 0 | Personal chefs, school meals, corporate catering, gut-health and low-sugar foods, tea & matcha (trending), energy drinks, online ordering, kitchen automation, senior meal delivery, cottage-food businesses, food donation logistics, AI cooking assistants |
+
+Overall: 2,075 → 2,145 nodes; subcategories at the 3-leaf minimum 105 → 87 (of 383); cross-references 60 → 62.
+No pillar or category was added or removed, and nothing was cut. Every version (v0–v5) reconciles with 0 unaccounted.
+
+### Next weakest (for v7)
+
+1. **Relationships › Couples & Marriage**: 4 of 6 subcategories at the minimum.
+2. **Care › Pain & Musculoskeletal**: 4 of 6 at the minimum.
+3. **Care › Population-Specific Care**: 4 of 6 at the minimum (Men's health has only 3 leaves).
+4. **Enterprise › Cybersecurity & Trust**: 3 of 5 at the minimum, and only 17 leaves for a very large market.
+5. **Relationships › Friendship & Community**: 3 of 5 at the minimum.
+
+Close behind: Learning & Education, Travel & Adventure, Career Development, Sports & Hobbies.
+
+---
+
 ## v5: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
