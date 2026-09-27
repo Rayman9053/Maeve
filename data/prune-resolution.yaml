@@ -1,0 +1,59 @@
+# Structural resolution for the actionability prune (threshold <= 2).
+# Applied by scripts/prune.py --apply after the preview is approved.
+#
+# folds:   a subcategory left with a single surviving leaf is dissolved; the survivor moves
+#          to `to` (an existing subcategory path). `rename_to` optionally renames the receiving
+#          subcategory to reflect its new contents.
+# merges:  several thin subcategories become one new subcategory under `category`.
+# min_subcategory_children: after the prune, subcategories may hold 2-8 leaves
+#          (pillars and categories keep the 3-8 rule).
+
+min_subcategory_children: 2
+
+merges:
+  - name: Investing tools
+    category: "Wealth > Investing & Trading"
+    from:
+      - "Wealth > Investing & Trading > Public markets"
+      - "Wealth > Investing & Trading > Automated investing"
+      - "Wealth > Investing & Trading > Trading platforms"
+
+folds:
+  - from: "Health & Wellness > Nutrition & Metabolic Health > Weight management"
+    to: "Health & Wellness > Nutrition & Metabolic Health > Personalized nutrition"
+  - from: "Care & Conditions > Pain & Musculoskeletal > Back & neck"
+    to: "Care & Conditions > Pain & Musculoskeletal > Chronic pain"
+  - from: "Care & Conditions > Brain & Neurological Health > Brain health & prevention"
+    to: "Care & Conditions > Brain & Neurological Health > Dementia & cognitive decline"
+  - from: "Care & Conditions > Care Delivery > Emergency care"
+    to: "Care & Conditions > Health Technology > Care operations"
+  - from: "Care & Conditions > Integrative Medicine > Energy & movement practices"
+    to: "Care & Conditions > Integrative Medicine > Integrative clinics"
+  - from: "Relationships > Dating > Dating coaching"
+    to: "Relationships > Dating > Matchmaking & events"
+    rename_to: "Matchmaking, coaching & events"
+  - from: "Relationships > Couples & Marriage > Couples communities"
+    to: "Relationships > Couples & Marriage > Long-distance relationships"
+  - from: "Relationships > Breakups & Divorce > Breakup support"
+    to: "Relationships > Breakups & Divorce > Life after divorce"
+    rename_to: "Rebuilding after separation"
+  - from: "Relationships > Parenting & Family > Extended family"
+    to: "Relationships > Parenting & Family > Family structures"
+  - from: "Mind, Meaning & Growth > Spirituality & Faith > Modern spirituality"
+    to: "Mind, Meaning & Growth > Spirituality & Faith > Spiritual guidance"
+  - from: "Mind, Meaning & Growth > Purpose & Life Transitions > Sabbaticals & career breaks"
+    to: "Mind, Meaning & Growth > Purpose & Life Transitions > Life-stage transitions"
+  - from: "Mind, Meaning & Growth > Personal Development > Transformational experiences"
+    to: "Mind, Meaning & Growth > Personal Development > Inner-work programs"
+  - from: "Lifestyle, Home & Experiences > Travel & Adventure > Sustainable tourism"
+    to: "Lifestyle, Home & Experiences > Travel & Adventure > Hospitality tech"
+  - from: "Lifestyle, Home & Experiences > Food & Beverage > Delivery & quick commerce"
+    to: "Lifestyle, Home & Experiences > Food & Beverage > Meal solutions"
+  - from: "Lifestyle, Home & Experiences > Fashion & Beauty > Apparel & accessories"
+    to: "Relationships > Parenting & Family > Baby & kids products"
+  - from: "Lifestyle, Home & Experiences > Pets & Animal Care > Other animals"
+    to: "Lifestyle, Home & Experiences > Pets & Animal Care > Pet health"
+  - from: "Enterprise & AI > Commerce & Retail Tech > Point of sale"
+    to: "Enterprise & AI > Commerce & Retail Tech > E-commerce enablement"
+  - from: "Planet & Frontier > Agriculture & Food Systems > Controlled-environment agriculture"
+    to: "Planet & Frontier > Agriculture & Food Systems > Precision agriculture"

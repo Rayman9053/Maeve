@@ -30,13 +30,14 @@ from collections import defaultdict
 import yaml
 
 from taxonomy_lib import (ALLOWED_KEYS, LEVELS, MAX_CHILDREN, MAX_DEPTH, MAX_NAME_WORDS,
-                          MIN_CHILDREN, TAG_VOCAB, TAXONOMY_PATH, children, index_paths,
+                          MIN_CHILDREN, MIN_LEAVES, TAG_VOCAB, TAXONOMY_PATH, children, index_paths,
                           name_words, norm, path_str, walk)
 
 NAME_BAD_CHARS = re.compile(r"[\[\]{}#🔥⭐*!]")
 
 
-def validate(root):
+def validate(root, min_leaves=MIN_LEAVES):
+    """min_leaves: minimum children for a subcategory (depth 3); other levels use MIN_CHILDREN."""
     errors, warnings = [], []
 
     def err(path, msg):
@@ -95,9 +96,10 @@ def validate(root):
         kids = kids or []
         if depth >= MAX_DEPTH and kids:
             err(path, f"depth {depth + 1} exceeds max depth {MAX_DEPTH}; promote or split instead")
-        if kids and not (MIN_CHILDREN <= len(kids) <= MAX_CHILDREN):
+        lo = min_leaves if depth == 3 else MIN_CHILDREN
+        if kids and not (lo <= len(kids) <= MAX_CHILDREN):
             err(path, f"{LEVELS.get(depth, depth)} has {len(kids)} children "
-                      f"(expected {MIN_CHILDREN}-{MAX_CHILDREN})")
+                      f"(expected {lo}-{MAX_CHILDREN})")
         if depth in (1, 2) and not kids:
             err(path, f"{LEVELS[depth]} has no children")
         seen = {}
