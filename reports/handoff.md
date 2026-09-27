@@ -1,5 +1,32 @@
 # Handoff
 
+## v11: fact check and 2026 momentum pass
+
+**Fact check.** Every note with a dated claim, and every brand whose status could have changed, was checked
+against live sources in September 2026. 25 notes were corrected or updated. All "verify" flags are now resolved.
+Two corrections matter most:
+- The prop-firms note cited *CFTC v. My Forex Funds* as enforcement, but the case was dismissed in 2025 with sanctions against the CFTC.
+- Coliving's example, Common, shut down in 2024. It's replaced with Habyt and Tripalink.
+
+Brands confirmed active or updated: Catch, FOLX, Plume, Outdoorsy, F45, ZOE, Havenly, Mindtrip, Guild, Paired, Peanut, Sunnyside, Empathy, Wysa, Nomad List, Flow Club, Focusmate, Levels, Function Health, Prenuvo.
+
+Brands with ownership changes, now reflected in notes: Poppi (PepsiCo), Depop (eBay), Topgolf (Leonard Green), Udemy (Coursera), Lasting (Talkspace), Oak Street (CVS), and Bumble BFF (relaunched as a standalone app).
+
+Well-established brands were not individually re-checked: public companies and category leaders such as Calm, Duolingo, Notion, Chime, Wise, Carvana, Toast, Square, Roblox, Starlink, Deel, Ramp, Harvey and Abridge.
+
+**Momentum pass.**
+- 20 new nodes where 2026 momentum had zero coverage. These include a new Customer support subcategory (AI support agents, voice AI contact centers), AI glasses, oral GLP-1s, smart rings, AI health assistants, AI receptionists, sovereign AI clouds, rare-earth magnets, creatine and child investment accounts.
+- `trending` added to 10 nodes and removed from 2 (AI SDRs, AI meeting notetakers).
+- 2 nodes cut as dated: Ghost kitchens and iBuying.
+
+Every change has a source in `changelog.md` (v11).
+
+Totals: 2,472 → 2,490 nodes; `trending` 60 → 68. Every version (v0–v10) reconciles with 0 unaccounted.
+
+Open decision: nicotine pouches have large 2024-26 growth but were not added (health-harm product). Tell me if you want them.
+
+---
+
 ## v10: the weak-branch work is finished
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.

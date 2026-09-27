@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,472 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,490 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -17,11 +17,11 @@ markmap:
   - Preventive blood panels
   - <span title="Includes breast, prostate, colorectal and lung screening.">Cancer screening</span>
   - Cardiovascular screening
-- <span title="e.g. Function Health, Everlywell. US lab-test rules shifted in 2025; verify current status. | Tags: regulated">At-home testing 🔥</span>
+- <span title="e.g. Function Health, Everlywell. The FDA&#x27;s 2024 lab-developed-test rule was vacated in 2025 and rescinded; CLIA and state rules still apply. | Tags: regulated">At-home testing 🔥</span>
   - Home lab kits
   - Blood-test memberships
   - Hormone tests
-- <span title="e.g. Prenuvo. Major radiology bodies do not recommend whole-body MRI for people without symptoms.">Early-detection imaging</span>
+- <span title="e.g. Prenuvo, Ezra (Function Health). Major radiology bodies do not recommend whole-body MRI for people without symptoms.">Early-detection imaging</span>
   - Whole-body MRI
   - Coronary calcium scoring
   - DEXA body scans
@@ -46,14 +46,15 @@ markmap:
   - Healthy weight gain
   - Body recomposition
   - Metabolic health
-- <span title="The &#x27;Ozempic economy&#x27;. Compounding rules tightened after the 2024-25 shortage listings ended. | Tags: regulated">GLP-1 economy 🔥</span>
+- <span title="The &#x27;Ozempic economy&#x27;. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026. | Tags: regulated">GLP-1 economy 🔥</span>
   - GLP-1 telehealth
+  - <span title="Wegovy pill launched in the US in January 2026.">Oral GLP-1s</span>
   - Compounded GLP-1s
   - Muscle preservation
   - GLP-1 companion foods
   - Maintenance &amp; off-ramp
 - Personalized nutrition
-  - <span title="e.g. ZOE. Clinical validity is debated.">Microbiome testing</span>
+  - <span title="e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated.">Microbiome testing</span>
   - <span title="e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven.">CGM programs</span>
   - Nutrigenomics
   - <span title="Tags: ai-native">AI meal planning</span>
@@ -71,6 +72,7 @@ markmap:
 - <span title="US claims are governed by DSHEA and FTC rules. | Tags: regulated">Supplements</span>
   - Vitamins &amp; minerals
   - Protein powders
+  - Creatine 🔥
   - Omega-3
   - Probiotics
   - <span title="Drug-interaction risk.">Herbal supplements</span>
@@ -109,6 +111,7 @@ markmap:
   - Compression
   - Red-light therapy
   - Float therapy
+  - <span title="Sauna and cold-plunge venues run as social clubs.">Social bathhouses</span>
 - Gyms &amp; studios
   - <span title="e.g. F45, Orangetheory.">Boutique franchises</span>
   - Budget gyms
@@ -180,12 +183,12 @@ markmap:
 - Digital mental health
   - Mental-health apps
   - <span title="Tags: regulated">Digital therapeutics</span>
-  - <span title="e.g. Wysa. Several US states restricted AI therapy in 2025. Woebot&#x27;s consumer app status: verify. | Tags: regulated, ai-native">AI mental-health companions</span>
+  - <span title="e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it. | Tags: regulated, ai-native">AI mental-health companions</span>
   - Peer-support communities
 - <span title="Tags: regulated">Acute &amp; advanced care</span>
   - Crisis &amp; suicide prevention
   - Serious mental illness
-  - <span title="Psilocybin and MDMA are federally Schedule I in the US. State programs (OR, CO) vary.">Psychedelic-assisted therapy</span>
+  - <span title="Psilocybin and MDMA are federally Schedule I in the US. State programs: Oregon, Colorado, New Mexico (medical, rolling out 2026).">Psychedelic-assisted therapy</span>
   - Ketamine &amp; TMS clinics
 - Population-focused care
   - <span title="Includes fatherhood and men&#x27;s groups.">Men's mental health</span>
@@ -239,6 +242,7 @@ markmap:
   - HRV tracking
   - Wearable stacks
   - Longevity data dashboards
+  - Smart rings 🔥
   - Self-experiment platforms
   - Biohacker communities
 - Age tech
@@ -348,11 +352,11 @@ markmap:
   - Autism
   - Dyslexia &amp; learning differences
   - <span title="Adult ADHD and autism diagnosis.">Late diagnosis</span>
-  - <span title="US telehealth rules for controlled-substance prescribing. | Tags: regulated">ADHD medication access</span>
+  - <span title="DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending. | Tags: regulated">ADHD medication access</span>
   - Executive-function coaching
 - <span title="Tags: underserved">Dementia &amp; cognitive decline</span>
   - Cognitive assessments
-  - <span title="First FDA clearances in 2025; verify current status. | Tags: regulated">Blood-based Alzheimer's tests</span>
+  - <span title="FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025). | Tags: regulated">Blood-based Alzheimer's tests</span>
   - Anti-amyloid therapy navigation
   - Dementia care navigation
   - Dementia caregiver training
@@ -445,8 +449,9 @@ markmap:
 - Primary &amp; urgent care
   - Tech-enabled primary care
   - <span title="Direct primary care and concierge medicine.">Membership primary care</span>
-  - <span title="e.g. the Oak Street model.">Senior-focused primary care</span>
+  - <span title="e.g. Oak Street Health (CVS), which closed 16 clinics in 2025-26 citing medical costs.">Senior-focused primary care</span>
   - Retail clinics
+  - <span title="Consumer AI for health questions and records; regulatory status evolving. | Tags: ai-native">AI health assistants 🔥</span>
   - Urgent care
   - Specialist e-consults
 - Home &amp; virtual care
@@ -566,6 +571,7 @@ markmap:
   - High-yield savings
   - Goal-based saving
   - Kids' savings
+  - <span title="US &#x27;Trump Accounts&#x27; launched July 2026, with a $1,000 federal seed for children born 2025-28.">Child investment accounts</span>
   - College savings
 - <span title="Tags: regulated">Debt management</span>
   - Credit-card debt
@@ -589,7 +595,7 @@ markmap:
   - <span title="Receiving an inheritance; &#x27;women&#x27;s wealth&#x27; transfer.">Windfall management</span>
   - Couples' finances
   - New-parent finances
-- <span title="e.g. Catch (status unverified). | Tags: underserved">Gig &amp; creator finance</span>
+- <span title="e.g. Catch. | Tags: underserved">Gig &amp; creator finance</span>
   - Tax withholding tools
   - Portable benefits
   - Income smoothing
@@ -615,7 +621,7 @@ markmap:
   - Travel money &amp; FX cards
   - Diaspora investing
 - <span title="Tags: regulated">Consumer lending</span>
-  - <span title="US regulatory treatment shifted in 2024-25.">Buy now pay later</span>
+  - <span title="The CFPB withdrew its 2024 BNPL interpretive rule in May 2025.">Buy now pay later</span>
   - Earned wage access
   - Small-dollar loans
   - Credit-builder loans
@@ -654,7 +660,7 @@ markmap:
   - <span title="Secondaries; Fundrise model.">Private-market access 🔥</span>
 - <span title="Tags: regulated | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; Crypto tax">Digital assets ↗</span>
   - <span title="Bitcoin, Ethereum and other cryptocurrencies.">Crypto exchanges &amp; wallets</span>
-  - Stablecoins
+  - <span title="US GENIUS Act signed July 2025; implementing rules pending, effective by January 2027.">Stablecoins 🔥</span>
   - DeFi &amp; staking
   - Tokenized real-world assets
 - <span title="Retail loss rates are high. | Tags: regulated">Active trading</span>
@@ -663,7 +669,7 @@ markmap:
   - <span title="Commodity, index and currency futures.">Futures</span>
   - Retail forex
 - <span title="Tags: regulated">Trading platforms</span>
-  - <span title="Funded accounts. US regulators have acted against some operators (e.g. CFTC v. My Forex Funds).">Prop firms</span>
+  - <span title="Funded accounts. Regulatory status is unsettled: the CFTC&#x27;s case against My Forex Funds was dismissed in 2025 with sanctions against the agency.">Prop firms</span>
   - <span title="e.g. eToro.">Copy trading</span>
   - <span title="Tags: ai-native">AI trading tools</span>
   - Trading simulators
@@ -805,6 +811,7 @@ markmap:
   - Podcasting
   - Newsletters
   - <span title="Includes personal brands.">Influencer brands</span>
+  - <span title="Tags: ai-native">AI virtual creators</span>
   - Live &amp; social commerce 🔥
   - <span title="e.g. Patreon.">Fan memberships</span>
 - Freelancing &amp; fractional
@@ -868,7 +875,7 @@ markmap:
   - <span title="Tags: regulated">Prenups</span>
   - <span title="Tags: regulated">Cohabitation agreements</span>
 - <span title="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">Relationship coaching ↗</span>
-  - <span title="e.g. Paired, Lasting.">Couples apps</span>
+  - <span title="e.g. Paired, Lasting (part of Talkspace).">Couples apps</span>
   - <span title="Tags: ai-native">AI relationship coaching</span>
   - Relationship check-in tools
   - Couples coaching
@@ -978,7 +985,7 @@ markmap:
 - <span title="COPPA and age-appropriate-design laws. | Tags: regulated">Child online safety</span>
   - Parental controls
   - Kids' phones
-  - Age verification
+  - <span title="Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia&#x27;s under-16 social-media ban.">Age verification 🔥</span>
   - Online-safety education
 - <span title="Acute &#x27;care desert&#x27; shortage. | Tags: underserved">Childcare</span>
   - Childcare marketplaces
@@ -1006,7 +1013,7 @@ markmap:
   - Genealogy &amp; family history
 ### <span title="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">Friendship &amp; Community ↗</span>
 - <span title="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">Making friends</span>
-  - <span title="e.g. Bumble BFF.">Friendship apps</span>
+  - <span title="e.g. BFF by Bumble (relaunched as a standalone app in 2025).">Friendship apps</span>
   - <span title="e.g. Peanut.">Parent friendship apps</span>
   - Activity-partner apps
   - Friend-matching dinners
@@ -1239,11 +1246,13 @@ markmap:
   - Personal AI agents
   - AI browser agents
   - Inbox &amp; email AI
+  - AI answer engines
+  - <span title="AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta.">AI glasses &amp; wearables</span>
   - Voice assistants
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">Learning &amp; Education ↗</span>
 - Online learning
   - <span title="e.g. Coursera.">MOOCs</span>
-  - <span title="e.g. Udemy.">Course marketplaces</span>
+  - <span title="e.g. Udemy (merged into Coursera in 2026).">Course marketplaces</span>
   - Cohort-based courses
   - Masterclass platforms
   - Microlearning apps
@@ -1323,6 +1332,7 @@ markmap:
   - Yarn &amp; fabric DTC
 - Photo &amp; video
   - Photography
+  - <span title="Part of the Gen Z analog revival.">Film photography</span>
   - Filmmaking
   - Editing tools
   - <span title="Tags: ai-native">AI video generation 🔥</span>
@@ -1453,7 +1463,7 @@ markmap:
   - <span title="Tags: b2b">Corporate catering</span>
   - Meal-planning apps
 - Better-for-you foods
-  - <span title="Prebiotic sodas, e.g. Olipop, Poppi.">Functional beverages 🔥</span>
+  - <span title="Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025).">Functional beverages 🔥</span>
   - Protein-forward foods 🔥
   - Low-sugar snacks
   - Gut-health foods
@@ -1472,7 +1482,6 @@ markmap:
   - Reservations &amp; waitlists
   - Kitchen automation
   - Restaurant supplier marketplaces
-  - Ghost kitchens
 - <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery">Delivery &amp; quick commerce ↗</span>
   - Food delivery
   - Quick commerce
@@ -1539,7 +1548,7 @@ markmap:
   - Landscape design
   - Native &amp; drought-tolerant landscaping
 - Living arrangements
-  - <span title="e.g. Common (status: verify).">Coliving</span>
+  - <span title="e.g. Habyt, Tripalink. Early leader Common shut down in 2024.">Coliving</span>
   - Cohousing
   - ADUs &amp; tiny homes
   - Roommate matching
@@ -1559,7 +1568,7 @@ markmap:
   - Handbags &amp; leather goods
   - Jewelry
   - Watches
-- <span title="e.g. Depop, ThredUp, Vinted.">Resale &amp; circular fashion 🔥</span>
+- <span title="e.g. Depop (sold to eBay in 2026), ThredUp, Vinted.">Resale &amp; circular fashion 🔥</span>
   - Resale marketplaces
   - Luxury resale
   - Clothing rental
@@ -1638,7 +1647,7 @@ markmap:
   - Aquarium &amp; reptile care
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">Sports &amp; Hobbies ↗</span>
 - Racquet sports 🔥
-  - <span title="Fastest-growing US sport, 2021-24 (SFIA).">Pickleball</span>
+  - <span title="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026).">Pickleball</span>
   - Padel
   - Tennis
   - Indoor pickleball venues
@@ -1649,7 +1658,7 @@ markmap:
   - <span title="e.g. Hyrox.">Fitness racing 🔥</span>
   - Adult rec leagues
   - Pickup-game apps
-  - <span title="e.g. Topgolf, simulators.">Golf entertainment</span>
+  - <span title="e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators.">Golf entertainment</span>
 - Women's sports 🔥
   - Pro leagues &amp; fandom
   - Women's sports media
@@ -1679,6 +1688,7 @@ markmap:
   - <span title="e.g. StockX.">Sneaker collecting</span>
   - Comics &amp; memorabilia
   - Coins &amp; stamps
+  - <span title="e.g. Pop Mart&#x27;s Labubu.">Designer toys &amp; blind boxes</span>
   - <span title="Live-stream breaks and auctions, e.g. Whatnot.">Live collectible auctions 🔥</span>
   - Grading &amp; authentication
 - Reading
@@ -1819,6 +1829,7 @@ markmap:
   - Inference optimization
   - AI data centers
   - Data-center cooling
+  - Sovereign AI clouds
   - Edge AI
 - Data infrastructure
   - Data labeling
@@ -1940,7 +1951,7 @@ markmap:
   - Internal communications
   - Enterprise knowledge bases
   - Virtual offices
-  - <span title="Tags: ai-native">AI meeting notetakers 🔥</span>
+  - <span title="Now bundled into Zoom, Teams and Google Meet. | Tags: ai-native">AI meeting notetakers</span>
 - <span title="See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Fertility benefits | See also: Wealth &gt; Money Management &gt; Financial wellness &gt; Workplace financial wellness">Employee wellbeing ↗</span>
   - Wellness programs
   - Mental-health benefits
@@ -2043,6 +2054,11 @@ markmap:
   - Product analytics
   - Server-side tracking
   - Customer data platforms
+- Customer support 🔥
+  - <span title="Tags: ai-native">AI support agents</span>
+  - <span title="Tags: ai-native">Voice AI contact centers</span>
+  - Help desks
+  - Support QA &amp; analytics
 - Event marketing
   - Event management platforms
   - Webinar platforms
@@ -2050,7 +2066,7 @@ markmap:
   - Direct-mail automation
 - Sales tech
   - CRM
-  - <span title="Tags: ai-native">AI SDRs 🔥</span>
+  - <span title="First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026. | Tags: ai-native">AI SDRs</span>
   - Sales engagement
   - Sales data &amp; enrichment
   - Sales enablement
@@ -2065,7 +2081,7 @@ markmap:
   - <span title="AI shopping agents and the tools merchants need to sell to them. | Tags: ai-native">Agentic commerce 🔥</span>
 - Marketplace selling
   - <span title="e.g. Amazon seller software.">Marketplace seller tools</span>
-  - <span title="e.g. TikTok Shop.">Social-commerce seller tools</span>
+  - <span title="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal).">Social-commerce seller tools</span>
   - <span title="e.g. Faire.">Wholesale marketplaces</span>
   - Cross-border e-commerce
 - Retail operations
@@ -2085,6 +2101,7 @@ markmap:
   - Booking &amp; scheduling
   - Invoicing &amp; quotes
   - Reviews &amp; reputation
+  - <span title="Voice agents that answer calls and book jobs for small businesses. | Tags: ai-native">AI receptionists 🔥</span>
   - Website builders
 ### Business Finance Tech
 - Accounting
@@ -2264,10 +2281,11 @@ markmap:
   - Liquidation marketplaces
   - Refurbishment
   - Repair networks
-- Critical minerals
+- Critical minerals 🔥
   - AI mineral exploration
   - Mining automation
   - Rare-earth processing
+  - Rare-earth magnets
   - Battery-metal refining
   - Urban mining
 ### <span title="PropTech and construction. | See also: Wealth &gt; Housing &amp; Real Estate">Built Environment ↗</span>
@@ -2307,7 +2325,6 @@ markmap:
   - Brokerage tech
   - Transaction management
   - <span title="Automated valuation models.">Home valuation</span>
-  - iBuying
   - Mortgage tech
   - Title &amp; escrow
 - <span title="Tools that help more housing get built. | Tags: underserved">Housing supply</span>
@@ -2388,6 +2405,7 @@ markmap:
   - Sensors &amp; ISR
   - <span title="Unmanned ground, sea and undersea vehicles.">Autonomous systems</span>
   - Electronic warfare
+  - Missile defense
   - Defense manufacturing
   - Defense procurement tools
 - <span title="Tags: regulated">Drones &amp; counter-drone</span>
@@ -2406,7 +2424,7 @@ markmap:
   - Photonics
   - Advanced packaging
   - Semiconductor equipment
-- Quantum computing
+- Quantum computing 🔥
   - <span title="Superconducting, trapped-ion, neutral-atom and photonic approaches.">Quantum hardware</span>
   - Quantum software
   - Quantum cloud access

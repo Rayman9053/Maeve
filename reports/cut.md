@@ -10,6 +10,11 @@ startup markets.
 
 Format: `node name` (old location): reason.
 
+## v11
+
+- `Ghost kitchens` (Food & Beverage › Restaurant tech): dated. The delivery-only model collapsed; funding fell ~95% year on year by Q4 2025 and operators pivoted to hybrid food halls ([QSR Pro](https://qsr.pro/articles/ghost-kitchens-2026-what-survived)).
+- `iBuying` (Built Environment › Real estate transactions): dated. Zillow and Redfin exited, and the remaining operators are shrinking (Opendoor −42% YTD 2026) ([24/7 Wall St.](https://247wallst.com/investing/2026/08/18/opendoor-is-down-42-in-2026-how-does-it-compare-to-housing-competitors-like-offerpad-and-compass/)).
+
 ## v10
 
 No nodes cut.

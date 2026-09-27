@@ -1,5 +1,108 @@
 # Changelog
 
+## v11: fact check and 2026 momentum pass
+
+Input: `source/taxonomy-v10.yaml`. Two passes: (1) verify every note that makes a dated factual claim or names a
+brand whose status could have changed, and (2) a 2026 momentum pass: retag, add up to 20 zero-coverage nodes,
+remove what reads dated. Sources are listed at the end of this section.
+
+### 1. Verified corrections to notes
+
+| Node | Before | After | Finding |
+|---|---|---|---|
+| `At-home testing` | "US lab-test rules shifted in 2025; verify current status." | FDA's 2024 LDT rule vacated (Mar 2025) and rescinded (Sep 2025); CLIA and state rules still apply | Resolved |
+| `Early-detection imaging` | e.g. Prenuvo | adds Ezra (Function Health) | Function Health acquired Ezra, May 2025 |
+| `GLP-1 economy` | "Compounding rules tightened..." | adds FDA warning letters to telehealth sellers, 2025 and Mar/Jun 2026 | Updated |
+| `Microbiome testing` | e.g. ZOE | notes ZOE dropped shipped CGMs for AI prediction | Updated |
+| `AI mental-health companions` | "Woebot's consumer app status: verify." | Woebot closed consumer app (Jun 2025). Bans: IL, NV, RI, ME. Regulation: UT, NY, CA, NE (as of mid-2026) | Resolved; stale example removed |
+| `Psychedelic-assisted therapy` | State programs (OR, CO) | adds New Mexico medical program (law 2025, rolling out 2026) | Updated |
+| `ADHD medication access` | Generic telehealth-rules note | DEA telehealth flexibilities extended through Dec 31, 2026 | Updated |
+| `Blood-based Alzheimer's tests` | "verify current status" | Lumipulse (May 2025) and Roche Elecsys pTau181 (Oct 2025) FDA-cleared | Resolved |
+| `Senior-focused primary care` | "the Oak Street model" | Oak Street Health (CVS) closed 16 clinics in 2025-26 citing costs | Updated |
+| `Gig & creator finance` | "Catch (status unverified)" | "Catch" | Verified active |
+| `Buy now pay later` | "shifted in 2024-25" | CFPB withdrew the 2024 BNPL rule, May 2025 | Resolved |
+| `Prop firms` | "regulators have acted against some operators (e.g. CFTC v. My Forex Funds)" | Case dismissed in 2025 with sanctions against the CFTC; status unsettled | **Corrected: old note was misleading** |
+| `Stablecoins` | (no note) | GENIUS Act signed Jul 2025; rules pending, effective by Jan 2027 | Added |
+| `Course marketplaces` | e.g. Udemy | Udemy merged into Coursera, May 2026 | Updated |
+| `Coliving` | "e.g. Common (status: verify)" | e.g. Habyt, Tripalink; Common shut down in 2024 | **Corrected: dead example replaced** |
+| `Functional beverages` | e.g. Olipop, Poppi | Poppi acquired by PepsiCo, May 2025 | Updated |
+| `Resale & circular fashion` | e.g. Depop | Depop sold to eBay, Jul 2026 | Updated |
+| `Golf entertainment` | e.g. Topgolf | Topgolf majority-owned by Leonard Green since Jan 2026 | Updated |
+| `Friendship apps` | e.g. Bumble BFF | BFF by Bumble, relaunched as a standalone app in 2025 | Updated |
+| `Couples apps` | e.g. Paired, Lasting | Lasting is part of Talkspace | Updated |
+| `Pickleball` | "Fastest-growing US sport, 2021-24 (SFIA)" | Five years running; 24.3M US players in 2025 (SFIA 2026) | Updated |
+| `Social-commerce seller tools` | e.g. TikTok Shop | Still ByteDance-run after the Jan 2026 US JV deal | Updated |
+| `Age verification` | (no note) | 2025 laws: UK OSA, US state laws upheld in *Free Speech Coalition v. Paxton*, Australia's under-16 ban | Added (with trending tag) |
+| `AI SDRs` | trending | untagged; note on churn and the hybrid model | Momentum shifted |
+| `AI meeting notetakers` | trending | untagged; note that it's bundled into Zoom/Teams/Meet | Commoditized |
+
+### 2. Trend tags
+
+Added `trending`: `Stablecoins`, `Age verification`, `Quantum computing`, `Critical minerals`, plus 6 of the new nodes below.
+Removed `trending`: `AI SDRs`, `AI meeting notetakers`.
+
+### 3. New nodes (20, momentum with zero prior coverage)
+
+| Where | New | Why |
+|---|---|---|
+| Marketing & Sales Tech | `Customer support` › `AI support agents` · `Voice AI contact centers` · `Help desks` · `Support QA & analytics` | Customer support was missing entirely, and AI support agents are one of the largest 2025-26 enterprise-AI markets |
+| Commerce & Retail Tech › SMB operations | `AI receptionists` | Voice agents answering calls for small businesses |
+| Productivity › AI personal assistants | `AI answer engines` · `AI glasses & wearables` | AI-glasses shipments +263% in H1 2026 |
+| Aging & Longevity › Biohacking | `Smart rings` | Mainstream health wearable |
+| Care Delivery › Primary & urgent care | `AI health assistants` | Consumer AI for health questions and records |
+| AI Infrastructure › Compute & data centers | `Sovereign AI clouds` | National AI-compute buildouts |
+| Industry & Supply Chain › Critical minerals | `Rare-earth magnets` | Supply-chain priority after 2025 export controls |
+| Nutrition › Supplements | `Creatine` | Mainstream supplement boom |
+| Fitness & Recovery › Athletic recovery | `Social bathhouses` | Sauna and cold-plunge social clubs |
+| Nutrition › GLP-1 economy | `Oral GLP-1s` | Wegovy pill launched Jan 2026 |
+| Sports & Hobbies › Collecting | `Designer toys & blind boxes` | e.g. Pop Mart's Labubu |
+| Creativity & Craft › Photo & video | `Film photography` | Gen Z analog revival |
+| Entrepreneurship › Creator economy | `AI virtual creators` | AI-generated influencers and avatars |
+| Aerospace & Defense › Defense tech | `Missile defense` | Major 2025-26 defense budget priority |
+| Money Management › Saving | `Child investment accounts` | US "Trump Accounts" launched July 4, 2026 |
+
+### 4. Removed as dated (see cut.md)
+
+`Ghost kitchens` and `iBuying`: both models contracted sharply. See cut.md for sources.
+
+### Not added (for your decision)
+
+Nicotine pouches (large 2024-26 growth, but a health-harm product) were not added. Sports betting and prediction markets remain excluded per decision D.
+
+### Sources
+
+- Woebot: [STAT News](https://www.statnews.com/2025/07/02/woebot-therapy-chatbot-shuts-down-founder-says-ai-moving-faster-than-regulators/)
+- AI therapy laws: [psychology.com state map](https://psychology.com/ai-therapy/state-bans), [Health Policy Ohio](https://www.healthpolicyohio.org/health-policy-news/2025/10/03/states-struggle-to-regulate-ai-chatbots-for-mental-health-therapy-amid-rising-need-for-care)
+- LDT rule: [Hogan Lovells](https://www.hlc.com/en/publications/fda-rescinds-laboratory-developed-test-rule), [AHA](https://www.aha.org/news/headline/2025-09-18-fda-vacates-final-rule-regulating-lab-developed-tests-medical-devices)
+- Alzheimer's blood tests: [FDA](https://www.fda.gov/news-events/press-announcements/fda-clears-first-blood-test-used-diagnosing-alzheimers-disease), [Roche](https://www.roche.com/investors/updates/inv-update-2025-10-13b)
+- CFTC v. My Forex Funds: [Reuters](https://www.reuters.com/legal/government/judge-sanctions-cftc-over-agencys-conduct-my-forex-funds-case-2025-05-14/)
+- DEA telehealth: [HHS](https://www.hhs.gov/press-room/dea-telemedicine-extension-2026.html)
+- New Mexico psilocybin: [NM Department of Health](https://www.nmhealth.org/about/mcpp/mpp/)
+- GLP-1 warning letters: [Fierce Pharma](https://www.fiercepharma.com/pharma/fda-ramps-crackdown-glp-1-drug-compounders-fresh-batch-30-warning-letters)
+- BNPL rule: [Federal Register](https://www.federalregister.gov/documents/2025/05/12/2025-08286/interpretive-rules-policy-statements-and-advisory-opinions-withdrawal)
+- Common: [Propmodo](https://propmodo.com/flexible-living-pioneer-common-living-goes-bankrupt/)
+- Coursera-Udemy: [Axios](https://www.axios.com/2026/05/11/coursera-udemy-ai-skills)
+- Oak Street: [Modern Healthcare](https://www.modernhealthcare.com/providers/mh-cvs-health-oak-street-primary-care/)
+- Poppi: [PepsiCo](https://www.pepsico.com/en/newsroom/press-releases/2025/pepsico-completes-acquisition-of-poppi-accelerating-strategic-portfolio-transformation)
+- Depop: [EcommerceBytes](https://www.ecommercebytes.com/2026/02/18/etsy-sells-depop-to-ebay-for-1-2-billion/)
+- Topgolf: [SGB Media](https://sgbonline.com/topgolf-callaway-completes-sale-of-topgolf-to-leonard-green/)
+- BFF by Bumble: [Fast Company](https://www.fastcompany.com/91406463/bumble-launches-bff-as-a-standalone-app-to-lead-the-great-frienaissance)
+- TikTok US deal: [CNN](https://www.cnn.com/2026/01/22/tech/tiktok-us-deal-closes)
+- Pickleball: [SFIA](https://sfia.org/resources/participation-hits-new-high-but-majority-of-americans-not-yet-meeting-recommended-guidelines-of-150-minutes-of-weekly-activity-sfias-2026-topline-report-finds/)
+- Function Health / Ezra: [CNBC](https://www.cnbc.com/2025/05/05/function-health-mri-ezra.html)
+- Lasting: [LinkedIn](https://www.linkedin.com/company/lasting-labs)
+- GENIUS Act: [CoinDesk](https://www.coindesk.com/policy/2026/07/19/the-genius-act-turns-1-state-of-crypto)
+- Oral Wegovy: [Novo Nordisk](https://www.prnewswire.com/news-releases/fda-approves-novo-nordisks-wegovy-pill-the-first-and-only-oral-glp-1-for-weight-loss-in-adults-302648344.html)
+- Trump Accounts: [CNBC](https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html)
+- AI glasses: [9to5Mac](https://9to5mac.com/2026/09/21/report-ai-glasses-shipments-surged-263-in-h1-2026-as-apple-prepares-to-enter-the-market/)
+- AI SDRs: [tami.ai](https://tami.ai/ai-sdrs-2026/)
+- Ghost kitchens: [QSR Pro](https://qsr.pro/articles/ghost-kitchens-2026-what-survived)
+- iBuying: [24/7 Wall St.](https://247wallst.com/investing/2026/08/18/opendoor-is-down-42-in-2026-how-does-it-compare-to-housing-competitors-like-offerpad-and-compass/)
+
+<!-- ADDITIONS:v11:START -->
+All 20 added nodes are listed in section 3 above.
+<!-- ADDITIONS:v11:END -->
+
 ## v10: finish the weak branches
 
 Input: `source/taxonomy-v9.yaml`. This round covers the last two categories with half or more of their subcategories

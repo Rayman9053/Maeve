@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**2,472 nodes**: 8 pillars · 63 categories · 402 subcategories · 1999 leaves.
+**2,490 nodes**: 8 pillars · 63 categories · 403 subcategories · 2016 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -35,11 +35,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Preventive blood panels
   - Cancer screening: *Includes breast, prostate, colorectal and lung screening.*
   - Cardiovascular screening
-- **At-home testing 🔥** `regulated`: *e.g. Function Health, Everlywell. US lab-test rules shifted in 2025; verify current status.*
+- **At-home testing 🔥** `regulated`: *e.g. Function Health, Everlywell. The FDA's 2024 lab-developed-test rule was vacated in 2025 and rescinded; CLIA and state rules still apply.*
   - Home lab kits
   - Blood-test memberships
   - Hormone tests
-- **Early-detection imaging**: *e.g. Prenuvo. Major radiology bodies do not recommend whole-body MRI for people without symptoms.*
+- **Early-detection imaging**: *e.g. Prenuvo, Ezra (Function Health). Major radiology bodies do not recommend whole-body MRI for people without symptoms.*
   - Whole-body MRI
   - Coronary calcium scoring
   - DEXA body scans
@@ -66,14 +66,15 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Healthy weight gain
   - Body recomposition
   - Metabolic health
-- **GLP-1 economy 🔥** `regulated`: *The 'Ozempic economy'. Compounding rules tightened after the 2024-25 shortage listings ended.*
+- **GLP-1 economy 🔥** `regulated`: *The 'Ozempic economy'. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026.*
   - GLP-1 telehealth
+  - Oral GLP-1s: *Wegovy pill launched in the US in January 2026.*
   - Compounded GLP-1s
   - Muscle preservation
   - GLP-1 companion foods
   - Maintenance & off-ramp
 - **Personalized nutrition**
-  - Microbiome testing: *e.g. ZOE. Clinical validity is debated.*
+  - Microbiome testing: *e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated.*
   - CGM programs: *e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven.*
   - Nutrigenomics
   - AI meal planning `ai-native`
@@ -91,6 +92,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Supplements** `regulated`: *US claims are governed by DSHEA and FTC rules.*
   - Vitamins & minerals
   - Protein powders
+  - Creatine 🔥
   - Omega-3
   - Probiotics
   - Herbal supplements: *Drug-interaction risk.*
@@ -131,6 +133,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Compression
   - Red-light therapy
   - Float therapy
+  - Social bathhouses: *Sauna and cold-plunge venues run as social clubs.*
 - **Gyms & studios**
   - Boutique franchises: *e.g. F45, Orangetheory.*
   - Budget gyms
@@ -212,12 +215,12 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Digital mental health**
   - Mental-health apps
   - Digital therapeutics `regulated`
-  - AI mental-health companions `regulated` `ai-native`: *e.g. Wysa. Several US states restricted AI therapy in 2025. Woebot's consumer app status: verify.*
+  - AI mental-health companions `regulated` `ai-native`: *e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it.*
   - Peer-support communities
 - **Acute & advanced care** `regulated`
   - Crisis & suicide prevention
   - Serious mental illness
-  - Psychedelic-assisted therapy: *Psilocybin and MDMA are federally Schedule I in the US. State programs (OR, CO) vary.*
+  - Psychedelic-assisted therapy: *Psilocybin and MDMA are federally Schedule I in the US. State programs: Oregon, Colorado, New Mexico (medical, rolling out 2026).*
   - Ketamine & TMS clinics
 - **Population-focused care**
   - Men's mental health: *Includes fatherhood and men's groups.*
@@ -280,6 +283,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - HRV tracking
   - Wearable stacks
   - Longevity data dashboards
+  - Smart rings 🔥
   - Self-experiment platforms
   - Biohacker communities
 - **Age tech**
@@ -405,11 +409,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Autism
   - Dyslexia & learning differences
   - Late diagnosis: *Adult ADHD and autism diagnosis.*
-  - ADHD medication access `regulated`: *US telehealth rules for controlled-substance prescribing.*
+  - ADHD medication access `regulated`: *DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending.*
   - Executive-function coaching
 - **Dementia & cognitive decline** `underserved`
   - Cognitive assessments
-  - Blood-based Alzheimer's tests `regulated`: *First FDA clearances in 2025; verify current status.*
+  - Blood-based Alzheimer's tests `regulated`: *FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025).*
   - Anti-amyloid therapy navigation
   - Dementia care navigation
   - Dementia caregiver training
@@ -516,8 +520,9 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Primary & urgent care**
   - Tech-enabled primary care
   - Membership primary care: *Direct primary care and concierge medicine.*
-  - Senior-focused primary care: *e.g. the Oak Street model.*
+  - Senior-focused primary care: *e.g. Oak Street Health (CVS), which closed 16 clinics in 2025-26 citing medical costs.*
   - Retail clinics
+  - AI health assistants 🔥 `ai-native`: *Consumer AI for health questions and records; regulatory status evolving.*
   - Urgent care
   - Specialist e-consults
 - **Home & virtual care**
@@ -655,6 +660,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - High-yield savings
   - Goal-based saving
   - Kids' savings
+  - Child investment accounts: *US 'Trump Accounts' launched July 2026, with a $1,000 federal seed for children born 2025-28.*
   - College savings
 - **Debt management** `regulated`
   - Credit-card debt
@@ -679,7 +685,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Windfall management: *Receiving an inheritance; 'women's wealth' transfer.*
   - Couples' finances
   - New-parent finances
-- **Gig & creator finance** `underserved`: *e.g. Catch (status unverified).*
+- **Gig & creator finance** `underserved`: *e.g. Catch.*
   - Tax withholding tools
   - Portable benefits
   - Income smoothing
@@ -707,7 +713,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Travel money & FX cards
   - Diaspora investing
 - **Consumer lending** `regulated`
-  - Buy now pay later: *US regulatory treatment shifted in 2024-25.*
+  - Buy now pay later: *The CFPB withdrew its 2024 BNPL interpretive rule in May 2025.*
   - Earned wage access
   - Small-dollar loans
   - Credit-builder loans
@@ -750,7 +756,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Digital assets** `regulated`
   - ↗ *see* Wealth > Tax & Legal > Tax planning > Crypto tax
   - Crypto exchanges & wallets: *Bitcoin, Ethereum and other cryptocurrencies.*
-  - Stablecoins
+  - Stablecoins 🔥: *US GENIUS Act signed July 2025; implementing rules pending, effective by January 2027.*
   - DeFi & staking
   - Tokenized real-world assets
 - **Active trading** `regulated`: *Retail loss rates are high.*
@@ -759,7 +765,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Futures: *Commodity, index and currency futures.*
   - Retail forex
 - **Trading platforms** `regulated`
-  - Prop firms: *Funded accounts. US regulators have acted against some operators (e.g. CFTC v. My Forex Funds).*
+  - Prop firms: *Funded accounts. Regulatory status is unsettled: the CFTC's case against My Forex Funds was dismissed in 2025 with sanctions against the agency.*
   - Copy trading: *e.g. eToro.*
   - AI trading tools `ai-native`
   - Trading simulators
@@ -920,6 +926,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Podcasting
   - Newsletters
   - Influencer brands: *Includes personal brands.*
+  - AI virtual creators `ai-native`
   - Live & social commerce 🔥
   - Fan memberships: *e.g. Patreon.*
 - **Freelancing & fractional**
@@ -995,7 +1002,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Cohabitation agreements `regulated`
 - **Relationship coaching**: *Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.*
   - ↗ *see* Health & Wellness > Mental Health > Therapy access > Couples therapy
-  - Couples apps: *e.g. Paired, Lasting.*
+  - Couples apps: *e.g. Paired, Lasting (part of Talkspace).*
   - AI relationship coaching `ai-native`
   - Relationship check-in tools
   - Couples coaching
@@ -1119,7 +1126,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Child online safety** `regulated`: *COPPA and age-appropriate-design laws.*
   - Parental controls
   - Kids' phones
-  - Age verification
+  - Age verification 🔥: *Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia's under-16 social-media ban.*
   - Online-safety education
 - **Childcare** `underserved`: *Acute 'care desert' shortage.*
   - Childcare marketplaces
@@ -1151,7 +1158,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Mind, Meaning & Growth > Spirituality & Faith > Faith tech  
 
 - **Making friends**: *Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.*
-  - Friendship apps: *e.g. Bumble BFF.*
+  - Friendship apps: *e.g. BFF by Bumble (relaunched as a standalone app in 2025).*
   - Parent friendship apps: *e.g. Peanut.*
   - Activity-partner apps
   - Friend-matching dinners
@@ -1418,6 +1425,8 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Personal AI agents
   - AI browser agents
   - Inbox & email AI
+  - AI answer engines
+  - AI glasses & wearables: *AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta.*
   - Voice assistants
 
 ### Learning & Education
@@ -1426,7 +1435,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Online learning**
   - MOOCs: *e.g. Coursera.*
-  - Course marketplaces: *e.g. Udemy.*
+  - Course marketplaces: *e.g. Udemy (merged into Coursera in 2026).*
   - Cohort-based courses
   - Masterclass platforms
   - Microlearning apps
@@ -1508,6 +1517,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Yarn & fabric DTC
 - **Photo & video**
   - Photography
+  - Film photography: *Part of the Gen Z analog revival.*
   - Filmmaking
   - Editing tools
   - AI video generation 🔥 `ai-native`
@@ -1656,7 +1666,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Corporate catering `b2b`
   - Meal-planning apps
 - **Better-for-you foods**
-  - Functional beverages 🔥: *Prebiotic sodas, e.g. Olipop, Poppi.*
+  - Functional beverages 🔥: *Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025).*
   - Protein-forward foods 🔥
   - Low-sugar snacks
   - Gut-health foods
@@ -1675,7 +1685,6 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Reservations & waitlists
   - Kitchen automation
   - Restaurant supplier marketplaces
-  - Ghost kitchens
 - **Delivery & quick commerce**
   - ↗ *see* Planet & Frontier > Industry & Supply Chain > Last-mile delivery
   - Food delivery
@@ -1746,7 +1755,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Landscape design
   - Native & drought-tolerant landscaping
 - **Living arrangements**
-  - Coliving: *e.g. Common (status: verify).*
+  - Coliving: *e.g. Habyt, Tripalink. Early leader Common shut down in 2024.*
   - Cohousing
   - ADUs & tiny homes
   - Roommate matching
@@ -1771,7 +1780,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Handbags & leather goods
   - Jewelry
   - Watches
-- **Resale & circular fashion 🔥**: *e.g. Depop, ThredUp, Vinted.*
+- **Resale & circular fashion 🔥**: *e.g. Depop (sold to eBay in 2026), ThredUp, Vinted.*
   - Resale marketplaces
   - Luxury resale
   - Clothing rental
@@ -1858,7 +1867,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Health & Wellness > Fitness & Recovery > Youth sports  
 
 - **Racquet sports 🔥**
-  - Pickleball: *Fastest-growing US sport, 2021-24 (SFIA).*
+  - Pickleball: *Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026).*
   - Padel
   - Tennis
   - Indoor pickleball venues
@@ -1869,7 +1878,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Fitness racing 🔥: *e.g. Hyrox.*
   - Adult rec leagues
   - Pickup-game apps
-  - Golf entertainment: *e.g. Topgolf, simulators.*
+  - Golf entertainment: *e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators.*
 - **Women's sports 🔥**
   - Pro leagues & fandom
   - Women's sports media
@@ -1900,6 +1909,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Sneaker collecting: *e.g. StockX.*
   - Comics & memorabilia
   - Coins & stamps
+  - Designer toys & blind boxes: *e.g. Pop Mart's Labubu.*
   - Live collectible auctions 🔥: *Live-stream breaks and auctions, e.g. Whatnot.*
   - Grading & authentication
 - **Reading**
@@ -2054,6 +2064,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Inference optimization
   - AI data centers
   - Data-center cooling
+  - Sovereign AI clouds
   - Edge AI
 - **Data infrastructure**
   - Data labeling
@@ -2184,7 +2195,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Internal communications
   - Enterprise knowledge bases
   - Virtual offices
-  - AI meeting notetakers 🔥 `ai-native`
+  - AI meeting notetakers `ai-native`: *Now bundled into Zoom, Teams and Google Meet.*
 - **Employee wellbeing**
   - ↗ *see* Health & Wellness > Sexual & Reproductive Health > Fertility & family building > Fertility benefits
   - ↗ *see* Wealth > Money Management > Financial wellness > Workplace financial wellness
@@ -2296,6 +2307,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Product analytics
   - Server-side tracking
   - Customer data platforms
+- **Customer support 🔥**
+  - AI support agents `ai-native`
+  - Voice AI contact centers `ai-native`
+  - Help desks
+  - Support QA & analytics
 - **Event marketing**
   - Event management platforms
   - Webinar platforms
@@ -2303,7 +2319,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Direct-mail automation
 - **Sales tech**
   - CRM
-  - AI SDRs 🔥 `ai-native`
+  - AI SDRs `ai-native`: *First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026.*
   - Sales engagement
   - Sales data & enrichment
   - Sales enablement
@@ -2324,7 +2340,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Agentic commerce 🔥 `ai-native`: *AI shopping agents and the tools merchants need to sell to them.*
 - **Marketplace selling**
   - Marketplace seller tools: *e.g. Amazon seller software.*
-  - Social-commerce seller tools: *e.g. TikTok Shop.*
+  - Social-commerce seller tools: *e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal).*
   - Wholesale marketplaces: *e.g. Faire.*
   - Cross-border e-commerce
 - **Retail operations**
@@ -2345,6 +2361,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Booking & scheduling
   - Invoicing & quotes
   - Reviews & reputation
+  - AI receptionists 🔥 `ai-native`: *Voice agents that answer calls and book jobs for small businesses.*
   - Website builders
 
 ### Business Finance Tech
@@ -2543,10 +2560,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Liquidation marketplaces
   - Refurbishment
   - Repair networks
-- **Critical minerals**
+- **Critical minerals 🔥**
   - AI mineral exploration
   - Mining automation
   - Rare-earth processing
+  - Rare-earth magnets
   - Battery-metal refining
   - Urban mining
 
@@ -2591,7 +2609,6 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Brokerage tech
   - Transaction management
   - Home valuation: *Automated valuation models.*
-  - iBuying
   - Mortgage tech
   - Title & escrow
 - **Housing supply** `underserved`: *Tools that help more housing get built.*
@@ -2679,6 +2696,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Sensors & ISR
   - Autonomous systems: *Unmanned ground, sea and undersea vehicles.*
   - Electronic warfare
+  - Missile defense
   - Defense manufacturing
   - Defense procurement tools
 - **Drones & counter-drone** `regulated`
@@ -2699,7 +2717,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Photonics
   - Advanced packaging
   - Semiconductor equipment
-- **Quantum computing**
+- **Quantum computing 🔥**
   - Quantum hardware: *Superconducting, trapped-ion, neutral-atom and photonic approaches.*
   - Quantum software
   - Quantum cloud access

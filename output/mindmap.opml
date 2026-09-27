@@ -12,12 +12,12 @@
             <outline text="Cancer screening" _note="Includes breast, prostate, colorectal and lung screening."/>
             <outline text="Cardiovascular screening"/>
           </outline>
-          <outline text="At-home testing #trending #regulated" _note="e.g. Function Health, Everlywell. US lab-test rules shifted in 2025; verify current status.">
+          <outline text="At-home testing #trending #regulated" _note="e.g. Function Health, Everlywell. The FDA's 2024 lab-developed-test rule was vacated in 2025 and rescinded; CLIA and state rules still apply.">
             <outline text="Home lab kits"/>
             <outline text="Blood-test memberships"/>
             <outline text="Hormone tests"/>
           </outline>
-          <outline text="Early-detection imaging" _note="e.g. Prenuvo. Major radiology bodies do not recommend whole-body MRI for people without symptoms.">
+          <outline text="Early-detection imaging" _note="e.g. Prenuvo, Ezra (Function Health). Major radiology bodies do not recommend whole-body MRI for people without symptoms.">
             <outline text="Whole-body MRI"/>
             <outline text="Coronary calcium scoring"/>
             <outline text="DEXA body scans"/>
@@ -48,15 +48,16 @@
             <outline text="Body recomposition"/>
             <outline text="Metabolic health"/>
           </outline>
-          <outline text="GLP-1 economy #trending #regulated" _note="The 'Ozempic economy'. Compounding rules tightened after the 2024-25 shortage listings ended.">
+          <outline text="GLP-1 economy #trending #regulated" _note="The 'Ozempic economy'. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026.">
             <outline text="GLP-1 telehealth"/>
+            <outline text="Oral GLP-1s" _note="Wegovy pill launched in the US in January 2026."/>
             <outline text="Compounded GLP-1s"/>
             <outline text="Muscle preservation"/>
             <outline text="GLP-1 companion foods"/>
             <outline text="Maintenance &amp; off-ramp"/>
           </outline>
           <outline text="Personalized nutrition">
-            <outline text="Microbiome testing" _note="e.g. ZOE. Clinical validity is debated."/>
+            <outline text="Microbiome testing" _note="e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated."/>
             <outline text="CGM programs" _note="e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven."/>
             <outline text="Nutrigenomics"/>
             <outline text="AI meal planning #ai-native"/>
@@ -77,6 +78,7 @@
           <outline text="Supplements #regulated" _note="US claims are governed by DSHEA and FTC rules.">
             <outline text="Vitamins &amp; minerals"/>
             <outline text="Protein powders"/>
+            <outline text="Creatine #trending"/>
             <outline text="Omega-3"/>
             <outline text="Probiotics"/>
             <outline text="Herbal supplements" _note="Drug-interaction risk."/>
@@ -122,6 +124,7 @@
             <outline text="Compression"/>
             <outline text="Red-light therapy"/>
             <outline text="Float therapy"/>
+            <outline text="Social bathhouses" _note="Sauna and cold-plunge venues run as social clubs."/>
           </outline>
           <outline text="Gyms &amp; studios">
             <outline text="Boutique franchises" _note="e.g. F45, Orangetheory."/>
@@ -208,13 +211,13 @@
           <outline text="Digital mental health">
             <outline text="Mental-health apps"/>
             <outline text="Digital therapeutics #regulated"/>
-            <outline text="AI mental-health companions #regulated #ai-native" _note="e.g. Wysa. Several US states restricted AI therapy in 2025. Woebot's consumer app status: verify."/>
+            <outline text="AI mental-health companions #regulated #ai-native" _note="e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it."/>
             <outline text="Peer-support communities"/>
           </outline>
           <outline text="Acute &amp; advanced care #regulated">
             <outline text="Crisis &amp; suicide prevention"/>
             <outline text="Serious mental illness"/>
-            <outline text="Psychedelic-assisted therapy" _note="Psilocybin and MDMA are federally Schedule I in the US. State programs (OR, CO) vary."/>
+            <outline text="Psychedelic-assisted therapy" _note="Psilocybin and MDMA are federally Schedule I in the US. State programs: Oregon, Colorado, New Mexico (medical, rolling out 2026)."/>
             <outline text="Ketamine &amp; TMS clinics"/>
           </outline>
           <outline text="Population-focused care">
@@ -279,6 +282,7 @@
             <outline text="HRV tracking"/>
             <outline text="Wearable stacks"/>
             <outline text="Longevity data dashboards"/>
+            <outline text="Smart rings #trending"/>
             <outline text="Self-experiment platforms"/>
             <outline text="Biohacker communities"/>
           </outline>
@@ -410,12 +414,12 @@
             <outline text="Autism"/>
             <outline text="Dyslexia &amp; learning differences"/>
             <outline text="Late diagnosis" _note="Adult ADHD and autism diagnosis."/>
-            <outline text="ADHD medication access #regulated" _note="US telehealth rules for controlled-substance prescribing."/>
+            <outline text="ADHD medication access #regulated" _note="DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending."/>
             <outline text="Executive-function coaching"/>
           </outline>
           <outline text="Dementia &amp; cognitive decline #underserved">
             <outline text="Cognitive assessments"/>
-            <outline text="Blood-based Alzheimer's tests #regulated" _note="First FDA clearances in 2025; verify current status."/>
+            <outline text="Blood-based Alzheimer's tests #regulated" _note="FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025)."/>
             <outline text="Anti-amyloid therapy navigation"/>
             <outline text="Dementia care navigation"/>
             <outline text="Dementia caregiver training"/>
@@ -526,8 +530,9 @@
           <outline text="Primary &amp; urgent care">
             <outline text="Tech-enabled primary care"/>
             <outline text="Membership primary care" _note="Direct primary care and concierge medicine."/>
-            <outline text="Senior-focused primary care" _note="e.g. the Oak Street model."/>
+            <outline text="Senior-focused primary care" _note="e.g. Oak Street Health (CVS), which closed 16 clinics in 2025-26 citing medical costs."/>
             <outline text="Retail clinics"/>
+            <outline text="AI health assistants #trending #ai-native" _note="Consumer AI for health questions and records; regulatory status evolving."/>
             <outline text="Urgent care"/>
             <outline text="Specialist e-consults"/>
           </outline>
@@ -670,6 +675,7 @@
             <outline text="High-yield savings"/>
             <outline text="Goal-based saving"/>
             <outline text="Kids' savings"/>
+            <outline text="Child investment accounts" _note="US 'Trump Accounts' launched July 2026, with a $1,000 federal seed for children born 2025-28."/>
             <outline text="College savings"/>
           </outline>
           <outline text="Debt management #regulated">
@@ -698,7 +704,7 @@
             <outline text="Couples' finances"/>
             <outline text="New-parent finances"/>
           </outline>
-          <outline text="Gig &amp; creator finance #underserved" _note="e.g. Catch (status unverified).">
+          <outline text="Gig &amp; creator finance #underserved" _note="e.g. Catch.">
             <outline text="Tax withholding tools"/>
             <outline text="Portable benefits"/>
             <outline text="Income smoothing"/>
@@ -729,7 +735,7 @@
             <outline text="Diaspora investing"/>
           </outline>
           <outline text="Consumer lending #regulated">
-            <outline text="Buy now pay later" _note="US regulatory treatment shifted in 2024-25."/>
+            <outline text="Buy now pay later" _note="The CFPB withdrew its 2024 BNPL interpretive rule in May 2025."/>
             <outline text="Earned wage access"/>
             <outline text="Small-dollar loans"/>
             <outline text="Credit-builder loans"/>
@@ -775,7 +781,7 @@
           </outline>
           <outline text="Digital assets #regulated" _note="See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; Crypto tax">
             <outline text="Crypto exchanges &amp; wallets" _note="Bitcoin, Ethereum and other cryptocurrencies."/>
-            <outline text="Stablecoins"/>
+            <outline text="Stablecoins #trending" _note="US GENIUS Act signed July 2025; implementing rules pending, effective by January 2027."/>
             <outline text="DeFi &amp; staking"/>
             <outline text="Tokenized real-world assets"/>
           </outline>
@@ -786,7 +792,7 @@
             <outline text="Retail forex"/>
           </outline>
           <outline text="Trading platforms #regulated">
-            <outline text="Prop firms" _note="Funded accounts. US regulators have acted against some operators (e.g. CFTC v. My Forex Funds)."/>
+            <outline text="Prop firms" _note="Funded accounts. Regulatory status is unsettled: the CFTC's case against My Forex Funds was dismissed in 2025 with sanctions against the agency."/>
             <outline text="Copy trading" _note="e.g. eToro."/>
             <outline text="AI trading tools #ai-native"/>
             <outline text="Trading simulators"/>
@@ -956,6 +962,7 @@
             <outline text="Podcasting"/>
             <outline text="Newsletters"/>
             <outline text="Influencer brands" _note="Includes personal brands."/>
+            <outline text="AI virtual creators #ai-native"/>
             <outline text="Live &amp; social commerce #trending"/>
             <outline text="Fan memberships" _note="e.g. Patreon."/>
           </outline>
@@ -1033,7 +1040,7 @@
             <outline text="Cohabitation agreements #regulated"/>
           </outline>
           <outline text="Relationship coaching" _note="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">
-            <outline text="Couples apps" _note="e.g. Paired, Lasting."/>
+            <outline text="Couples apps" _note="e.g. Paired, Lasting (part of Talkspace)."/>
             <outline text="AI relationship coaching #ai-native"/>
             <outline text="Relationship check-in tools"/>
             <outline text="Couples coaching"/>
@@ -1164,7 +1171,7 @@
           <outline text="Child online safety #regulated" _note="COPPA and age-appropriate-design laws.">
             <outline text="Parental controls"/>
             <outline text="Kids' phones"/>
-            <outline text="Age verification"/>
+            <outline text="Age verification #trending" _note="Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia's under-16 social-media ban."/>
             <outline text="Online-safety education"/>
           </outline>
           <outline text="Childcare #underserved" _note="Acute 'care desert' shortage.">
@@ -1199,7 +1206,7 @@
         </outline>
         <outline text="Friendship &amp; Community" _note="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">
           <outline text="Making friends" _note="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">
-            <outline text="Friendship apps" _note="e.g. Bumble BFF."/>
+            <outline text="Friendship apps" _note="e.g. BFF by Bumble (relaunched as a standalone app in 2025)."/>
             <outline text="Parent friendship apps" _note="e.g. Peanut."/>
             <outline text="Activity-partner apps"/>
             <outline text="Friend-matching dinners"/>
@@ -1479,13 +1486,15 @@
             <outline text="Personal AI agents"/>
             <outline text="AI browser agents"/>
             <outline text="Inbox &amp; email AI"/>
+            <outline text="AI answer engines"/>
+            <outline text="AI glasses &amp; wearables" _note="AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta."/>
             <outline text="Voice assistants"/>
           </outline>
         </outline>
         <outline text="Learning &amp; Education" _note="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">
           <outline text="Online learning">
             <outline text="MOOCs" _note="e.g. Coursera."/>
-            <outline text="Course marketplaces" _note="e.g. Udemy."/>
+            <outline text="Course marketplaces" _note="e.g. Udemy (merged into Coursera in 2026)."/>
             <outline text="Cohort-based courses"/>
             <outline text="Masterclass platforms"/>
             <outline text="Microlearning apps"/>
@@ -1578,6 +1587,7 @@
           </outline>
           <outline text="Photo &amp; video">
             <outline text="Photography"/>
+            <outline text="Film photography" _note="Part of the Gen Z analog revival."/>
             <outline text="Filmmaking"/>
             <outline text="Editing tools"/>
             <outline text="AI video generation #trending #ai-native"/>
@@ -1732,7 +1742,7 @@
             <outline text="Meal-planning apps"/>
           </outline>
           <outline text="Better-for-you foods">
-            <outline text="Functional beverages #trending" _note="Prebiotic sodas, e.g. Olipop, Poppi."/>
+            <outline text="Functional beverages #trending" _note="Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025)."/>
             <outline text="Protein-forward foods #trending"/>
             <outline text="Low-sugar snacks"/>
             <outline text="Gut-health foods"/>
@@ -1753,7 +1763,6 @@
             <outline text="Reservations &amp; waitlists"/>
             <outline text="Kitchen automation"/>
             <outline text="Restaurant supplier marketplaces"/>
-            <outline text="Ghost kitchens"/>
           </outline>
           <outline text="Delivery &amp; quick commerce" _note="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery">
             <outline text="Food delivery"/>
@@ -1832,7 +1841,7 @@
             <outline text="Native &amp; drought-tolerant landscaping"/>
           </outline>
           <outline text="Living arrangements">
-            <outline text="Coliving" _note="e.g. Common (status: verify)."/>
+            <outline text="Coliving" _note="e.g. Habyt, Tripalink. Early leader Common shut down in 2024."/>
             <outline text="Cohousing"/>
             <outline text="ADUs &amp; tiny homes"/>
             <outline text="Roommate matching"/>
@@ -1856,7 +1865,7 @@
             <outline text="Jewelry"/>
             <outline text="Watches"/>
           </outline>
-          <outline text="Resale &amp; circular fashion #trending" _note="e.g. Depop, ThredUp, Vinted.">
+          <outline text="Resale &amp; circular fashion #trending" _note="e.g. Depop (sold to eBay in 2026), ThredUp, Vinted.">
             <outline text="Resale marketplaces"/>
             <outline text="Luxury resale"/>
             <outline text="Clothing rental"/>
@@ -1949,7 +1958,7 @@
         </outline>
         <outline text="Sports &amp; Hobbies" _note="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">
           <outline text="Racquet sports #trending">
-            <outline text="Pickleball" _note="Fastest-growing US sport, 2021-24 (SFIA)."/>
+            <outline text="Pickleball" _note="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026)."/>
             <outline text="Padel"/>
             <outline text="Tennis"/>
             <outline text="Indoor pickleball venues"/>
@@ -1961,7 +1970,7 @@
             <outline text="Fitness racing #trending" _note="e.g. Hyrox."/>
             <outline text="Adult rec leagues"/>
             <outline text="Pickup-game apps"/>
-            <outline text="Golf entertainment" _note="e.g. Topgolf, simulators."/>
+            <outline text="Golf entertainment" _note="e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators."/>
           </outline>
           <outline text="Women's sports #trending">
             <outline text="Pro leagues &amp; fandom"/>
@@ -1996,6 +2005,7 @@
             <outline text="Sneaker collecting" _note="e.g. StockX."/>
             <outline text="Comics &amp; memorabilia"/>
             <outline text="Coins &amp; stamps"/>
+            <outline text="Designer toys &amp; blind boxes" _note="e.g. Pop Mart's Labubu."/>
             <outline text="Live collectible auctions #trending" _note="Live-stream breaks and auctions, e.g. Whatnot."/>
             <outline text="Grading &amp; authentication"/>
           </outline>
@@ -2160,6 +2170,7 @@
             <outline text="Inference optimization"/>
             <outline text="AI data centers"/>
             <outline text="Data-center cooling"/>
+            <outline text="Sovereign AI clouds"/>
             <outline text="Edge AI"/>
           </outline>
           <outline text="Data infrastructure">
@@ -2304,7 +2315,7 @@
             <outline text="Internal communications"/>
             <outline text="Enterprise knowledge bases"/>
             <outline text="Virtual offices"/>
-            <outline text="AI meeting notetakers #trending #ai-native"/>
+            <outline text="AI meeting notetakers #ai-native" _note="Now bundled into Zoom, Teams and Google Meet."/>
           </outline>
           <outline text="Employee wellbeing" _note="See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Fertility benefits | See also: Wealth &gt; Money Management &gt; Financial wellness &gt; Workplace financial wellness">
             <outline text="Wellness programs"/>
@@ -2427,6 +2438,12 @@
             <outline text="Server-side tracking"/>
             <outline text="Customer data platforms"/>
           </outline>
+          <outline text="Customer support #trending">
+            <outline text="AI support agents #ai-native"/>
+            <outline text="Voice AI contact centers #ai-native"/>
+            <outline text="Help desks"/>
+            <outline text="Support QA &amp; analytics"/>
+          </outline>
           <outline text="Event marketing">
             <outline text="Event management platforms"/>
             <outline text="Webinar platforms"/>
@@ -2435,7 +2452,7 @@
           </outline>
           <outline text="Sales tech">
             <outline text="CRM"/>
-            <outline text="AI SDRs #trending #ai-native"/>
+            <outline text="AI SDRs #ai-native" _note="First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026."/>
             <outline text="Sales engagement"/>
             <outline text="Sales data &amp; enrichment"/>
             <outline text="Sales enablement"/>
@@ -2453,7 +2470,7 @@
           </outline>
           <outline text="Marketplace selling">
             <outline text="Marketplace seller tools" _note="e.g. Amazon seller software."/>
-            <outline text="Social-commerce seller tools" _note="e.g. TikTok Shop."/>
+            <outline text="Social-commerce seller tools" _note="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal)."/>
             <outline text="Wholesale marketplaces" _note="e.g. Faire."/>
             <outline text="Cross-border e-commerce"/>
           </outline>
@@ -2477,6 +2494,7 @@
             <outline text="Booking &amp; scheduling"/>
             <outline text="Invoicing &amp; quotes"/>
             <outline text="Reviews &amp; reputation"/>
+            <outline text="AI receptionists #trending #ai-native" _note="Voice agents that answer calls and book jobs for small businesses."/>
             <outline text="Website builders"/>
           </outline>
         </outline>
@@ -2691,10 +2709,11 @@
             <outline text="Refurbishment"/>
             <outline text="Repair networks"/>
           </outline>
-          <outline text="Critical minerals">
+          <outline text="Critical minerals #trending">
             <outline text="AI mineral exploration"/>
             <outline text="Mining automation"/>
             <outline text="Rare-earth processing"/>
+            <outline text="Rare-earth magnets"/>
             <outline text="Battery-metal refining"/>
             <outline text="Urban mining"/>
           </outline>
@@ -2741,7 +2760,6 @@
             <outline text="Brokerage tech"/>
             <outline text="Transaction management"/>
             <outline text="Home valuation" _note="Automated valuation models."/>
-            <outline text="iBuying"/>
             <outline text="Mortgage tech"/>
             <outline text="Title &amp; escrow"/>
           </outline>
@@ -2837,6 +2855,7 @@
             <outline text="Sensors &amp; ISR"/>
             <outline text="Autonomous systems" _note="Unmanned ground, sea and undersea vehicles."/>
             <outline text="Electronic warfare"/>
+            <outline text="Missile defense"/>
             <outline text="Defense manufacturing"/>
             <outline text="Defense procurement tools"/>
           </outline>
@@ -2859,7 +2878,7 @@
             <outline text="Advanced packaging"/>
             <outline text="Semiconductor equipment"/>
           </outline>
-          <outline text="Quantum computing">
+          <outline text="Quantum computing #trending">
             <outline text="Quantum hardware" _note="Superconducting, trapped-ion, neutral-atom and photonic approaches."/>
             <outline text="Quantum software"/>
             <outline text="Quantum cloud access"/>

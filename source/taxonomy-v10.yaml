@@ -32,13 +32,13 @@ children:
               - {name: Cardiovascular screening}
           - name: At-home testing
             tags: [trending, regulated]
-            note: "e.g. Function Health, Everlywell. The FDA's 2024 lab-developed-test rule was vacated in 2025 and rescinded; CLIA and state rules still apply."
+            note: "e.g. Function Health, Everlywell. US lab-test rules shifted in 2025; verify current status."
             children:
               - {name: Home lab kits}
               - {name: Blood-test memberships}
               - {name: Hormone tests}
           - name: Early-detection imaging
-            note: "e.g. Prenuvo, Ezra (Function Health). Major radiology bodies do not recommend whole-body MRI for people without symptoms."
+            note: "e.g. Prenuvo. Major radiology bodies do not recommend whole-body MRI for people without symptoms."
             children:
               - {name: Whole-body MRI}
               - {name: Coronary calcium scoring}
@@ -72,17 +72,16 @@ children:
               - {name: Metabolic health}
           - name: GLP-1 economy
             tags: [trending, regulated]
-            note: "The 'Ozempic economy'. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026."
+            note: "The 'Ozempic economy'. Compounding rules tightened after the 2024-25 shortage listings ended."
             children:
               - {name: GLP-1 telehealth}
-              - {name: Oral GLP-1s, note: "Wegovy pill launched in the US in January 2026."}
               - {name: Compounded GLP-1s}
               - {name: Muscle preservation}
               - {name: GLP-1 companion foods}
               - {name: Maintenance & off-ramp}
           - name: Personalized nutrition
             children:
-              - {name: Microbiome testing, note: "e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated."}
+              - {name: Microbiome testing, note: "e.g. ZOE. Clinical validity is debated."}
               - {name: CGM programs, note: "e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven."}
               - {name: Nutrigenomics}
               - {name: AI meal planning, tags: [ai-native]}
@@ -105,7 +104,6 @@ children:
             children:
               - {name: Vitamins & minerals}
               - {name: Protein powders}
-              - {name: Creatine, tags: [trending]}
               - {name: Omega-3}
               - {name: Probiotics}
               - {name: Herbal supplements, note: "Drug-interaction risk."}
@@ -153,7 +151,6 @@ children:
               - {name: Compression}
               - {name: Red-light therapy}
               - {name: Float therapy}
-              - {name: Social bathhouses, note: "Sauna and cold-plunge venues run as social clubs."}
           - name: Gyms & studios
             children:
               - {name: Boutique franchises, note: "e.g. F45, Orangetheory."}
@@ -248,14 +245,14 @@ children:
             children:
               - {name: Mental-health apps}
               - {name: Digital therapeutics, tags: [regulated]}
-              - {name: AI mental-health companions, tags: [regulated, ai-native], note: "e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it."}
+              - {name: AI mental-health companions, tags: [regulated, ai-native], note: "e.g. Wysa. Several US states restricted AI therapy in 2025. Woebot's consumer app status: verify."}
               - {name: Peer-support communities}
           - name: Acute & advanced care
             tags: [regulated]
             children:
               - {name: Crisis & suicide prevention}
               - {name: Serious mental illness}
-              - {name: Psychedelic-assisted therapy, note: "Psilocybin and MDMA are federally Schedule I in the US. State programs: Oregon, Colorado, New Mexico (medical, rolling out 2026)."}
+              - {name: Psychedelic-assisted therapy, note: "Psilocybin and MDMA are federally Schedule I in the US. State programs (OR, CO) vary."}
               - {name: Ketamine & TMS clinics}
           - name: Population-focused care
             children:
@@ -327,7 +324,6 @@ children:
               - {name: HRV tracking}
               - {name: Wearable stacks}
               - {name: Longevity data dashboards}
-              - {name: Smart rings, tags: [trending]}
               - {name: Self-experiment platforms}
               - {name: Biohacker communities}
           - name: Age tech
@@ -474,13 +470,13 @@ children:
               - {name: Autism}
               - {name: Dyslexia & learning differences}
               - {name: Late diagnosis, note: "Adult ADHD and autism diagnosis."}
-              - {name: ADHD medication access, tags: [regulated], note: "DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending."}
+              - {name: ADHD medication access, tags: [regulated], note: "US telehealth rules for controlled-substance prescribing."}
               - {name: Executive-function coaching}
           - name: Dementia & cognitive decline
             tags: [underserved]
             children:
               - {name: Cognitive assessments}
-              - {name: Blood-based Alzheimer's tests, tags: [regulated], note: "FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025)."}
+              - {name: Blood-based Alzheimer's tests, tags: [regulated], note: "First FDA clearances in 2025; verify current status."}
               - {name: Anti-amyloid therapy navigation}
               - {name: Dementia care navigation}
               - {name: Dementia caregiver training}
@@ -610,9 +606,8 @@ children:
             children:
               - {name: Tech-enabled primary care}
               - {name: Membership primary care, note: "Direct primary care and concierge medicine."}
-              - {name: Senior-focused primary care, note: "e.g. Oak Street Health (CVS), which closed 16 clinics in 2025-26 citing medical costs."}
+              - {name: Senior-focused primary care, note: "e.g. the Oak Street model."}
               - {name: Retail clinics}
-              - {name: AI health assistants, tags: [trending, ai-native], note: "Consumer AI for health questions and records; regulatory status evolving."}
               - {name: Urgent care}
               - {name: Specialist e-consults}
           - name: Home & virtual care
@@ -771,7 +766,6 @@ children:
               - {name: High-yield savings}
               - {name: Goal-based saving}
               - {name: Kids' savings}
-              - {name: Child investment accounts, note: "US 'Trump Accounts' launched July 2026, with a $1,000 federal seed for children born 2025-28."}
               - {name: College savings}
           - name: Debt management
             tags: [regulated]
@@ -804,7 +798,7 @@ children:
               - {name: New-parent finances}
           - name: Gig & creator finance
             tags: [underserved]
-            note: "e.g. Catch."
+            note: "e.g. Catch (status unverified)."
             children:
               - {name: Tax withholding tools}
               - {name: Portable benefits}
@@ -839,7 +833,7 @@ children:
           - name: Consumer lending
             tags: [regulated]
             children:
-              - {name: Buy now pay later, note: "The CFPB withdrew its 2024 BNPL interpretive rule in May 2025."}
+              - {name: Buy now pay later, note: "US regulatory treatment shifted in 2024-25."}
               - {name: Earned wage access}
               - {name: Small-dollar loans}
               - {name: Credit-builder loans}
@@ -893,7 +887,7 @@ children:
             see: ["Wealth > Tax & Legal > Tax planning > Crypto tax"]
             children:
               - {name: Crypto exchanges & wallets, note: "Bitcoin, Ethereum and other cryptocurrencies."}
-              - {name: Stablecoins, tags: [trending], note: "US GENIUS Act signed July 2025; implementing rules pending, effective by January 2027."}
+              - {name: Stablecoins}
               - {name: DeFi & staking}
               - {name: Tokenized real-world assets}
           - name: Active trading
@@ -907,7 +901,7 @@ children:
           - name: Trading platforms
             tags: [regulated]
             children:
-              - {name: Prop firms, note: "Funded accounts. Regulatory status is unsettled: the CFTC's case against My Forex Funds was dismissed in 2025 with sanctions against the agency."}
+              - {name: Prop firms, note: "Funded accounts. US regulators have acted against some operators (e.g. CFTC v. My Forex Funds)."}
               - {name: Copy trading, note: "e.g. eToro."}
               - {name: AI trading tools, tags: [ai-native]}
               - {name: Trading simulators}
@@ -1097,7 +1091,6 @@ children:
               - {name: Podcasting}
               - {name: Newsletters}
               - {name: Influencer brands, note: "Includes personal brands."}
-              - {name: AI virtual creators, tags: [ai-native]}
               - {name: Live & social commerce, tags: [trending]}
               - {name: Fan memberships, note: "e.g. Patreon."}
           - name: Freelancing & fractional
@@ -1185,7 +1178,7 @@ children:
             note: "Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns."
             see: ["Health & Wellness > Mental Health > Therapy access > Couples therapy"]
             children:
-              - {name: Couples apps, note: "e.g. Paired, Lasting (part of Talkspace)."}
+              - {name: Couples apps, note: "e.g. Paired, Lasting."}
               - {name: AI relationship coaching, tags: [ai-native]}
               - {name: Relationship check-in tools}
               - {name: Couples coaching}
@@ -1332,7 +1325,7 @@ children:
             children:
               - {name: Parental controls}
               - {name: Kids' phones}
-              - {name: Age verification, tags: [trending], note: "Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia's under-16 social-media ban."}
+              - {name: Age verification}
               - {name: Online-safety education}
           - name: Childcare
             tags: [underserved]
@@ -1374,7 +1367,7 @@ children:
           - name: Making friends
             note: "Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups."
             children:
-              - {name: Friendship apps, note: "e.g. BFF by Bumble (relaunched as a standalone app in 2025)."}
+              - {name: Friendship apps, note: "e.g. Bumble BFF."}
               - {name: Parent friendship apps, note: "e.g. Peanut."}
               - {name: Activity-partner apps}
               - {name: Friend-matching dinners}
@@ -1686,8 +1679,6 @@ children:
               - {name: Personal AI agents}
               - {name: AI browser agents}
               - {name: Inbox & email AI}
-              - {name: AI answer engines}
-              - {name: AI glasses & wearables, note: "AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta."}
               - {name: Voice assistants}
 
       - name: Learning & Education
@@ -1696,7 +1687,7 @@ children:
           - name: Online learning
             children:
               - {name: MOOCs, note: "e.g. Coursera."}
-              - {name: Course marketplaces, note: "e.g. Udemy (merged into Coursera in 2026)."}
+              - {name: Course marketplaces, note: "e.g. Udemy."}
               - {name: Cohort-based courses}
               - {name: Masterclass platforms}
               - {name: Microlearning apps}
@@ -1793,7 +1784,6 @@ children:
           - name: Photo & video
             children:
               - {name: Photography}
-              - {name: Film photography, note: "Part of the Gen Z analog revival."}
               - {name: Filmmaking}
               - {name: Editing tools}
               - {name: AI video generation, tags: [trending, ai-native]}
@@ -1964,7 +1954,7 @@ children:
               - {name: Meal-planning apps}
           - name: Better-for-you foods
             children:
-              - {name: Functional beverages, tags: [trending], note: "Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025)."}
+              - {name: Functional beverages, tags: [trending], note: "Prebiotic sodas, e.g. Olipop, Poppi."}
               - {name: Protein-forward foods, tags: [trending]}
               - {name: Low-sugar snacks}
               - {name: Gut-health foods}
@@ -1986,6 +1976,7 @@ children:
               - {name: Reservations & waitlists}
               - {name: Kitchen automation}
               - {name: Restaurant supplier marketplaces}
+              - {name: Ghost kitchens}
           - name: Delivery & quick commerce
             see: ["Planet & Frontier > Industry & Supply Chain > Last-mile delivery"]
             children:
@@ -2068,7 +2059,7 @@ children:
               - {name: Native & drought-tolerant landscaping}
           - name: Living arrangements
             children:
-              - {name: Coliving, note: "e.g. Habyt, Tripalink. Early leader Common shut down in 2024."}
+              - {name: Coliving, note: "e.g. Common (status: verify)."}
               - {name: Cohousing}
               - {name: ADUs & tiny homes}
               - {name: Roommate matching}
@@ -2096,7 +2087,7 @@ children:
               - {name: Watches}
           - name: Resale & circular fashion
             tags: [trending]
-            note: "e.g. Depop (sold to eBay in 2026), ThredUp, Vinted."
+            note: "e.g. Depop, ThredUp, Vinted."
             children:
               - {name: Resale marketplaces}
               - {name: Luxury resale}
@@ -2198,7 +2189,7 @@ children:
           - name: Racquet sports
             tags: [trending]
             children:
-              - {name: Pickleball, note: "Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026)."}
+              - {name: Pickleball, note: "Fastest-growing US sport, 2021-24 (SFIA)."}
               - {name: Padel}
               - {name: Tennis}
               - {name: Indoor pickleball venues}
@@ -2210,7 +2201,7 @@ children:
               - {name: Fitness racing, tags: [trending], note: "e.g. Hyrox."}
               - {name: Adult rec leagues}
               - {name: Pickup-game apps}
-              - {name: Golf entertainment, note: "e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators."}
+              - {name: Golf entertainment, note: "e.g. Topgolf, simulators."}
           - name: Women's sports
             tags: [trending]
             children:
@@ -2247,7 +2238,6 @@ children:
               - {name: Sneaker collecting, note: "e.g. StockX."}
               - {name: Comics & memorabilia}
               - {name: Coins & stamps}
-              - {name: Designer toys & blind boxes, note: "e.g. Pop Mart's Labubu."}
               - {name: Live collectible auctions, tags: [trending], note: "Live-stream breaks and auctions, e.g. Whatnot."}
               - {name: Grading & authentication}
           - name: Reading
@@ -2422,7 +2412,6 @@ children:
               - {name: Inference optimization}
               - {name: AI data centers}
               - {name: Data-center cooling}
-              - {name: Sovereign AI clouds}
               - {name: Edge AI}
           - name: Data infrastructure
             children:
@@ -2579,7 +2568,7 @@ children:
               - {name: Internal communications}
               - {name: Enterprise knowledge bases}
               - {name: Virtual offices}
-              - {name: AI meeting notetakers, tags: [ai-native], note: "Now bundled into Zoom, Teams and Google Meet."}
+              - {name: AI meeting notetakers, tags: [trending, ai-native]}
           - name: Employee wellbeing
             see:
               - "Health & Wellness > Sexual & Reproductive Health > Fertility & family building > Fertility benefits"
@@ -2713,13 +2702,6 @@ children:
               - {name: Product analytics}
               - {name: Server-side tracking}
               - {name: Customer data platforms}
-          - name: Customer support
-            tags: [trending]
-            children:
-              - {name: AI support agents, tags: [ai-native]}
-              - {name: Voice AI contact centers, tags: [ai-native]}
-              - {name: Help desks}
-              - {name: Support QA & analytics}
           - name: Event marketing
             children:
               - {name: Event management platforms}
@@ -2729,7 +2711,7 @@ children:
           - name: Sales tech
             children:
               - {name: CRM}
-              - {name: AI SDRs, tags: [ai-native], note: "First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026."}
+              - {name: AI SDRs, tags: [trending, ai-native]}
               - {name: Sales engagement}
               - {name: Sales data & enrichment}
               - {name: Sales enablement}
@@ -2752,7 +2734,7 @@ children:
           - name: Marketplace selling
             children:
               - {name: Marketplace seller tools, note: "e.g. Amazon seller software."}
-              - {name: Social-commerce seller tools, note: "e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal)."}
+              - {name: Social-commerce seller tools, note: "e.g. TikTok Shop."}
               - {name: Wholesale marketplaces, note: "e.g. Faire."}
               - {name: Cross-border e-commerce}
           - name: Retail operations
@@ -2779,7 +2761,6 @@ children:
               - {name: Booking & scheduling}
               - {name: Invoicing & quotes}
               - {name: Reviews & reputation}
-              - {name: AI receptionists, tags: [trending, ai-native], note: "Voice agents that answer calls and book jobs for small businesses."}
               - {name: Website builders}
 
       - name: Business Finance Tech
@@ -3009,12 +2990,10 @@ children:
               - {name: Refurbishment}
               - {name: Repair networks}
           - name: Critical minerals
-            tags: [trending]
             children:
               - {name: AI mineral exploration}
               - {name: Mining automation}
               - {name: Rare-earth processing}
-              - {name: Rare-earth magnets}
               - {name: Battery-metal refining}
               - {name: Urban mining}
 
@@ -3064,6 +3043,7 @@ children:
               - {name: Brokerage tech}
               - {name: Transaction management}
               - {name: Home valuation, note: "Automated valuation models."}
+              - {name: iBuying}
               - {name: Mortgage tech}
               - {name: Title & escrow}
           - name: Housing supply
@@ -3173,7 +3153,6 @@ children:
               - {name: Sensors & ISR}
               - {name: Autonomous systems, note: "Unmanned ground, sea and undersea vehicles."}
               - {name: Electronic warfare}
-              - {name: Missile defense}
               - {name: Defense manufacturing}
               - {name: Defense procurement tools}
           - name: Drones & counter-drone
@@ -3199,7 +3178,6 @@ children:
               - {name: Advanced packaging}
               - {name: Semiconductor equipment}
           - name: Quantum computing
-            tags: [trending]
             children:
               - {name: Quantum hardware, note: "Superconducting, trapped-ion, neutral-atom and photonic approaches."}
               - {name: Quantum software}
