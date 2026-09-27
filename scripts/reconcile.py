@@ -10,13 +10,13 @@ Inside a backticked span, " > " (a path) and " · " (a list) separate individual
 
 It can also list the additions: NEW nodes whose name is neither in OLD nor mentioned in the
 changelog's before/after columns. With --write-additions, that list replaces the block between
-the ADDITIONS markers in reports/changelog.md.
+the <!-- ADDITIONS:v2:START/END --> markers (one pair per version) in reports/changelog.md.
 
 Usage:
     python3 scripts/reconcile.py source/taxonomy-v0.md            # legacy markdown as OLD
     python3 scripts/reconcile.py old-taxonomy.yaml                # a previous YAML version as OLD
     python3 scripts/reconcile.py OLD --new taxonomy.yaml
-    python3 scripts/reconcile.py OLD --additions [--write-additions]
+    python3 scripts/reconcile.py OLD --additions [--write-additions v2]
 
 Exits 1 and lists any unaccounted nodes.
 """
@@ -43,11 +43,15 @@ def old_names(path):
     return [(n["name"], " > ".join(n["path"])) for n in w(root) if n["depth"] > 0]
 
 
-ADD_START, ADD_END = "<!-- ADDITIONS:START -->", "<!-- ADDITIONS:END -->"
+ANY_BLOCK = re.compile(r"<!-- ADDITIONS:([\w.-]+):START -->.*?<!-- ADDITIONS:\1:END -->", re.S)
+
+
+def markers(label):
+    return f"<!-- ADDITIONS:{label}:START -->", f"<!-- ADDITIONS:{label}:END -->"
 
 
 def strip_additions(text):
-    return re.sub(re.escape(ADD_START) + ".*?" + re.escape(ADD_END), "", text, flags=re.S)
+    return ANY_BLOCK.sub("", text)
 
 
 def logged_names(*files):
@@ -67,7 +71,8 @@ def main():
     ap.add_argument("old")
     ap.add_argument("--new", default=TAXONOMY_PATH)
     ap.add_argument("--additions", action="store_true", help="list new nodes not logged as renames")
-    ap.add_argument("--write-additions", action="store_true", help="write that list into changelog.md")
+    ap.add_argument("--write-additions", metavar="LABEL",
+                    help="write that list into changelog.md between the ADDITIONS:LABEL markers (e.g. v2)")
     a = ap.parse_args()
 
     new_root = load(a.new)
@@ -84,10 +89,14 @@ def main():
                 groups.setdefault(" › ".join(p[:-1]) or "(root)", []).append(n["name"])
         lines = [f"- **{parent}**: " + " · ".join(names) for parent, names in groups.items()]
         total = sum(len(v) for v in groups.values())
-        block = f"{ADD_START}\n{total} added nodes.\n\n" + "\n".join(lines) + f"\n{ADD_END}"
+        start, end = markers(a.write_additions or "preview")
+        block = f"{start}\n{total} added nodes.\n\n" + "\n".join(lines) + f"\n{end}"
         if a.write_additions:
             text = open(changelog, encoding="utf-8").read()
-            text = re.sub(re.escape(ADD_START) + ".*?" + re.escape(ADD_END), lambda m: block, text, flags=re.S)
+            if start not in text:
+                print(f"add the markers {start} ... {end} to {changelog} first", file=sys.stderr)
+                return 1
+            text = re.sub(re.escape(start) + ".*?" + re.escape(end), lambda m: block, text, flags=re.S)
             open(changelog, "w", encoding="utf-8").write(text)
             print(f"wrote {total} additions to {changelog}")
         else:

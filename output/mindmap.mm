@@ -8,7 +8,7 @@
     <richcontent TYPE="NOTE"><html><head></head><body><p>Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.</p></body></html></richcontent>
     <node TEXT="Prevention &amp; Diagnostics" ID="ID_2" COLOR="#1B9E77" FOLDED="true">
       <edge COLOR="#1B9E77" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_1414" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1429" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs</p></body></html></richcontent>
       <node TEXT="Health screenings" ID="ID_3" COLOR="#1B9E77" FOLDED="true">
         <edge COLOR="#1B9E77" WIDTH="1"/>
@@ -373,7 +373,7 @@
     </node>
     <node TEXT="Sleep" ID="ID_114" COLOR="#1B9E77" FOLDED="true">
       <edge COLOR="#1B9E77" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_1104" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1117" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Lifestyle, Home &amp; Experiences &gt; Travel &amp; Adventure &gt; Wellness travel &gt; Sleep tourism</p></body></html></richcontent>
       <node TEXT="Sleep optimization" ID="ID_115" COLOR="#1B9E77" FOLDED="true">
         <edge COLOR="#1B9E77" WIDTH="1"/>
@@ -441,8 +441,8 @@
     <node TEXT="Mental Health" ID="ID_135" COLOR="#1B9E77" FOLDED="true">
       <edge COLOR="#1B9E77" WIDTH="2"/>
       <arrowlink DESTINATION="ID_305" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
-      <arrowlink DESTINATION="ID_897" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
-      <arrowlink DESTINATION="ID_883" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_900" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_886" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence</p><p>See also: Mind, Meaning &amp; Growth &gt; Contemplative Practice &gt; Meditation</p><p>See also: Relationships &gt; Death, Grief &amp; Legacy &gt; Grief support</p></body></html></richcontent>
       <node TEXT="Anxiety &amp; mood" ID="ID_136" COLOR="#1B9E77" FOLDED="true">
         <edge COLOR="#1B9E77" WIDTH="1"/>
@@ -686,6 +686,8 @@
       </node>
       <node TEXT="Sexual wellness" ID="ID_208" COLOR="#1B9E77" FOLDED="true">
         <edge COLOR="#1B9E77" WIDTH="1"/>
+        <arrowlink DESTINATION="ID_755" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <richcontent TYPE="NOTE"><html><head></head><body><p>Individual-focused products and education. Couples programs live in Relationships &gt; Intimacy &amp; Sexuality.</p><p>See also: Relationships &gt; Intimacy &amp; Sexuality &gt; Couples intimacy</p></body></html></richcontent>
         <node TEXT="Sex tech &amp; devices" ID="ID_209" COLOR="#1B9E77">
           <edge COLOR="#1B9E77" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Payment-processor limits; 2024-25 US age-verification laws.</p></body></html></richcontent>
@@ -700,7 +702,7 @@
     </node>
     <node TEXT="Aging &amp; Longevity" ID="ID_212" COLOR="#1B9E77" FOLDED="true">
       <edge COLOR="#1B9E77" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_1206" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1221" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Beauty &amp; skincare &gt; Skincare DTC</p></body></html></richcontent>
       <node TEXT="Healthy aging" ID="ID_213" COLOR="#1B9E77" FOLDED="true">
         <edge COLOR="#1B9E77" WIDTH="1"/>
@@ -873,7 +875,7 @@
       </node>
       <node TEXT="Oncology" ID="ID_265" COLOR="#1F78B4" FOLDED="true">
         <edge COLOR="#1F78B4" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1645" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1700" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Biotech &amp; Life Sciences &gt; Clinical trials &gt; Patient recruitment</p></body></html></richcontent>
         <node TEXT="Cancer navigation" ID="ID_266" COLOR="#1F78B4">
           <edge COLOR="#1F78B4" WIDTH="1"/>
@@ -1003,9 +1005,9 @@
       <edge COLOR="#1F78B4" WIDTH="2"/>
       <node TEXT="Neurodivergence" ID="ID_305" COLOR="#1F78B4" FOLDED="true">
         <edge COLOR="#1F78B4" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1072" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
-        <arrowlink DESTINATION="ID_870" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
-        <arrowlink DESTINATION="ID_982" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1085" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_873" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_995" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Framed as neurodevelopmental difference, not mental illness.</p><p>See also: Mind, Meaning &amp; Growth &gt; Career Development &gt; Inclusive employment &gt; Neurodivergent hiring</p><p>See also: Relationships &gt; Social Skills &gt; Neurodivergent social skills</p><p>See also: Mind, Meaning &amp; Growth &gt; Productivity &gt; ADHD-friendly productivity</p></body></html></richcontent>
         <node TEXT="ADHD" ID="ID_306" COLOR="#1F78B4">
           <edge COLOR="#1F78B4" WIDTH="1"/>
@@ -1325,7 +1327,7 @@
         </node>
         <node TEXT="Medical tourism" ID="ID_400" COLOR="#1F78B4">
           <edge COLOR="#1F78B4" WIDTH="1"/>
-          <arrowlink DESTINATION="ID_1102" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+          <arrowlink DESTINATION="ID_1115" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Lifestyle, Home &amp; Experiences &gt; Travel &amp; Adventure &gt; Wellness travel</p></body></html></richcontent>
         </node>
       </node>
@@ -1577,7 +1579,7 @@
       </node>
       <node TEXT="Life-event finance" ID="ID_474" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_772" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_778" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <attribute NAME="tags" VALUE="underserved"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance</p></body></html></richcontent>
         <node TEXT="Widowhood finance" ID="ID_475" COLOR="#C99A06">
@@ -1688,7 +1690,7 @@
       </node>
       <node TEXT="Financial inclusion" ID="ID_506" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1720" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1790" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <attribute NAME="tags" VALUE="underserved"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Development &amp; inclusion &gt; Financial-inclusion infrastructure</p></body></html></richcontent>
         <node TEXT="Community finance" ID="ID_507" COLOR="#C99A06">
@@ -1769,7 +1771,7 @@
       </node>
       <node TEXT="Digital assets" ID="ID_528" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_625" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_626" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <attribute NAME="tags" VALUE="regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; Crypto tax</p></body></html></richcontent>
         <node TEXT="Crypto exchanges &amp; wallets" ID="ID_529" COLOR="#C99A06">
@@ -2052,2973 +2054,3091 @@
         <node TEXT="Small-business insurance" ID="ID_613" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
+        <node TEXT="Crop insurance" ID="ID_614" COLOR="#C99A06">
+          <edge COLOR="#C99A06" WIDTH="1"/>
+        </node>
       </node>
-      <node TEXT="Insurtech" ID="ID_614" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Insurtech" ID="ID_615" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="Digital insurers" ID="ID_615" COLOR="#C99A06">
+        <node TEXT="Digital insurers" ID="ID_616" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Lemonade.</p></body></html></richcontent>
         </node>
-        <node TEXT="Embedded insurance" ID="ID_616" COLOR="#C99A06">
+        <node TEXT="Embedded insurance" ID="ID_617" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Usage-based insurance" ID="ID_617" COLOR="#C99A06">
+        <node TEXT="Usage-based insurance" ID="ID_618" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Parametric insurance" ID="ID_618" COLOR="#C99A06">
+        <node TEXT="Parametric insurance" ID="ID_619" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Tax &amp; Legal" ID="ID_619" COLOR="#C99A06" FOLDED="true">
+    <node TEXT="Tax &amp; Legal" ID="ID_620" COLOR="#C99A06" FOLDED="true">
       <edge COLOR="#C99A06" WIDTH="2"/>
-      <node TEXT="Tax planning" ID="ID_620" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Tax planning" ID="ID_621" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="Individual tax" ID="ID_621" COLOR="#C99A06">
+        <node TEXT="Individual tax" ID="ID_622" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Small-business tax" ID="ID_622" COLOR="#C99A06">
+        <node TEXT="Small-business tax" ID="ID_623" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Capital gains" ID="ID_623" COLOR="#C99A06">
+        <node TEXT="Capital gains" ID="ID_624" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="International &amp; expat tax" ID="ID_624" COLOR="#C99A06">
+        <node TEXT="International &amp; expat tax" ID="ID_625" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Crypto tax" ID="ID_625" COLOR="#C99A06">
+        <node TEXT="Crypto tax" ID="ID_626" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Tax preparation" ID="ID_626" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Tax preparation" ID="ID_627" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="AI tax prep 🔥" ID="ID_627" COLOR="#C99A06">
+        <node TEXT="AI tax prep 🔥" ID="ID_628" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending, ai-native"/>
         </node>
-        <node TEXT="DIY filing software" ID="ID_628" COLOR="#C99A06">
+        <node TEXT="DIY filing software" ID="ID_629" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Tax resolution" ID="ID_629" COLOR="#C99A06">
+        <node TEXT="Tax resolution" ID="ID_630" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
       </node>
-      <node TEXT="Consumer legal services" ID="ID_630" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Consumer legal services" ID="ID_631" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_770" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_776" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <attribute NAME="tags" VALUE="regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Unauthorized-practice-of-law rules apply.</p><p>See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce process &gt; Online divorce</p></body></html></richcontent>
-        <node TEXT="Legal marketplaces" ID="ID_631" COLOR="#C99A06">
+        <node TEXT="Legal marketplaces" ID="ID_632" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Small claims &amp; disputes" ID="ID_632" COLOR="#C99A06">
+        <node TEXT="Small claims &amp; disputes" ID="ID_633" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="AI legal assistants" ID="ID_633" COLOR="#C99A06">
+        <node TEXT="AI legal assistants" ID="ID_634" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
       </node>
-      <node TEXT="Immigration services" ID="ID_634" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Immigration services" ID="ID_635" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved, regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Needs attorneys or DOJ-accredited representatives. 'Notario fraud' is a known risk.</p></body></html></richcontent>
-        <node TEXT="Visa applications" ID="ID_635" COLOR="#C99A06">
+        <node TEXT="Visa applications" ID="ID_636" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Green cards" ID="ID_636" COLOR="#C99A06">
+        <node TEXT="Green cards" ID="ID_637" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Citizenship" ID="ID_637" COLOR="#C99A06">
+        <node TEXT="Citizenship" ID="ID_638" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Employer immigration" ID="ID_638" COLOR="#C99A06">
+        <node TEXT="Employer immigration" ID="ID_639" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <attribute NAME="tags" VALUE="b2b"/>
         </node>
       </node>
     </node>
-    <node TEXT="Entrepreneurship" ID="ID_639" COLOR="#C99A06" FOLDED="true">
+    <node TEXT="Entrepreneurship" ID="ID_640" COLOR="#C99A06" FOLDED="true">
       <edge COLOR="#C99A06" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_1367" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1382" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Enterprise &amp; AI &gt; Software &amp; Developer Tools &gt; No-code &amp; low-code</p></body></html></richcontent>
-      <node TEXT="Starting a business" ID="ID_640" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Starting a business" ID="ID_641" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="Idea validation" ID="ID_641" COLOR="#C99A06">
+        <node TEXT="Idea validation" ID="ID_642" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Market research" ID="ID_642" COLOR="#C99A06">
+        <node TEXT="Market research" ID="ID_643" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Business planning" ID="ID_643" COLOR="#C99A06">
+        <node TEXT="Business planning" ID="ID_644" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Business formation" ID="ID_644" COLOR="#C99A06">
+        <node TEXT="Business formation" ID="ID_645" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Entity structures and compliance; e.g. Stripe Atlas.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Acquisition entrepreneurship" ID="ID_645" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Acquisition entrepreneurship" ID="ID_646" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Buying a business (ETA, micro-PE).</p></body></html></richcontent>
-        <node TEXT="Search funds" ID="ID_646" COLOR="#C99A06">
+        <node TEXT="Search funds" ID="ID_647" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Business-for-sale marketplaces" ID="ID_647" COLOR="#C99A06">
+        <node TEXT="Business-for-sale marketplaces" ID="ID_648" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="SBA acquisition loans" ID="ID_648" COLOR="#C99A06">
+        <node TEXT="SBA acquisition loans" ID="ID_649" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
-        <node TEXT="Small-business roll-ups" ID="ID_649" COLOR="#C99A06">
+        <node TEXT="Small-business roll-ups" ID="ID_650" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Small business" ID="ID_650" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Small business" ID="ID_651" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="Local services" ID="ID_651" COLOR="#C99A06">
+        <node TEXT="Local services" ID="ID_652" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Retail shops" ID="ID_652" COLOR="#C99A06">
+        <node TEXT="Retail shops" ID="ID_653" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Franchises" ID="ID_653" COLOR="#C99A06">
+        <node TEXT="Franchises" ID="ID_654" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Skilled-trades businesses 🔥" ID="ID_654" COLOR="#C99A06">
+        <node TEXT="Skilled-trades businesses 🔥" ID="ID_655" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>HVAC, electrical, plumbing; acute labor shortage.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Online business" ID="ID_655" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Online business" ID="ID_656" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="E-commerce" ID="ID_656" COLOR="#C99A06">
+        <node TEXT="E-commerce" ID="ID_657" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="SaaS" ID="ID_657" COLOR="#C99A06">
+        <node TEXT="SaaS" ID="ID_658" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Digital products" ID="ID_658" COLOR="#C99A06">
+        <node TEXT="Digital products" ID="ID_659" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Memberships" ID="ID_659" COLOR="#C99A06">
+        <node TEXT="Memberships" ID="ID_660" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Online courses" ID="ID_660" COLOR="#C99A06">
+        <node TEXT="Online courses" ID="ID_661" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Affiliate marketing" ID="ID_661" COLOR="#C99A06">
+        <node TEXT="Affiliate marketing" ID="ID_662" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Creator economy" ID="ID_662" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Creator economy" ID="ID_663" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1458" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1473" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Enterprise &amp; AI &gt; Marketing &amp; Sales Tech &gt; Creator platforms &gt; UGC marketplaces</p></body></html></richcontent>
-        <node TEXT="YouTube" ID="ID_663" COLOR="#C99A06">
+        <node TEXT="YouTube" ID="ID_664" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Podcasting" ID="ID_664" COLOR="#C99A06">
+        <node TEXT="Podcasting" ID="ID_665" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Newsletters" ID="ID_665" COLOR="#C99A06">
+        <node TEXT="Newsletters" ID="ID_666" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Influencer brands" ID="ID_666" COLOR="#C99A06">
+        <node TEXT="Influencer brands" ID="ID_667" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Includes personal brands.</p></body></html></richcontent>
         </node>
-        <node TEXT="Live &amp; social commerce 🔥" ID="ID_667" COLOR="#C99A06">
+        <node TEXT="Live &amp; social commerce 🔥" ID="ID_668" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Fan memberships" ID="ID_668" COLOR="#C99A06">
+        <node TEXT="Fan memberships" ID="ID_669" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Patreon.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Freelancing &amp; fractional" ID="ID_669" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Freelancing &amp; fractional" ID="ID_670" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="Consulting" ID="ID_670" COLOR="#C99A06">
+        <node TEXT="Consulting" ID="ID_671" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Copywriting" ID="ID_671" COLOR="#C99A06">
+        <node TEXT="Copywriting" ID="ID_672" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Design" ID="ID_672" COLOR="#C99A06">
+        <node TEXT="Design" ID="ID_673" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Programming" ID="ID_673" COLOR="#C99A06">
+        <node TEXT="Programming" ID="ID_674" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Marketing services" ID="ID_674" COLOR="#C99A06">
+        <node TEXT="Marketing services" ID="ID_675" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Fractional executives" ID="ID_675" COLOR="#C99A06">
+        <node TEXT="Fractional executives" ID="ID_676" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Fractional CFO/CMO/CTO.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Agencies" ID="ID_676" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Agencies" ID="ID_677" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
-        <node TEXT="Digital marketing" ID="ID_677" COLOR="#C99A06">
+        <node TEXT="Digital marketing" ID="ID_678" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="SEO" ID="ID_678" COLOR="#C99A06">
+        <node TEXT="SEO" ID="ID_679" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Advertising" ID="ID_679" COLOR="#C99A06">
+        <node TEXT="Advertising" ID="ID_680" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Web development" ID="ID_680" COLOR="#C99A06">
+        <node TEXT="Web development" ID="ID_681" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="AI automation agencies" ID="ID_681" COLOR="#C99A06">
+        <node TEXT="AI automation agencies" ID="ID_682" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Solopreneurship 🔥" ID="ID_682" COLOR="#C99A06" FOLDED="true">
+      <node TEXT="Solopreneurship 🔥" ID="ID_683" COLOR="#C99A06" FOLDED="true">
         <edge COLOR="#C99A06" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="AI-leveraged solo businesses" ID="ID_683" COLOR="#C99A06">
+        <node TEXT="AI-leveraged solo businesses" ID="ID_684" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Micro-SaaS" ID="ID_684" COLOR="#C99A06">
+        <node TEXT="Micro-SaaS" ID="ID_685" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Productized services" ID="ID_685" COLOR="#C99A06">
+        <node TEXT="Productized services" ID="ID_686" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
-        <node TEXT="Solo operator tools" ID="ID_686" COLOR="#C99A06">
+        <node TEXT="Solo operator tools" ID="ID_687" COLOR="#C99A06">
           <edge COLOR="#C99A06" WIDTH="1"/>
         </node>
       </node>
     </node>
   </node>
-  <node TEXT="Relationships" ID="ID_687" POSITION="left" COLOR="#ffffff" BACKGROUND_COLOR="#D63A7A">
+  <node TEXT="Relationships" ID="ID_688" POSITION="left" COLOR="#ffffff" BACKGROUND_COLOR="#D63A7A">
     <font BOLD="true" NAME="SansSerif" SIZE="14"/>
     <edge COLOR="#D63A7A" WIDTH="2"/>
     <richcontent TYPE="NOTE"><html><head></head><body><p>Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health &amp; Wellness.</p></body></html></richcontent>
-    <node TEXT="Dating" ID="ID_688" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Dating" ID="ID_689" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
-      <node TEXT="Dating platforms" ID="ID_689" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Dating platforms" ID="ID_690" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Swipe apps" ID="ID_690" COLOR="#D63A7A">
+        <node TEXT="Swipe apps" ID="ID_691" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Curated apps" ID="ID_691" COLOR="#D63A7A">
+        <node TEXT="Curated apps" ID="ID_692" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Profile optimization" ID="ID_692" COLOR="#D63A7A">
+        <node TEXT="Profile optimization" ID="ID_693" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Profile photography" ID="ID_693" COLOR="#D63A7A">
+        <node TEXT="Profile photography" ID="ID_694" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="AI dating tools" ID="ID_694" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="AI dating tools" ID="ID_695" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="ai-native"/>
-        <node TEXT="AI profile writing" ID="ID_695" COLOR="#D63A7A">
+        <node TEXT="AI profile writing" ID="ID_696" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="AI message coaching" ID="ID_696" COLOR="#D63A7A">
+        <node TEXT="AI message coaching" ID="ID_697" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="AI matchmaking" ID="ID_697" COLOR="#D63A7A">
+        <node TEXT="AI matchmaking" ID="ID_698" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Dating coaching" ID="ID_698" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Dating coaching" ID="ID_699" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Covers first dates, conversation, flirting and confidence.</p></body></html></richcontent>
-        <node TEXT="Dating coaches" ID="ID_699" COLOR="#D63A7A">
+        <node TEXT="Dating coaches" ID="ID_700" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Dating courses" ID="ID_700" COLOR="#D63A7A">
+        <node TEXT="Dating courses" ID="ID_701" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Image consulting" ID="ID_701" COLOR="#D63A7A">
+        <node TEXT="Image consulting" ID="ID_702" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Matchmaking &amp; events" ID="ID_702" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Matchmaking &amp; events" ID="ID_703" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Professional matchmaking" ID="ID_703" COLOR="#D63A7A">
+        <node TEXT="Professional matchmaking" ID="ID_704" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Niche matchmaking" ID="ID_704" COLOR="#D63A7A">
+        <node TEXT="Niche matchmaking" ID="ID_705" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="International matchmaking" ID="ID_705" COLOR="#D63A7A">
+        <node TEXT="International matchmaking" ID="ID_706" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Speed dating" ID="ID_706" COLOR="#D63A7A">
+        <node TEXT="Speed dating" ID="ID_707" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Singles events" ID="ID_707" COLOR="#D63A7A">
+        <node TEXT="Singles events" ID="ID_708" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Niche dating" ID="ID_708" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Niche dating" ID="ID_709" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Senior dating" ID="ID_709" COLOR="#D63A7A">
+        <node TEXT="Senior dating" ID="ID_710" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="LGBTQ+ dating" ID="ID_710" COLOR="#D63A7A">
+        <node TEXT="LGBTQ+ dating" ID="ID_711" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Single-parent dating" ID="ID_711" COLOR="#D63A7A">
+        <node TEXT="Single-parent dating" ID="ID_712" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Intercultural dating" ID="ID_712" COLOR="#D63A7A">
+        <node TEXT="Intercultural dating" ID="ID_713" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Sober dating" ID="ID_713" COLOR="#D63A7A">
+        <node TEXT="Sober dating" ID="ID_714" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Dating with disability" ID="ID_714" COLOR="#D63A7A">
+        <node TEXT="Dating with disability" ID="ID_715" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Faith-based dating" ID="ID_715" COLOR="#D63A7A">
+        <node TEXT="Faith-based dating" ID="ID_716" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Dating safety" ID="ID_716" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Dating safety" ID="ID_717" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
-        <node TEXT="Identity verification" ID="ID_717" COLOR="#D63A7A">
+        <node TEXT="Identity verification" ID="ID_718" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Background checks" ID="ID_718" COLOR="#D63A7A">
+        <node TEXT="Background checks" ID="ID_719" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>FCRA applies.</p></body></html></richcontent>
         </node>
-        <node TEXT="Date check-in apps" ID="ID_719" COLOR="#D63A7A">
+        <node TEXT="Date check-in apps" ID="ID_720" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Romance-scam protection" ID="ID_720" COLOR="#D63A7A">
+        <node TEXT="Romance-scam protection" ID="ID_721" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Couples &amp; Marriage" ID="ID_721" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Couples &amp; Marriage" ID="ID_722" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_1302" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1317" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings</p></body></html></richcontent>
-      <node TEXT="Premarital" ID="ID_722" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Premarital" ID="ID_723" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Premarital counseling" ID="ID_723" COLOR="#D63A7A">
+        <node TEXT="Premarital counseling" ID="ID_724" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Compatibility assessments" ID="ID_724" COLOR="#D63A7A">
+        <node TEXT="Compatibility assessments" ID="ID_725" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Premarital courses" ID="ID_725" COLOR="#D63A7A">
+        <node TEXT="Premarital courses" ID="ID_726" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Prenups" ID="ID_726" COLOR="#D63A7A">
+        <node TEXT="Prenups" ID="ID_727" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
       </node>
-      <node TEXT="Relationship coaching" ID="ID_727" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Relationship coaching" ID="ID_728" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <richcontent TYPE="NOTE"><html><head></head><body><p>Covers communication, trust, conflict resolution, boundaries and shared goals.</p></body></html></richcontent>
-        <node TEXT="Couples apps" ID="ID_728" COLOR="#D63A7A">
+        <richcontent TYPE="NOTE"><html><head></head><body><p>Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.</p></body></html></richcontent>
+        <node TEXT="Couples apps" ID="ID_729" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Paired, Lasting.</p></body></html></richcontent>
         </node>
-        <node TEXT="AI relationship coaching" ID="ID_729" COLOR="#D63A7A">
+        <node TEXT="AI relationship coaching" ID="ID_730" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Couples coaching" ID="ID_730" COLOR="#D63A7A">
+        <node TEXT="Couples coaching" ID="ID_731" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Relationship courses" ID="ID_731" COLOR="#D63A7A">
+        <node TEXT="Relationship courses" ID="ID_732" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Marriage enrichment" ID="ID_732" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Marriage enrichment" ID="ID_733" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Date-night services" ID="ID_733" COLOR="#D63A7A">
+        <node TEXT="Date-night services" ID="ID_734" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Couples activities" ID="ID_734" COLOR="#D63A7A">
+        <node TEXT="Couples activities" ID="ID_735" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Relationship retreats" ID="ID_735" COLOR="#D63A7A">
+        <node TEXT="Relationship retreats" ID="ID_736" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Long-distance relationships" ID="ID_736" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Long-distance relationships" ID="ID_737" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="LDR apps" ID="ID_737" COLOR="#D63A7A">
+        <node TEXT="LDR apps" ID="ID_738" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Shared-experience tools" ID="ID_738" COLOR="#D63A7A">
+        <node TEXT="Shared-experience tools" ID="ID_739" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Visit planning" ID="ID_739" COLOR="#D63A7A">
+        <node TEXT="Visit planning" ID="ID_740" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Relationship repair" ID="ID_740" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Relationship repair" ID="ID_741" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Covers jealousy, insecurity, resentment and recurring conflict.</p></body></html></richcontent>
-        <node TEXT="Infidelity recovery" ID="ID_741" COLOR="#D63A7A">
+        <node TEXT="Infidelity recovery" ID="ID_742" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Trust rebuilding" ID="ID_742" COLOR="#D63A7A">
+        <node TEXT="Trust rebuilding" ID="ID_743" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Discernment counseling" ID="ID_743" COLOR="#D63A7A">
+        <node TEXT="Discernment counseling" ID="ID_744" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Shared household" ID="ID_744" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Shared household" ID="ID_745" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <arrowlink DESTINATION="ID_477" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Money Management &gt; Life-event finance &gt; Couples' finances</p></body></html></richcontent>
-        <node TEXT="Household-task apps" ID="ID_745" COLOR="#D63A7A">
+        <node TEXT="Household-task apps" ID="ID_746" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Shared calendars" ID="ID_746" COLOR="#D63A7A">
+        <node TEXT="Shared calendars" ID="ID_747" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Mental-load tools" ID="ID_747" COLOR="#D63A7A">
+        <node TEXT="Mental-load tools" ID="ID_748" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Intimacy &amp; Sexuality" ID="ID_748" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Intimacy &amp; Sexuality" ID="ID_749" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
       <arrowlink DESTINATION="ID_208" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
-      <richcontent TYPE="NOTE"><html><head></head><body><p>Relational intimacy. Clinical sexual health lives in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health.</p><p>See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness</p></body></html></richcontent>
-      <node TEXT="Intimacy coaching" ID="ID_749" COLOR="#D63A7A" FOLDED="true">
+      <richcontent TYPE="NOTE"><html><head></head><body><p>Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health.</p><p>See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness</p></body></html></richcontent>
+      <node TEXT="Therapy &amp; coaching" ID="ID_750" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Sex therapy" ID="ID_750" COLOR="#D63A7A">
+        <node TEXT="Sex therapists" ID="ID_751" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Intimacy coaches" ID="ID_751" COLOR="#D63A7A">
+        <node TEXT="Sex-therapy telehealth" ID="ID_752" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Couples intimacy programs" ID="ID_752" COLOR="#D63A7A">
+        <node TEXT="Intimacy coaches" ID="ID_753" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+        </node>
+        <node TEXT="Sexual performance anxiety" ID="ID_754" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Relational challenges" ID="ID_753" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Couples intimacy" ID="ID_755" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Desire mismatch" ID="ID_754" COLOR="#D63A7A">
+        <node TEXT="Guided intimacy courses" ID="ID_756" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Postpartum intimacy" ID="ID_755" COLOR="#D63A7A">
+        <node TEXT="Intimacy apps" ID="ID_757" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Midlife intimacy" ID="ID_756" COLOR="#D63A7A">
+        <node TEXT="Intimacy retreats" ID="ID_758" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Sexual performance anxiety" ID="ID_757" COLOR="#D63A7A">
+        <node TEXT="Conversation card games" ID="ID_759" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Connection tools" ID="ID_758" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Life-stage intimacy" ID="ID_760" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Couples intimacy apps" ID="ID_759" COLOR="#D63A7A">
+        <node TEXT="Postpartum intimacy" ID="ID_761" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Conversation card games" ID="ID_760" COLOR="#D63A7A">
+        <node TEXT="Midlife intimacy" ID="ID_762" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <arrowlink DESTINATION="ID_352" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women's health &gt; Menopause &amp; perimenopause</p></body></html></richcontent>
+        </node>
+        <node TEXT="Intimacy with illness &amp; disability" ID="ID_763" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="underserved"/>
+        </node>
+      </node>
+      <node TEXT="Desire &amp; communication" ID="ID_764" COLOR="#D63A7A" FOLDED="true">
+        <edge COLOR="#D63A7A" WIDTH="1"/>
+        <node TEXT="Desire-mismatch programs" ID="ID_765" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Consent education" ID="ID_761" COLOR="#D63A7A">
+        <node TEXT="Consent education" ID="ID_766" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+        </node>
+        <node TEXT="Sexual-communication courses" ID="ID_767" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Breakups &amp; Divorce" ID="ID_762" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Breakups &amp; Divorce" ID="ID_768" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
-      <node TEXT="Breakup support" ID="ID_763" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Breakup support" ID="ID_769" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Covers emotional recovery, no-contact and rebuilding confidence.</p></body></html></richcontent>
-        <node TEXT="Breakup coaching" ID="ID_764" COLOR="#D63A7A">
+        <node TEXT="Breakup coaching" ID="ID_770" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="No-contact apps" ID="ID_765" COLOR="#D63A7A">
+        <node TEXT="No-contact apps" ID="ID_771" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Heartbreak programs" ID="ID_766" COLOR="#D63A7A">
+        <node TEXT="Heartbreak programs" ID="ID_772" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Divorce process" ID="ID_767" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Divorce process" ID="ID_773" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Divorce preparation" ID="ID_768" COLOR="#D63A7A">
+        <node TEXT="Divorce preparation" ID="ID_774" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Divorce mediation" ID="ID_769" COLOR="#D63A7A">
+        <node TEXT="Divorce mediation" ID="ID_775" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Online divorce" ID="ID_770" COLOR="#D63A7A">
+        <node TEXT="Online divorce" ID="ID_776" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
-        <node TEXT="Divorce coaching" ID="ID_771" COLOR="#D63A7A">
+        <node TEXT="Divorce coaching" ID="ID_777" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Divorce finance" ID="ID_772" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Divorce finance" ID="ID_778" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Asset-splitting tools" ID="ID_773" COLOR="#D63A7A">
+        <node TEXT="Asset-splitting tools" ID="ID_779" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Financial transition planning" ID="ID_774" COLOR="#D63A7A">
+        <node TEXT="Financial transition planning" ID="ID_780" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Divorce financial analysts" ID="ID_775" COLOR="#D63A7A">
+        <node TEXT="Divorce financial analysts" ID="ID_781" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Co-parenting" ID="ID_776" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Co-parenting" ID="ID_782" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Co-parenting apps" ID="ID_777" COLOR="#D63A7A">
+        <node TEXT="Co-parenting apps" ID="ID_783" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Custody scheduling" ID="ID_778" COLOR="#D63A7A">
+        <node TEXT="Custody scheduling" ID="ID_784" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Parallel parenting support" ID="ID_779" COLOR="#D63A7A">
+        <node TEXT="Parallel parenting support" ID="ID_785" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Life after divorce" ID="ID_780" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Life after divorce" ID="ID_786" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Dating after divorce" ID="ID_781" COLOR="#D63A7A">
+        <node TEXT="Dating after divorce" ID="ID_787" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Social rebuilding" ID="ID_782" COLOR="#D63A7A">
+        <node TEXT="Social rebuilding" ID="ID_788" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Personal reinvention" ID="ID_783" COLOR="#D63A7A">
+        <node TEXT="Personal reinvention" ID="ID_789" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Parenting &amp; Family" ID="ID_784" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Parenting &amp; Family" ID="ID_790" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
       <arrowlink DESTINATION="ID_231" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving</p></body></html></richcontent>
-      <node TEXT="Parenting stages" ID="ID_785" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Parenting stages" ID="ID_791" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Newborns" ID="ID_786" COLOR="#D63A7A">
+        <node TEXT="Newborns" ID="ID_792" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Toddlers" ID="ID_787" COLOR="#D63A7A">
+        <node TEXT="Toddlers" ID="ID_793" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="School-age kids" ID="ID_788" COLOR="#D63A7A">
+        <node TEXT="School-age kids" ID="ID_794" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Teens" ID="ID_789" COLOR="#D63A7A">
+        <node TEXT="Teens" ID="ID_795" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Adult children" ID="ID_790" COLOR="#D63A7A">
+        <node TEXT="Adult children" ID="ID_796" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Parenting support" ID="ID_791" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Parenting support" ID="ID_797" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Covers parent-child communication, discipline and emotional connection.</p></body></html></richcontent>
-        <node TEXT="Parent coaching" ID="ID_792" COLOR="#D63A7A">
+        <node TEXT="Parent coaching" ID="ID_798" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Parenting courses" ID="ID_793" COLOR="#D63A7A">
+        <node TEXT="Parenting courses" ID="ID_799" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Parenting communities" ID="ID_794" COLOR="#D63A7A">
+        <node TEXT="Parenting communities" ID="ID_800" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Family organizers" ID="ID_795" COLOR="#D63A7A">
+        <node TEXT="Family organizers" ID="ID_801" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Chore &amp; allowance apps" ID="ID_796" COLOR="#D63A7A">
+        <node TEXT="Chore &amp; allowance apps" ID="ID_802" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Child online safety" ID="ID_797" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Child online safety" ID="ID_803" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>COPPA and age-appropriate-design laws.</p></body></html></richcontent>
-        <node TEXT="Parental controls" ID="ID_798" COLOR="#D63A7A">
+        <node TEXT="Parental controls" ID="ID_804" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Kids' phones" ID="ID_799" COLOR="#D63A7A">
+        <node TEXT="Kids' phones" ID="ID_805" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Age verification" ID="ID_800" COLOR="#D63A7A">
+        <node TEXT="Age verification" ID="ID_806" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Online-safety education" ID="ID_801" COLOR="#D63A7A">
+        <node TEXT="Online-safety education" ID="ID_807" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Childcare" ID="ID_802" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Childcare" ID="ID_808" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Acute 'care desert' shortage.</p></body></html></richcontent>
-        <node TEXT="Childcare marketplaces" ID="ID_803" COLOR="#D63A7A">
+        <node TEXT="Childcare marketplaces" ID="ID_809" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Nannies &amp; babysitters" ID="ID_804" COLOR="#D63A7A">
+        <node TEXT="Nannies &amp; babysitters" ID="ID_810" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Nanny shares" ID="ID_805" COLOR="#D63A7A">
+        <node TEXT="Nanny shares" ID="ID_811" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Employer childcare" ID="ID_806" COLOR="#D63A7A">
+        <node TEXT="Employer childcare" ID="ID_812" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="b2b"/>
         </node>
       </node>
-      <node TEXT="Baby &amp; kids products" ID="ID_807" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Baby &amp; kids products" ID="ID_813" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Baby tech" ID="ID_808" COLOR="#D63A7A">
+        <node TEXT="Baby tech" ID="ID_814" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Monitors and smart nursery devices.</p></body></html></richcontent>
         </node>
-        <node TEXT="STEM toys" ID="ID_809" COLOR="#D63A7A">
+        <node TEXT="STEM toys" ID="ID_815" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Kids' activity booking" ID="ID_810" COLOR="#D63A7A">
+        <node TEXT="Kids' activity booking" ID="ID_816" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Family structures" ID="ID_811" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Family structures" ID="ID_817" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Blended families" ID="ID_812" COLOR="#D63A7A">
+        <node TEXT="Blended families" ID="ID_818" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="underserved"/>
         </node>
-        <node TEXT="Single parents" ID="ID_813" COLOR="#D63A7A">
+        <node TEXT="Single parents" ID="ID_819" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Multigenerational households" ID="ID_814" COLOR="#D63A7A">
+        <node TEXT="Multigenerational households" ID="ID_820" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Adoption &amp; foster care" ID="ID_815" COLOR="#D63A7A">
+        <node TEXT="Adoption &amp; foster care" ID="ID_821" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="underserved"/>
         </node>
-        <node TEXT="Kinship care" ID="ID_816" COLOR="#D63A7A">
+        <node TEXT="Kinship care" ID="ID_822" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Special-needs parenting" ID="ID_817" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Special-needs parenting" ID="ID_823" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
-        <node TEXT="IEP &amp; school advocacy" ID="ID_818" COLOR="#D63A7A">
+        <node TEXT="IEP &amp; school advocacy" ID="ID_824" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Therapy coordination" ID="ID_819" COLOR="#D63A7A">
+        <node TEXT="Therapy coordination" ID="ID_825" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Special-needs parent communities" ID="ID_820" COLOR="#D63A7A">
+        <node TEXT="Special-needs parent communities" ID="ID_826" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Extended family" ID="ID_821" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Extended family" ID="ID_827" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Covers family boundaries and sibling conflict.</p></body></html></richcontent>
-        <node TEXT="In-law relationships" ID="ID_822" COLOR="#D63A7A">
+        <node TEXT="In-law relationships" ID="ID_828" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Grandparenting" ID="ID_823" COLOR="#D63A7A">
+        <node TEXT="Grandparenting" ID="ID_829" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Adult siblings" ID="ID_824" COLOR="#D63A7A">
+        <node TEXT="Adult siblings" ID="ID_830" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Genealogy &amp; family history" ID="ID_825" COLOR="#D63A7A">
+        <node TEXT="Genealogy &amp; family history" ID="ID_831" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Friendship &amp; Community" ID="ID_826" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Friendship &amp; Community" ID="ID_832" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_919" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_922" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech</p></body></html></richcontent>
-      <node TEXT="Making friends" ID="ID_827" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Making friends" ID="ID_833" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.</p></body></html></richcontent>
-        <node TEXT="Friendship apps" ID="ID_828" COLOR="#D63A7A">
+        <node TEXT="Friendship apps" ID="ID_834" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Bumble BFF.</p></body></html></richcontent>
         </node>
-        <node TEXT="Friend-matching dinners" ID="ID_829" COLOR="#D63A7A">
+        <node TEXT="Friend-matching dinners" ID="ID_835" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Newcomer networks" ID="ID_830" COLOR="#D63A7A">
+        <node TEXT="Newcomer networks" ID="ID_836" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Online friendship communities" ID="ID_831" COLOR="#D63A7A">
+        <node TEXT="Online friendship communities" ID="ID_837" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Loneliness &amp; connection" ID="ID_832" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Loneliness &amp; connection" ID="ID_838" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>US Surgeon General advisory on loneliness, 2023.</p></body></html></richcontent>
-        <node TEXT="Third places" ID="ID_833" COLOR="#D63A7A">
+        <node TEXT="Third places" ID="ID_839" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Social prescribing" ID="ID_834" COLOR="#D63A7A">
+        <node TEXT="Social prescribing" ID="ID_840" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Intergenerational programs" ID="ID_835" COLOR="#D63A7A">
+        <node TEXT="Intergenerational programs" ID="ID_841" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Clubs &amp; groups" ID="ID_836" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Clubs &amp; groups" ID="ID_842" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Hobby clubs" ID="ID_837" COLOR="#D63A7A">
+        <node TEXT="Hobby clubs" ID="ID_843" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Social clubs" ID="ID_838" COLOR="#D63A7A">
+        <node TEXT="Social clubs" ID="ID_844" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Fandom communities" ID="ID_839" COLOR="#D63A7A">
+        <node TEXT="Fandom communities" ID="ID_845" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Local community groups" ID="ID_840" COLOR="#D63A7A">
+        <node TEXT="Local community groups" ID="ID_846" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Expat &amp; immigrant communities" ID="ID_841" COLOR="#D63A7A">
+        <node TEXT="Expat &amp; immigrant communities" ID="ID_847" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="AI companions 🔥" ID="ID_842" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="AI companions 🔥" ID="ID_848" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending, regulated, ai-native"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Open ethical and regulatory questions, especially for minors.</p></body></html></richcontent>
-        <node TEXT="Companion apps" ID="ID_843" COLOR="#D63A7A">
+        <node TEXT="Companion apps" ID="ID_849" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Voice companions" ID="ID_844" COLOR="#D63A7A">
+        <node TEXT="Voice companions" ID="ID_850" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Companion safety &amp; age checks" ID="ID_845" COLOR="#D63A7A">
+        <node TEXT="Companion safety &amp; age checks" ID="ID_851" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Community platforms" ID="ID_846" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Community platforms" ID="ID_852" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Community software" ID="ID_847" COLOR="#D63A7A">
+        <node TEXT="Community software" ID="ID_853" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
           <attribute NAME="tags" VALUE="b2b"/>
         </node>
-        <node TEXT="Social event apps" ID="ID_848" COLOR="#D63A7A">
+        <node TEXT="Social event apps" ID="ID_854" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Neighborhood networks" ID="ID_849" COLOR="#D63A7A">
+        <node TEXT="Neighborhood networks" ID="ID_855" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Social Skills" ID="ID_850" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Social Skills" ID="ID_856" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
-      <node TEXT="Communication skills" ID="ID_851" COLOR="#D63A7A" FOLDED="true">
+      <richcontent TYPE="NOTE"><html><head></head><body><p>Interpersonal skills training sold as coaching, courses, apps and corporate programs.</p></body></html></richcontent>
+      <node TEXT="Communication training" ID="ID_857" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Active listening" ID="ID_852" COLOR="#D63A7A">
+        <node TEXT="Communication coaching" ID="ID_858" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Active listening, assertiveness and conversation skills.</p></body></html></richcontent>
+        </node>
+        <node TEXT="AI conversation roleplay 🔥" ID="ID_859" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <icon BUILTIN="launch"/>
+          <attribute NAME="tags" VALUE="trending, ai-native"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Practice difficult conversations with an AI partner.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Body-language coaching" ID="ID_860" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Conversation skills" ID="ID_853" COLOR="#D63A7A">
+        <node TEXT="Workplace communication programs" ID="ID_861" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="b2b"/>
+        </node>
+      </node>
+      <node TEXT="Public speaking &amp; presence" ID="ID_862" COLOR="#D63A7A" FOLDED="true">
+        <edge COLOR="#D63A7A" WIDTH="1"/>
+        <node TEXT="Public speaking coaching" ID="ID_863" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Assertiveness" ID="ID_854" COLOR="#D63A7A">
+        <node TEXT="Speaking clubs" ID="ID_864" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. the Toastmasters model.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Speech feedback AI" ID="ID_865" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="ai-native"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Yoodli.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Executive presence coaching" ID="ID_866" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Nonverbal communication" ID="ID_855" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-        <node TEXT="Communication styles" ID="ID_856" COLOR="#D63A7A">
+        <node TEXT="Shyness programs" ID="ID_867" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Social confidence" ID="ID_857" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Emotional intelligence" ID="ID_868" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Overcoming shyness" ID="ID_858" COLOR="#D63A7A">
+        <node TEXT="EQ assessments" ID="ID_869" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Public speaking" ID="ID_859" COLOR="#D63A7A">
+        <node TEXT="EQ training" ID="ID_870" COLOR="#D63A7A">
+          <edge COLOR="#D63A7A" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="b2b"/>
+        </node>
+        <node TEXT="Conflict-resolution training" ID="ID_871" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Charisma coaching" ID="ID_860" COLOR="#D63A7A">
+        <node TEXT="Empathy programs for kids" ID="ID_872" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Social-emotional learning (SEL) curricula.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Emotional intelligence" ID="ID_861" COLOR="#D63A7A" FOLDED="true">
-        <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Empathy" ID="ID_862" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-        <node TEXT="Self-awareness" ID="ID_863" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-        <node TEXT="Emotional regulation" ID="ID_864" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-        <node TEXT="Conflict management" ID="ID_865" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Relationship psychology" ID="ID_866" COLOR="#D63A7A" FOLDED="true">
-        <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Attachment styles" ID="ID_867" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-        <node TEXT="Relationship patterns" ID="ID_868" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-        <node TEXT="Personality compatibility" ID="ID_869" COLOR="#D63A7A">
-          <edge COLOR="#D63A7A" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Neurodivergent social skills" ID="ID_870" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Neurodivergent social skills" ID="ID_873" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
-        <node TEXT="Social-skills groups" ID="ID_871" COLOR="#D63A7A">
+        <node TEXT="Social-skills groups" ID="ID_874" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Workplace social coaching" ID="ID_872" COLOR="#D63A7A">
+        <node TEXT="Workplace social coaching" ID="ID_875" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Social-skills apps" ID="ID_873" COLOR="#D63A7A">
+        <node TEXT="Social-skills apps" ID="ID_876" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Death, Grief &amp; Legacy" ID="ID_874" COLOR="#D63A7A" FOLDED="true">
+    <node TEXT="Death, Grief &amp; Legacy" ID="ID_877" COLOR="#D63A7A" FOLDED="true">
       <edge COLOR="#D63A7A" WIDTH="2"/>
       <arrowlink DESTINATION="ID_585" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <attribute NAME="tags" VALUE="underserved"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>'Death tech.'</p><p>See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning</p></body></html></richcontent>
-      <node TEXT="End-of-life planning" ID="ID_875" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="End-of-life planning" ID="ID_878" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Advance directives" ID="ID_876" COLOR="#D63A7A">
+        <node TEXT="Advance directives" ID="ID_879" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Hospice &amp; palliative care" ID="ID_877" COLOR="#D63A7A">
+        <node TEXT="Hospice &amp; palliative care" ID="ID_880" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Death doulas" ID="ID_878" COLOR="#D63A7A">
+        <node TEXT="Death doulas" ID="ID_881" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Funeral services" ID="ID_879" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Funeral services" ID="ID_882" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>State funeral law and the FTC Funeral Rule.</p></body></html></richcontent>
-        <node TEXT="Direct cremation" ID="ID_880" COLOR="#D63A7A">
+        <node TEXT="Direct cremation" ID="ID_883" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Green burial" ID="ID_881" COLOR="#D63A7A">
+        <node TEXT="Green burial" ID="ID_884" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Funeral price comparison" ID="ID_882" COLOR="#D63A7A">
+        <node TEXT="Funeral price comparison" ID="ID_885" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Grief support" ID="ID_883" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Grief support" ID="ID_886" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1238" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1253" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Lifestyle, Home &amp; Experiences &gt; Pets &amp; Animal Care &gt; Pet lifestyle &gt; Pet loss &amp; grief</p></body></html></richcontent>
-        <node TEXT="Grief support groups" ID="ID_884" COLOR="#D63A7A">
+        <node TEXT="Grief support groups" ID="ID_887" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Grief counseling" ID="ID_885" COLOR="#D63A7A">
+        <node TEXT="Grief counseling" ID="ID_888" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Online memorials" ID="ID_886" COLOR="#D63A7A">
+        <node TEXT="Online memorials" ID="ID_889" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Digital legacy" ID="ID_887" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="Digital legacy" ID="ID_890" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Empathy.</p></body></html></richcontent>
-        <node TEXT="Account closure" ID="ID_888" COLOR="#D63A7A">
+        <node TEXT="Account closure" ID="ID_891" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Digital estate vaults" ID="ID_889" COLOR="#D63A7A">
+        <node TEXT="Digital estate vaults" ID="ID_892" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Legacy memoirs" ID="ID_890" COLOR="#D63A7A">
+        <node TEXT="Legacy memoirs" ID="ID_893" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="After-death logistics" ID="ID_891" COLOR="#D63A7A" FOLDED="true">
+      <node TEXT="After-death logistics" ID="ID_894" COLOR="#D63A7A" FOLDED="true">
         <edge COLOR="#D63A7A" WIDTH="1"/>
-        <node TEXT="Estate cleanout" ID="ID_892" COLOR="#D63A7A">
+        <node TEXT="Estate cleanout" ID="ID_895" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Downsizing services" ID="ID_893" COLOR="#D63A7A">
+        <node TEXT="Downsizing services" ID="ID_896" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
-        <node TEXT="Probate navigation" ID="ID_894" COLOR="#D63A7A">
+        <node TEXT="Probate navigation" ID="ID_897" COLOR="#D63A7A">
           <edge COLOR="#D63A7A" WIDTH="1"/>
         </node>
       </node>
     </node>
   </node>
-  <node TEXT="Mind, Meaning &amp; Growth" ID="ID_895" POSITION="right" COLOR="#ffffff" BACKGROUND_COLOR="#7570B3">
+  <node TEXT="Mind, Meaning &amp; Growth" ID="ID_898" POSITION="right" COLOR="#ffffff" BACKGROUND_COLOR="#7570B3">
     <font BOLD="true" NAME="SansSerif" SIZE="14"/>
     <edge COLOR="#7570B3" WIDTH="2"/>
     <richcontent TYPE="NOTE"><html><head></head><body><p>Contemplative practice, meaning, personal development, learning, creativity and career growth.</p></body></html></richcontent>
-    <node TEXT="Contemplative Practice" ID="ID_896" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Contemplative Practice" ID="ID_899" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
       <arrowlink DESTINATION="ID_86" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga</p></body></html></richcontent>
-      <node TEXT="Meditation" ID="ID_897" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Meditation" ID="ID_900" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Meditation apps" ID="ID_898" COLOR="#7570B3">
+        <node TEXT="Meditation apps" ID="ID_901" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Calm, Headspace.</p></body></html></richcontent>
         </node>
-        <node TEXT="Meditation retreats" ID="ID_899" COLOR="#7570B3">
+        <node TEXT="Meditation retreats" ID="ID_902" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Teacher training" ID="ID_900" COLOR="#7570B3">
+        <node TEXT="Teacher training" ID="ID_903" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Workplace mindfulness" ID="ID_901" COLOR="#7570B3">
+        <node TEXT="Workplace mindfulness" ID="ID_904" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="b2b"/>
         </node>
       </node>
-      <node TEXT="Breathwork" ID="ID_902" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Breathwork" ID="ID_905" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Breathwork apps" ID="ID_903" COLOR="#7570B3">
+        <node TEXT="Breathwork apps" ID="ID_906" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Breathwork facilitators" ID="ID_904" COLOR="#7570B3">
+        <node TEXT="Breathwork facilitators" ID="ID_907" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Breath-training devices" ID="ID_905" COLOR="#7570B3">
+        <node TEXT="Breath-training devices" ID="ID_908" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Journaling &amp; reflection" ID="ID_906" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Journaling &amp; reflection" ID="ID_909" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Journaling apps" ID="ID_907" COLOR="#7570B3">
+        <node TEXT="Journaling apps" ID="ID_910" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Day One.</p></body></html></richcontent>
         </node>
-        <node TEXT="AI journaling" ID="ID_908" COLOR="#7570B3">
+        <node TEXT="AI journaling" ID="ID_911" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Guided reflection programs" ID="ID_909" COLOR="#7570B3">
+        <node TEXT="Guided reflection programs" ID="ID_912" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Somatics &amp; embodiment" ID="ID_910" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Somatics &amp; embodiment" ID="ID_913" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Somatic practices" ID="ID_911" COLOR="#7570B3">
+        <node TEXT="Somatic practices" ID="ID_914" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Ecstatic dance" ID="ID_912" COLOR="#7570B3">
+        <node TEXT="Ecstatic dance" ID="ID_915" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Embodiment coaching" ID="ID_913" COLOR="#7570B3">
+        <node TEXT="Embodiment coaching" ID="ID_916" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Digital wellness" ID="ID_914" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Digital wellness" ID="ID_917" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Screen-time apps" ID="ID_915" COLOR="#7570B3">
+        <node TEXT="Screen-time apps" ID="ID_918" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Minimalist phones" ID="ID_916" COLOR="#7570B3">
+        <node TEXT="Minimalist phones" ID="ID_919" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Digital detox retreats" ID="ID_917" COLOR="#7570B3">
+        <node TEXT="Digital detox retreats" ID="ID_920" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Spirituality &amp; Faith" ID="ID_918" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Spirituality &amp; Faith" ID="ID_921" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
-      <node TEXT="Faith tech" ID="ID_919" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Faith tech" ID="ID_922" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <attribute NAME="tags" VALUE="b2b"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Faith communities: giving, streaming and church management.</p></body></html></richcontent>
-        <node TEXT="Church management" ID="ID_920" COLOR="#7570B3">
+        <node TEXT="Church management" ID="ID_923" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Giving platforms" ID="ID_921" COLOR="#7570B3">
+        <node TEXT="Giving platforms" ID="ID_924" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Service streaming" ID="ID_922" COLOR="#7570B3">
+        <node TEXT="Service streaming" ID="ID_925" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Prayer &amp; scripture" ID="ID_923" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Prayer &amp; scripture" ID="ID_926" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Hallow.</p></body></html></richcontent>
-        <node TEXT="Prayer apps" ID="ID_924" COLOR="#7570B3">
+        <node TEXT="Prayer apps" ID="ID_927" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Scripture study" ID="ID_925" COLOR="#7570B3">
+        <node TEXT="Scripture study" ID="ID_928" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Faith-based meditation" ID="ID_926" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Spiritual guidance" ID="ID_927" COLOR="#7570B3" FOLDED="true">
-        <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Spiritual direction" ID="ID_928" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Pilgrimages &amp; retreats" ID="ID_929" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Interfaith communities" ID="ID_930" COLOR="#7570B3">
+        <node TEXT="Faith-based meditation" ID="ID_929" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Modern spirituality" ID="ID_931" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Spiritual guidance" ID="ID_930" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Astrology apps" ID="ID_932" COLOR="#7570B3">
+        <node TEXT="Spiritual direction" ID="ID_931" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Pilgrimages &amp; retreats" ID="ID_932" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Interfaith communities" ID="ID_933" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Modern spirituality" ID="ID_934" COLOR="#7570B3" FOLDED="true">
+        <edge COLOR="#7570B3" WIDTH="1"/>
+        <node TEXT="Astrology apps" ID="ID_935" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Co-Star.</p></body></html></richcontent>
         </node>
-        <node TEXT="Tarot &amp; divination" ID="ID_933" COLOR="#7570B3">
+        <node TEXT="Tarot &amp; divination" ID="ID_936" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Spiritual retail" ID="ID_934" COLOR="#7570B3">
+        <node TEXT="Spiritual retail" ID="ID_937" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Philosophy &amp; Stoicism" ID="ID_935" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Philosophy &amp; Stoicism" ID="ID_938" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Stoicism apps" ID="ID_936" COLOR="#7570B3">
+        <node TEXT="Stoicism apps" ID="ID_939" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Philosophy courses" ID="ID_937" COLOR="#7570B3">
+        <node TEXT="Philosophy courses" ID="ID_940" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Secular communities" ID="ID_938" COLOR="#7570B3">
+        <node TEXT="Secular communities" ID="ID_941" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Purpose &amp; Life Transitions" ID="ID_939" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Purpose &amp; Life Transitions" ID="ID_942" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
-      <node TEXT="Life coaching" ID="ID_940" COLOR="#7570B3" FOLDED="true">
+      <richcontent TYPE="NOTE"><html><head></head><body><p>Guidance on direction and life stages. Self-directed growth products live in Personal Development.</p></body></html></richcontent>
+      <node TEXT="Life coaching" ID="ID_943" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Coach certification" ID="ID_941" COLOR="#7570B3">
+        <node TEXT="Coach certification" ID="ID_944" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Coaching marketplaces" ID="ID_942" COLOR="#7570B3">
+        <node TEXT="Coaching marketplaces" ID="ID_945" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="AI life coaches" ID="ID_943" COLOR="#7570B3">
+        <node TEXT="AI life coaches" ID="ID_946" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-      </node>
-      <node TEXT="Purpose work" ID="ID_944" COLOR="#7570B3" FOLDED="true">
-        <edge COLOR="#7570B3" WIDTH="1"/>
-        <richcontent TYPE="NOTE"><html><head></head><body><p>Includes ikigai-style programs.</p></body></html></richcontent>
-        <node TEXT="Purpose programs" ID="ID_945" COLOR="#7570B3">
+        <node TEXT="Coaching practice software" ID="ID_947" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Values &amp; strengths assessments" ID="ID_946" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Sabbatical planning" ID="ID_947" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="b2b"/>
         </node>
       </node>
-      <node TEXT="Life transitions" ID="ID_948" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Self-discovery" ID="ID_948" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Quarter-life" ID="ID_949" COLOR="#7570B3">
+        <node TEXT="Strengths &amp; values assessments" ID="ID_949" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Midlife" ID="ID_950" COLOR="#7570B3">
+        <node TEXT="Personality assessments" ID="ID_950" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Empty nest" ID="ID_951" COLOR="#7570B3">
+        <node TEXT="Attachment-style assessments" ID="ID_951" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Un-retirement" ID="ID_952" COLOR="#7570B3">
+        <node TEXT="Purpose programs" ID="ID_952" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Includes ikigai-style programs.</p></body></html></richcontent>
         </node>
       </node>
-    </node>
-    <node TEXT="Personal Development" ID="ID_953" COLOR="#7570B3" FOLDED="true">
-      <edge COLOR="#7570B3" WIDTH="2"/>
-      <node TEXT="Inner work" ID="ID_954" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Life-stage transitions" ID="ID_953" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Self-esteem" ID="ID_955" COLOR="#7570B3">
+        <node TEXT="Quarter-life coaching" ID="ID_954" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Self-compassion" ID="ID_956" COLOR="#7570B3">
+        <node TEXT="Midlife reinvention" ID="ID_955" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Body image" ID="ID_957" COLOR="#7570B3">
+        <node TEXT="Empty-nest programs" ID="ID_956" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Resilience training" ID="ID_958" COLOR="#7570B3">
+        <node TEXT="Encore careers" ID="ID_957" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Attachment healing" ID="ID_959" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Boundaries coaching" ID="ID_960" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Un-retirement and second careers after 60.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Growth programs" ID="ID_961" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Sabbaticals &amp; career breaks" ID="ID_958" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Transformational workshops" ID="ID_962" COLOR="#7570B3">
+        <node TEXT="Sabbatical planning" ID="ID_959" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Book summaries &amp; audio" ID="ID_963" COLOR="#7570B3">
+        <node TEXT="Adult gap-year programs" ID="ID_960" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Personal development apps" ID="ID_964" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Growth communities" ID="ID_965" COLOR="#7570B3" FOLDED="true">
-        <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Men's circles" ID="ID_966" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Women's circles" ID="ID_967" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Mastermind groups" ID="ID_968" COLOR="#7570B3">
+        <node TEXT="Career-break communities" ID="ID_961" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Productivity" ID="ID_969" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Personal Development" ID="ID_962" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
-      <node TEXT="Tasks &amp; habits" ID="ID_970" COLOR="#7570B3" FOLDED="true">
+      <richcontent TYPE="NOTE"><html><head></head><body><p>Self-directed growth products: content, programs, experiences and peer groups.</p></body></html></richcontent>
+      <node TEXT="Self-help content" ID="ID_963" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Habit trackers" ID="ID_971" COLOR="#7570B3">
+        <node TEXT="Book summaries &amp; audio" ID="ID_964" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="To-do apps" ID="ID_972" COLOR="#7570B3">
+        <node TEXT="Self-help courses" ID="ID_965" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Goal-setting &amp; accountability" ID="ID_973" COLOR="#7570B3">
+        <node TEXT="Personal development apps" ID="ID_966" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Time management" ID="ID_974" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Inner-work programs" ID="ID_967" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="AI calendars" ID="ID_975" COLOR="#7570B3">
+        <richcontent TYPE="NOTE"><html><head></head><body><p>Non-clinical. Clinical care lives in Mental Health.</p></body></html></richcontent>
+        <node TEXT="Self-esteem programs" ID="ID_968" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Self-compassion training" ID="ID_969" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Body-image programs" ID="ID_970" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Resilience training" ID="ID_971" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Attachment-healing courses" ID="ID_972" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Boundaries coaching" ID="ID_973" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Transformational experiences" ID="ID_974" COLOR="#7570B3" FOLDED="true">
+        <edge COLOR="#7570B3" WIDTH="1"/>
+        <node TEXT="Transformational workshops" ID="ID_975" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Some large-group programs have been criticized for high-pressure sales; vet providers.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Growth retreats" ID="ID_976" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Wilderness programs" ID="ID_977" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Growth communities" ID="ID_978" COLOR="#7570B3" FOLDED="true">
+        <edge COLOR="#7570B3" WIDTH="1"/>
+        <node TEXT="Men's circles" ID="ID_979" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Women's circles" ID="ID_980" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Mastermind groups" ID="ID_981" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+      </node>
+    </node>
+    <node TEXT="Productivity" ID="ID_982" COLOR="#7570B3" FOLDED="true">
+      <edge COLOR="#7570B3" WIDTH="2"/>
+      <node TEXT="Tasks &amp; habits" ID="ID_983" COLOR="#7570B3" FOLDED="true">
+        <edge COLOR="#7570B3" WIDTH="1"/>
+        <node TEXT="Habit trackers" ID="ID_984" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="To-do apps" ID="ID_985" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Goal-setting &amp; accountability" ID="ID_986" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Time management" ID="ID_987" COLOR="#7570B3" FOLDED="true">
+        <edge COLOR="#7570B3" WIDTH="1"/>
+        <node TEXT="AI calendars" ID="ID_988" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Motion.</p></body></html></richcontent>
         </node>
-        <node TEXT="Time tracking" ID="ID_976" COLOR="#7570B3">
+        <node TEXT="Time tracking" ID="ID_989" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Focus apps" ID="ID_977" COLOR="#7570B3">
+        <node TEXT="Focus apps" ID="ID_990" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Knowledge management" ID="ID_978" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Knowledge management" ID="ID_991" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Second brain / PKM.</p></body></html></richcontent>
-        <node TEXT="Note-taking apps" ID="ID_979" COLOR="#7570B3">
+        <node TEXT="Note-taking apps" ID="ID_992" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Notion, Obsidian.</p></body></html></richcontent>
         </node>
-        <node TEXT="Read-later &amp; highlights" ID="ID_980" COLOR="#7570B3">
+        <node TEXT="Read-later &amp; highlights" ID="ID_993" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="AI knowledge assistants" ID="ID_981" COLOR="#7570B3">
+        <node TEXT="AI knowledge assistants" ID="ID_994" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
       </node>
-      <node TEXT="ADHD-friendly productivity" ID="ID_982" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="ADHD-friendly productivity" ID="ID_995" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Body doubling" ID="ID_983" COLOR="#7570B3">
+        <node TEXT="Body doubling" ID="ID_996" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Flow Club, Focusmate.</p></body></html></richcontent>
         </node>
-        <node TEXT="ADHD planners" ID="ID_984" COLOR="#7570B3">
+        <node TEXT="ADHD planners" ID="ID_997" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Visual timers" ID="ID_985" COLOR="#7570B3">
+        <node TEXT="Visual timers" ID="ID_998" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="AI personal assistants 🔥" ID="ID_986" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="AI personal assistants 🔥" ID="ID_999" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending, ai-native"/>
-        <node TEXT="Personal AI agents" ID="ID_987" COLOR="#7570B3">
+        <node TEXT="Personal AI agents" ID="ID_1000" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Inbox &amp; email AI" ID="ID_988" COLOR="#7570B3">
+        <node TEXT="Inbox &amp; email AI" ID="ID_1001" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Voice assistants" ID="ID_989" COLOR="#7570B3">
+        <node TEXT="Voice assistants" ID="ID_1002" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Learning &amp; Education" ID="ID_990" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Learning &amp; Education" ID="ID_1003" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
-      <arrowlink DESTINATION="ID_1417" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1432" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development</p></body></html></richcontent>
-      <node TEXT="Online learning" ID="ID_991" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Online learning" ID="ID_1004" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="MOOCs" ID="ID_992" COLOR="#7570B3">
+        <node TEXT="MOOCs" ID="ID_1005" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Coursera.</p></body></html></richcontent>
         </node>
-        <node TEXT="Course marketplaces" ID="ID_993" COLOR="#7570B3">
+        <node TEXT="Course marketplaces" ID="ID_1006" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Udemy.</p></body></html></richcontent>
         </node>
-        <node TEXT="Cohort-based courses" ID="ID_994" COLOR="#7570B3">
+        <node TEXT="Cohort-based courses" ID="ID_1007" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="AI tutoring 🔥" ID="ID_995" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="AI tutoring 🔥" ID="ID_1008" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending, ai-native"/>
-        <node TEXT="AI tutors" ID="ID_996" COLOR="#7570B3">
+        <node TEXT="AI tutors" ID="ID_1009" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Khanmigo.</p></body></html></richcontent>
         </node>
-        <node TEXT="Homework help apps" ID="ID_997" COLOR="#7570B3">
+        <node TEXT="Homework help apps" ID="ID_1010" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="AI study tools" ID="ID_998" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Test prep &amp; credentials" ID="ID_999" COLOR="#7570B3" FOLDED="true">
-        <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Test prep" ID="ID_1000" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Professional certifications" ID="ID_1001" COLOR="#7570B3">
-          <edge COLOR="#7570B3" WIDTH="1"/>
-        </node>
-        <node TEXT="Micro-credentials" ID="ID_1002" COLOR="#7570B3">
+        <node TEXT="AI study tools" ID="ID_1011" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Language learning" ID="ID_1003" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Test prep &amp; credentials" ID="ID_1012" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Language apps" ID="ID_1004" COLOR="#7570B3">
+        <node TEXT="Test prep" ID="ID_1013" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Professional certifications" ID="ID_1014" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+        <node TEXT="Micro-credentials" ID="ID_1015" COLOR="#7570B3">
+          <edge COLOR="#7570B3" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Language learning" ID="ID_1016" COLOR="#7570B3" FOLDED="true">
+        <edge COLOR="#7570B3" WIDTH="1"/>
+        <node TEXT="Language apps" ID="ID_1017" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Duolingo.</p></body></html></richcontent>
         </node>
-        <node TEXT="Conversation practice" ID="ID_1005" COLOR="#7570B3">
+        <node TEXT="Conversation practice" ID="ID_1018" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Immersion programs" ID="ID_1006" COLOR="#7570B3">
+        <node TEXT="Immersion programs" ID="ID_1019" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="K-12 &amp; alternatives" ID="ID_1007" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="K-12 &amp; alternatives" ID="ID_1020" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Homeschooling" ID="ID_1008" COLOR="#7570B3">
+        <node TEXT="Homeschooling" ID="ID_1021" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Learning pods" ID="ID_1009" COLOR="#7570B3">
+        <node TEXT="Learning pods" ID="ID_1022" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Tutoring" ID="ID_1010" COLOR="#7570B3">
+        <node TEXT="Tutoring" ID="ID_1023" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Microschools" ID="ID_1011" COLOR="#7570B3">
+        <node TEXT="Microschools" ID="ID_1024" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Special education" ID="ID_1012" COLOR="#7570B3">
+        <node TEXT="Special education" ID="ID_1025" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="underserved"/>
         </node>
       </node>
-      <node TEXT="Early &amp; enrichment learning" ID="ID_1013" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Early &amp; enrichment learning" ID="ID_1026" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Early-learning apps" ID="ID_1014" COLOR="#7570B3">
+        <node TEXT="Early-learning apps" ID="ID_1027" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Preschools" ID="ID_1015" COLOR="#7570B3">
+        <node TEXT="Preschools" ID="ID_1028" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Kids' coding classes" ID="ID_1016" COLOR="#7570B3">
+        <node TEXT="Kids' coding classes" ID="ID_1029" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Music lessons" ID="ID_1017" COLOR="#7570B3">
+        <node TEXT="Music lessons" ID="ID_1030" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="After-school programs" ID="ID_1018" COLOR="#7570B3">
+        <node TEXT="After-school programs" ID="ID_1031" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Higher education" ID="ID_1019" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Higher education" ID="ID_1032" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="College admissions" ID="ID_1020" COLOR="#7570B3">
+        <node TEXT="College admissions" ID="ID_1033" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Student services" ID="ID_1021" COLOR="#7570B3">
+        <node TEXT="Student services" ID="ID_1034" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Online degrees" ID="ID_1022" COLOR="#7570B3">
+        <node TEXT="Online degrees" ID="ID_1035" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Bootcamps" ID="ID_1023" COLOR="#7570B3">
+        <node TEXT="Bootcamps" ID="ID_1036" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="School EdTech" ID="ID_1024" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="School EdTech" ID="ID_1037" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <attribute NAME="tags" VALUE="b2b"/>
-        <node TEXT="Teacher tools" ID="ID_1025" COLOR="#7570B3">
+        <node TEXT="Teacher tools" ID="ID_1038" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="School management" ID="ID_1026" COLOR="#7570B3">
+        <node TEXT="School management" ID="ID_1039" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="AI grading &amp; assessment" ID="ID_1027" COLOR="#7570B3">
+        <node TEXT="AI grading &amp; assessment" ID="ID_1040" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
       </node>
     </node>
-    <node TEXT="Creativity &amp; Craft" ID="ID_1028" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Creativity &amp; Craft" ID="ID_1041" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
-      <node TEXT="Writing" ID="ID_1029" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Writing" ID="ID_1042" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Writing tools" ID="ID_1030" COLOR="#7570B3">
+        <node TEXT="Writing tools" ID="ID_1043" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Self-publishing" ID="ID_1031" COLOR="#7570B3">
+        <node TEXT="Self-publishing" ID="ID_1044" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Storytelling courses" ID="ID_1032" COLOR="#7570B3">
+        <node TEXT="Storytelling courses" ID="ID_1045" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Music creation" ID="ID_1033" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Music creation" ID="ID_1046" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Music production" ID="ID_1034" COLOR="#7570B3">
+        <node TEXT="Music production" ID="ID_1047" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Splice.</p></body></html></richcontent>
         </node>
-        <node TEXT="Instrument learning" ID="ID_1035" COLOR="#7570B3">
+        <node TEXT="Instrument learning" ID="ID_1048" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="AI music tools" ID="ID_1036" COLOR="#7570B3">
+        <node TEXT="AI music tools" ID="ID_1049" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
       </node>
-      <node TEXT="Visual arts &amp; craft" ID="ID_1037" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Visual arts &amp; craft" ID="ID_1050" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Artisan revival.</p></body></html></richcontent>
-        <node TEXT="Pottery studios" ID="ID_1038" COLOR="#7570B3">
+        <node TEXT="Pottery studios" ID="ID_1051" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Paint-and-sip" ID="ID_1039" COLOR="#7570B3">
+        <node TEXT="Paint-and-sip" ID="ID_1052" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Art supplies" ID="ID_1040" COLOR="#7570B3">
+        <node TEXT="Art supplies" ID="ID_1053" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Craft kits" ID="ID_1041" COLOR="#7570B3">
+        <node TEXT="Craft kits" ID="ID_1054" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Photo &amp; video" ID="ID_1042" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Photo &amp; video" ID="ID_1055" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Photography" ID="ID_1043" COLOR="#7570B3">
+        <node TEXT="Photography" ID="ID_1056" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Filmmaking" ID="ID_1044" COLOR="#7570B3">
+        <node TEXT="Filmmaking" ID="ID_1057" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Editing tools" ID="ID_1045" COLOR="#7570B3">
+        <node TEXT="Editing tools" ID="ID_1058" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Maker culture" ID="ID_1046" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Maker culture" ID="ID_1059" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="3D printing" ID="ID_1047" COLOR="#7570B3">
+        <node TEXT="3D printing" ID="ID_1060" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Electronics kits" ID="ID_1048" COLOR="#7570B3">
+        <node TEXT="Electronics kits" ID="ID_1061" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Makerspaces" ID="ID_1049" COLOR="#7570B3">
+        <node TEXT="Makerspaces" ID="ID_1062" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Performing arts" ID="ID_1050" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Performing arts" ID="ID_1063" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Taking part yourself, as opposed to attending.</p></body></html></richcontent>
-        <node TEXT="Improv classes" ID="ID_1051" COLOR="#7570B3">
+        <node TEXT="Improv classes" ID="ID_1064" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Acting &amp; theater" ID="ID_1052" COLOR="#7570B3">
+        <node TEXT="Acting &amp; theater" ID="ID_1065" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Dance classes" ID="ID_1053" COLOR="#7570B3">
+        <node TEXT="Dance classes" ID="ID_1066" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Career Development" ID="ID_1054" COLOR="#7570B3" FOLDED="true">
+    <node TEXT="Career Development" ID="ID_1067" COLOR="#7570B3" FOLDED="true">
       <edge COLOR="#7570B3" WIDTH="2"/>
-      <node TEXT="Job search" ID="ID_1055" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Job search" ID="ID_1068" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Career planning" ID="ID_1056" COLOR="#7570B3">
+        <node TEXT="Career planning" ID="ID_1069" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Job boards" ID="ID_1057" COLOR="#7570B3">
+        <node TEXT="Job boards" ID="ID_1070" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Interview preparation" ID="ID_1058" COLOR="#7570B3">
+        <node TEXT="Interview preparation" ID="ID_1071" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Resume tools" ID="ID_1059" COLOR="#7570B3">
+        <node TEXT="Resume tools" ID="ID_1072" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="AI job-application tools" ID="ID_1060" COLOR="#7570B3">
+        <node TEXT="AI job-application tools" ID="ID_1073" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
       </node>
-      <node TEXT="Upskilling" ID="ID_1061" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Upskilling" ID="ID_1074" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Covers communication, project management, data, software, sales, cybersecurity and AI skills.</p></body></html></richcontent>
-        <node TEXT="AI upskilling 🔥" ID="ID_1062" COLOR="#7570B3">
+        <node TEXT="AI upskilling 🔥" ID="ID_1075" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Leadership development" ID="ID_1063" COLOR="#7570B3">
+        <node TEXT="Leadership development" ID="ID_1076" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Technical upskilling" ID="ID_1064" COLOR="#7570B3">
+        <node TEXT="Technical upskilling" ID="ID_1077" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Sales training" ID="ID_1065" COLOR="#7570B3">
+        <node TEXT="Sales training" ID="ID_1078" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Career transitions" ID="ID_1066" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Career transitions" ID="ID_1079" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Career switching" ID="ID_1067" COLOR="#7570B3">
+        <node TEXT="Career switching" ID="ID_1080" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Returnships" ID="ID_1068" COLOR="#7570B3">
+        <node TEXT="Returnships" ID="ID_1081" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="underserved"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Career re-entry, e.g. for caregivers.</p></body></html></richcontent>
         </node>
-        <node TEXT="Veterans' transition" ID="ID_1069" COLOR="#7570B3">
+        <node TEXT="Veterans' transition" ID="ID_1082" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <attribute NAME="tags" VALUE="underserved"/>
         </node>
-        <node TEXT="Outplacement" ID="ID_1070" COLOR="#7570B3">
+        <node TEXT="Outplacement" ID="ID_1083" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Inclusive employment" ID="ID_1071" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Inclusive employment" ID="ID_1084" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
-        <node TEXT="Neurodivergent hiring" ID="ID_1072" COLOR="#7570B3">
+        <node TEXT="Neurodivergent hiring" ID="ID_1085" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. autism-hiring programs.</p></body></html></richcontent>
         </node>
-        <node TEXT="Disability employment" ID="ID_1073" COLOR="#7570B3">
+        <node TEXT="Disability employment" ID="ID_1086" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Second-chance hiring" ID="ID_1074" COLOR="#7570B3">
+        <node TEXT="Second-chance hiring" ID="ID_1087" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Skilled trades careers" ID="ID_1075" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Skilled trades careers" ID="ID_1088" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_654" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_655" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Entrepreneurship &gt; Small business &gt; Skilled-trades businesses</p></body></html></richcontent>
-        <node TEXT="Trade schools" ID="ID_1076" COLOR="#7570B3">
+        <node TEXT="Trade schools" ID="ID_1089" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Apprenticeship marketplaces" ID="ID_1077" COLOR="#7570B3">
+        <node TEXT="Apprenticeship marketplaces" ID="ID_1090" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Licensing exam prep" ID="ID_1078" COLOR="#7570B3">
+        <node TEXT="Licensing exam prep" ID="ID_1091" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Work arrangements" ID="ID_1079" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Work arrangements" ID="ID_1092" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_669" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_670" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional</p></body></html></richcontent>
-        <node TEXT="Remote job boards" ID="ID_1080" COLOR="#7570B3">
+        <node TEXT="Remote job boards" ID="ID_1093" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Contract work" ID="ID_1081" COLOR="#7570B3">
+        <node TEXT="Contract work" ID="ID_1094" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Executive search" ID="ID_1082" COLOR="#7570B3">
+        <node TEXT="Executive search" ID="ID_1095" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Professional networking" ID="ID_1083" COLOR="#7570B3" FOLDED="true">
+      <node TEXT="Professional networking" ID="ID_1096" COLOR="#7570B3" FOLDED="true">
         <edge COLOR="#7570B3" WIDTH="1"/>
-        <node TEXT="Professional communities" ID="ID_1084" COLOR="#7570B3">
+        <node TEXT="Professional communities" ID="ID_1097" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Networking events" ID="ID_1085" COLOR="#7570B3">
+        <node TEXT="Networking events" ID="ID_1098" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
-        <node TEXT="Mentorship platforms" ID="ID_1086" COLOR="#7570B3">
+        <node TEXT="Mentorship platforms" ID="ID_1099" COLOR="#7570B3">
           <edge COLOR="#7570B3" WIDTH="1"/>
         </node>
       </node>
     </node>
   </node>
-  <node TEXT="Lifestyle, Home &amp; Experiences" ID="ID_1087" POSITION="left" COLOR="#ffffff" BACKGROUND_COLOR="#E0620D">
+  <node TEXT="Lifestyle, Home &amp; Experiences" ID="ID_1100" POSITION="left" COLOR="#ffffff" BACKGROUND_COLOR="#E0620D">
     <font BOLD="true" NAME="SansSerif" SIZE="14"/>
     <edge COLOR="#E0620D" WIDTH="2"/>
     <richcontent TYPE="NOTE"><html><head></head><body><p>Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around.</p></body></html></richcontent>
-    <node TEXT="Travel &amp; Adventure" ID="ID_1088" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Travel &amp; Adventure" ID="ID_1101" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
-      <node TEXT="Trip planning" ID="ID_1089" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Trip planning" ID="ID_1102" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="AI trip planners" ID="ID_1090" COLOR="#E0620D">
+        <node TEXT="AI trip planners" ID="ID_1103" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Mindtrip.</p></body></html></richcontent>
         </node>
-        <node TEXT="Booking &amp; deals" ID="ID_1091" COLOR="#E0620D">
+        <node TEXT="Booking &amp; deals" ID="ID_1104" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Itinerary apps" ID="ID_1092" COLOR="#E0620D">
+        <node TEXT="Itinerary apps" ID="ID_1105" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Travel rewards" ID="ID_1093" COLOR="#E0620D">
-          <edge COLOR="#E0620D" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Experiential travel" ID="ID_1094" COLOR="#E0620D" FOLDED="true">
-        <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Adventure tours" ID="ID_1095" COLOR="#E0620D">
-          <edge COLOR="#E0620D" WIDTH="1"/>
-        </node>
-        <node TEXT="Expedition travel" ID="ID_1096" COLOR="#E0620D">
-          <edge COLOR="#E0620D" WIDTH="1"/>
-        </node>
-        <node TEXT="Experiences marketplaces" ID="ID_1097" COLOR="#E0620D">
+        <node TEXT="Travel rewards" ID="ID_1106" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Digital nomadism" ID="ID_1098" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Experiential travel" ID="ID_1107" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1181" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
-        <arrowlink DESTINATION="ID_624" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <node TEXT="Adventure tours" ID="ID_1108" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+        <node TEXT="Expedition travel" ID="ID_1109" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+        <node TEXT="Experiences marketplaces" ID="ID_1110" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Digital nomadism" ID="ID_1111" COLOR="#E0620D" FOLDED="true">
+        <edge COLOR="#E0620D" WIDTH="1"/>
+        <arrowlink DESTINATION="ID_1196" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_625" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Living arrangements &gt; Coliving</p><p>See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; International &amp; expat tax</p></body></html></richcontent>
-        <node TEXT="Nomad visas" ID="ID_1099" COLOR="#E0620D">
+        <node TEXT="Nomad visas" ID="ID_1112" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Nomad communities" ID="ID_1100" COLOR="#E0620D">
+        <node TEXT="Nomad communities" ID="ID_1113" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Nomad List.</p></body></html></richcontent>
         </node>
-        <node TEXT="Nomad insurance" ID="ID_1101" COLOR="#E0620D">
+        <node TEXT="Nomad insurance" ID="ID_1114" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Wellness travel" ID="ID_1102" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Wellness travel" ID="ID_1115" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <arrowlink DESTINATION="ID_400" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Care &amp; Conditions &gt; Care Delivery &gt; Patient navigation &gt; Medical tourism</p></body></html></richcontent>
-        <node TEXT="Wellness retreats" ID="ID_1103" COLOR="#E0620D">
+        <node TEXT="Wellness retreats" ID="ID_1116" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Sleep tourism" ID="ID_1104" COLOR="#E0620D">
+        <node TEXT="Sleep tourism" ID="ID_1117" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Spa &amp; thermal travel" ID="ID_1105" COLOR="#E0620D">
+        <node TEXT="Spa &amp; thermal travel" ID="ID_1118" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Traveler segments" ID="ID_1106" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Traveler segments" ID="ID_1119" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Solo travel" ID="ID_1107" COLOR="#E0620D">
+        <node TEXT="Solo travel" ID="ID_1120" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Family travel" ID="ID_1108" COLOR="#E0620D">
+        <node TEXT="Family travel" ID="ID_1121" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Group travel" ID="ID_1109" COLOR="#E0620D">
+        <node TEXT="Group travel" ID="ID_1122" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Accessible travel" ID="ID_1110" COLOR="#E0620D">
+        <node TEXT="Accessible travel" ID="ID_1123" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <attribute NAME="tags" VALUE="underserved"/>
         </node>
       </node>
-      <node TEXT="Sustainable tourism" ID="ID_1111" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Sustainable tourism" ID="ID_1124" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Eco-lodges" ID="ID_1112" COLOR="#E0620D">
+        <node TEXT="Eco-lodges" ID="ID_1125" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Low-carbon travel" ID="ID_1113" COLOR="#E0620D">
+        <node TEXT="Low-carbon travel" ID="ID_1126" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Community-based tourism" ID="ID_1114" COLOR="#E0620D">
+        <node TEXT="Community-based tourism" ID="ID_1127" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Road &amp; outdoor travel" ID="ID_1115" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Road &amp; outdoor travel" ID="ID_1128" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="RV &amp; vanlife" ID="ID_1116" COLOR="#E0620D">
+        <node TEXT="RV &amp; vanlife" ID="ID_1129" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Overlanding" ID="ID_1117" COLOR="#E0620D">
+        <node TEXT="Overlanding" ID="ID_1130" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Glamping" ID="ID_1118" COLOR="#E0620D">
+        <node TEXT="Glamping" ID="ID_1131" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Campground booking" ID="ID_1119" COLOR="#E0620D">
+        <node TEXT="Campground booking" ID="ID_1132" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Food &amp; Beverage" ID="ID_1120" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Food &amp; Beverage" ID="ID_1133" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
-      <node TEXT="Meal solutions" ID="ID_1121" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Meal solutions" ID="ID_1134" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <arrowlink DESTINATION="ID_41" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods</p></body></html></richcontent>
-        <node TEXT="Meal kits" ID="ID_1122" COLOR="#E0620D">
+        <node TEXT="Meal kits" ID="ID_1135" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Prepared meals" ID="ID_1123" COLOR="#E0620D">
+        <node TEXT="Prepared meals" ID="ID_1136" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Meal-planning apps" ID="ID_1124" COLOR="#E0620D">
+        <node TEXT="Meal-planning apps" ID="ID_1137" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Better-for-you foods" ID="ID_1125" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Better-for-you foods" ID="ID_1138" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Functional beverages 🔥" ID="ID_1126" COLOR="#E0620D">
+        <node TEXT="Functional beverages 🔥" ID="ID_1139" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Prebiotic sodas, e.g. Olipop, Poppi.</p></body></html></richcontent>
         </node>
-        <node TEXT="Protein-forward foods 🔥" ID="ID_1127" COLOR="#E0620D">
+        <node TEXT="Protein-forward foods 🔥" ID="ID_1140" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Allergen-free foods" ID="ID_1128" COLOR="#E0620D">
+        <node TEXT="Allergen-free foods" ID="ID_1141" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Diet-specific foods" ID="ID_1129" COLOR="#E0620D">
+        <node TEXT="Diet-specific foods" ID="ID_1142" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Beverages" ID="ID_1130" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Beverages" ID="ID_1143" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Specialty coffee" ID="ID_1131" COLOR="#E0620D">
+        <node TEXT="Specialty coffee" ID="ID_1144" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Non-alcoholic drinks 🔥" ID="ID_1132" COLOR="#E0620D">
+        <node TEXT="Non-alcoholic drinks 🔥" ID="ID_1145" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Athletic Brewing.</p></body></html></richcontent>
         </node>
-        <node TEXT="Wine &amp; spirits" ID="ID_1133" COLOR="#E0620D">
+        <node TEXT="Wine &amp; spirits" ID="ID_1146" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Restaurant tech" ID="ID_1134" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Restaurant tech" ID="ID_1147" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <attribute NAME="tags" VALUE="b2b"/>
-        <node TEXT="Ghost kitchens" ID="ID_1135" COLOR="#E0620D">
+        <node TEXT="Ghost kitchens" ID="ID_1148" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Restaurant ops software" ID="ID_1136" COLOR="#E0620D">
+        <node TEXT="Restaurant ops software" ID="ID_1149" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Reservations &amp; waitlists" ID="ID_1137" COLOR="#E0620D">
+        <node TEXT="Reservations &amp; waitlists" ID="ID_1150" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+        <node TEXT="Restaurant POS" ID="ID_1151" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Toast.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Delivery &amp; quick commerce" ID="ID_1138" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Delivery &amp; quick commerce" ID="ID_1152" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1600" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1649" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery</p></body></html></richcontent>
-        <node TEXT="Food delivery" ID="ID_1139" COLOR="#E0620D">
+        <node TEXT="Food delivery" ID="ID_1153" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Quick commerce" ID="ID_1140" COLOR="#E0620D">
+        <node TEXT="Quick commerce" ID="ID_1154" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Grocery delivery" ID="ID_1141" COLOR="#E0620D">
+        <node TEXT="Grocery delivery" ID="ID_1155" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Artisanal &amp; local food" ID="ID_1142" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Artisanal &amp; local food" ID="ID_1156" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Farmers-market platforms" ID="ID_1143" COLOR="#E0620D">
+        <node TEXT="Farmers-market platforms" ID="ID_1157" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Specialty food DTC" ID="ID_1144" COLOR="#E0620D">
+        <node TEXT="Specialty food DTC" ID="ID_1158" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Farm subscriptions" ID="ID_1145" COLOR="#E0620D">
+        <node TEXT="Farm subscriptions" ID="ID_1159" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Community-supported agriculture (CSA).</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Food waste" ID="ID_1146" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Food waste" ID="ID_1160" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1543" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1571" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Circular economy</p></body></html></richcontent>
-        <node TEXT="Surplus-food apps" ID="ID_1147" COLOR="#E0620D">
+        <node TEXT="Surplus-food apps" ID="ID_1161" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Too Good To Go.</p></body></html></richcontent>
         </node>
-        <node TEXT="Home composting" ID="ID_1148" COLOR="#E0620D">
+        <node TEXT="Home composting" ID="ID_1162" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Upcycled foods" ID="ID_1149" COLOR="#E0620D">
+        <node TEXT="Upcycled foods" ID="ID_1163" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Cooking &amp; groceries" ID="ID_1150" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Cooking &amp; groceries" ID="ID_1164" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Recipe apps" ID="ID_1151" COLOR="#E0620D">
+        <node TEXT="Recipe apps" ID="ID_1165" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Cooking classes" ID="ID_1152" COLOR="#E0620D">
+        <node TEXT="Cooking classes" ID="ID_1166" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Kitchen gadgets" ID="ID_1153" COLOR="#E0620D">
+        <node TEXT="Kitchen gadgets" ID="ID_1167" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Home &amp; Living" ID="ID_1154" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Home &amp; Living" ID="ID_1168" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
-      <node TEXT="Smart home" ID="ID_1155" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Smart home" ID="ID_1169" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Smart home devices" ID="ID_1156" COLOR="#E0620D">
+        <node TEXT="Smart home devices" ID="ID_1170" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Home security" ID="ID_1157" COLOR="#E0620D">
+        <node TEXT="Home security" ID="ID_1171" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Home energy monitors" ID="ID_1158" COLOR="#E0620D">
+        <node TEXT="Home energy monitors" ID="ID_1172" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Design &amp; decor" ID="ID_1159" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Design &amp; decor" ID="ID_1173" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="E-design" ID="ID_1160" COLOR="#E0620D">
+        <node TEXT="E-design" ID="ID_1174" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Havenly.</p></body></html></richcontent>
         </node>
-        <node TEXT="Furniture DTC" ID="ID_1161" COLOR="#E0620D">
+        <node TEXT="Furniture DTC" ID="ID_1175" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Decor marketplaces" ID="ID_1162" COLOR="#E0620D">
+        <node TEXT="Decor marketplaces" ID="ID_1176" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Home-office setups" ID="ID_1163" COLOR="#E0620D">
+        <node TEXT="Home-office setups" ID="ID_1177" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Organizing &amp; moving" ID="ID_1164" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Organizing &amp; moving" ID="ID_1178" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Decluttering services" ID="ID_1165" COLOR="#E0620D">
+        <node TEXT="Decluttering services" ID="ID_1179" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Storage solutions" ID="ID_1166" COLOR="#E0620D">
+        <node TEXT="Storage solutions" ID="ID_1180" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Moving services" ID="ID_1167" COLOR="#E0620D">
+        <node TEXT="Moving services" ID="ID_1181" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Home improvement" ID="ID_1168" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Home improvement" ID="ID_1182" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="DIY projects" ID="ID_1169" COLOR="#E0620D">
+        <node TEXT="DIY projects" ID="ID_1183" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Renovation platforms" ID="ID_1170" COLOR="#E0620D">
+        <node TEXT="Renovation platforms" ID="ID_1184" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Home inspection" ID="ID_1171" COLOR="#E0620D">
+        <node TEXT="Home inspection" ID="ID_1185" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Home services" ID="ID_1172" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Home services" ID="ID_1186" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Thumbtack, TaskRabbit.</p></body></html></richcontent>
-        <node TEXT="Handyman marketplaces" ID="ID_1173" COLOR="#E0620D">
+        <node TEXT="Handyman marketplaces" ID="ID_1187" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Cleaning services" ID="ID_1174" COLOR="#E0620D">
+        <node TEXT="Cleaning services" ID="ID_1188" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Lawn &amp; pest services" ID="ID_1175" COLOR="#E0620D">
+        <node TEXT="Lawn &amp; pest services" ID="ID_1189" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+        <node TEXT="Field-service software" ID="ID_1190" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="b2b"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Scheduling, dispatch and invoicing for trades, e.g. Jobber.</p></body></html></richcontent>
+        </node>
+      </node>
+      <node TEXT="Gardening &amp; plants" ID="ID_1191" COLOR="#E0620D" FOLDED="true">
+        <edge COLOR="#E0620D" WIDTH="1"/>
+        <node TEXT="Houseplants" ID="ID_1192" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+        <node TEXT="Home gardening" ID="ID_1193" COLOR="#E0620D">
+          <edge COLOR="#E0620D" WIDTH="1"/>
+        </node>
+        <node TEXT="Landscape design" ID="ID_1194" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Gardening &amp; plants" ID="ID_1176" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Living arrangements" ID="ID_1195" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Houseplants" ID="ID_1177" COLOR="#E0620D">
-          <edge COLOR="#E0620D" WIDTH="1"/>
-        </node>
-        <node TEXT="Home gardening" ID="ID_1178" COLOR="#E0620D">
-          <edge COLOR="#E0620D" WIDTH="1"/>
-        </node>
-        <node TEXT="Landscape design" ID="ID_1179" COLOR="#E0620D">
-          <edge COLOR="#E0620D" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Living arrangements" ID="ID_1180" COLOR="#E0620D" FOLDED="true">
-        <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Coliving" ID="ID_1181" COLOR="#E0620D">
+        <node TEXT="Coliving" ID="ID_1196" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Common (status: verify).</p></body></html></richcontent>
         </node>
-        <node TEXT="Cohousing" ID="ID_1182" COLOR="#E0620D">
+        <node TEXT="Cohousing" ID="ID_1197" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="ADUs &amp; tiny homes" ID="ID_1183" COLOR="#E0620D">
+        <node TEXT="ADUs &amp; tiny homes" ID="ID_1198" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Roommate matching" ID="ID_1184" COLOR="#E0620D">
+        <node TEXT="Roommate matching" ID="ID_1199" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Home electrification" ID="ID_1185" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Home electrification" ID="ID_1200" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1524" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1552" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Clean power</p></body></html></richcontent>
-        <node TEXT="Heat pumps" ID="ID_1186" COLOR="#E0620D">
+        <node TEXT="Heat pumps" ID="ID_1201" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Rooftop solar" ID="ID_1187" COLOR="#E0620D">
+        <node TEXT="Rooftop solar" ID="ID_1202" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Home batteries" ID="ID_1188" COLOR="#E0620D">
+        <node TEXT="Home batteries" ID="ID_1203" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Energy audits" ID="ID_1189" COLOR="#E0620D">
+        <node TEXT="Energy audits" ID="ID_1204" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Fashion &amp; Beauty" ID="ID_1190" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Fashion &amp; Beauty" ID="ID_1205" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
       <arrowlink DESTINATION="ID_340" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology</p></body></html></richcontent>
-      <node TEXT="Apparel &amp; accessories" ID="ID_1191" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Apparel &amp; accessories" ID="ID_1206" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="DTC basics" ID="ID_1192" COLOR="#E0620D">
+        <node TEXT="DTC basics" ID="ID_1207" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Sneakers &amp; streetwear" ID="ID_1193" COLOR="#E0620D">
+        <node TEXT="Sneakers &amp; streetwear" ID="ID_1208" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Sneaker collecting sits under Sports &amp; Hobbies &gt; Collecting.</p></body></html></richcontent>
         </node>
-        <node TEXT="Jewelry" ID="ID_1194" COLOR="#E0620D">
+        <node TEXT="Jewelry" ID="ID_1209" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Watches" ID="ID_1195" COLOR="#E0620D">
+        <node TEXT="Watches" ID="ID_1210" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Resale &amp; circular fashion 🔥" ID="ID_1196" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Resale &amp; circular fashion 🔥" ID="ID_1211" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Depop, ThredUp, Vinted.</p></body></html></richcontent>
-        <node TEXT="Resale marketplaces" ID="ID_1197" COLOR="#E0620D">
+        <node TEXT="Resale marketplaces" ID="ID_1212" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Luxury resale" ID="ID_1198" COLOR="#E0620D">
+        <node TEXT="Luxury resale" ID="ID_1213" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Clothing rental" ID="ID_1199" COLOR="#E0620D">
+        <node TEXT="Clothing rental" ID="ID_1214" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Repair &amp; upcycling" ID="ID_1200" COLOR="#E0620D">
+        <node TEXT="Repair &amp; upcycling" ID="ID_1215" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Inclusive fashion" ID="ID_1201" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Inclusive fashion" ID="ID_1216" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
-        <node TEXT="Plus-size fashion" ID="ID_1202" COLOR="#E0620D">
+        <node TEXT="Plus-size fashion" ID="ID_1217" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Adaptive clothing" ID="ID_1203" COLOR="#E0620D">
+        <node TEXT="Adaptive clothing" ID="ID_1218" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Modest fashion" ID="ID_1204" COLOR="#E0620D">
+        <node TEXT="Modest fashion" ID="ID_1219" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Beauty &amp; skincare" ID="ID_1205" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Beauty &amp; skincare" ID="ID_1220" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Skincare DTC" ID="ID_1206" COLOR="#E0620D">
+        <node TEXT="Skincare DTC" ID="ID_1221" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Inclusive beauty" ID="ID_1207" COLOR="#E0620D">
+        <node TEXT="Inclusive beauty" ID="ID_1222" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Diverse shade ranges (the 'Fenty effect').</p></body></html></richcontent>
         </node>
-        <node TEXT="Textured hair care" ID="ID_1208" COLOR="#E0620D">
+        <node TEXT="Textured hair care" ID="ID_1223" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Fragrance" ID="ID_1209" COLOR="#E0620D">
+        <node TEXT="Fragrance" ID="ID_1224" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Men's grooming" ID="ID_1210" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Men's grooming" ID="ID_1225" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Grooming products" ID="ID_1211" COLOR="#E0620D">
+        <node TEXT="Grooming products" ID="ID_1226" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Men's skincare" ID="ID_1212" COLOR="#E0620D">
+        <node TEXT="Men's skincare" ID="ID_1227" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Barbershop booking" ID="ID_1213" COLOR="#E0620D">
+        <node TEXT="Barbershop booking" ID="ID_1228" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Salon &amp; spa tech" ID="ID_1214" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Salon &amp; spa tech" ID="ID_1229" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <attribute NAME="tags" VALUE="b2b"/>
-        <node TEXT="Salon booking software" ID="ID_1215" COLOR="#E0620D">
+        <node TEXT="Salon booking software" ID="ID_1230" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Salon management" ID="ID_1216" COLOR="#E0620D">
+        <node TEXT="Salon management" ID="ID_1231" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Beauty-pro marketplaces" ID="ID_1217" COLOR="#E0620D">
+        <node TEXT="Beauty-pro marketplaces" ID="ID_1232" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Pets &amp; Animal Care" ID="ID_1218" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Pets &amp; Animal Care" ID="ID_1233" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
       <arrowlink DESTINATION="ID_612" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance</p></body></html></richcontent>
-      <node TEXT="Pet food" ID="ID_1219" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Pet food" ID="ID_1234" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Fresh pet food" ID="ID_1220" COLOR="#E0620D">
+        <node TEXT="Fresh pet food" ID="ID_1235" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. The Farmer's Dog.</p></body></html></richcontent>
         </node>
-        <node TEXT="Treats &amp; supplements" ID="ID_1221" COLOR="#E0620D">
+        <node TEXT="Treats &amp; supplements" ID="ID_1236" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Raw &amp; specialty diets" ID="ID_1222" COLOR="#E0620D">
+        <node TEXT="Raw &amp; specialty diets" ID="ID_1237" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Pet health" ID="ID_1223" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Pet health" ID="ID_1238" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Vet telehealth" ID="ID_1224" COLOR="#E0620D">
+        <node TEXT="Vet telehealth" ID="ID_1239" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Modern vet clinics" ID="ID_1225" COLOR="#E0620D">
+        <node TEXT="Modern vet clinics" ID="ID_1240" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Pet pharmacy" ID="ID_1226" COLOR="#E0620D">
+        <node TEXT="Pet pharmacy" ID="ID_1241" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Pet tech" ID="ID_1227" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Pet tech" ID="ID_1242" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="GPS trackers" ID="ID_1228" COLOR="#E0620D">
+        <node TEXT="GPS trackers" ID="ID_1243" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Pet cameras" ID="ID_1229" COLOR="#E0620D">
+        <node TEXT="Pet cameras" ID="ID_1244" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Smart feeders" ID="ID_1230" COLOR="#E0620D">
+        <node TEXT="Smart feeders" ID="ID_1245" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Pet services" ID="ID_1231" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Pet services" ID="ID_1246" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Rover.</p></body></html></richcontent>
-        <node TEXT="Pet grooming" ID="ID_1232" COLOR="#E0620D">
+        <node TEXT="Pet grooming" ID="ID_1247" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Boarding &amp; daycare" ID="ID_1233" COLOR="#E0620D">
+        <node TEXT="Boarding &amp; daycare" ID="ID_1248" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Dog walking" ID="ID_1234" COLOR="#E0620D">
+        <node TEXT="Dog walking" ID="ID_1249" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Training &amp; behavior" ID="ID_1235" COLOR="#E0620D">
+        <node TEXT="Training &amp; behavior" ID="ID_1250" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Pet lifestyle" ID="ID_1236" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Pet lifestyle" ID="ID_1251" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Pet-friendly travel" ID="ID_1237" COLOR="#E0620D">
+        <node TEXT="Pet-friendly travel" ID="ID_1252" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Pet loss &amp; grief" ID="ID_1238" COLOR="#E0620D">
+        <node TEXT="Pet loss &amp; grief" ID="ID_1253" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Pet adoption" ID="ID_1239" COLOR="#E0620D">
+        <node TEXT="Pet adoption" ID="ID_1254" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Sports &amp; Hobbies" ID="ID_1240" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Sports &amp; Hobbies" ID="ID_1255" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
-      <node TEXT="Racquet sports 🔥" ID="ID_1241" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Racquet sports 🔥" ID="ID_1256" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="Pickleball" ID="ID_1242" COLOR="#E0620D">
+        <node TEXT="Pickleball" ID="ID_1257" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Fastest-growing US sport, 2021-24 (SFIA).</p></body></html></richcontent>
         </node>
-        <node TEXT="Padel" ID="ID_1243" COLOR="#E0620D">
+        <node TEXT="Padel" ID="ID_1258" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Tennis" ID="ID_1244" COLOR="#E0620D">
+        <node TEXT="Tennis" ID="ID_1259" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Social sports" ID="ID_1245" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Social sports" ID="ID_1260" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Run clubs 🔥" ID="ID_1246" COLOR="#E0620D">
+        <node TEXT="Run clubs 🔥" ID="ID_1261" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Adult rec leagues" ID="ID_1247" COLOR="#E0620D">
+        <node TEXT="Adult rec leagues" ID="ID_1262" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Golf entertainment" ID="ID_1248" COLOR="#E0620D">
+        <node TEXT="Golf entertainment" ID="ID_1263" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Topgolf, simulators.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Women's sports 🔥" ID="ID_1249" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Women's sports 🔥" ID="ID_1264" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="Pro leagues &amp; fandom" ID="ID_1250" COLOR="#E0620D">
+        <node TEXT="Pro leagues &amp; fandom" ID="ID_1265" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Women's sports gear" ID="ID_1251" COLOR="#E0620D">
+        <node TEXT="Women's sports gear" ID="ID_1266" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Girls' sports participation" ID="ID_1252" COLOR="#E0620D">
+        <node TEXT="Girls' sports participation" ID="ID_1267" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Outdoor recreation" ID="ID_1253" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Outdoor recreation" ID="ID_1268" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Hiking &amp; camping" ID="ID_1254" COLOR="#E0620D">
+        <node TEXT="Hiking &amp; camping" ID="ID_1269" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Climbing" ID="ID_1255" COLOR="#E0620D">
+        <node TEXT="Climbing" ID="ID_1270" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Skiing &amp; snowboarding" ID="ID_1256" COLOR="#E0620D">
+        <node TEXT="Skiing &amp; snowboarding" ID="ID_1271" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Fishing" ID="ID_1257" COLOR="#E0620D">
+        <node TEXT="Fishing" ID="ID_1272" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Hunting" ID="ID_1258" COLOR="#E0620D">
+        <node TEXT="Hunting" ID="ID_1273" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Boating" ID="ID_1259" COLOR="#E0620D">
+        <node TEXT="Boating" ID="ID_1274" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Games &amp; puzzles" ID="ID_1260" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Games &amp; puzzles" ID="ID_1275" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Chess" ID="ID_1261" COLOR="#E0620D">
+        <node TEXT="Chess" ID="ID_1276" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Board games" ID="ID_1262" COLOR="#E0620D">
+        <node TEXT="Board games" ID="ID_1277" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Puzzles" ID="ID_1263" COLOR="#E0620D">
+        <node TEXT="Puzzles" ID="ID_1278" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Tabletop RPGs" ID="ID_1264" COLOR="#E0620D">
+        <node TEXT="Tabletop RPGs" ID="ID_1279" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Collecting" ID="ID_1265" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Collecting" ID="ID_1280" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <arrowlink DESTINATION="ID_525" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets</p></body></html></richcontent>
-        <node TEXT="Trading cards" ID="ID_1266" COLOR="#E0620D">
+        <node TEXT="Trading cards" ID="ID_1281" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Sneaker collecting" ID="ID_1267" COLOR="#E0620D">
+        <node TEXT="Sneaker collecting" ID="ID_1282" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. StockX.</p></body></html></richcontent>
         </node>
-        <node TEXT="Comics &amp; memorabilia" ID="ID_1268" COLOR="#E0620D">
+        <node TEXT="Comics &amp; memorabilia" ID="ID_1283" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Grading &amp; authentication" ID="ID_1269" COLOR="#E0620D">
+        <node TEXT="Grading &amp; authentication" ID="ID_1284" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Reading" ID="ID_1270" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Reading" ID="ID_1285" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Book discovery" ID="ID_1271" COLOR="#E0620D">
+        <node TEXT="Book discovery" ID="ID_1286" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>BookTok.</p></body></html></richcontent>
         </node>
-        <node TEXT="Book clubs" ID="ID_1272" COLOR="#E0620D">
+        <node TEXT="Book clubs" ID="ID_1287" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Indie bookstores" ID="ID_1273" COLOR="#E0620D">
+        <node TEXT="Indie bookstores" ID="ID_1288" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Entertainment &amp; Events" ID="ID_1274" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Entertainment &amp; Events" ID="ID_1289" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
-      <node TEXT="Streaming &amp; video" ID="ID_1275" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Streaming &amp; video" ID="ID_1290" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Streaming services" ID="ID_1276" COLOR="#E0620D">
+        <node TEXT="Streaming services" ID="ID_1291" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Microdramas 🔥" ID="ID_1277" COLOR="#E0620D">
+        <node TEXT="Microdramas 🔥" ID="ID_1292" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Creator-led media" ID="ID_1278" COLOR="#E0620D">
+        <node TEXT="Creator-led media" ID="ID_1293" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Podcasts &amp; audio" ID="ID_1279" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Podcasts &amp; audio" ID="ID_1294" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Podcast apps" ID="ID_1280" COLOR="#E0620D">
+        <node TEXT="Podcast apps" ID="ID_1295" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Audiobooks" ID="ID_1281" COLOR="#E0620D">
+        <node TEXT="Audiobooks" ID="ID_1296" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Audio creator tools" ID="ID_1282" COLOR="#E0620D">
+        <node TEXT="Audio creator tools" ID="ID_1297" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Gaming" ID="ID_1283" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Gaming" ID="ID_1298" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Mobile games" ID="ID_1284" COLOR="#E0620D">
+        <node TEXT="Mobile games" ID="ID_1299" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="PC &amp; console games" ID="ID_1285" COLOR="#E0620D">
+        <node TEXT="PC &amp; console games" ID="ID_1300" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Esports" ID="ID_1286" COLOR="#E0620D">
+        <node TEXT="Esports" ID="ID_1301" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Game streaming" ID="ID_1287" COLOR="#E0620D">
+        <node TEXT="Game streaming" ID="ID_1302" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Live events" ID="ID_1288" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Live events" ID="ID_1303" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Concerts" ID="ID_1289" COLOR="#E0620D">
+        <node TEXT="Concerts" ID="ID_1304" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Festivals" ID="ID_1290" COLOR="#E0620D">
+        <node TEXT="Festivals" ID="ID_1305" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Comedy shows" ID="ID_1291" COLOR="#E0620D">
+        <node TEXT="Comedy shows" ID="ID_1306" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Theater" ID="ID_1292" COLOR="#E0620D">
+        <node TEXT="Theater" ID="ID_1307" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Ticketing" ID="ID_1293" COLOR="#E0620D">
+        <node TEXT="Ticketing" ID="ID_1308" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Nightlife &amp; venues" ID="ID_1294" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Nightlife &amp; venues" ID="ID_1309" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Bars &amp; clubs" ID="ID_1295" COLOR="#E0620D">
+        <node TEXT="Bars &amp; clubs" ID="ID_1310" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Eatertainment venues" ID="ID_1296" COLOR="#E0620D">
+        <node TEXT="Eatertainment venues" ID="ID_1311" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Sober nightlife" ID="ID_1297" COLOR="#E0620D">
+        <node TEXT="Sober nightlife" ID="ID_1312" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Immersive experiences" ID="ID_1298" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Immersive experiences" ID="ID_1313" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Escape rooms" ID="ID_1299" COLOR="#E0620D">
+        <node TEXT="Escape rooms" ID="ID_1314" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Interactive art" ID="ID_1300" COLOR="#E0620D">
+        <node TEXT="Interactive art" ID="ID_1315" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="VR arcades" ID="ID_1301" COLOR="#E0620D">
+        <node TEXT="VR arcades" ID="ID_1316" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Weddings" ID="ID_1302" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Weddings" ID="ID_1317" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Wedding planning platforms" ID="ID_1303" COLOR="#E0620D">
+        <node TEXT="Wedding planning platforms" ID="ID_1318" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Registries" ID="ID_1304" COLOR="#E0620D">
+        <node TEXT="Registries" ID="ID_1319" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Venues" ID="ID_1305" COLOR="#E0620D">
+        <node TEXT="Venues" ID="ID_1320" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Wedding attire" ID="ID_1306" COLOR="#E0620D">
+        <node TEXT="Wedding attire" ID="ID_1321" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Honeymoons" ID="ID_1307" COLOR="#E0620D">
+        <node TEXT="Honeymoons" ID="ID_1322" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Celebrations &amp; gifting" ID="ID_1308" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Celebrations &amp; gifting" ID="ID_1323" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Party planning" ID="ID_1309" COLOR="#E0620D">
+        <node TEXT="Party planning" ID="ID_1324" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Kids' parties" ID="ID_1310" COLOR="#E0620D">
+        <node TEXT="Kids' parties" ID="ID_1325" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Gifting platforms" ID="ID_1311" COLOR="#E0620D">
+        <node TEXT="Gifting platforms" ID="ID_1326" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Corporate gifting" ID="ID_1312" COLOR="#E0620D">
+        <node TEXT="Corporate gifting" ID="ID_1327" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <attribute NAME="tags" VALUE="b2b"/>
         </node>
-        <node TEXT="Team experiences" ID="ID_1313" COLOR="#E0620D">
+        <node TEXT="Team experiences" ID="ID_1328" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <attribute NAME="tags" VALUE="b2b"/>
         </node>
       </node>
     </node>
-    <node TEXT="Cars &amp; Transportation" ID="ID_1314" COLOR="#E0620D" FOLDED="true">
+    <node TEXT="Cars &amp; Transportation" ID="ID_1329" COLOR="#E0620D" FOLDED="true">
       <edge COLOR="#E0620D" WIDTH="2"/>
-      <node TEXT="Car buying" ID="ID_1315" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Car buying" ID="ID_1330" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="Online car buying" ID="ID_1316" COLOR="#E0620D">
+        <node TEXT="Online car buying" ID="ID_1331" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Carvana.</p></body></html></richcontent>
         </node>
-        <node TEXT="Car subscriptions" ID="ID_1317" COLOR="#E0620D">
+        <node TEXT="Car subscriptions" ID="ID_1332" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Car-buying advisors" ID="ID_1318" COLOR="#E0620D">
+        <node TEXT="Car-buying advisors" ID="ID_1333" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Car ownership" ID="ID_1319" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Car ownership" ID="ID_1334" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <arrowlink DESTINATION="ID_606" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance</p></body></html></richcontent>
-        <node TEXT="Detailing &amp; care" ID="ID_1320" COLOR="#E0620D">
+        <node TEXT="Detailing &amp; care" ID="ID_1335" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Maintenance &amp; repair" ID="ID_1321" COLOR="#E0620D">
+        <node TEXT="Maintenance &amp; repair" ID="ID_1336" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Parking apps" ID="ID_1322" COLOR="#E0620D">
+        <node TEXT="Parking apps" ID="ID_1337" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Collector cars" ID="ID_1323" COLOR="#E0620D">
+        <node TEXT="Collector cars" ID="ID_1338" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Motorsports &amp; track days" ID="ID_1324" COLOR="#E0620D">
+        <node TEXT="Motorsports &amp; track days" ID="ID_1339" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="EV ownership" ID="ID_1325" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="EV ownership" ID="ID_1340" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <arrowlink DESTINATION="ID_1554" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <arrowlink DESTINATION="ID_1582" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks</p></body></html></richcontent>
-        <node TEXT="Home charging" ID="ID_1326" COLOR="#E0620D">
+        <node TEXT="Home charging" ID="ID_1341" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Charging apps" ID="ID_1327" COLOR="#E0620D">
+        <node TEXT="Charging apps" ID="ID_1342" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Used EVs &amp; battery health" ID="ID_1328" COLOR="#E0620D">
+        <node TEXT="Used EVs &amp; battery health" ID="ID_1343" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Micromobility" ID="ID_1329" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Micromobility" ID="ID_1344" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
-        <node TEXT="E-bikes" ID="ID_1330" COLOR="#E0620D">
+        <node TEXT="E-bikes" ID="ID_1345" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="E-scooters" ID="ID_1331" COLOR="#E0620D">
+        <node TEXT="E-scooters" ID="ID_1346" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Bike &amp; scooter sharing" ID="ID_1332" COLOR="#E0620D">
+        <node TEXT="Bike &amp; scooter sharing" ID="ID_1347" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Autonomous &amp; shared rides 🔥" ID="ID_1333" COLOR="#E0620D" FOLDED="true">
+      <node TEXT="Autonomous &amp; shared rides 🔥" ID="ID_1348" COLOR="#E0620D" FOLDED="true">
         <edge COLOR="#E0620D" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="Robotaxis" ID="ID_1334" COLOR="#E0620D">
+        <node TEXT="Robotaxis" ID="ID_1349" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Ride-hailing" ID="ID_1335" COLOR="#E0620D">
+        <node TEXT="Ride-hailing" ID="ID_1350" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
-        <node TEXT="Carpooling" ID="ID_1336" COLOR="#E0620D">
+        <node TEXT="Carpooling" ID="ID_1351" COLOR="#E0620D">
           <edge COLOR="#E0620D" WIDTH="1"/>
         </node>
       </node>
     </node>
   </node>
-  <node TEXT="Enterprise &amp; AI" ID="ID_1337" POSITION="right" COLOR="#ffffff" BACKGROUND_COLOR="#4A5A70">
+  <node TEXT="Enterprise &amp; AI" ID="ID_1352" POSITION="right" COLOR="#ffffff" BACKGROUND_COLOR="#4A5A70">
     <font BOLD="true" NAME="SansSerif" SIZE="14"/>
     <edge COLOR="#4A5A70" WIDTH="2"/>
     <attribute NAME="tags" VALUE="b2b"/>
     <richcontent TYPE="NOTE"><html><head></head><body><p>Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology).</p></body></html></richcontent>
-    <node TEXT="AI Infrastructure 🔥" ID="ID_1338" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="AI Infrastructure 🔥" ID="ID_1353" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
       <icon BUILTIN="launch"/>
       <attribute NAME="tags" VALUE="trending, ai-native"/>
-      <node TEXT="Foundation models" ID="ID_1339" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Foundation models" ID="ID_1354" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Model APIs" ID="ID_1340" COLOR="#4A5A70">
+        <node TEXT="Model APIs" ID="ID_1355" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Open-weight models" ID="ID_1341" COLOR="#4A5A70">
+        <node TEXT="Open-weight models" ID="ID_1356" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Domain-specific models" ID="ID_1342" COLOR="#4A5A70">
+        <node TEXT="Domain-specific models" ID="ID_1357" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="AI agents" ID="ID_1343" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="AI agents" ID="ID_1358" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Vertical agents" ID="ID_1344" COLOR="#4A5A70">
+        <node TEXT="Vertical agents" ID="ID_1359" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Legal, sales, healthcare and other industry agents.</p></body></html></richcontent>
         </node>
-        <node TEXT="Coding agents" ID="ID_1345" COLOR="#4A5A70">
+        <node TEXT="Coding agents" ID="ID_1360" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Workflow automation" ID="ID_1346" COLOR="#4A5A70">
+        <node TEXT="Workflow automation" ID="ID_1361" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Agent orchestration" ID="ID_1347" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="AI tooling" ID="ID_1348" COLOR="#4A5A70" FOLDED="true">
-        <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Evals" ID="ID_1349" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-        <node TEXT="LLM observability" ID="ID_1350" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-        <node TEXT="Guardrails &amp; safety" ID="ID_1351" COLOR="#4A5A70">
+        <node TEXT="Agent orchestration" ID="ID_1362" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Compute &amp; data centers" ID="ID_1352" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="AI tooling" ID="ID_1363" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="GPU cloud" ID="ID_1353" COLOR="#4A5A70">
+        <node TEXT="Evals" ID="ID_1364" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="LLM observability" ID="ID_1365" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Guardrails &amp; safety" ID="ID_1366" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Compute &amp; data centers" ID="ID_1367" COLOR="#4A5A70" FOLDED="true">
+        <edge COLOR="#4A5A70" WIDTH="1"/>
+        <node TEXT="GPU cloud" ID="ID_1368" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. CoreWeave.</p></body></html></richcontent>
         </node>
-        <node TEXT="Inference optimization" ID="ID_1354" COLOR="#4A5A70">
+        <node TEXT="Inference optimization" ID="ID_1369" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI data centers" ID="ID_1355" COLOR="#4A5A70">
+        <node TEXT="AI data centers" ID="ID_1370" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Edge AI" ID="ID_1356" COLOR="#4A5A70">
+        <node TEXT="Edge AI" ID="ID_1371" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Data infrastructure" ID="ID_1357" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Data infrastructure" ID="ID_1372" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Data labeling" ID="ID_1358" COLOR="#4A5A70">
+        <node TEXT="Data labeling" ID="ID_1373" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Synthetic data" ID="ID_1359" COLOR="#4A5A70">
+        <node TEXT="Synthetic data" ID="ID_1374" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Vector databases" ID="ID_1360" COLOR="#4A5A70">
+        <node TEXT="Vector databases" ID="ID_1375" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Data pipelines" ID="ID_1361" COLOR="#4A5A70">
+        <node TEXT="Data pipelines" ID="ID_1376" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Software &amp; Developer Tools" ID="ID_1362" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Software &amp; Developer Tools" ID="ID_1377" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="Developer platforms" ID="ID_1363" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Developer platforms" ID="ID_1378" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Open-source commercialization" ID="ID_1364" COLOR="#4A5A70">
+        <node TEXT="Open-source commercialization" ID="ID_1379" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Code hosting" ID="ID_1365" COLOR="#4A5A70">
+        <node TEXT="Code hosting" ID="ID_1380" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Developer portals" ID="ID_1366" COLOR="#4A5A70">
+        <node TEXT="Developer portals" ID="ID_1381" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="No-code &amp; low-code" ID="ID_1367" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="No-code &amp; low-code" ID="ID_1382" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="App builders" ID="ID_1368" COLOR="#4A5A70">
+        <node TEXT="App builders" ID="ID_1383" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Internal-tool builders" ID="ID_1369" COLOR="#4A5A70">
+        <node TEXT="Internal-tool builders" ID="ID_1384" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI app generators 🔥" ID="ID_1370" COLOR="#4A5A70">
+        <node TEXT="AI app generators 🔥" ID="ID_1385" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending, ai-native"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>'Vibe coding.'</p></body></html></richcontent>
         </node>
-        <node TEXT="Workflow builders" ID="ID_1371" COLOR="#4A5A70">
+        <node TEXT="Workflow builders" ID="ID_1386" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="DevOps &amp; observability" ID="ID_1372" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="DevOps &amp; observability" ID="ID_1387" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Observability" ID="ID_1373" COLOR="#4A5A70">
+        <node TEXT="Observability" ID="ID_1388" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="CI/CD" ID="ID_1374" COLOR="#4A5A70">
+        <node TEXT="CI/CD" ID="ID_1389" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Incident management" ID="ID_1375" COLOR="#4A5A70">
+        <node TEXT="Incident management" ID="ID_1390" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Cloud cost management" ID="ID_1376" COLOR="#4A5A70">
+        <node TEXT="Cloud cost management" ID="ID_1391" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="API economy" ID="ID_1377" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="API economy" ID="ID_1392" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="API marketplaces" ID="ID_1378" COLOR="#4A5A70">
+        <node TEXT="API marketplaces" ID="ID_1393" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="API management" ID="ID_1379" COLOR="#4A5A70">
+        <node TEXT="API management" ID="ID_1394" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Integration platforms" ID="ID_1380" COLOR="#4A5A70">
+        <node TEXT="Integration platforms" ID="ID_1395" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Cybersecurity &amp; Trust" ID="ID_1381" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Cybersecurity &amp; Trust" ID="ID_1396" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="Identity &amp; zero trust" ID="ID_1382" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Identity &amp; zero trust" ID="ID_1397" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Identity management" ID="ID_1383" COLOR="#4A5A70">
+        <node TEXT="Identity management" ID="ID_1398" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Zero-trust access" ID="ID_1384" COLOR="#4A5A70">
+        <node TEXT="Zero-trust access" ID="ID_1399" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Passwordless authentication" ID="ID_1385" COLOR="#4A5A70">
+        <node TEXT="Passwordless authentication" ID="ID_1400" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Security operations" ID="ID_1386" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Security operations" ID="ID_1401" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="SOC automation" ID="ID_1387" COLOR="#4A5A70">
+        <node TEXT="SOC automation" ID="ID_1402" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Threat detection" ID="ID_1388" COLOR="#4A5A70">
+        <node TEXT="Threat detection" ID="ID_1403" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Vulnerability management" ID="ID_1389" COLOR="#4A5A70">
+        <node TEXT="Vulnerability management" ID="ID_1404" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Security for AI 🔥" ID="ID_1390" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Security for AI 🔥" ID="ID_1405" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>A new category.</p></body></html></richcontent>
-        <node TEXT="Model security" ID="ID_1391" COLOR="#4A5A70">
+        <node TEXT="Model security" ID="ID_1406" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI red-teaming" ID="ID_1392" COLOR="#4A5A70">
+        <node TEXT="AI red-teaming" ID="ID_1407" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI data-leak prevention" ID="ID_1393" COLOR="#4A5A70">
+        <node TEXT="AI data-leak prevention" ID="ID_1408" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Trust &amp; safety" ID="ID_1394" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Trust &amp; safety" ID="ID_1409" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Deepfake detection 🔥" ID="ID_1395" COLOR="#4A5A70">
+        <node TEXT="Deepfake detection 🔥" ID="ID_1410" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Content provenance" ID="ID_1396" COLOR="#4A5A70">
+        <node TEXT="Content provenance" ID="ID_1411" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Content moderation" ID="ID_1397" COLOR="#4A5A70">
+        <node TEXT="Content moderation" ID="ID_1412" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Bot &amp; fraud detection" ID="ID_1398" COLOR="#4A5A70">
+        <node TEXT="Bot &amp; fraud detection" ID="ID_1413" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Consumer security" ID="ID_1399" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Consumer security" ID="ID_1414" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <attribute NAME="tags" VALUE="consumer"/>
-        <node TEXT="Identity-theft protection" ID="ID_1400" COLOR="#4A5A70">
+        <node TEXT="Identity-theft protection" ID="ID_1415" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Data-broker removal" ID="ID_1401" COLOR="#4A5A70">
+        <node TEXT="Data-broker removal" ID="ID_1416" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Scam protection" ID="ID_1402" COLOR="#4A5A70">
+        <node TEXT="Scam protection" ID="ID_1417" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Includes elder-fraud protection.</p></body></html></richcontent>
         </node>
-        <node TEXT="Privacy tools" ID="ID_1403" COLOR="#4A5A70">
+        <node TEXT="Privacy tools" ID="ID_1418" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Work &amp; HR Tech" ID="ID_1404" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Work &amp; HR Tech" ID="ID_1419" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="Recruiting" ID="ID_1405" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Recruiting" ID="ID_1420" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Watch for bias and compliance issues: NYC Local Law 144, EU AI Act (high-risk).</p></body></html></richcontent>
-        <node TEXT="AI recruiting" ID="ID_1406" COLOR="#4A5A70">
+        <node TEXT="AI recruiting" ID="ID_1421" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Skills-based hiring" ID="ID_1407" COLOR="#4A5A70">
+        <node TEXT="Skills-based hiring" ID="ID_1422" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Interview intelligence" ID="ID_1408" COLOR="#4A5A70">
+        <node TEXT="Interview intelligence" ID="ID_1423" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Collaboration" ID="ID_1409" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Collaboration" ID="ID_1424" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Async collaboration" ID="ID_1410" COLOR="#4A5A70">
+        <node TEXT="Async collaboration" ID="ID_1425" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Virtual offices" ID="ID_1411" COLOR="#4A5A70">
+        <node TEXT="Virtual offices" ID="ID_1426" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI meeting notetakers 🔥" ID="ID_1412" COLOR="#4A5A70">
+        <node TEXT="AI meeting notetakers 🔥" ID="ID_1427" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending, ai-native"/>
         </node>
       </node>
-      <node TEXT="Employee wellbeing" ID="ID_1413" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Employee wellbeing" ID="ID_1428" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Wellness programs" ID="ID_1414" COLOR="#4A5A70">
+        <node TEXT="Wellness programs" ID="ID_1429" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Mental-health benefits" ID="ID_1415" COLOR="#4A5A70">
+        <node TEXT="Mental-health benefits" ID="ID_1430" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Benefits administration" ID="ID_1416" COLOR="#4A5A70">
+        <node TEXT="Benefits administration" ID="ID_1431" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Learning &amp; development" ID="ID_1417" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Learning &amp; development" ID="ID_1432" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="L&amp;D platforms" ID="ID_1418" COLOR="#4A5A70">
+        <node TEXT="L&amp;D platforms" ID="ID_1433" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Coaching platforms" ID="ID_1419" COLOR="#4A5A70">
+        <node TEXT="Coaching platforms" ID="ID_1434" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. BetterUp.</p></body></html></richcontent>
         </node>
-        <node TEXT="Skills intelligence" ID="ID_1420" COLOR="#4A5A70">
+        <node TEXT="Skills intelligence" ID="ID_1435" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Global workforce" ID="ID_1421" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Global workforce" ID="ID_1436" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Deel, Remote.</p></body></html></richcontent>
-        <node TEXT="Employer of record" ID="ID_1422" COLOR="#4A5A70">
+        <node TEXT="Employer of record" ID="ID_1437" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Payroll software" ID="ID_1423" COLOR="#4A5A70">
+        <node TEXT="Payroll software" ID="ID_1438" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Contractor compliance" ID="ID_1424" COLOR="#4A5A70">
+        <node TEXT="Contractor compliance" ID="ID_1439" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Global hiring" ID="ID_1425" COLOR="#4A5A70">
+        <node TEXT="Global hiring" ID="ID_1440" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Frontline workforce" ID="ID_1426" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Frontline workforce" ID="ID_1441" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Shift scheduling" ID="ID_1427" COLOR="#4A5A70">
+        <node TEXT="Shift scheduling" ID="ID_1442" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Frontline communication" ID="ID_1428" COLOR="#4A5A70">
+        <node TEXT="Frontline communication" ID="ID_1443" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Workforce management" ID="ID_1429" COLOR="#4A5A70">
+        <node TEXT="Workforce management" ID="ID_1444" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Legal &amp; Compliance Tech" ID="ID_1430" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Legal &amp; Compliance Tech" ID="ID_1445" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="Legal AI 🔥" ID="ID_1431" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Legal AI 🔥" ID="ID_1446" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending, ai-native"/>
-        <node TEXT="Contract AI" ID="ID_1432" COLOR="#4A5A70">
+        <node TEXT="Contract AI" ID="ID_1447" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Harvey.</p></body></html></richcontent>
         </node>
-        <node TEXT="Legal research AI" ID="ID_1433" COLOR="#4A5A70">
+        <node TEXT="Legal research AI" ID="ID_1448" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="eDiscovery" ID="ID_1434" COLOR="#4A5A70">
+        <node TEXT="eDiscovery" ID="ID_1449" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Regulatory compliance" ID="ID_1435" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Regulatory compliance" ID="ID_1450" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="KYC &amp; AML" ID="ID_1436" COLOR="#4A5A70">
+        <node TEXT="KYC &amp; AML" ID="ID_1451" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Compliance automation" ID="ID_1437" COLOR="#4A5A70">
+        <node TEXT="Compliance automation" ID="ID_1452" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. SOC 2.</p></body></html></richcontent>
         </node>
-        <node TEXT="Regulatory monitoring" ID="ID_1438" COLOR="#4A5A70">
+        <node TEXT="Regulatory monitoring" ID="ID_1453" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="AI governance" ID="ID_1439" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="AI governance" ID="ID_1454" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="AI risk management" ID="ID_1440" COLOR="#4A5A70">
+        <node TEXT="AI risk management" ID="ID_1455" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI audits" ID="ID_1441" COLOR="#4A5A70">
+        <node TEXT="AI audits" ID="ID_1456" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="EU AI Act compliance" ID="ID_1442" COLOR="#4A5A70">
+        <node TEXT="EU AI Act compliance" ID="ID_1457" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Trade compliance 🔥" ID="ID_1443" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Trade compliance 🔥" ID="ID_1458" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="Tariff management" ID="ID_1444" COLOR="#4A5A70">
+        <node TEXT="Tariff management" ID="ID_1459" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Export controls" ID="ID_1445" COLOR="#4A5A70">
+        <node TEXT="Export controls" ID="ID_1460" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Sanctions screening" ID="ID_1446" COLOR="#4A5A70">
+        <node TEXT="Sanctions screening" ID="ID_1461" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Legal operations" ID="ID_1447" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Legal operations" ID="ID_1462" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Matter management" ID="ID_1448" COLOR="#4A5A70">
+        <node TEXT="Matter management" ID="ID_1463" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Legal spend management" ID="ID_1449" COLOR="#4A5A70">
+        <node TEXT="Legal spend management" ID="ID_1464" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Law-firm practice management" ID="ID_1450" COLOR="#4A5A70">
+        <node TEXT="Law-firm practice management" ID="ID_1465" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Marketing &amp; Sales Tech" ID="ID_1451" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Marketing &amp; Sales Tech" ID="ID_1466" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="Generative marketing" ID="ID_1452" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Generative marketing" ID="ID_1467" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <attribute NAME="tags" VALUE="ai-native"/>
-        <node TEXT="AI content generation" ID="ID_1453" COLOR="#4A5A70">
+        <node TEXT="AI content generation" ID="ID_1468" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Creative automation" ID="ID_1454" COLOR="#4A5A70">
+        <node TEXT="Creative automation" ID="ID_1469" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AI video ads" ID="ID_1455" COLOR="#4A5A70">
+        <node TEXT="AI video ads" ID="ID_1470" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Creator platforms" ID="ID_1456" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Creator platforms" ID="ID_1471" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Influencer marketplaces" ID="ID_1457" COLOR="#4A5A70">
+        <node TEXT="Influencer marketplaces" ID="ID_1472" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="UGC marketplaces" ID="ID_1458" COLOR="#4A5A70">
+        <node TEXT="UGC marketplaces" ID="ID_1473" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Affiliate networks" ID="ID_1459" COLOR="#4A5A70">
+        <node TEXT="Affiliate networks" ID="ID_1474" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Retail media &amp; ads 🔥" ID="ID_1460" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Retail media &amp; ads 🔥" ID="ID_1475" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="Retail media networks" ID="ID_1461" COLOR="#4A5A70">
+        <node TEXT="Retail media networks" ID="ID_1476" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="CTV advertising" ID="ID_1462" COLOR="#4A5A70">
+        <node TEXT="CTV advertising" ID="ID_1477" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Ad measurement" ID="ID_1463" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Analytics &amp; attribution" ID="ID_1464" COLOR="#4A5A70" FOLDED="true">
-        <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Multi-touch attribution" ID="ID_1465" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-        <node TEXT="Marketing mix modeling" ID="ID_1466" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-        <node TEXT="Customer data platforms" ID="ID_1467" COLOR="#4A5A70">
+        <node TEXT="Ad measurement" ID="ID_1478" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Sales tech" ID="ID_1468" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Analytics &amp; attribution" ID="ID_1479" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="AI SDRs 🔥" ID="ID_1469" COLOR="#4A5A70">
+        <node TEXT="Multi-touch attribution" ID="ID_1480" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Marketing mix modeling" ID="ID_1481" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Customer data platforms" ID="ID_1482" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Sales tech" ID="ID_1483" COLOR="#4A5A70" FOLDED="true">
+        <edge COLOR="#4A5A70" WIDTH="1"/>
+        <node TEXT="AI SDRs 🔥" ID="ID_1484" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending, ai-native"/>
         </node>
-        <node TEXT="Sales engagement" ID="ID_1470" COLOR="#4A5A70">
+        <node TEXT="Sales engagement" ID="ID_1485" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Revenue intelligence" ID="ID_1471" COLOR="#4A5A70">
+        <node TEXT="Revenue intelligence" ID="ID_1486" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="CRM" ID="ID_1472" COLOR="#4A5A70">
+        <node TEXT="CRM" ID="ID_1487" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Commerce &amp; Retail Tech" ID="ID_1473" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Commerce &amp; Retail Tech" ID="ID_1488" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="E-commerce enablement" ID="ID_1474" COLOR="#4A5A70" FOLDED="true">
+      <arrowlink DESTINATION="ID_1147" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <arrowlink DESTINATION="ID_1229" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+      <richcontent TYPE="NOTE"><html><head></head><body><p>Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software.</p><p>See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech</p><p>See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech</p></body></html></richcontent>
+      <node TEXT="E-commerce enablement" ID="ID_1489" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Storefront platforms" ID="ID_1475" COLOR="#4A5A70">
+        <node TEXT="Storefront platforms" ID="ID_1490" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Shopify-app ecosystem" ID="ID_1476" COLOR="#4A5A70">
+        <node TEXT="Shopify-app ecosystem" ID="ID_1491" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Checkout &amp; conversion" ID="ID_1477" COLOR="#4A5A70">
+        <node TEXT="Checkout &amp; conversion" ID="ID_1492" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Product information management" ID="ID_1493" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Agentic commerce 🔥" ID="ID_1494" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+          <icon BUILTIN="launch"/>
+          <attribute NAME="tags" VALUE="trending, ai-native"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>AI shopping agents and the tools merchants need to sell to them.</p></body></html></richcontent>
+        </node>
+      </node>
+      <node TEXT="Marketplace selling" ID="ID_1495" COLOR="#4A5A70" FOLDED="true">
+        <edge COLOR="#4A5A70" WIDTH="1"/>
+        <node TEXT="Marketplace seller tools" ID="ID_1496" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Amazon seller software.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Social-commerce seller tools" ID="ID_1497" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. TikTok Shop.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Wholesale marketplaces" ID="ID_1498" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Faire.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Cross-border e-commerce" ID="ID_1499" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Retail operations" ID="ID_1478" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Retail operations" ID="ID_1500" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Inventory management" ID="ID_1479" COLOR="#4A5A70">
+        <node TEXT="Inventory management" ID="ID_1501" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Store analytics" ID="ID_1480" COLOR="#4A5A70">
+        <node TEXT="Store analytics" ID="ID_1502" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Retail robotics" ID="ID_1481" COLOR="#4A5A70">
+        <node TEXT="Retail robotics" ID="ID_1503" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Loss prevention" ID="ID_1504" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="SMB vertical software" ID="ID_1482" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Point of sale" ID="ID_1505" COLOR="#4A5A70" FOLDED="true">
+        <edge COLOR="#4A5A70" WIDTH="1"/>
+        <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Square. Restaurant POS lives in Restaurant tech.</p></body></html></richcontent>
+        <node TEXT="Retail POS" ID="ID_1506" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Mobile POS" ID="ID_1507" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Loyalty &amp; gift cards" ID="ID_1508" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Fulfillment &amp; post-purchase" ID="ID_1509" COLOR="#4A5A70" FOLDED="true">
+        <edge COLOR="#4A5A70" WIDTH="1"/>
+        <arrowlink DESTINATION="ID_1653" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics</p></body></html></richcontent>
+        <node TEXT="Order management" ID="ID_1510" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Shipping software" ID="ID_1511" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+        <node TEXT="Post-purchase experience" ID="ID_1512" COLOR="#4A5A70">
+          <edge COLOR="#4A5A70" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="SMB operations" ID="ID_1513" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Jobber.</p></body></html></richcontent>
-        <node TEXT="Field-service software" ID="ID_1483" COLOR="#4A5A70">
+        <node TEXT="Booking &amp; scheduling" ID="ID_1514" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Booking &amp; scheduling" ID="ID_1484" COLOR="#4A5A70">
+        <node TEXT="Invoicing &amp; quotes" ID="ID_1515" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Invoicing &amp; quotes" ID="ID_1485" COLOR="#4A5A70">
+        <node TEXT="Reviews &amp; reputation" ID="ID_1516" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-      </node>
-      <node TEXT="Point of sale" ID="ID_1486" COLOR="#4A5A70" FOLDED="true">
-        <edge COLOR="#4A5A70" WIDTH="1"/>
-        <richcontent TYPE="NOTE"><html><head></head><body><p>SMB fintech and POS ecosystems, e.g. Toast, Square.</p></body></html></richcontent>
-        <node TEXT="Restaurant POS" ID="ID_1487" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-        <node TEXT="Retail POS" ID="ID_1488" COLOR="#4A5A70">
-          <edge COLOR="#4A5A70" WIDTH="1"/>
-        </node>
-        <node TEXT="Mobile POS" ID="ID_1489" COLOR="#4A5A70">
+        <node TEXT="Website builders" ID="ID_1517" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Business Finance Tech" ID="ID_1490" COLOR="#4A5A70" FOLDED="true">
+    <node TEXT="Business Finance Tech" ID="ID_1518" COLOR="#4A5A70" FOLDED="true">
       <edge COLOR="#4A5A70" WIDTH="2"/>
-      <node TEXT="Accounting" ID="ID_1491" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Accounting" ID="ID_1519" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Bookkeeping 🔥" ID="ID_1492" COLOR="#4A5A70">
+        <node TEXT="Bookkeeping 🔥" ID="ID_1520" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending, ai-native"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>AI-native bookkeeping is the growth wedge.</p></body></html></richcontent>
         </node>
-        <node TEXT="Financial reporting" ID="ID_1493" COLOR="#4A5A70">
+        <node TEXT="Financial reporting" ID="ID_1521" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Close automation" ID="ID_1494" COLOR="#4A5A70">
+        <node TEXT="Close automation" ID="ID_1522" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Sales-tax compliance" ID="ID_1495" COLOR="#4A5A70">
+        <node TEXT="Sales-tax compliance" ID="ID_1523" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AR automation" ID="ID_1496" COLOR="#4A5A70">
+        <node TEXT="AR automation" ID="ID_1524" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Spend management" ID="ID_1497" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Spend management" ID="ID_1525" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Ramp, Brex.</p></body></html></richcontent>
-        <node TEXT="Corporate cards" ID="ID_1498" COLOR="#4A5A70">
+        <node TEXT="Corporate cards" ID="ID_1526" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Expense management" ID="ID_1499" COLOR="#4A5A70">
+        <node TEXT="Expense management" ID="ID_1527" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Procurement" ID="ID_1500" COLOR="#4A5A70">
+        <node TEXT="Procurement" ID="ID_1528" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="AP automation" ID="ID_1501" COLOR="#4A5A70">
+        <node TEXT="AP automation" ID="ID_1529" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Business lending" ID="ID_1502" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Business lending" ID="ID_1530" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
-        <node TEXT="Term loans" ID="ID_1503" COLOR="#4A5A70">
+        <node TEXT="Term loans" ID="ID_1531" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Lines of credit" ID="ID_1504" COLOR="#4A5A70">
+        <node TEXT="Lines of credit" ID="ID_1532" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Equipment financing" ID="ID_1505" COLOR="#4A5A70">
+        <node TEXT="Equipment financing" ID="ID_1533" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Invoice financing" ID="ID_1506" COLOR="#4A5A70">
+        <node TEXT="Invoice financing" ID="ID_1534" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Revenue-based financing" ID="ID_1507" COLOR="#4A5A70">
+        <node TEXT="Revenue-based financing" ID="ID_1535" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Corporate finance" ID="ID_1508" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Corporate finance" ID="ID_1536" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
-        <node TEXT="Fundraising tools" ID="ID_1509" COLOR="#4A5A70">
+        <node TEXT="Fundraising tools" ID="ID_1537" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="FP&amp;A" ID="ID_1510" COLOR="#4A5A70">
+        <node TEXT="FP&amp;A" ID="ID_1538" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Treasury management" ID="ID_1511" COLOR="#4A5A70">
+        <node TEXT="Treasury management" ID="ID_1539" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="M&amp;A tools" ID="ID_1512" COLOR="#4A5A70">
+        <node TEXT="M&amp;A tools" ID="ID_1540" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Equity management" ID="ID_1513" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Equity management" ID="ID_1541" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Carta.</p></body></html></richcontent>
-        <node TEXT="Cap-table software" ID="ID_1514" COLOR="#4A5A70">
+        <node TEXT="Cap-table software" ID="ID_1542" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="409A valuations" ID="ID_1515" COLOR="#4A5A70">
+        <node TEXT="409A valuations" ID="ID_1543" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Employee equity tools" ID="ID_1516" COLOR="#4A5A70">
+        <node TEXT="Employee equity tools" ID="ID_1544" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Fintech infrastructure" ID="ID_1517" COLOR="#4A5A70" FOLDED="true">
+      <node TEXT="Fintech infrastructure" ID="ID_1545" COLOR="#4A5A70" FOLDED="true">
         <edge COLOR="#4A5A70" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
-        <node TEXT="Payment processing" ID="ID_1518" COLOR="#4A5A70">
+        <node TEXT="Payment processing" ID="ID_1546" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Banking-as-a-service" ID="ID_1519" COLOR="#4A5A70">
+        <node TEXT="Banking-as-a-service" ID="ID_1547" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Embedded finance" ID="ID_1520" COLOR="#4A5A70">
+        <node TEXT="Embedded finance" ID="ID_1548" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
         </node>
-        <node TEXT="Stablecoin rails 🔥" ID="ID_1521" COLOR="#4A5A70">
+        <node TEXT="Stablecoin rails 🔥" ID="ID_1549" COLOR="#4A5A70">
           <edge COLOR="#4A5A70" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
@@ -5026,655 +5146,795 @@
       </node>
     </node>
   </node>
-  <node TEXT="Planet &amp; Frontier" ID="ID_1522" POSITION="left" COLOR="#ffffff" BACKGROUND_COLOR="#5E9E1E">
+  <node TEXT="Planet &amp; Frontier" ID="ID_1550" POSITION="left" COLOR="#ffffff" BACKGROUND_COLOR="#5E9E1E">
     <font BOLD="true" NAME="SansSerif" SIZE="14"/>
     <edge COLOR="#5E9E1E" WIDTH="2"/>
     <richcontent TYPE="NOTE"><html><head></head><body><p>Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G.</p></body></html></richcontent>
-    <node TEXT="Climate &amp; Energy" ID="ID_1523" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Climate &amp; Energy" ID="ID_1551" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
-      <node TEXT="Clean power" ID="ID_1524" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Clean power" ID="ID_1552" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Utility-scale solar" ID="ID_1525" COLOR="#5E9E1E">
+        <node TEXT="Utility-scale solar" ID="ID_1553" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Community energy" ID="ID_1526" COLOR="#5E9E1E">
+        <node TEXT="Community energy" ID="ID_1554" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Nuclear &amp; SMRs 🔥" ID="ID_1527" COLOR="#5E9E1E">
+        <node TEXT="Nuclear &amp; SMRs 🔥" ID="ID_1555" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Geothermal 🔥" ID="ID_1528" COLOR="#5E9E1E">
+        <node TEXT="Geothermal 🔥" ID="ID_1556" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
-        <node TEXT="Fusion" ID="ID_1529" COLOR="#5E9E1E">
+        <node TEXT="Fusion" ID="ID_1557" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Storage &amp; grid" ID="ID_1530" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Storage &amp; grid" ID="ID_1558" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Batteries &amp; storage" ID="ID_1531" COLOR="#5E9E1E">
+        <node TEXT="Batteries &amp; storage" ID="ID_1559" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Grid modernization" ID="ID_1532" COLOR="#5E9E1E">
+        <node TEXT="Grid modernization" ID="ID_1560" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Virtual power plants" ID="ID_1533" COLOR="#5E9E1E">
+        <node TEXT="Virtual power plants" ID="ID_1561" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Data-center power 🔥" ID="ID_1534" COLOR="#5E9E1E">
+        <node TEXT="Data-center power 🔥" ID="ID_1562" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
         </node>
       </node>
-      <node TEXT="Carbon" ID="ID_1535" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Carbon" ID="ID_1563" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Carbon markets" ID="ID_1536" COLOR="#5E9E1E">
+        <node TEXT="Carbon markets" ID="ID_1564" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Carbon capture" ID="ID_1537" COLOR="#5E9E1E">
+        <node TEXT="Carbon capture" ID="ID_1565" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Carbon accounting" ID="ID_1538" COLOR="#5E9E1E">
+        <node TEXT="Carbon accounting" ID="ID_1566" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Water tech" ID="ID_1539" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Water tech" ID="ID_1567" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Water purification" ID="ID_1540" COLOR="#5E9E1E">
+        <node TEXT="Water purification" ID="ID_1568" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Leak detection" ID="ID_1541" COLOR="#5E9E1E">
+        <node TEXT="Leak detection" ID="ID_1569" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Desalination" ID="ID_1542" COLOR="#5E9E1E">
+        <node TEXT="Desalination" ID="ID_1570" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Circular economy" ID="ID_1543" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Circular economy" ID="ID_1571" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Recycling tech" ID="ID_1544" COLOR="#5E9E1E">
+        <node TEXT="Recycling tech" ID="ID_1572" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Waste management" ID="ID_1545" COLOR="#5E9E1E">
+        <node TEXT="Waste management" ID="ID_1573" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Sustainable materials" ID="ID_1546" COLOR="#5E9E1E">
+        <node TEXT="Sustainable materials" ID="ID_1574" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Sustainable packaging" ID="ID_1547" COLOR="#5E9E1E">
+        <node TEXT="Sustainable packaging" ID="ID_1575" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Climate adaptation" ID="ID_1548" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Climate adaptation" ID="ID_1576" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Climate-risk analytics" ID="ID_1549" COLOR="#5E9E1E">
+        <node TEXT="Climate-risk analytics" ID="ID_1577" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Wildfire tech" ID="ID_1550" COLOR="#5E9E1E">
+        <node TEXT="Wildfire tech" ID="ID_1578" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Flood resilience" ID="ID_1551" COLOR="#5E9E1E">
+        <node TEXT="Flood resilience" ID="ID_1579" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Extreme-heat solutions" ID="ID_1552" COLOR="#5E9E1E">
+        <node TEXT="Extreme-heat solutions" ID="ID_1580" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="EV infrastructure" ID="ID_1553" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="EV infrastructure" ID="ID_1581" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Charging networks" ID="ID_1554" COLOR="#5E9E1E">
+        <node TEXT="Charging networks" ID="ID_1582" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Fleet electrification" ID="ID_1555" COLOR="#5E9E1E">
+        <node TEXT="Fleet electrification" ID="ID_1583" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Battery recycling" ID="ID_1556" COLOR="#5E9E1E">
+        <node TEXT="Battery recycling" ID="ID_1584" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Agriculture &amp; Food Systems" ID="ID_1557" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Agriculture &amp; Food Systems" ID="ID_1585" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
-      <node TEXT="Precision agriculture" ID="ID_1558" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Precision agriculture" ID="ID_1586" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Farm data platforms" ID="ID_1559" COLOR="#5E9E1E">
+        <node TEXT="Farm data platforms" ID="ID_1587" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Aerial crop scouting" ID="ID_1560" COLOR="#5E9E1E">
+        <node TEXT="Aerial crop scouting" ID="ID_1588" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Precision irrigation" ID="ID_1561" COLOR="#5E9E1E">
+        <node TEXT="Precision irrigation" ID="ID_1589" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Variable-rate application" ID="ID_1590" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Soil sensing" ID="ID_1591" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Ag robotics" ID="ID_1562" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Ag robotics" ID="ID_1592" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Harvest robots" ID="ID_1563" COLOR="#5E9E1E">
+        <node TEXT="Harvest robots" ID="ID_1593" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Autonomous tractors" ID="ID_1564" COLOR="#5E9E1E">
+        <node TEXT="Autonomous tractors" ID="ID_1594" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Weeding robots" ID="ID_1565" COLOR="#5E9E1E">
+        <node TEXT="Weeding robots" ID="ID_1595" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Milking robots" ID="ID_1596" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Controlled-environment agriculture" ID="ID_1566" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Controlled-environment agriculture" ID="ID_1597" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Vertical farms" ID="ID_1567" COLOR="#5E9E1E">
+        <node TEXT="Vertical farms" ID="ID_1598" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Greenhouse tech" ID="ID_1568" COLOR="#5E9E1E">
+        <node TEXT="Greenhouse tech" ID="ID_1599" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Indoor grow lighting" ID="ID_1569" COLOR="#5E9E1E">
+        <node TEXT="Container farms" ID="ID_1600" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Indoor grow lighting" ID="ID_1601" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Alternative proteins" ID="ID_1570" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Ag biologicals &amp; genetics" ID="ID_1602" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Plant-based meat" ID="ID_1571" COLOR="#5E9E1E">
+        <node TEXT="Biostimulants" ID="ID_1603" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Precision fermentation" ID="ID_1572" COLOR="#5E9E1E">
+        <node TEXT="Biopesticides" ID="ID_1604" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Cultivated meat" ID="ID_1573" COLOR="#5E9E1E">
+        <node TEXT="Gene-edited crops" ID="ID_1605" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
+        <node TEXT="Regenerative ag programs" ID="ID_1606" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <arrowlink DESTINATION="ID_1564" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon markets</p></body></html></richcontent>
+        </node>
       </node>
-      <node TEXT="Food supply chain" ID="ID_1574" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Livestock &amp; aquaculture" ID="ID_1607" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Food traceability" ID="ID_1575" COLOR="#5E9E1E">
+        <node TEXT="Aquaculture tech" ID="ID_1608" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Cold chain" ID="ID_1576" COLOR="#5E9E1E">
+        <node TEXT="Livestock monitoring" ID="ID_1609" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Food-safety testing" ID="ID_1577" COLOR="#5E9E1E">
+        <node TEXT="Methane-reducing feed" ID="ID_1610" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Insect farming" ID="ID_1611" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Alternative proteins" ID="ID_1612" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="Plant-based meat" ID="ID_1613" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Precision fermentation" ID="ID_1614" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Biomass fermentation" ID="ID_1615" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Mycoprotein and similar.</p></body></html></richcontent>
+        </node>
+        <node TEXT="Cultivated meat" ID="ID_1616" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="regulated"/>
+        </node>
+        <node TEXT="Alt-dairy" ID="ID_1617" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Food supply chain" ID="ID_1618" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="Food traceability" ID="ID_1619" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Cold chain" ID="ID_1620" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Food-safety testing" ID="ID_1621" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Farm-to-business marketplaces" ID="ID_1622" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Farm operations &amp; finance" ID="ID_1623" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <arrowlink DESTINATION="ID_614" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Crop insurance</p></body></html></richcontent>
+        <node TEXT="Farm management software" ID="ID_1624" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Ag lending" ID="ID_1625" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="regulated"/>
+        </node>
+        <node TEXT="Farm labor marketplaces" ID="ID_1626" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Industry &amp; Supply Chain" ID="ID_1578" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Industry &amp; Supply Chain" ID="ID_1627" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
-      <node TEXT="Smart manufacturing 🔥" ID="ID_1579" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Smart manufacturing 🔥" ID="ID_1628" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Reshoring and smart factories.</p></body></html></richcontent>
-        <node TEXT="Reshoring platforms" ID="ID_1580" COLOR="#5E9E1E">
+        <node TEXT="Reshoring platforms" ID="ID_1629" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Factory automation" ID="ID_1581" COLOR="#5E9E1E">
+        <node TEXT="Factory automation" ID="ID_1630" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Contract-manufacturing marketplaces" ID="ID_1582" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Additive manufacturing" ID="ID_1583" COLOR="#5E9E1E" FOLDED="true">
-        <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Industrial 3D printing" ID="ID_1584" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="On-demand parts" ID="ID_1585" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="Printing materials" ID="ID_1586" COLOR="#5E9E1E">
+        <node TEXT="Contract-manufacturing marketplaces" ID="ID_1631" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Industrial IoT" ID="ID_1587" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Additive manufacturing" ID="ID_1632" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Predictive maintenance" ID="ID_1588" COLOR="#5E9E1E">
+        <node TEXT="Industrial 3D printing" ID="ID_1633" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Industrial sensors" ID="ID_1589" COLOR="#5E9E1E">
+        <node TEXT="On-demand parts" ID="ID_1634" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Machine-vision QC" ID="ID_1590" COLOR="#5E9E1E">
+        <node TEXT="Printing materials" ID="ID_1635" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Freight &amp; shipping" ID="ID_1591" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Industrial IoT" ID="ID_1636" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Freight marketplaces" ID="ID_1592" COLOR="#5E9E1E">
+        <node TEXT="Predictive maintenance" ID="ID_1637" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Freight visibility" ID="ID_1593" COLOR="#5E9E1E">
+        <node TEXT="Industrial sensors" ID="ID_1638" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Autonomous trucking" ID="ID_1594" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="Maritime tech" ID="ID_1595" COLOR="#5E9E1E">
+        <node TEXT="Machine-vision QC" ID="ID_1639" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Warehousing" ID="ID_1596" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Freight &amp; shipping" ID="ID_1640" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Warehouse robotics" ID="ID_1597" COLOR="#5E9E1E">
+        <node TEXT="Freight marketplaces" ID="ID_1641" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Warehouse management systems" ID="ID_1598" COLOR="#5E9E1E">
+        <node TEXT="Freight visibility" ID="ID_1642" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="3PL marketplaces" ID="ID_1599" COLOR="#5E9E1E">
+        <node TEXT="Autonomous trucking" ID="ID_1643" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Maritime tech" ID="ID_1644" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Last-mile delivery" ID="ID_1600" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Warehousing" ID="ID_1645" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Delivery drones" ID="ID_1601" COLOR="#5E9E1E">
+        <node TEXT="Warehouse robotics" ID="ID_1646" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Warehouse management systems" ID="ID_1647" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="3PL marketplaces" ID="ID_1648" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Last-mile delivery" ID="ID_1649" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="Delivery drones" ID="ID_1650" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
-        <node TEXT="Sidewalk robots" ID="ID_1602" COLOR="#5E9E1E">
+        <node TEXT="Sidewalk robots" ID="ID_1651" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Route optimization" ID="ID_1603" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Reverse logistics" ID="ID_1604" COLOR="#5E9E1E" FOLDED="true">
-        <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Returns management" ID="ID_1605" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="Liquidation marketplaces" ID="ID_1606" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="Refurbishment" ID="ID_1607" COLOR="#5E9E1E">
+        <node TEXT="Route optimization" ID="ID_1652" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Critical minerals" ID="ID_1608" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Reverse logistics" ID="ID_1653" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="AI mineral exploration" ID="ID_1609" COLOR="#5E9E1E">
+        <node TEXT="Returns management" ID="ID_1654" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Battery-metal refining" ID="ID_1610" COLOR="#5E9E1E">
+        <node TEXT="Liquidation marketplaces" ID="ID_1655" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Urban mining" ID="ID_1611" COLOR="#5E9E1E">
+        <node TEXT="Refurbishment" ID="ID_1656" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Critical minerals" ID="ID_1657" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="AI mineral exploration" ID="ID_1658" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Battery-metal refining" ID="ID_1659" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Urban mining" ID="ID_1660" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Built Environment" ID="ID_1612" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Built Environment" ID="ID_1661" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
       <arrowlink DESTINATION="ID_543" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
       <richcontent TYPE="NOTE"><html><head></head><body><p>PropTech and construction.</p><p>See also: Wealth &gt; Housing &amp; Real Estate</p></body></html></richcontent>
-      <node TEXT="Property management" ID="ID_1613" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Property management" ID="ID_1662" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Property-management software" ID="ID_1614" COLOR="#5E9E1E">
+        <node TEXT="Property-management software" ID="ID_1663" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Tenant experience" ID="ID_1615" COLOR="#5E9E1E">
+        <node TEXT="Tenant experience" ID="ID_1664" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Short-term rental operations" ID="ID_1616" COLOR="#5E9E1E">
+        <node TEXT="Short-term rental operations" ID="ID_1665" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Construction tech" ID="ID_1617" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Construction tech" ID="ID_1666" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Prefab &amp; modular" ID="ID_1618" COLOR="#5E9E1E">
+        <node TEXT="Prefab &amp; modular" ID="ID_1667" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Construction robotics" ID="ID_1619" COLOR="#5E9E1E">
+        <node TEXT="Construction robotics" ID="ID_1668" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Construction project management" ID="ID_1620" COLOR="#5E9E1E">
+        <node TEXT="Construction project management" ID="ID_1669" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Permitting automation" ID="ID_1621" COLOR="#5E9E1E">
+        <node TEXT="Permitting automation" ID="ID_1670" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Smart buildings" ID="ID_1622" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Smart buildings" ID="ID_1671" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Building automation" ID="ID_1623" COLOR="#5E9E1E">
+        <node TEXT="Building automation" ID="ID_1672" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Building energy management" ID="ID_1624" COLOR="#5E9E1E">
+        <node TEXT="Building energy management" ID="ID_1673" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Occupancy analytics" ID="ID_1625" COLOR="#5E9E1E">
+        <node TEXT="Occupancy analytics" ID="ID_1674" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Real estate transactions" ID="ID_1626" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Real estate transactions" ID="ID_1675" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Mortgage tech" ID="ID_1627" COLOR="#5E9E1E">
+        <node TEXT="Mortgage tech" ID="ID_1676" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Title &amp; escrow" ID="ID_1628" COLOR="#5E9E1E">
+        <node TEXT="Title &amp; escrow" ID="ID_1677" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Brokerage tech" ID="ID_1629" COLOR="#5E9E1E">
+        <node TEXT="Brokerage tech" ID="ID_1678" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Biotech &amp; Life Sciences" ID="ID_1630" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Biotech &amp; Life Sciences" ID="ID_1679" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
       <attribute NAME="tags" VALUE="regulated"/>
-      <node TEXT="AI drug discovery 🔥" ID="ID_1631" COLOR="#5E9E1E" FOLDED="true">
+      <richcontent TYPE="NOTE"><html><head></head><body><p>Leaves are organized around what a startup sells: platforms, tools, services or therapeutics.</p></body></html></richcontent>
+      <node TEXT="AI drug discovery 🔥" ID="ID_1680" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending, ai-native"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>The AlphaFold wave.</p></body></html></richcontent>
-        <node TEXT="Protein design" ID="ID_1632" COLOR="#5E9E1E">
+        <node TEXT="Protein design" ID="ID_1681" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Target discovery" ID="ID_1633" COLOR="#5E9E1E">
+        <node TEXT="Antibody design" ID="ID_1682" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="AI chemistry" ID="ID_1634" COLOR="#5E9E1E">
+        <node TEXT="Target discovery" ID="ID_1683" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-      </node>
-      <node TEXT="Gene &amp; cell therapy" ID="ID_1635" COLOR="#5E9E1E" FOLDED="true">
-        <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Gene editing" ID="ID_1636" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-          <richcontent TYPE="NOTE"><html><head></head><body><p>CRISPR.</p></body></html></richcontent>
-        </node>
-        <node TEXT="Cell therapy" ID="ID_1637" COLOR="#5E9E1E">
+        <node TEXT="Generative chemistry" ID="ID_1684" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Gene delivery" ID="ID_1638" COLOR="#5E9E1E">
+        <node TEXT="Virtual cell models" ID="ID_1685" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Diagnostics &amp; biosensors" ID="ID_1639" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Gene &amp; cell therapy" ID="ID_1686" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Liquid biopsy" ID="ID_1640" COLOR="#5E9E1E">
+        <node TEXT="Gene editing" ID="ID_1687" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>CRISPR, base and prime editing.</p></body></html></richcontent>
+        </node>
+        <node TEXT="CAR-T &amp; cell therapy" ID="ID_1688" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Biosensors" ID="ID_1641" COLOR="#5E9E1E">
+        <node TEXT="Gene delivery" ID="ID_1689" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <richcontent TYPE="NOTE"><html><head></head><body><p>Lipid nanoparticles and viral vectors.</p></body></html></richcontent>
+        </node>
+        <node TEXT="RNA therapeutics" ID="ID_1690" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Point-of-care diagnostics" ID="ID_1642" COLOR="#5E9E1E">
+        <node TEXT="Cell-therapy manufacturing" ID="ID_1691" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Clinical trials" ID="ID_1643" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Diagnostics &amp; biosensors" ID="ID_1692" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Decentralized trials" ID="ID_1644" COLOR="#5E9E1E">
+        <node TEXT="Liquid biopsy" ID="ID_1693" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Patient recruitment" ID="ID_1645" COLOR="#5E9E1E">
+        <node TEXT="Multi-cancer early detection" ID="ID_1694" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Continuous biosensors" ID="ID_1695" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Point-of-care diagnostics" ID="ID_1696" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Companion diagnostics" ID="ID_1697" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Clinical trials" ID="ID_1698" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="Decentralized trials" ID="ID_1699" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Patient recruitment" ID="ID_1700" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Includes clinical-trial matching for patients.</p></body></html></richcontent>
         </node>
-        <node TEXT="Trial data platforms" ID="ID_1646" COLOR="#5E9E1E">
+        <node TEXT="AI protocol design" ID="ID_1701" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+          <attribute NAME="tags" VALUE="ai-native"/>
+        </node>
+        <node TEXT="Trial data platforms" ID="ID_1702" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Real-world evidence" ID="ID_1703" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Lab automation" ID="ID_1647" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Lab tools &amp; automation" ID="ID_1704" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Lab robotics" ID="ID_1648" COLOR="#5E9E1E">
+        <node TEXT="Lab robotics" ID="ID_1705" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Cloud labs" ID="ID_1649" COLOR="#5E9E1E">
+        <node TEXT="Cloud labs" ID="ID_1706" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="ELN &amp; LIMS" ID="ID_1650" COLOR="#5E9E1E">
+        <node TEXT="ELN &amp; LIMS" ID="ID_1707" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Single-cell &amp; spatial omics" ID="ID_1708" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Lab supply marketplaces" ID="ID_1709" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Synthetic biology" ID="ID_1651" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Synthetic biology" ID="ID_1710" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Biomanufacturing" ID="ID_1652" COLOR="#5E9E1E">
+        <node TEXT="Biomanufacturing" ID="ID_1711" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Engineered microbes" ID="ID_1653" COLOR="#5E9E1E">
+        <node TEXT="Engineered microbes" ID="ID_1712" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Biomaterials" ID="ID_1654" COLOR="#5E9E1E">
+        <node TEXT="Biomaterials" ID="ID_1713" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="DNA synthesis" ID="ID_1714" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Cell-free systems" ID="ID_1715" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Biotech services" ID="ID_1716" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="AI-enabled CROs" ID="ID_1717" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="CDMO capacity marketplaces" ID="ID_1718" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Regulatory submission software" ID="ID_1719" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="IP &amp; licensing platforms" ID="ID_1720" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Longevity biotech 🔥" ID="ID_1721" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <icon BUILTIN="launch"/>
+        <arrowlink DESTINATION="ID_217" ENDARROW="Default" STARTARROW="None" COLOR="#999999"/>
+        <attribute NAME="tags" VALUE="trending"/>
+        <richcontent TYPE="NOTE"><html><head></head><body><p>See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Longevity medicine</p></body></html></richcontent>
+        <node TEXT="Senolytics" ID="ID_1722" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Cellular reprogramming" ID="ID_1723" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Aging biomarker discovery" ID="ID_1724" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Aerospace &amp; Defense 🔥" ID="ID_1655" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Aerospace &amp; Defense 🔥" ID="ID_1725" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
       <icon BUILTIN="launch"/>
       <attribute NAME="tags" VALUE="trending"/>
-      <node TEXT="Commercial space" ID="ID_1656" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Commercial space" ID="ID_1726" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Starlink.</p></body></html></richcontent>
-        <node TEXT="Launch services" ID="ID_1657" COLOR="#5E9E1E">
+        <node TEXT="Launch services" ID="ID_1727" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Earth-observation imagery" ID="ID_1658" COLOR="#5E9E1E">
+        <node TEXT="Earth-observation imagery" ID="ID_1728" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Satellite connectivity" ID="ID_1659" COLOR="#5E9E1E">
+        <node TEXT="Satellite connectivity" ID="ID_1729" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Space tourism" ID="ID_1660" COLOR="#5E9E1E">
+        <node TEXT="Space tourism" ID="ID_1730" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="In-space servicing" ID="ID_1661" COLOR="#5E9E1E">
+        <node TEXT="In-space servicing" ID="ID_1731" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Next-gen aviation" ID="ID_1662" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Next-gen aviation" ID="ID_1732" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="eVTOL air taxis" ID="ID_1663" COLOR="#5E9E1E">
+        <node TEXT="eVTOL air taxis" ID="ID_1733" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Sustainable aviation fuel" ID="ID_1664" COLOR="#5E9E1E">
+        <node TEXT="Sustainable aviation fuel" ID="ID_1734" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Supersonic flight" ID="ID_1665" COLOR="#5E9E1E">
+        <node TEXT="Supersonic flight" ID="ID_1735" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Defense tech" ID="ID_1666" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Defense tech" ID="ID_1736" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>Anduril model. ITAR and export controls apply.</p></body></html></richcontent>
-        <node TEXT="Dual-use hardware" ID="ID_1667" COLOR="#5E9E1E">
+        <node TEXT="Dual-use hardware" ID="ID_1737" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Defense software" ID="ID_1668" COLOR="#5E9E1E">
+        <node TEXT="Defense software" ID="ID_1738" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Sensors &amp; ISR" ID="ID_1669" COLOR="#5E9E1E">
+        <node TEXT="Sensors &amp; ISR" ID="ID_1739" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Drones &amp; counter-drone" ID="ID_1670" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Drones &amp; counter-drone" ID="ID_1740" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <attribute NAME="tags" VALUE="regulated"/>
-        <node TEXT="Military drones" ID="ID_1671" COLOR="#5E9E1E">
+        <node TEXT="Military drones" ID="ID_1741" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Commercial drones" ID="ID_1672" COLOR="#5E9E1E">
+        <node TEXT="Commercial drones" ID="ID_1742" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Counter-drone systems" ID="ID_1673" COLOR="#5E9E1E">
+        <node TEXT="Counter-drone systems" ID="ID_1743" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Deep Tech" ID="ID_1674" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Deep Tech" ID="ID_1744" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
-      <node TEXT="Semiconductors &amp; AI chips 🔥" ID="ID_1675" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Semiconductors &amp; AI chips 🔥" ID="ID_1745" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="AI accelerators" ID="ID_1676" COLOR="#5E9E1E">
+        <node TEXT="AI accelerators" ID="ID_1746" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Chip design tools" ID="ID_1677" COLOR="#5E9E1E">
+        <node TEXT="Chip design tools" ID="ID_1747" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Photonics" ID="ID_1678" COLOR="#5E9E1E">
+        <node TEXT="Photonics" ID="ID_1748" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Advanced packaging" ID="ID_1679" COLOR="#5E9E1E">
+        <node TEXT="Advanced packaging" ID="ID_1749" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Quantum computing" ID="ID_1680" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Quantum computing" ID="ID_1750" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Quantum hardware" ID="ID_1681" COLOR="#5E9E1E">
+        <node TEXT="Quantum hardware" ID="ID_1751" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Quantum software" ID="ID_1682" COLOR="#5E9E1E">
+        <node TEXT="Quantum software" ID="ID_1752" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Post-quantum cryptography" ID="ID_1683" COLOR="#5E9E1E">
+        <node TEXT="Post-quantum cryptography" ID="ID_1753" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Robotics 🔥" ID="ID_1684" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Robotics 🔥" ID="ID_1754" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending"/>
-        <node TEXT="Humanoid robots" ID="ID_1685" COLOR="#5E9E1E">
+        <node TEXT="Humanoid robots" ID="ID_1755" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Figure, Optimus.</p></body></html></richcontent>
         </node>
-        <node TEXT="Robot foundation models" ID="ID_1686" COLOR="#5E9E1E">
+        <node TEXT="Robot foundation models" ID="ID_1756" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Service robots" ID="ID_1687" COLOR="#5E9E1E">
+        <node TEXT="Service robots" ID="ID_1757" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Neurotech &amp; BCI 🔥" ID="ID_1688" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Neurotech &amp; BCI 🔥" ID="ID_1758" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <icon BUILTIN="launch"/>
         <attribute NAME="tags" VALUE="trending, regulated"/>
-        <node TEXT="Brain-computer interfaces" ID="ID_1689" COLOR="#5E9E1E">
+        <node TEXT="Brain-computer interfaces" ID="ID_1759" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Neurostimulation" ID="ID_1690" COLOR="#5E9E1E">
+        <node TEXT="Neurostimulation" ID="ID_1760" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Neural data platforms" ID="ID_1691" COLOR="#5E9E1E">
+        <node TEXT="Neural data platforms" ID="ID_1761" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Advanced materials" ID="ID_1692" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Advanced materials" ID="ID_1762" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="AI materials discovery" ID="ID_1693" COLOR="#5E9E1E">
+        <node TEXT="AI materials discovery" ID="ID_1763" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <attribute NAME="tags" VALUE="ai-native"/>
         </node>
-        <node TEXT="Advanced composites" ID="ID_1694" COLOR="#5E9E1E">
+        <node TEXT="Advanced composites" ID="ID_1764" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Next-gen batteries" ID="ID_1695" COLOR="#5E9E1E">
+        <node TEXT="Next-gen batteries" ID="ID_1765" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
     </node>
-    <node TEXT="Public Interest &amp; Impact" ID="ID_1696" COLOR="#5E9E1E" FOLDED="true">
+    <node TEXT="Public Interest &amp; Impact" ID="ID_1766" COLOR="#5E9E1E" FOLDED="true">
       <edge COLOR="#5E9E1E" WIDTH="2"/>
-      <node TEXT="GovTech" ID="ID_1697" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="GovTech" ID="ID_1767" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Permitting software" ID="ID_1698" COLOR="#5E9E1E">
+        <node TEXT="Permitting software" ID="ID_1768" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Benefits access" ID="ID_1699" COLOR="#5E9E1E">
+        <node TEXT="Benefits access" ID="ID_1769" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Government procurement" ID="ID_1700" COLOR="#5E9E1E">
+        <node TEXT="Government procurement" ID="ID_1770" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Emergency response" ID="ID_1701" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Emergency response" ID="ID_1771" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="911 &amp; dispatch tech" ID="ID_1702" COLOR="#5E9E1E">
+        <node TEXT="911 &amp; dispatch tech" ID="ID_1772" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Disaster response" ID="ID_1703" COLOR="#5E9E1E">
+        <node TEXT="Disaster response" ID="ID_1773" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Early-warning systems" ID="ID_1704" COLOR="#5E9E1E">
+        <node TEXT="Early-warning systems" ID="ID_1774" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Smart cities &amp; transit" ID="ID_1705" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Smart cities &amp; transit" ID="ID_1775" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Transit tech" ID="ID_1706" COLOR="#5E9E1E">
+        <node TEXT="Transit tech" ID="ID_1776" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Traffic management" ID="ID_1707" COLOR="#5E9E1E">
+        <node TEXT="Traffic management" ID="ID_1777" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Civic data platforms" ID="ID_1708" COLOR="#5E9E1E">
+        <node TEXT="Civic data platforms" ID="ID_1778" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Accessibility tech" ID="ID_1709" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Accessibility tech" ID="ID_1779" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <attribute NAME="tags" VALUE="underserved"/>
-        <node TEXT="Screen readers" ID="ID_1710" COLOR="#5E9E1E">
+        <node TEXT="Screen readers" ID="ID_1780" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="AAC devices" ID="ID_1711" COLOR="#5E9E1E">
+        <node TEXT="AAC devices" ID="ID_1781" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Prosthetics &amp; mobility aids" ID="ID_1712" COLOR="#5E9E1E">
+        <node TEXT="Prosthetics &amp; mobility aids" ID="ID_1782" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <attribute NAME="tags" VALUE="regulated"/>
         </node>
-        <node TEXT="Accessibility compliance 🔥" ID="ID_1713" COLOR="#5E9E1E">
+        <node TEXT="Accessibility compliance 🔥" ID="ID_1783" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
           <icon BUILTIN="launch"/>
           <attribute NAME="tags" VALUE="trending"/>
           <richcontent TYPE="NOTE"><html><head></head><body><p>Web and app compliance as a service.</p></body></html></richcontent>
         </node>
       </node>
-      <node TEXT="Nonprofit tech" ID="ID_1714" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Nonprofit tech" ID="ID_1784" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
         <richcontent TYPE="NOTE"><html><head></head><body><p>e.g. Givebutter.</p></body></html></richcontent>
-        <node TEXT="Fundraising platforms" ID="ID_1715" COLOR="#5E9E1E">
+        <node TEXT="Fundraising platforms" ID="ID_1785" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Nonprofit CRM" ID="ID_1716" COLOR="#5E9E1E">
+        <node TEXT="Nonprofit CRM" ID="ID_1786" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Volunteer management" ID="ID_1717" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-      </node>
-      <node TEXT="Development &amp; inclusion" ID="ID_1718" COLOR="#5E9E1E" FOLDED="true">
-        <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Emerging-market edtech" ID="ID_1719" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="Financial-inclusion infrastructure" ID="ID_1720" COLOR="#5E9E1E">
-          <edge COLOR="#5E9E1E" WIDTH="1"/>
-        </node>
-        <node TEXT="Digital public infrastructure" ID="ID_1721" COLOR="#5E9E1E">
+        <node TEXT="Volunteer management" ID="ID_1787" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>
-      <node TEXT="Civic participation &amp; justice" ID="ID_1722" COLOR="#5E9E1E" FOLDED="true">
+      <node TEXT="Development &amp; inclusion" ID="ID_1788" COLOR="#5E9E1E" FOLDED="true">
         <edge COLOR="#5E9E1E" WIDTH="1"/>
-        <node TEXT="Access to justice" ID="ID_1723" COLOR="#5E9E1E">
+        <node TEXT="Emerging-market edtech" ID="ID_1789" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Civic engagement platforms" ID="ID_1724" COLOR="#5E9E1E">
+        <node TEXT="Financial-inclusion infrastructure" ID="ID_1790" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
-        <node TEXT="Election administration" ID="ID_1725" COLOR="#5E9E1E">
+        <node TEXT="Digital public infrastructure" ID="ID_1791" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+      </node>
+      <node TEXT="Civic participation &amp; justice" ID="ID_1792" COLOR="#5E9E1E" FOLDED="true">
+        <edge COLOR="#5E9E1E" WIDTH="1"/>
+        <node TEXT="Access to justice" ID="ID_1793" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Civic engagement platforms" ID="ID_1794" COLOR="#5E9E1E">
+          <edge COLOR="#5E9E1E" WIDTH="1"/>
+        </node>
+        <node TEXT="Election administration" ID="ID_1795" COLOR="#5E9E1E">
           <edge COLOR="#5E9E1E" WIDTH="1"/>
         </node>
       </node>

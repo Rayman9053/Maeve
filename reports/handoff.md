@@ -1,6 +1,37 @@
-# Handoff: v1
+# Handoff
 
-## Before → after
+## v2: the five weakest branches, reworked
+
+| Branch | v1 | v2 | What changed |
+|---|---|---|---|
+| Relationships › Social Skills | 5 subcats / 18 leaves, mostly skill topics | 4 / 16, all things you could sell | Coaching, AI roleplay, speech-feedback AI, speaking clubs, EQ assessments/training, SEL. Relationship psychology dissolved |
+| Mind › Purpose & Life Transitions | 3 / 10 | 4 / 15 | Now "guidance on direction and life stages": coaching, self-discovery assessments, life-stage programs, sabbaticals |
+| Mind › Personal Development | 3 / 12 | 4 / 15 | Now "self-directed growth products": content, non-clinical inner-work programs, transformational experiences, peer groups. No overlap with Purpose |
+| Relationships › Intimacy & Sexuality | 3 / 10, fuzzy border with Health | 4 / 14, cross-referenced both ways | Partnered intimacy here; individual sexual health, devices and sex-ed in Health |
+| Planet › Biotech & Life Sciences | 6 / 18, every subcat at the 3-leaf minimum | 8 / 37 | Specific modalities, tools, services (CROs, CDMOs), longevity biotech |
+| Planet › Agriculture & Food Systems | 5 / 15, every subcat at the minimum | 8 / 33 | Biologicals & genetics, livestock & aquaculture, farm operations & finance |
+| Enterprise › Commerce & Retail Tech | 4 / 12, overlapped Lifestyle | 6 / 23 | Horizontal only: e-commerce, marketplace selling, fulfillment, SMB operations. Restaurant POS and field-service software moved to their verticals |
+
+Overall: 1,725 → 1,795 nodes; subcategories sitting at the 3-leaf minimum 192 → 177 (of 362).
+Cross-references 45 → 53. No pillar or category was added or removed.
+`reconcile.py` shows every v1 node kept or logged (v2 section of `changelog.md` / `cut.md`), and the
+original v0 input still reconciles with 0 unaccounted.
+
+### Next weakest (for v3)
+
+Same signals as before: share of subcategories at the minimum, and how well the leaves pass the leaf test.
+
+1. **Planet › Public Interest & Impact** (6 of 7 subcats at the minimum). Still a catch-all of three merged categories.
+2. **Planet › Industry & Supply Chain** (7 of 8 at the minimum). Big industries with generic leaves.
+3. **Enterprise › Legal & Compliance Tech** (5 of 5 at the minimum). Legal AI deserves more resolution.
+4. **Relationships › Death, Grief & Legacy** (5 of 5 at the minimum). An underserved area worth deepening.
+5. **Mind › Spirituality & Faith** and **Mind › Productivity** (5 of 5 each). Thin leaves.
+
+---
+
+## v1
+
+### Before → after
 
 | Metric | Before (`source/taxonomy-v0.md`) | After (`taxonomy.yaml`) |
 |---|---|---|
@@ -32,7 +63,7 @@ Names containing "&" dropped only from 233 to 229. The pairs that joined *unlike
 
 Per-pillar numbers are in `reports/stats.md`.
 
-## The 5 weakest branches (where to iterate next)
+### The 5 weakest branches in v1 (addressed in v2)
 
 Signals used:
 - the share of subcategories sitting at the 3-leaf minimum (192 of 353 overall)
@@ -47,7 +78,7 @@ Signals used:
 
 Honourable mention: **Public Interest & Impact** (6 of 7 subcategories at the minimum). It's a catch-all created by merging three old categories.
 
-## Other open items
+### Other open items
 
 - **Brand examples to re-verify** (flagged "verify" in notes): Woebot, Catch, Common coliving. Examples in general are as of 2026.
 - **Regulatory flags that depend on recollection**, marked "verify" in notes: 2025 US lab-test rule status, state AI-therapy restrictions, GLP-1 compounding status.

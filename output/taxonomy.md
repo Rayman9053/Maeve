@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**1,725 nodes**: 8 pillars · 63 categories · 353 subcategories · 1301 leaves.
+**1,795 nodes**: 8 pillars · 63 categories · 362 subcategories · 1362 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -253,7 +253,8 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - PrEP access `regulated`: *HIV prevention; coverage is subject to US litigation.*
   - Erectile dysfunction
   - Low libido
-- **Sexual wellness**
+- **Sexual wellness**: *Individual-focused products and education. Couples programs live in Relationships > Intimacy & Sexuality.*
+  - ↗ *see* Relationships > Intimacy & Sexuality > Couples intimacy
   - Sex tech & devices: *Payment-processor limits; 2024-25 US age-verification laws.*
   - Sex education platforms
   - Sexual wellness apps
@@ -717,6 +718,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Long-term care insurance
   - Pet insurance
   - Small-business insurance
+  - Crop insurance
 - **Insurtech**
   - Digital insurers: *e.g. Lemonade.*
   - Embedded insurance
@@ -849,7 +851,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Compatibility assessments
   - Premarital courses
   - Prenups `regulated`
-- **Relationship coaching**: *Covers communication, trust, conflict resolution, boundaries and shared goals.*
+- **Relationship coaching**: *Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.*
   - Couples apps: *e.g. Paired, Lasting.*
   - AI relationship coaching `ai-native`
   - Couples coaching
@@ -874,22 +876,28 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Intimacy & Sexuality
 
-*Relational intimacy. Clinical sexual health lives in Health & Wellness > Sexual & Reproductive Health.*  
+*Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health & Wellness > Sexual & Reproductive Health.*  
 ↗ *see* Health & Wellness > Sexual & Reproductive Health > Sexual wellness  
 
-- **Intimacy coaching**
-  - Sex therapy
+- **Therapy & coaching**
+  - Sex therapists
+  - Sex-therapy telehealth
   - Intimacy coaches
-  - Couples intimacy programs
-- **Relational challenges**
-  - Desire mismatch
+  - Sexual performance anxiety
+- **Couples intimacy**
+  - Guided intimacy courses
+  - Intimacy apps
+  - Intimacy retreats
+  - Conversation card games
+- **Life-stage intimacy**
   - Postpartum intimacy
   - Midlife intimacy
-  - Sexual performance anxiety
-- **Connection tools**
-  - Couples intimacy apps
-  - Conversation card games
+    - ↗ *see* Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause
+  - Intimacy with illness & disability `underserved`
+- **Desire & communication**
+  - Desire-mismatch programs
   - Consent education
+  - Sexual-communication courses
 
 ### Breakups & Divorce
 
@@ -991,25 +999,24 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Social Skills
 
-- **Communication skills**
-  - Active listening
-  - Conversation skills
-  - Assertiveness
-  - Nonverbal communication
-  - Communication styles
-- **Social confidence**
-  - Overcoming shyness
-  - Public speaking
-  - Charisma coaching
+*Interpersonal skills training sold as coaching, courses, apps and corporate programs.*  
+
+- **Communication training**
+  - Communication coaching: *Active listening, assertiveness and conversation skills.*
+  - AI conversation roleplay 🔥 `ai-native`: *Practice difficult conversations with an AI partner.*
+  - Body-language coaching
+  - Workplace communication programs `b2b`
+- **Public speaking & presence**
+  - Public speaking coaching
+  - Speaking clubs: *e.g. the Toastmasters model.*
+  - Speech feedback AI `ai-native`: *e.g. Yoodli.*
+  - Executive presence coaching
+  - Shyness programs
 - **Emotional intelligence**
-  - Empathy
-  - Self-awareness
-  - Emotional regulation
-  - Conflict management
-- **Relationship psychology**
-  - Attachment styles
-  - Relationship patterns
-  - Personality compatibility
+  - EQ assessments
+  - EQ training `b2b`
+  - Conflict-resolution training
+  - Empathy programs for kids: *Social-emotional learning (SEL) curricula.*
 - **Neurodivergent social skills** `underserved`
   - Social-skills groups
   - Workplace social coaching
@@ -1099,33 +1106,47 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Purpose & Life Transitions
 
+*Guidance on direction and life stages. Self-directed growth products live in Personal Development.*  
+
 - **Life coaching**
   - Coach certification
   - Coaching marketplaces
   - AI life coaches `ai-native`
-- **Purpose work**: *Includes ikigai-style programs.*
-  - Purpose programs
-  - Values & strengths assessments
+  - Coaching practice software `b2b`
+- **Self-discovery**
+  - Strengths & values assessments
+  - Personality assessments
+  - Attachment-style assessments
+  - Purpose programs: *Includes ikigai-style programs.*
+- **Life-stage transitions**
+  - Quarter-life coaching
+  - Midlife reinvention
+  - Empty-nest programs
+  - Encore careers: *Un-retirement and second careers after 60.*
+- **Sabbaticals & career breaks**
   - Sabbatical planning
-- **Life transitions**
-  - Quarter-life
-  - Midlife
-  - Empty nest
-  - Un-retirement
+  - Adult gap-year programs
+  - Career-break communities
 
 ### Personal Development
 
-- **Inner work**
-  - Self-esteem
-  - Self-compassion
-  - Body image
-  - Resilience training
-  - Attachment healing
-  - Boundaries coaching
-- **Growth programs**
-  - Transformational workshops
+*Self-directed growth products: content, programs, experiences and peer groups.*  
+
+- **Self-help content**
   - Book summaries & audio
+  - Self-help courses
   - Personal development apps
+- **Inner-work programs**: *Non-clinical. Clinical care lives in Mental Health.*
+  - Self-esteem programs
+  - Self-compassion training
+  - Body-image programs
+  - Resilience training
+  - Attachment-healing courses
+  - Boundaries coaching
+- **Transformational experiences**
+  - Transformational workshops: *Some large-group programs have been criticized for high-pressure sales; vet providers.*
+  - Growth retreats
+  - Wilderness programs
 - **Growth communities**
   - Men's circles
   - Women's circles
@@ -1324,6 +1345,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Ghost kitchens
   - Restaurant ops software
   - Reservations & waitlists
+  - Restaurant POS: *e.g. Toast.*
 - **Delivery & quick commerce**
   - ↗ *see* Planet & Frontier > Industry & Supply Chain > Last-mile delivery
   - Food delivery
@@ -1366,6 +1388,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Handyman marketplaces
   - Cleaning services
   - Lawn & pest services
+  - Field-service software `b2b`: *Scheduling, dispatch and invoicing for trades, e.g. Jobber.*
 - **Gardening & plants**
   - Houseplants
   - Home gardening
@@ -1701,22 +1724,40 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Commerce & Retail Tech
 
+*Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon & spa tech, field-service software.*  
+↗ *see* Lifestyle, Home & Experiences > Food & Beverage > Restaurant tech  
+↗ *see* Lifestyle, Home & Experiences > Fashion & Beauty > Salon & spa tech  
+
 - **E-commerce enablement**
   - Storefront platforms
   - Shopify-app ecosystem
   - Checkout & conversion
+  - Product information management
+  - Agentic commerce 🔥 `ai-native`: *AI shopping agents and the tools merchants need to sell to them.*
+- **Marketplace selling**
+  - Marketplace seller tools: *e.g. Amazon seller software.*
+  - Social-commerce seller tools: *e.g. TikTok Shop.*
+  - Wholesale marketplaces: *e.g. Faire.*
+  - Cross-border e-commerce
 - **Retail operations**
   - Inventory management
   - Store analytics
   - Retail robotics
-- **SMB vertical software**: *e.g. Jobber.*
-  - Field-service software
-  - Booking & scheduling
-  - Invoicing & quotes
-- **Point of sale**: *SMB fintech and POS ecosystems, e.g. Toast, Square.*
-  - Restaurant POS
+  - Loss prevention
+- **Point of sale**: *e.g. Square. Restaurant POS lives in Restaurant tech.*
   - Retail POS
   - Mobile POS
+  - Loyalty & gift cards
+- **Fulfillment & post-purchase**
+  - ↗ *see* Planet & Frontier > Industry & Supply Chain > Reverse logistics
+  - Order management
+  - Shipping software
+  - Post-purchase experience
+- **SMB operations**: *e.g. Jobber.*
+  - Booking & scheduling
+  - Invoicing & quotes
+  - Reviews & reputation
+  - Website builders
 
 ### Business Finance Tech
 
@@ -1800,22 +1841,45 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Farm data platforms
   - Aerial crop scouting
   - Precision irrigation
+  - Variable-rate application
+  - Soil sensing
 - **Ag robotics**
   - Harvest robots
   - Autonomous tractors
   - Weeding robots
+  - Milking robots
 - **Controlled-environment agriculture**
   - Vertical farms
   - Greenhouse tech
+  - Container farms
   - Indoor grow lighting
+- **Ag biologicals & genetics**
+  - Biostimulants
+  - Biopesticides
+  - Gene-edited crops `regulated`
+  - Regenerative ag programs
+    - ↗ *see* Planet & Frontier > Climate & Energy > Carbon > Carbon markets
+- **Livestock & aquaculture**
+  - Aquaculture tech
+  - Livestock monitoring
+  - Methane-reducing feed
+  - Insect farming
 - **Alternative proteins**
   - Plant-based meat
   - Precision fermentation
+  - Biomass fermentation: *Mycoprotein and similar.*
   - Cultivated meat `regulated`
+  - Alt-dairy
 - **Food supply chain**
   - Food traceability
   - Cold chain
   - Food-safety testing
+  - Farm-to-business marketplaces
+- **Farm operations & finance**
+  - ↗ *see* Wealth > Insurance > Specialty lines > Crop insurance
+  - Farm management software
+  - Ag lending `regulated`
+  - Farm labor marketplaces
 
 ### Industry & Supply Chain
 
@@ -1878,30 +1942,54 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Biotech & Life Sciences `regulated`
 
+*Leaves are organized around what a startup sells: platforms, tools, services or therapeutics.*  
+
 - **AI drug discovery 🔥** `ai-native`: *The AlphaFold wave.*
   - Protein design
+  - Antibody design
   - Target discovery
-  - AI chemistry
+  - Generative chemistry
+  - Virtual cell models
 - **Gene & cell therapy**
-  - Gene editing: *CRISPR.*
-  - Cell therapy
-  - Gene delivery
+  - Gene editing: *CRISPR, base and prime editing.*
+  - CAR-T & cell therapy
+  - Gene delivery: *Lipid nanoparticles and viral vectors.*
+  - RNA therapeutics
+  - Cell-therapy manufacturing
 - **Diagnostics & biosensors**
   - Liquid biopsy
-  - Biosensors
+  - Multi-cancer early detection
+  - Continuous biosensors
   - Point-of-care diagnostics
+  - Companion diagnostics
 - **Clinical trials**
   - Decentralized trials
   - Patient recruitment: *Includes clinical-trial matching for patients.*
+  - AI protocol design `ai-native`
   - Trial data platforms
-- **Lab automation**
+  - Real-world evidence
+- **Lab tools & automation**
   - Lab robotics
   - Cloud labs
   - ELN & LIMS
+  - Single-cell & spatial omics
+  - Lab supply marketplaces
 - **Synthetic biology**
   - Biomanufacturing
   - Engineered microbes
   - Biomaterials
+  - DNA synthesis
+  - Cell-free systems
+- **Biotech services**
+  - AI-enabled CROs
+  - CDMO capacity marketplaces
+  - Regulatory submission software
+  - IP & licensing platforms
+- **Longevity biotech 🔥**
+  - ↗ *see* Health & Wellness > Aging & Longevity > Longevity medicine
+  - Senolytics
+  - Cellular reprogramming
+  - Aging biomarker discovery
 
 ### Aerospace & Defense 🔥
 

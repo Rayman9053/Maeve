@@ -10,7 +10,16 @@ startup markets.
 
 Format: `node name` (old location): reason.
 
-## Health
+## v2
+
+- `Active listening` · `Assertiveness` · `Conversation skills` (Social Skills › Communication skills): skills, not markets. Folded into the note on Communication training › Communication coaching.
+- `Communication styles` (Social Skills › Communication skills): content topic, covered by Communication coaching.
+- `Empathy` · `Emotional regulation` (Social Skills › Emotional intelligence): skills. Covered by EQ training and Empathy programs for kids (SEL).
+- `Relationship patterns` (Social Skills › Relationship psychology): content topic. Folded into the note on Couples & Marriage › Relationship coaching.
+
+## v1
+
+### Health
 
 - `Athlete nutrition` (Health › Nutrition › Sports nutrition): repeated its parent; every sports-nutrition leaf is athlete nutrition.
 - `Men's fitness` (Health › Men's Health): duplicated Fitness & Recovery and Weight management.
@@ -23,7 +32,7 @@ Format: `node name` (old location): reason.
 - `Digital health` (Healthcare Technology › Consumer health tech): tautology; the whole branch is digital health.
 - `Health apps` (Healthcare Technology › Consumer health tech): too broad. App markets live in their own domains.
 
-## Wealth
+### Wealth
 
 - `Long-term investing` (Investing › Stocks): an investing approach, not a market.
 - `Dividend investing` · `Growth investing` · `Value investing` · `Small-cap investing` (Investing › Stocks): styles, folded into the note on Public markets › Stock investing.
@@ -40,7 +49,7 @@ Format: `node name` (old location): reason.
 - `Consulting` · `Copywriting` (Career & Income › High-income skills): duplicates of Entrepreneurship › Freelancing & fractional, which is kept.
 - `Insurance` (Tax & Legal Finance › Asset protection): duplicated the Insurance category.
 
-## Relationships
+### Relationships
 
 - `Online messaging` (Dating › Online dating): an in-app feature, not a standalone market. AI message coaching covers the tooling.
 - `First dates` · `Flirting` · `Confidence` · `Attraction` (Dating › Dating skills): content topics, folded into the note on Dating coaching.

@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,725 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,795 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -39,17 +39,17 @@ markmap:
 ## <span title="Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health &amp; Wellness.">Relationships</span>
 ### Dating
 ### <span title="See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings">Couples &amp; Marriage ↗</span>
-### <span title="Relational intimacy. Clinical sexual health lives in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
+### <span title="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
 ### Breakups &amp; Divorce
 ### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
 ### <span title="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">Friendship &amp; Community ↗</span>
-### Social Skills
+### <span title="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">Social Skills</span>
 ### <span title="&#x27;Death tech.&#x27; | Tags: underserved | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">Death, Grief &amp; Legacy ↗</span>
 ## <span title="Contemplative practice, meaning, personal development, learning, creativity and career growth.">Mind, Meaning &amp; Growth</span>
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">Contemplative Practice ↗</span>
 ### Spirituality &amp; Faith
-### Purpose &amp; Life Transitions
-### Personal Development
+### <span title="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">Purpose &amp; Life Transitions</span>
+### <span title="Self-directed growth products: content, programs, experiences and peer groups.">Personal Development</span>
 ### Productivity
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">Learning &amp; Education ↗</span>
 ### Creativity &amp; Craft
@@ -70,14 +70,14 @@ markmap:
 ### Work &amp; HR Tech
 ### Legal &amp; Compliance Tech
 ### Marketing &amp; Sales Tech
-### Commerce &amp; Retail Tech
+### <span title="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">Commerce &amp; Retail Tech ↗</span>
 ### Business Finance Tech
 ## <span title="Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G.">Planet &amp; Frontier</span>
 ### Climate &amp; Energy
 ### Agriculture &amp; Food Systems
 ### Industry &amp; Supply Chain
 ### <span title="PropTech and construction. | See also: Wealth &gt; Housing &amp; Real Estate">Built Environment ↗</span>
-### <span title="Tags: regulated">Biotech &amp; Life Sciences</span>
+### <span title="Leaves are organized around what a startup sells: platforms, tools, services or therapeutics. | Tags: regulated">Biotech &amp; Life Sciences</span>
 ### Aerospace &amp; Defense 🔥
 ### Deep Tech
 ### Public Interest &amp; Impact

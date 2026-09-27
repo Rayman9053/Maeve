@@ -293,8 +293,6 @@ children:
               - {name: Erectile dysfunction}
               - {name: Low libido}
           - name: Sexual wellness
-            note: "Individual-focused products and education. Couples programs live in Relationships > Intimacy & Sexuality."
-            see: ["Relationships > Intimacy & Sexuality > Couples intimacy"]
             children:
               - {name: Sex tech & devices, note: "Payment-processor limits; 2024-25 US age-verification laws."}
               - {name: Sex education platforms}
@@ -863,7 +861,6 @@ children:
               - {name: Long-term care insurance}
               - {name: Pet insurance}
               - {name: Small-business insurance}
-              - {name: Crop insurance}
           - name: Insurtech
             children:
               - {name: Digital insurers, note: "e.g. Lemonade."}
@@ -1021,7 +1018,7 @@ children:
               - {name: Premarital courses}
               - {name: Prenups, tags: [regulated]}
           - name: Relationship coaching
-            note: "Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns."
+            note: "Covers communication, trust, conflict resolution, boundaries and shared goals."
             children:
               - {name: Couples apps, note: "e.g. Paired, Lasting."}
               - {name: AI relationship coaching, tags: [ai-native]}
@@ -1051,31 +1048,25 @@ children:
               - {name: Mental-load tools}
 
       - name: Intimacy & Sexuality
-        note: "Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health & Wellness > Sexual & Reproductive Health."
+        note: "Relational intimacy. Clinical sexual health lives in Health & Wellness > Sexual & Reproductive Health."
         see: ["Health & Wellness > Sexual & Reproductive Health > Sexual wellness"]
         children:
-          - name: Therapy & coaching
+          - name: Intimacy coaching
             children:
-              - {name: Sex therapists}
-              - {name: Sex-therapy telehealth}
+              - {name: Sex therapy}
               - {name: Intimacy coaches}
-              - {name: Sexual performance anxiety}
-          - name: Couples intimacy
+              - {name: Couples intimacy programs}
+          - name: Relational challenges
             children:
-              - {name: Guided intimacy courses}
-              - {name: Intimacy apps}
-              - {name: Intimacy retreats}
-              - {name: Conversation card games}
-          - name: Life-stage intimacy
-            children:
+              - {name: Desire mismatch}
               - {name: Postpartum intimacy}
-              - {name: Midlife intimacy, see: ["Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause"]}
-              - {name: Intimacy with illness & disability, tags: [underserved]}
-          - name: Desire & communication
+              - {name: Midlife intimacy}
+              - {name: Sexual performance anxiety}
+          - name: Connection tools
             children:
-              - {name: Desire-mismatch programs}
+              - {name: Couples intimacy apps}
+              - {name: Conversation card games}
               - {name: Consent education}
-              - {name: Sexual-communication courses}
 
       - name: Breakups & Divorce
         children:
@@ -1205,27 +1196,30 @@ children:
               - {name: Neighborhood networks}
 
       - name: Social Skills
-        note: "Interpersonal skills training sold as coaching, courses, apps and corporate programs."
         children:
-          - name: Communication training
+          - name: Communication skills
             children:
-              - {name: Communication coaching, note: "Active listening, assertiveness and conversation skills."}
-              - {name: AI conversation roleplay, tags: [trending, ai-native], note: "Practice difficult conversations with an AI partner."}
-              - {name: Body-language coaching}
-              - {name: Workplace communication programs, tags: [b2b]}
-          - name: Public speaking & presence
+              - {name: Active listening}
+              - {name: Conversation skills}
+              - {name: Assertiveness}
+              - {name: Nonverbal communication}
+              - {name: Communication styles}
+          - name: Social confidence
             children:
-              - {name: Public speaking coaching}
-              - {name: Speaking clubs, note: "e.g. the Toastmasters model."}
-              - {name: Speech feedback AI, tags: [ai-native], note: "e.g. Yoodli."}
-              - {name: Executive presence coaching}
-              - {name: Shyness programs}
+              - {name: Overcoming shyness}
+              - {name: Public speaking}
+              - {name: Charisma coaching}
           - name: Emotional intelligence
             children:
-              - {name: EQ assessments}
-              - {name: EQ training, tags: [b2b]}
-              - {name: Conflict-resolution training}
-              - {name: Empathy programs for kids, note: "Social-emotional learning (SEL) curricula."}
+              - {name: Empathy}
+              - {name: Self-awareness}
+              - {name: Emotional regulation}
+              - {name: Conflict management}
+          - name: Relationship psychology
+            children:
+              - {name: Attachment styles}
+              - {name: Relationship patterns}
+              - {name: Personality compatibility}
           - name: Neurodivergent social skills
             tags: [underserved]
             children:
@@ -1333,54 +1327,40 @@ children:
               - {name: Secular communities}
 
       - name: Purpose & Life Transitions
-        note: "Guidance on direction and life stages. Self-directed growth products live in Personal Development."
         children:
           - name: Life coaching
             children:
               - {name: Coach certification}
               - {name: Coaching marketplaces}
               - {name: AI life coaches, tags: [ai-native]}
-              - {name: Coaching practice software, tags: [b2b]}
-          - name: Self-discovery
+          - name: Purpose work
+            note: "Includes ikigai-style programs."
             children:
-              - {name: Strengths & values assessments}
-              - {name: Personality assessments}
-              - {name: Attachment-style assessments}
-              - {name: Purpose programs, note: "Includes ikigai-style programs."}
-          - name: Life-stage transitions
-            children:
-              - {name: Quarter-life coaching}
-              - {name: Midlife reinvention}
-              - {name: Empty-nest programs}
-              - {name: Encore careers, note: "Un-retirement and second careers after 60."}
-          - name: Sabbaticals & career breaks
-            children:
+              - {name: Purpose programs}
+              - {name: Values & strengths assessments}
               - {name: Sabbatical planning}
-              - {name: Adult gap-year programs}
-              - {name: Career-break communities}
+          - name: Life transitions
+            children:
+              - {name: Quarter-life}
+              - {name: Midlife}
+              - {name: Empty nest}
+              - {name: Un-retirement}
 
       - name: Personal Development
-        note: "Self-directed growth products: content, programs, experiences and peer groups."
         children:
-          - name: Self-help content
+          - name: Inner work
             children:
-              - {name: Book summaries & audio}
-              - {name: Self-help courses}
-              - {name: Personal development apps}
-          - name: Inner-work programs
-            note: "Non-clinical. Clinical care lives in Mental Health."
-            children:
-              - {name: Self-esteem programs}
-              - {name: Self-compassion training}
-              - {name: Body-image programs}
+              - {name: Self-esteem}
+              - {name: Self-compassion}
+              - {name: Body image}
               - {name: Resilience training}
-              - {name: Attachment-healing courses}
+              - {name: Attachment healing}
               - {name: Boundaries coaching}
-          - name: Transformational experiences
+          - name: Growth programs
             children:
-              - {name: Transformational workshops, note: "Some large-group programs have been criticized for high-pressure sales; vet providers."}
-              - {name: Growth retreats}
-              - {name: Wilderness programs}
+              - {name: Transformational workshops}
+              - {name: Book summaries & audio}
+              - {name: Personal development apps}
           - name: Growth communities
             children:
               - {name: Men's circles}
@@ -1623,7 +1603,6 @@ children:
               - {name: Ghost kitchens}
               - {name: Restaurant ops software}
               - {name: Reservations & waitlists}
-              - {name: Restaurant POS, note: "e.g. Toast."}
           - name: Delivery & quick commerce
             see: ["Planet & Frontier > Industry & Supply Chain > Last-mile delivery"]
             children:
@@ -1676,7 +1655,6 @@ children:
               - {name: Handyman marketplaces}
               - {name: Cleaning services}
               - {name: Lawn & pest services}
-              - {name: Field-service software, tags: [b2b], note: "Scheduling, dispatch and invoicing for trades, e.g. Jobber."}
           - name: Gardening & plants
             children:
               - {name: Houseplants}
@@ -2090,49 +2068,29 @@ children:
               - {name: CRM}
 
       - name: Commerce & Retail Tech
-        note: "Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon & spa tech, field-service software."
-        see:
-          - "Lifestyle, Home & Experiences > Food & Beverage > Restaurant tech"
-          - "Lifestyle, Home & Experiences > Fashion & Beauty > Salon & spa tech"
         children:
           - name: E-commerce enablement
             children:
               - {name: Storefront platforms}
               - {name: Shopify-app ecosystem}
               - {name: Checkout & conversion}
-              - {name: Product information management}
-              - {name: Agentic commerce, tags: [trending, ai-native], note: "AI shopping agents and the tools merchants need to sell to them."}
-          - name: Marketplace selling
-            children:
-              - {name: Marketplace seller tools, note: "e.g. Amazon seller software."}
-              - {name: Social-commerce seller tools, note: "e.g. TikTok Shop."}
-              - {name: Wholesale marketplaces, note: "e.g. Faire."}
-              - {name: Cross-border e-commerce}
           - name: Retail operations
             children:
               - {name: Inventory management}
               - {name: Store analytics}
               - {name: Retail robotics}
-              - {name: Loss prevention}
-          - name: Point of sale
-            note: "e.g. Square. Restaurant POS lives in Restaurant tech."
-            children:
-              - {name: Retail POS}
-              - {name: Mobile POS}
-              - {name: Loyalty & gift cards}
-          - name: Fulfillment & post-purchase
-            see: ["Planet & Frontier > Industry & Supply Chain > Reverse logistics"]
-            children:
-              - {name: Order management}
-              - {name: Shipping software}
-              - {name: Post-purchase experience}
-          - name: SMB operations
+          - name: SMB vertical software
             note: "e.g. Jobber."
             children:
+              - {name: Field-service software}
               - {name: Booking & scheduling}
               - {name: Invoicing & quotes}
-              - {name: Reviews & reputation}
-              - {name: Website builders}
+          - name: Point of sale
+            note: "SMB fintech and POS ecosystems, e.g. Toast, Square."
+            children:
+              - {name: Restaurant POS}
+              - {name: Retail POS}
+              - {name: Mobile POS}
 
       - name: Business Finance Tech
         children:
@@ -2231,51 +2189,26 @@ children:
               - {name: Farm data platforms}
               - {name: Aerial crop scouting}
               - {name: Precision irrigation}
-              - {name: Variable-rate application}
-              - {name: Soil sensing}
           - name: Ag robotics
             children:
               - {name: Harvest robots}
               - {name: Autonomous tractors}
               - {name: Weeding robots}
-              - {name: Milking robots}
           - name: Controlled-environment agriculture
             children:
               - {name: Vertical farms}
               - {name: Greenhouse tech}
-              - {name: Container farms}
               - {name: Indoor grow lighting}
-          - name: Ag biologicals & genetics
-            children:
-              - {name: Biostimulants}
-              - {name: Biopesticides}
-              - {name: Gene-edited crops, tags: [regulated]}
-              - {name: Regenerative ag programs, see: ["Planet & Frontier > Climate & Energy > Carbon > Carbon markets"]}
-          - name: Livestock & aquaculture
-            children:
-              - {name: Aquaculture tech}
-              - {name: Livestock monitoring}
-              - {name: Methane-reducing feed}
-              - {name: Insect farming}
           - name: Alternative proteins
             children:
               - {name: Plant-based meat}
               - {name: Precision fermentation}
-              - {name: Biomass fermentation, note: "Mycoprotein and similar."}
               - {name: Cultivated meat, tags: [regulated]}
-              - {name: Alt-dairy}
           - name: Food supply chain
             children:
               - {name: Food traceability}
               - {name: Cold chain}
               - {name: Food-safety testing}
-              - {name: Farm-to-business marketplaces}
-          - name: Farm operations & finance
-            see: ["Wealth > Insurance > Specialty lines > Crop insurance"]
-            children:
-              - {name: Farm management software}
-              - {name: Ag lending, tags: [regulated]}
-              - {name: Farm labor marketplaces}
 
       - name: Industry & Supply Chain
         children:
@@ -2351,65 +2284,39 @@ children:
 
       - name: Biotech & Life Sciences
         tags: [regulated]
-        note: "Leaves are organized around what a startup sells: platforms, tools, services or therapeutics."
         children:
           - name: AI drug discovery
             tags: [trending, ai-native]
             note: "The AlphaFold wave."
             children:
               - {name: Protein design}
-              - {name: Antibody design}
               - {name: Target discovery}
-              - {name: Generative chemistry}
-              - {name: Virtual cell models}
+              - {name: AI chemistry}
           - name: Gene & cell therapy
             children:
-              - {name: Gene editing, note: "CRISPR, base and prime editing."}
-              - {name: CAR-T & cell therapy}
-              - {name: Gene delivery, note: "Lipid nanoparticles and viral vectors."}
-              - {name: RNA therapeutics}
-              - {name: Cell-therapy manufacturing}
+              - {name: Gene editing, note: "CRISPR."}
+              - {name: Cell therapy}
+              - {name: Gene delivery}
           - name: Diagnostics & biosensors
             children:
               - {name: Liquid biopsy}
-              - {name: Multi-cancer early detection}
-              - {name: Continuous biosensors}
+              - {name: Biosensors}
               - {name: Point-of-care diagnostics}
-              - {name: Companion diagnostics}
           - name: Clinical trials
             children:
               - {name: Decentralized trials}
               - {name: Patient recruitment, note: "Includes clinical-trial matching for patients."}
-              - {name: AI protocol design, tags: [ai-native]}
               - {name: Trial data platforms}
-              - {name: Real-world evidence}
-          - name: Lab tools & automation
+          - name: Lab automation
             children:
               - {name: Lab robotics}
               - {name: Cloud labs}
               - {name: ELN & LIMS}
-              - {name: Single-cell & spatial omics}
-              - {name: Lab supply marketplaces}
           - name: Synthetic biology
             children:
               - {name: Biomanufacturing}
               - {name: Engineered microbes}
               - {name: Biomaterials}
-              - {name: DNA synthesis}
-              - {name: Cell-free systems}
-          - name: Biotech services
-            children:
-              - {name: AI-enabled CROs}
-              - {name: CDMO capacity marketplaces}
-              - {name: Regulatory submission software}
-              - {name: IP & licensing platforms}
-          - name: Longevity biotech
-            tags: [trending]
-            see: ["Health & Wellness > Aging & Longevity > Longevity medicine"]
-            children:
-              - {name: Senolytics}
-              - {name: Cellular reprogramming}
-              - {name: Aging biomarker discovery}
 
       - name: Aerospace & Defense
         tags: [trending]

@@ -1,5 +1,98 @@
 # Changelog
 
+## v2: strengthen the five weakest branches
+
+Input: `source/taxonomy-v1.yaml`. The five branches were the ones named in `reports/handoff.md` (v1).
+No pillar or category was added or removed. Changes are to subcategories and leaves, plus
+cross-references between branches.
+- **Social Skills**: recast from skill lists to products you could buy (coaching, AI roleplay, assessments, corporate programs).
+- **Purpose & Life Transitions / Personal Development**: re-cut so they no longer overlap. Purpose is guidance on direction and life stages; Personal Development is self-directed growth products.
+- **Intimacy & Sexuality**: boundary with Health made explicit. Relationships holds partnered intimacy; Health holds individual sexual health, devices and sex education. Both sides cross-reference each other.
+- **Biotech & Life Sciences**, and **Agriculture & Food Systems** with it: from 3 generic leaves per subcategory to 3–5 specific ones, plus new subcategories for services, longevity biotech, biologicals and livestock.
+- **Commerce & Retail Tech**: now strictly horizontal commerce software. Vertical tools stay with their domain (Restaurant POS moved into Restaurant tech, field-service software into Home services), with cross-references.
+
+| Old location (v1) | Before | After | Reason |
+|---|---|---|---|
+| Social Skills | `Communication skills` | `Communication training` | R9 |
+| Communication skills | `Nonverbal communication` | `Body-language coaching` | R9 |
+| Social Skills | `Conversation skills` | folded into `Communication coaching` (note) | R9; see cut.md |
+| Social Skills | `Social confidence` | `Public speaking & presence` | R9 |
+| Social confidence | `Overcoming shyness` · `Public speaking` · `Charisma coaching` | `Shyness programs` · `Public speaking coaching` · `Executive presence coaching` | R9, R3 |
+| Emotional intelligence | `Self-awareness` · `Conflict management` | merged into `EQ assessments` · `Conflict-resolution training` | R9 |
+| Social Skills | `Relationship psychology` | dissolved | Overlapped Couples & Marriage and Purpose |
+| Relationship psychology | `Attachment styles` | `Purpose & Life Transitions > Self-discovery > Attachment-style assessments` | R5, R9 |
+| Relationship psychology | `Personality compatibility` | merged into `Couples & Marriage > Premarital > Compatibility assessments` | R3 |
+| Relationship psychology | `Relationship patterns` | folded into `Relationship coaching` note | R9; see cut.md |
+| Purpose & Life Transitions | `Purpose work` | `Self-discovery` | R9 |
+| Purpose work | `Values & strengths assessments` | `Strengths & values assessments` | Wording |
+| Purpose work | `Purpose programs` | `Self-discovery > Purpose programs` | R7 |
+| Purpose work | `Sabbatical planning` | `Sabbaticals & career breaks > Sabbatical planning` | R7 |
+| Purpose & Life Transitions | `Life transitions` | `Life-stage transitions` | Wording |
+| Life transitions | `Quarter-life` · `Midlife` · `Empty nest` · `Un-retirement` | `Quarter-life coaching` · `Midlife reinvention` · `Empty-nest programs` · `Encore careers` | R9 |
+| Personal Development | `Inner work` | `Inner-work programs` | R9 |
+| Inner work | `Self-esteem` · `Self-compassion` · `Body image` · `Attachment healing` | `Self-esteem programs` · `Self-compassion training` · `Body-image programs` · `Attachment-healing courses` | R9 |
+| Personal Development | `Growth programs` | split into `Self-help content` · `Transformational experiences` | R4 |
+| Growth programs | `Book summaries & audio` · `Personal development apps` | `Self-help content > Book summaries & audio` · `Personal development apps` | R7 |
+| Growth programs | `Transformational workshops` | `Transformational experiences > Transformational workshops` | R7 |
+| Intimacy & Sexuality | `Intimacy coaching` | `Therapy & coaching` | R9 |
+| Intimacy coaching | `Sex therapy` | `Sex therapists` · `Sex-therapy telehealth` | R9 |
+| Intimacy coaching | `Couples intimacy programs` | `Couples intimacy` (subcategory) + `Guided intimacy courses` | R9 |
+| Intimacy & Sexuality | `Relational challenges` | split into `Life-stage intimacy` · `Desire & communication` | R9 |
+| Relational challenges | `Desire mismatch` | `Desire-mismatch programs` | R9 |
+| Relational challenges | `Sexual performance anxiety` | `Therapy & coaching > Sexual performance anxiety` | R7 |
+| Intimacy & Sexuality | `Connection tools` | dissolved into `Couples intimacy` · `Desire & communication` | R7 |
+| Connection tools | `Couples intimacy apps` | `Intimacy apps` | R2 |
+| Health › Sexual wellness | (no note) | note + `see:` to `Couples intimacy` | Makes the boundary explicit |
+| Commerce & Retail Tech | `SMB vertical software` | `SMB operations` | Horizontal SMB tools only |
+| SMB vertical software | `Field-service software` | `Lifestyle, Home & Experiences > Home & Living > Home services > Field-service software` | R5: vertical tools stay with their domain |
+| Point of sale | `Restaurant POS` | `Food & Beverage > Restaurant tech > Restaurant POS` | R5 |
+| AI drug discovery | `AI chemistry` | `Generative chemistry` | R6 |
+| Gene & cell therapy | `Cell therapy` | `CAR-T & cell therapy` | R6 |
+| Diagnostics & biosensors | `Biosensors` | `Continuous biosensors` | R6 |
+| Biotech & Life Sciences | `Lab automation` | `Lab tools & automation` | Scope |
+| Specialty lines | (none) | `Crop insurance` | Target for the new farm cross-reference; every insurance line lives in Wealth |
+
+<!-- ADDITIONS:v2:START -->
+73 added nodes.
+
+- **Relationships › Intimacy & Sexuality › Couples intimacy**: Intimacy retreats
+- **Relationships › Intimacy & Sexuality › Life-stage intimacy**: Intimacy with illness & disability
+- **Relationships › Intimacy & Sexuality › Desire & communication**: Sexual-communication courses
+- **Relationships › Social Skills › Communication training**: AI conversation roleplay · Workplace communication programs
+- **Relationships › Social Skills › Public speaking & presence**: Speaking clubs · Speech feedback AI
+- **Relationships › Social Skills › Emotional intelligence**: EQ training · Empathy programs for kids
+- **Mind, Meaning & Growth › Purpose & Life Transitions › Life coaching**: Coaching practice software
+- **Mind, Meaning & Growth › Purpose & Life Transitions › Self-discovery**: Personality assessments
+- **Mind, Meaning & Growth › Purpose & Life Transitions › Sabbaticals & career breaks**: Adult gap-year programs · Career-break communities
+- **Mind, Meaning & Growth › Personal Development › Self-help content**: Self-help courses
+- **Mind, Meaning & Growth › Personal Development › Transformational experiences**: Growth retreats · Wilderness programs
+- **Enterprise & AI › Commerce & Retail Tech › E-commerce enablement**: Product information management · Agentic commerce
+- **Enterprise & AI › Commerce & Retail Tech**: Marketplace selling · Fulfillment & post-purchase
+- **Enterprise & AI › Commerce & Retail Tech › Marketplace selling**: Marketplace seller tools · Social-commerce seller tools · Wholesale marketplaces · Cross-border e-commerce
+- **Enterprise & AI › Commerce & Retail Tech › Retail operations**: Loss prevention
+- **Enterprise & AI › Commerce & Retail Tech › Point of sale**: Loyalty & gift cards
+- **Enterprise & AI › Commerce & Retail Tech › Fulfillment & post-purchase**: Order management · Shipping software · Post-purchase experience
+- **Enterprise & AI › Commerce & Retail Tech › SMB operations**: Reviews & reputation · Website builders
+- **Planet & Frontier › Agriculture & Food Systems › Precision agriculture**: Variable-rate application · Soil sensing
+- **Planet & Frontier › Agriculture & Food Systems › Ag robotics**: Milking robots
+- **Planet & Frontier › Agriculture & Food Systems › Controlled-environment agriculture**: Container farms
+- **Planet & Frontier › Agriculture & Food Systems**: Ag biologicals & genetics · Livestock & aquaculture · Farm operations & finance
+- **Planet & Frontier › Agriculture & Food Systems › Ag biologicals & genetics**: Biostimulants · Biopesticides · Gene-edited crops · Regenerative ag programs
+- **Planet & Frontier › Agriculture & Food Systems › Livestock & aquaculture**: Aquaculture tech · Livestock monitoring · Methane-reducing feed · Insect farming
+- **Planet & Frontier › Agriculture & Food Systems › Alternative proteins**: Biomass fermentation · Alt-dairy
+- **Planet & Frontier › Agriculture & Food Systems › Food supply chain**: Farm-to-business marketplaces
+- **Planet & Frontier › Agriculture & Food Systems › Farm operations & finance**: Farm management software · Ag lending · Farm labor marketplaces
+- **Planet & Frontier › Biotech & Life Sciences › AI drug discovery**: Antibody design · Virtual cell models
+- **Planet & Frontier › Biotech & Life Sciences › Gene & cell therapy**: RNA therapeutics · Cell-therapy manufacturing
+- **Planet & Frontier › Biotech & Life Sciences › Diagnostics & biosensors**: Multi-cancer early detection · Companion diagnostics
+- **Planet & Frontier › Biotech & Life Sciences › Clinical trials**: AI protocol design · Real-world evidence
+- **Planet & Frontier › Biotech & Life Sciences › Lab tools & automation**: Single-cell & spatial omics · Lab supply marketplaces
+- **Planet & Frontier › Biotech & Life Sciences › Synthetic biology**: DNA synthesis · Cell-free systems
+- **Planet & Frontier › Biotech & Life Sciences**: Biotech services · Longevity biotech
+- **Planet & Frontier › Biotech & Life Sciences › Biotech services**: AI-enabled CROs · CDMO capacity marketplaces · Regulatory submission software · IP & licensing platforms
+- **Planet & Frontier › Biotech & Life Sciences › Longevity biotech**: Senolytics · Cellular reprogramming · Aging biomarker discovery
+<!-- ADDITIONS:v2:END -->
+
 ## v1: canonical refinement of `source/taxonomy-v0.md` → `taxonomy.yaml`
 
 Approved decisions (Phase 1 audit):
@@ -590,10 +683,10 @@ Other global changes:
 ### Additions
 
 These nodes are new: gap fills approved in decision C, plus leaves added so that every subcategory
-has 3–8 leaves. The list is generated by `python3 scripts/reconcile.py source/taxonomy-v0.md --additions`
+has 3–8 leaves. The list is generated by `python3 scripts/reconcile.py source/taxonomy-v0.md --write-additions v1`
 and is grouped by parent.
 
-<!-- ADDITIONS:START -->
+<!-- ADDITIONS:v1:START -->
 709 added nodes.
 
 - **Health & Wellness › Prevention & Diagnostics › At-home testing**: Home lab kits · Blood-test memberships · Hormone tests
@@ -905,4 +998,4 @@ and is grouped by parent.
 - **Planet & Frontier › Public Interest & Impact › Nonprofit tech**: Fundraising platforms · Nonprofit CRM · Volunteer management
 - **Planet & Frontier › Public Interest & Impact › Development & inclusion**: Digital public infrastructure
 - **Planet & Frontier › Public Interest & Impact › Civic participation & justice**: Access to justice · Civic engagement platforms · Election administration
-<!-- ADDITIONS:END -->
+<!-- ADDITIONS:v1:END -->

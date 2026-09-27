@@ -253,7 +253,7 @@
             <outline text="Erectile dysfunction"/>
             <outline text="Low libido"/>
           </outline>
-          <outline text="Sexual wellness">
+          <outline text="Sexual wellness" _note="Individual-focused products and education. Couples programs live in Relationships &gt; Intimacy &amp; Sexuality. | See also: Relationships &gt; Intimacy &amp; Sexuality &gt; Couples intimacy">
             <outline text="Sex tech &amp; devices" _note="Payment-processor limits; 2024-25 US age-verification laws."/>
             <outline text="Sex education platforms"/>
             <outline text="Sexual wellness apps"/>
@@ -753,6 +753,7 @@
             <outline text="Long-term care insurance"/>
             <outline text="Pet insurance"/>
             <outline text="Small-business insurance"/>
+            <outline text="Crop insurance"/>
           </outline>
           <outline text="Insurtech">
             <outline text="Digital insurers" _note="e.g. Lemonade."/>
@@ -892,7 +893,7 @@
             <outline text="Premarital courses"/>
             <outline text="Prenups #regulated"/>
           </outline>
-          <outline text="Relationship coaching" _note="Covers communication, trust, conflict resolution, boundaries and shared goals.">
+          <outline text="Relationship coaching" _note="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.">
             <outline text="Couples apps" _note="e.g. Paired, Lasting."/>
             <outline text="AI relationship coaching #ai-native"/>
             <outline text="Couples coaching"/>
@@ -919,22 +920,28 @@
             <outline text="Mental-load tools"/>
           </outline>
         </outline>
-        <outline text="Intimacy &amp; Sexuality" _note="Relational intimacy. Clinical sexual health lives in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">
-          <outline text="Intimacy coaching">
-            <outline text="Sex therapy"/>
+        <outline text="Intimacy &amp; Sexuality" _note="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">
+          <outline text="Therapy &amp; coaching">
+            <outline text="Sex therapists"/>
+            <outline text="Sex-therapy telehealth"/>
             <outline text="Intimacy coaches"/>
-            <outline text="Couples intimacy programs"/>
-          </outline>
-          <outline text="Relational challenges">
-            <outline text="Desire mismatch"/>
-            <outline text="Postpartum intimacy"/>
-            <outline text="Midlife intimacy"/>
             <outline text="Sexual performance anxiety"/>
           </outline>
-          <outline text="Connection tools">
-            <outline text="Couples intimacy apps"/>
+          <outline text="Couples intimacy">
+            <outline text="Guided intimacy courses"/>
+            <outline text="Intimacy apps"/>
+            <outline text="Intimacy retreats"/>
             <outline text="Conversation card games"/>
+          </outline>
+          <outline text="Life-stage intimacy">
+            <outline text="Postpartum intimacy"/>
+            <outline text="Midlife intimacy" _note="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women's health &gt; Menopause &amp; perimenopause"/>
+            <outline text="Intimacy with illness &amp; disability #underserved"/>
+          </outline>
+          <outline text="Desire &amp; communication">
+            <outline text="Desire-mismatch programs"/>
             <outline text="Consent education"/>
+            <outline text="Sexual-communication courses"/>
           </outline>
         </outline>
         <outline text="Breakups &amp; Divorce">
@@ -1046,29 +1053,25 @@
             <outline text="Neighborhood networks"/>
           </outline>
         </outline>
-        <outline text="Social Skills">
-          <outline text="Communication skills">
-            <outline text="Active listening"/>
-            <outline text="Conversation skills"/>
-            <outline text="Assertiveness"/>
-            <outline text="Nonverbal communication"/>
-            <outline text="Communication styles"/>
+        <outline text="Social Skills" _note="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">
+          <outline text="Communication training">
+            <outline text="Communication coaching" _note="Active listening, assertiveness and conversation skills."/>
+            <outline text="AI conversation roleplay #trending #ai-native" _note="Practice difficult conversations with an AI partner."/>
+            <outline text="Body-language coaching"/>
+            <outline text="Workplace communication programs #b2b"/>
           </outline>
-          <outline text="Social confidence">
-            <outline text="Overcoming shyness"/>
-            <outline text="Public speaking"/>
-            <outline text="Charisma coaching"/>
+          <outline text="Public speaking &amp; presence">
+            <outline text="Public speaking coaching"/>
+            <outline text="Speaking clubs" _note="e.g. the Toastmasters model."/>
+            <outline text="Speech feedback AI #ai-native" _note="e.g. Yoodli."/>
+            <outline text="Executive presence coaching"/>
+            <outline text="Shyness programs"/>
           </outline>
           <outline text="Emotional intelligence">
-            <outline text="Empathy"/>
-            <outline text="Self-awareness"/>
-            <outline text="Emotional regulation"/>
-            <outline text="Conflict management"/>
-          </outline>
-          <outline text="Relationship psychology">
-            <outline text="Attachment styles"/>
-            <outline text="Relationship patterns"/>
-            <outline text="Personality compatibility"/>
+            <outline text="EQ assessments"/>
+            <outline text="EQ training #b2b"/>
+            <outline text="Conflict-resolution training"/>
+            <outline text="Empathy programs for kids" _note="Social-emotional learning (SEL) curricula."/>
           </outline>
           <outline text="Neurodivergent social skills #underserved">
             <outline text="Social-skills groups"/>
@@ -1160,37 +1163,49 @@
             <outline text="Secular communities"/>
           </outline>
         </outline>
-        <outline text="Purpose &amp; Life Transitions">
+        <outline text="Purpose &amp; Life Transitions" _note="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">
           <outline text="Life coaching">
             <outline text="Coach certification"/>
             <outline text="Coaching marketplaces"/>
             <outline text="AI life coaches #ai-native"/>
+            <outline text="Coaching practice software #b2b"/>
           </outline>
-          <outline text="Purpose work" _note="Includes ikigai-style programs.">
-            <outline text="Purpose programs"/>
-            <outline text="Values &amp; strengths assessments"/>
+          <outline text="Self-discovery">
+            <outline text="Strengths &amp; values assessments"/>
+            <outline text="Personality assessments"/>
+            <outline text="Attachment-style assessments"/>
+            <outline text="Purpose programs" _note="Includes ikigai-style programs."/>
+          </outline>
+          <outline text="Life-stage transitions">
+            <outline text="Quarter-life coaching"/>
+            <outline text="Midlife reinvention"/>
+            <outline text="Empty-nest programs"/>
+            <outline text="Encore careers" _note="Un-retirement and second careers after 60."/>
+          </outline>
+          <outline text="Sabbaticals &amp; career breaks">
             <outline text="Sabbatical planning"/>
-          </outline>
-          <outline text="Life transitions">
-            <outline text="Quarter-life"/>
-            <outline text="Midlife"/>
-            <outline text="Empty nest"/>
-            <outline text="Un-retirement"/>
+            <outline text="Adult gap-year programs"/>
+            <outline text="Career-break communities"/>
           </outline>
         </outline>
-        <outline text="Personal Development">
-          <outline text="Inner work">
-            <outline text="Self-esteem"/>
-            <outline text="Self-compassion"/>
-            <outline text="Body image"/>
+        <outline text="Personal Development" _note="Self-directed growth products: content, programs, experiences and peer groups.">
+          <outline text="Self-help content">
+            <outline text="Book summaries &amp; audio"/>
+            <outline text="Self-help courses"/>
+            <outline text="Personal development apps"/>
+          </outline>
+          <outline text="Inner-work programs" _note="Non-clinical. Clinical care lives in Mental Health.">
+            <outline text="Self-esteem programs"/>
+            <outline text="Self-compassion training"/>
+            <outline text="Body-image programs"/>
             <outline text="Resilience training"/>
-            <outline text="Attachment healing"/>
+            <outline text="Attachment-healing courses"/>
             <outline text="Boundaries coaching"/>
           </outline>
-          <outline text="Growth programs">
-            <outline text="Transformational workshops"/>
-            <outline text="Book summaries &amp; audio"/>
-            <outline text="Personal development apps"/>
+          <outline text="Transformational experiences">
+            <outline text="Transformational workshops" _note="Some large-group programs have been criticized for high-pressure sales; vet providers."/>
+            <outline text="Growth retreats"/>
+            <outline text="Wilderness programs"/>
           </outline>
           <outline text="Growth communities">
             <outline text="Men's circles"/>
@@ -1409,6 +1424,7 @@
             <outline text="Ghost kitchens"/>
             <outline text="Restaurant ops software"/>
             <outline text="Reservations &amp; waitlists"/>
+            <outline text="Restaurant POS" _note="e.g. Toast."/>
           </outline>
           <outline text="Delivery &amp; quick commerce" _note="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery">
             <outline text="Food delivery"/>
@@ -1457,6 +1473,7 @@
             <outline text="Handyman marketplaces"/>
             <outline text="Cleaning services"/>
             <outline text="Lawn &amp; pest services"/>
+            <outline text="Field-service software #b2b" _note="Scheduling, dispatch and invoicing for trades, e.g. Jobber."/>
           </outline>
           <outline text="Gardening &amp; plants">
             <outline text="Houseplants"/>
@@ -1832,26 +1849,41 @@
             <outline text="CRM"/>
           </outline>
         </outline>
-        <outline text="Commerce &amp; Retail Tech">
+        <outline text="Commerce &amp; Retail Tech" _note="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">
           <outline text="E-commerce enablement">
             <outline text="Storefront platforms"/>
             <outline text="Shopify-app ecosystem"/>
             <outline text="Checkout &amp; conversion"/>
+            <outline text="Product information management"/>
+            <outline text="Agentic commerce #trending #ai-native" _note="AI shopping agents and the tools merchants need to sell to them."/>
+          </outline>
+          <outline text="Marketplace selling">
+            <outline text="Marketplace seller tools" _note="e.g. Amazon seller software."/>
+            <outline text="Social-commerce seller tools" _note="e.g. TikTok Shop."/>
+            <outline text="Wholesale marketplaces" _note="e.g. Faire."/>
+            <outline text="Cross-border e-commerce"/>
           </outline>
           <outline text="Retail operations">
             <outline text="Inventory management"/>
             <outline text="Store analytics"/>
             <outline text="Retail robotics"/>
+            <outline text="Loss prevention"/>
           </outline>
-          <outline text="SMB vertical software" _note="e.g. Jobber.">
-            <outline text="Field-service software"/>
-            <outline text="Booking &amp; scheduling"/>
-            <outline text="Invoicing &amp; quotes"/>
-          </outline>
-          <outline text="Point of sale" _note="SMB fintech and POS ecosystems, e.g. Toast, Square.">
-            <outline text="Restaurant POS"/>
+          <outline text="Point of sale" _note="e.g. Square. Restaurant POS lives in Restaurant tech.">
             <outline text="Retail POS"/>
             <outline text="Mobile POS"/>
+            <outline text="Loyalty &amp; gift cards"/>
+          </outline>
+          <outline text="Fulfillment &amp; post-purchase" _note="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics">
+            <outline text="Order management"/>
+            <outline text="Shipping software"/>
+            <outline text="Post-purchase experience"/>
+          </outline>
+          <outline text="SMB operations" _note="e.g. Jobber.">
+            <outline text="Booking &amp; scheduling"/>
+            <outline text="Invoicing &amp; quotes"/>
+            <outline text="Reviews &amp; reputation"/>
+            <outline text="Website builders"/>
           </outline>
         </outline>
         <outline text="Business Finance Tech">
@@ -1942,26 +1974,50 @@
             <outline text="Farm data platforms"/>
             <outline text="Aerial crop scouting"/>
             <outline text="Precision irrigation"/>
+            <outline text="Variable-rate application"/>
+            <outline text="Soil sensing"/>
           </outline>
           <outline text="Ag robotics">
             <outline text="Harvest robots"/>
             <outline text="Autonomous tractors"/>
             <outline text="Weeding robots"/>
+            <outline text="Milking robots"/>
           </outline>
           <outline text="Controlled-environment agriculture">
             <outline text="Vertical farms"/>
             <outline text="Greenhouse tech"/>
+            <outline text="Container farms"/>
             <outline text="Indoor grow lighting"/>
+          </outline>
+          <outline text="Ag biologicals &amp; genetics">
+            <outline text="Biostimulants"/>
+            <outline text="Biopesticides"/>
+            <outline text="Gene-edited crops #regulated"/>
+            <outline text="Regenerative ag programs" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon markets"/>
+          </outline>
+          <outline text="Livestock &amp; aquaculture">
+            <outline text="Aquaculture tech"/>
+            <outline text="Livestock monitoring"/>
+            <outline text="Methane-reducing feed"/>
+            <outline text="Insect farming"/>
           </outline>
           <outline text="Alternative proteins">
             <outline text="Plant-based meat"/>
             <outline text="Precision fermentation"/>
+            <outline text="Biomass fermentation" _note="Mycoprotein and similar."/>
             <outline text="Cultivated meat #regulated"/>
+            <outline text="Alt-dairy"/>
           </outline>
           <outline text="Food supply chain">
             <outline text="Food traceability"/>
             <outline text="Cold chain"/>
             <outline text="Food-safety testing"/>
+            <outline text="Farm-to-business marketplaces"/>
+          </outline>
+          <outline text="Farm operations &amp; finance" _note="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Crop insurance">
+            <outline text="Farm management software"/>
+            <outline text="Ag lending #regulated"/>
+            <outline text="Farm labor marketplaces"/>
           </outline>
         </outline>
         <outline text="Industry &amp; Supply Chain">
@@ -2030,36 +2086,59 @@
             <outline text="Brokerage tech"/>
           </outline>
         </outline>
-        <outline text="Biotech &amp; Life Sciences #regulated">
+        <outline text="Biotech &amp; Life Sciences #regulated" _note="Leaves are organized around what a startup sells: platforms, tools, services or therapeutics.">
           <outline text="AI drug discovery #trending #ai-native" _note="The AlphaFold wave.">
             <outline text="Protein design"/>
+            <outline text="Antibody design"/>
             <outline text="Target discovery"/>
-            <outline text="AI chemistry"/>
+            <outline text="Generative chemistry"/>
+            <outline text="Virtual cell models"/>
           </outline>
           <outline text="Gene &amp; cell therapy">
-            <outline text="Gene editing" _note="CRISPR."/>
-            <outline text="Cell therapy"/>
-            <outline text="Gene delivery"/>
+            <outline text="Gene editing" _note="CRISPR, base and prime editing."/>
+            <outline text="CAR-T &amp; cell therapy"/>
+            <outline text="Gene delivery" _note="Lipid nanoparticles and viral vectors."/>
+            <outline text="RNA therapeutics"/>
+            <outline text="Cell-therapy manufacturing"/>
           </outline>
           <outline text="Diagnostics &amp; biosensors">
             <outline text="Liquid biopsy"/>
-            <outline text="Biosensors"/>
+            <outline text="Multi-cancer early detection"/>
+            <outline text="Continuous biosensors"/>
             <outline text="Point-of-care diagnostics"/>
+            <outline text="Companion diagnostics"/>
           </outline>
           <outline text="Clinical trials">
             <outline text="Decentralized trials"/>
             <outline text="Patient recruitment" _note="Includes clinical-trial matching for patients."/>
+            <outline text="AI protocol design #ai-native"/>
             <outline text="Trial data platforms"/>
+            <outline text="Real-world evidence"/>
           </outline>
-          <outline text="Lab automation">
+          <outline text="Lab tools &amp; automation">
             <outline text="Lab robotics"/>
             <outline text="Cloud labs"/>
             <outline text="ELN &amp; LIMS"/>
+            <outline text="Single-cell &amp; spatial omics"/>
+            <outline text="Lab supply marketplaces"/>
           </outline>
           <outline text="Synthetic biology">
             <outline text="Biomanufacturing"/>
             <outline text="Engineered microbes"/>
             <outline text="Biomaterials"/>
+            <outline text="DNA synthesis"/>
+            <outline text="Cell-free systems"/>
+          </outline>
+          <outline text="Biotech services">
+            <outline text="AI-enabled CROs"/>
+            <outline text="CDMO capacity marketplaces"/>
+            <outline text="Regulatory submission software"/>
+            <outline text="IP &amp; licensing platforms"/>
+          </outline>
+          <outline text="Longevity biotech #trending" _note="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Longevity medicine">
+            <outline text="Senolytics"/>
+            <outline text="Cellular reprogramming"/>
+            <outline text="Aging biomarker discovery"/>
           </outline>
         </outline>
         <outline text="Aerospace &amp; Defense #trending">

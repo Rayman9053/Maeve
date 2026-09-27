@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,725 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,795 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -217,7 +217,7 @@ markmap:
   - <span title="HIV prevention; coverage is subject to US litigation. | Tags: regulated">PrEP access</span>
   - Erectile dysfunction
   - Low libido
-- Sexual wellness
+- <span title="Individual-focused products and education. Couples programs live in Relationships &gt; Intimacy &amp; Sexuality. | See also: Relationships &gt; Intimacy &amp; Sexuality &gt; Couples intimacy">Sexual wellness ↗</span>
   - <span title="Payment-processor limits; 2024-25 US age-verification laws.">Sex tech &amp; devices</span>
   - Sex education platforms
   - Sexual wellness apps
@@ -623,6 +623,7 @@ markmap:
   - Long-term care insurance
   - Pet insurance
   - Small-business insurance
+  - Crop insurance
 - Insurtech
   - <span title="e.g. Lemonade.">Digital insurers</span>
   - Embedded insurance
@@ -736,7 +737,7 @@ markmap:
   - Compatibility assessments
   - Premarital courses
   - <span title="Tags: regulated">Prenups</span>
-- <span title="Covers communication, trust, conflict resolution, boundaries and shared goals.">Relationship coaching</span>
+- <span title="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.">Relationship coaching</span>
   - <span title="e.g. Paired, Lasting.">Couples apps</span>
   - <span title="Tags: ai-native">AI relationship coaching</span>
   - Couples coaching
@@ -757,20 +758,25 @@ markmap:
   - Household-task apps
   - Shared calendars
   - Mental-load tools
-### <span title="Relational intimacy. Clinical sexual health lives in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
-- Intimacy coaching
-  - Sex therapy
+### <span title="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
+- Therapy &amp; coaching
+  - Sex therapists
+  - Sex-therapy telehealth
   - Intimacy coaches
-  - Couples intimacy programs
-- Relational challenges
-  - Desire mismatch
-  - Postpartum intimacy
-  - Midlife intimacy
   - Sexual performance anxiety
-- Connection tools
-  - Couples intimacy apps
+- Couples intimacy
+  - Guided intimacy courses
+  - Intimacy apps
+  - Intimacy retreats
   - Conversation card games
+- Life-stage intimacy
+  - Postpartum intimacy
+  - <span title="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women&#x27;s health &gt; Menopause &amp; perimenopause">Midlife intimacy ↗</span>
+  - <span title="Tags: underserved">Intimacy with illness &amp; disability</span>
+- Desire &amp; communication
+  - Desire-mismatch programs
   - Consent education
+  - Sexual-communication courses
 ### Breakups &amp; Divorce
 - <span title="Covers emotional recovery, no-contact and rebuilding confidence.">Breakup support</span>
   - Breakup coaching
@@ -859,26 +865,23 @@ markmap:
   - <span title="Tags: b2b">Community software</span>
   - Social event apps
   - Neighborhood networks
-### Social Skills
-- Communication skills
-  - Active listening
-  - Conversation skills
-  - Assertiveness
-  - Nonverbal communication
-  - Communication styles
-- Social confidence
-  - Overcoming shyness
-  - Public speaking
-  - Charisma coaching
+### <span title="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">Social Skills</span>
+- Communication training
+  - <span title="Active listening, assertiveness and conversation skills.">Communication coaching</span>
+  - <span title="Practice difficult conversations with an AI partner. | Tags: ai-native">AI conversation roleplay 🔥</span>
+  - Body-language coaching
+  - <span title="Tags: b2b">Workplace communication programs</span>
+- Public speaking &amp; presence
+  - Public speaking coaching
+  - <span title="e.g. the Toastmasters model.">Speaking clubs</span>
+  - <span title="e.g. Yoodli. | Tags: ai-native">Speech feedback AI</span>
+  - Executive presence coaching
+  - Shyness programs
 - Emotional intelligence
-  - Empathy
-  - Self-awareness
-  - Emotional regulation
-  - Conflict management
-- Relationship psychology
-  - Attachment styles
-  - Relationship patterns
-  - Personality compatibility
+  - EQ assessments
+  - <span title="Tags: b2b">EQ training</span>
+  - Conflict-resolution training
+  - <span title="Social-emotional learning (SEL) curricula.">Empathy programs for kids</span>
 - <span title="Tags: underserved">Neurodivergent social skills</span>
   - Social-skills groups
   - Workplace social coaching
@@ -948,32 +951,42 @@ markmap:
   - Stoicism apps
   - Philosophy courses
   - Secular communities
-### Purpose &amp; Life Transitions
+### <span title="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">Purpose &amp; Life Transitions</span>
 - Life coaching
   - Coach certification
   - Coaching marketplaces
   - <span title="Tags: ai-native">AI life coaches</span>
-- <span title="Includes ikigai-style programs.">Purpose work</span>
-  - Purpose programs
-  - Values &amp; strengths assessments
+  - <span title="Tags: b2b">Coaching practice software</span>
+- Self-discovery
+  - Strengths &amp; values assessments
+  - Personality assessments
+  - Attachment-style assessments
+  - <span title="Includes ikigai-style programs.">Purpose programs</span>
+- Life-stage transitions
+  - Quarter-life coaching
+  - Midlife reinvention
+  - Empty-nest programs
+  - <span title="Un-retirement and second careers after 60.">Encore careers</span>
+- Sabbaticals &amp; career breaks
   - Sabbatical planning
-- Life transitions
-  - Quarter-life
-  - Midlife
-  - Empty nest
-  - Un-retirement
-### Personal Development
-- Inner work
-  - Self-esteem
-  - Self-compassion
-  - Body image
-  - Resilience training
-  - Attachment healing
-  - Boundaries coaching
-- Growth programs
-  - Transformational workshops
+  - Adult gap-year programs
+  - Career-break communities
+### <span title="Self-directed growth products: content, programs, experiences and peer groups.">Personal Development</span>
+- Self-help content
   - Book summaries &amp; audio
+  - Self-help courses
   - Personal development apps
+- <span title="Non-clinical. Clinical care lives in Mental Health.">Inner-work programs</span>
+  - Self-esteem programs
+  - Self-compassion training
+  - Body-image programs
+  - Resilience training
+  - Attachment-healing courses
+  - Boundaries coaching
+- Transformational experiences
+  - <span title="Some large-group programs have been criticized for high-pressure sales; vet providers.">Transformational workshops</span>
+  - Growth retreats
+  - Wilderness programs
 - Growth communities
   - Men's circles
   - Women's circles
@@ -1147,6 +1160,7 @@ markmap:
   - Ghost kitchens
   - Restaurant ops software
   - Reservations &amp; waitlists
+  - <span title="e.g. Toast.">Restaurant POS</span>
 - <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Last-mile delivery">Delivery &amp; quick commerce ↗</span>
   - Food delivery
   - Quick commerce
@@ -1185,6 +1199,7 @@ markmap:
   - Handyman marketplaces
   - Cleaning services
   - Lawn &amp; pest services
+  - <span title="Scheduling, dispatch and invoicing for trades, e.g. Jobber. | Tags: b2b">Field-service software</span>
 - Gardening &amp; plants
   - Houseplants
   - Home gardening
@@ -1482,23 +1497,36 @@ markmap:
   - Sales engagement
   - Revenue intelligence
   - CRM
-### Commerce &amp; Retail Tech
+### <span title="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">Commerce &amp; Retail Tech ↗</span>
 - E-commerce enablement
   - Storefront platforms
   - Shopify-app ecosystem
   - Checkout &amp; conversion
+  - Product information management
+  - <span title="AI shopping agents and the tools merchants need to sell to them. | Tags: ai-native">Agentic commerce 🔥</span>
+- Marketplace selling
+  - <span title="e.g. Amazon seller software.">Marketplace seller tools</span>
+  - <span title="e.g. TikTok Shop.">Social-commerce seller tools</span>
+  - <span title="e.g. Faire.">Wholesale marketplaces</span>
+  - Cross-border e-commerce
 - Retail operations
   - Inventory management
   - Store analytics
   - Retail robotics
-- <span title="e.g. Jobber.">SMB vertical software</span>
-  - Field-service software
-  - Booking &amp; scheduling
-  - Invoicing &amp; quotes
-- <span title="SMB fintech and POS ecosystems, e.g. Toast, Square.">Point of sale</span>
-  - Restaurant POS
+  - Loss prevention
+- <span title="e.g. Square. Restaurant POS lives in Restaurant tech.">Point of sale</span>
   - Retail POS
   - Mobile POS
+  - Loyalty &amp; gift cards
+- <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics">Fulfillment &amp; post-purchase ↗</span>
+  - Order management
+  - Shipping software
+  - Post-purchase experience
+- <span title="e.g. Jobber.">SMB operations</span>
+  - Booking &amp; scheduling
+  - Invoicing &amp; quotes
+  - Reviews &amp; reputation
+  - Website builders
 ### Business Finance Tech
 - Accounting
   - <span title="AI-native bookkeeping is the growth wedge. | Tags: ai-native">Bookkeeping 🔥</span>
@@ -1571,22 +1599,43 @@ markmap:
   - Farm data platforms
   - Aerial crop scouting
   - Precision irrigation
+  - Variable-rate application
+  - Soil sensing
 - Ag robotics
   - Harvest robots
   - Autonomous tractors
   - Weeding robots
+  - Milking robots
 - Controlled-environment agriculture
   - Vertical farms
   - Greenhouse tech
+  - Container farms
   - Indoor grow lighting
+- Ag biologicals &amp; genetics
+  - Biostimulants
+  - Biopesticides
+  - <span title="Tags: regulated">Gene-edited crops</span>
+  - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon markets">Regenerative ag programs ↗</span>
+- Livestock &amp; aquaculture
+  - Aquaculture tech
+  - Livestock monitoring
+  - Methane-reducing feed
+  - Insect farming
 - Alternative proteins
   - Plant-based meat
   - Precision fermentation
+  - <span title="Mycoprotein and similar.">Biomass fermentation</span>
   - <span title="Tags: regulated">Cultivated meat</span>
+  - Alt-dairy
 - Food supply chain
   - Food traceability
   - Cold chain
   - Food-safety testing
+  - Farm-to-business marketplaces
+- <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Crop insurance">Farm operations &amp; finance ↗</span>
+  - Farm management software
+  - <span title="Tags: regulated">Ag lending</span>
+  - Farm labor marketplaces
 ### Industry &amp; Supply Chain
 - <span title="Reshoring and smart factories.">Smart manufacturing 🔥</span>
   - Reshoring platforms
@@ -1639,31 +1688,52 @@ markmap:
   - Mortgage tech
   - Title &amp; escrow
   - Brokerage tech
-### <span title="Tags: regulated">Biotech &amp; Life Sciences</span>
+### <span title="Leaves are organized around what a startup sells: platforms, tools, services or therapeutics. | Tags: regulated">Biotech &amp; Life Sciences</span>
 - <span title="The AlphaFold wave. | Tags: ai-native">AI drug discovery 🔥</span>
   - Protein design
+  - Antibody design
   - Target discovery
-  - AI chemistry
+  - Generative chemistry
+  - Virtual cell models
 - Gene &amp; cell therapy
-  - <span title="CRISPR.">Gene editing</span>
-  - Cell therapy
-  - Gene delivery
+  - <span title="CRISPR, base and prime editing.">Gene editing</span>
+  - CAR-T &amp; cell therapy
+  - <span title="Lipid nanoparticles and viral vectors.">Gene delivery</span>
+  - RNA therapeutics
+  - Cell-therapy manufacturing
 - Diagnostics &amp; biosensors
   - Liquid biopsy
-  - Biosensors
+  - Multi-cancer early detection
+  - Continuous biosensors
   - Point-of-care diagnostics
+  - Companion diagnostics
 - Clinical trials
   - Decentralized trials
   - <span title="Includes clinical-trial matching for patients.">Patient recruitment</span>
+  - <span title="Tags: ai-native">AI protocol design</span>
   - Trial data platforms
-- Lab automation
+  - Real-world evidence
+- Lab tools &amp; automation
   - Lab robotics
   - Cloud labs
   - ELN &amp; LIMS
+  - Single-cell &amp; spatial omics
+  - Lab supply marketplaces
 - Synthetic biology
   - Biomanufacturing
   - Engineered microbes
   - Biomaterials
+  - DNA synthesis
+  - Cell-free systems
+- Biotech services
+  - AI-enabled CROs
+  - CDMO capacity marketplaces
+  - Regulatory submission software
+  - IP &amp; licensing platforms
+- <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Longevity medicine">Longevity biotech 🔥 ↗</span>
+  - Senolytics
+  - Cellular reprogramming
+  - Aging biomarker discovery
 ### Aerospace &amp; Defense 🔥
 - <span title="e.g. Starlink.">Commercial space</span>
   - Launch services
