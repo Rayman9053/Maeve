@@ -23,6 +23,7 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 | `taxonomy-archive.yaml` | Leaves moved out by the v12 actionability prune (score 1–2), at their original paths. Not built into the maps. |
 | `output/mindmap-full.html` | Interactive Markmap of all nodes. Self-contained (works offline), colored by pillar, 🔥 = trending, ↗ = has a cross-reference. Hover a node for its note/tags; click to expand/collapse. |
 | `output/mindmap-condensed.html` | Pillars + categories only, for presentations. |
+| `output/mindmap-solofounder.html` | Solo-founder, low-capital view: only leaves one person could start for under ~$10k, badged by business model (see below). |
 | `output/mindmap.mmd` | Mermaid `mindmap`, all nodes. Renders, but is too dense to read (Mermaid struggles past ~150 nodes). |
 | `output/mindmap-condensed.mmd` | Mermaid `mindmap`, pillars + categories (72 nodes). Paste into GitHub, Notion or mermaid.live. |
 | `output/mindmap.mm` | FreeMind XML. Opens in FreeMind/Freeplane; XMind imports it (File › Import › FreeMind). Pillars are colored, cross-references are arrow links, notes are node notes, tags are attributes. |
@@ -37,6 +38,7 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 | `reports/prune-preview.md` | The approved preview of the v12 prune: every leaf that moved and every structural change. |
 | `data/actionability.csv` | Startup-actionability score (1–5) for every leaf in `taxonomy.yaml`. |
 | `data/actionability-archived.csv` | Scores of the archived leaves, at their original paths. |
+| `data/solo-founder.csv` | Solo-founder business-model labels for every leaf (empty = not in the view). |
 | `data/prune-resolution.yaml` | How the prune handles subcategories it thins out (folds, merges, renames). |
 | `source/taxonomy-v0.md` | The original, unmodified input. Kept so the diff stays checkable. |
 | `source/taxonomy-v1.yaml` | Snapshot of v1, the base for the v2 changes. Each iteration snapshots the version it changes. |
@@ -44,6 +46,7 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 | `scripts/build.py` | Generates everything in `output/` plus `reports/stats.md`. |
 | `scripts/reconcile.py` | Proves no node was dropped silently between two versions. |
 | `scripts/prune.py` | Actionability prune: `--check` (every leaf scored), `--preview`, `--apply`. |
+| `scripts/solofounder.py` | Rubric, checks and filter for the solo-founder view; `--check` validates the labels. |
 | `scripts/yaml_style.py` | Writes taxonomy YAML in the house style. Run alone to check `taxonomy.yaml` round-trips byte for byte. |
 | `scripts/audit_stats.py` | Parses the legacy markdown format and prints audit stats. |
 | `scripts/taxonomy_lib.py` | Shared loader, walker and stats. |
@@ -117,6 +120,24 @@ Snapshot `taxonomy.yaml` before `--apply`, then log and reconcile as in the loop
 Subcategories left with a single leaf must be folded or merged in `data/prune-resolution.yaml`.
 Both YAML files are written through `scripts/yaml_style.py`, so the hand-edited formatting survives.
 The archive accumulates across prunes. To bring a leaf back, move it into `taxonomy.yaml` and rescore it.
+
+## Solo-founder view
+
+`output/mindmap-solofounder.html` shows only the leaves that one founder with little capital could start:
+within a few months, for under about $10k, with no professional license. Each leaf in `data/solo-founder.csv` has
+zero or more of these labels, shown as badges:
+
+| Badge | Model | Meaning |
+|---|---|---|
+| 🛠️ | `service-business` | Sell your own time: coaching, consulting, agency, done-for-you, local or concierge services |
+| ✍️ | `content` | An audience actively seeks information or community: newsletter, course, community, templates |
+| 🤝 | `marketplace` | Fragmented supply and demand to match, with no inventory or license |
+| 🧩 | `no-code-friendly` | An MVP a non-engineer can ship with no-code tools and AI APIs |
+
+Leaves inside a `regulated` subtree may only be labelled `content`: writing about the topic is fine, but
+practising it needs a license. `python3 scripts/solofounder.py --check` enforces this (it runs in `make validate`)
+and also flags unlabelled leaves and rows whose path no longer exists. Update the CSV whenever you add, rename or move a
+leaf. The labels are kept out of `taxonomy.yaml` because they describe one audience's constraints, not the market.
 
 ## Conventions
 

@@ -1,0 +1,861 @@
+---
+title: "Startup Opportunity Map: solo founder"
+markmap:
+  colorFreezeLevel: 2
+  color: ["#8A8F98", "#1B9E77", "#1F78B4", "#C99A06", "#D63A7A", "#7570B3", "#E0620D", "#4A5A70", "#5E9E1E"]
+  initialExpandLevel: 3
+  maxWidth: 300
+  spacingVertical: 6
+---
+
+# Solo Founder, Low Capital<br><small>543 of 1,593 leaves one founder could start for under ~$10k · 🛠️ service-business (237) · ✍️ content (220) · 🤝 marketplace (57) · 🧩 no-code-friendly (177) · 🔥 trending · click to expand, hover for notes</small>
+
+## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
+### Prevention &amp; Diagnostics
+- Environmental health
+  - <span title="Solo-founder models: service-business, content">Indoor air quality 🛠️✍️</span>
+### Nutrition &amp; Metabolic Health
+- <span title="The &#x27;Ozempic economy&#x27;. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026. | Tags: regulated">GLP-1 economy 🔥</span>
+  - <span title="Solo-founder models: content">Muscle preservation ✍️</span>
+  - <span title="Solo-founder models: content">GLP-1 companion foods ✍️</span>
+  - <span title="Solo-founder models: content">Maintenance &amp; off-ramp ✍️</span>
+- Personalized nutrition
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI meal planning 🧩</span>
+  - <span title="Solo-founder models: content">Metabolic health ✍️</span>
+- Sports nutrition
+  - <span title="Solo-founder models: content">Endurance fueling ✍️</span>
+  - <span title="Solo-founder models: content">Strength &amp; protein ✍️</span>
+- Special diets
+  - <span title="Solo-founder models: content">Plant-based ✍️</span>
+  - <span title="Solo-founder models: content">Gluten-free ✍️</span>
+  - <span title="Halal, kosher, Ayurvedic. | Solo-founder models: content, no-code-friendly">Culturally tailored diets ✍️🧩</span>
+### Fitness &amp; Recovery
+- Cardio &amp; endurance
+  - <span title="Solo-founder models: content">Running ✍️</span>
+  - <span title="Solo-founder models: content">Cycling ✍️</span>
+  - <span title="Solo-founder models: content">Zone-2 &amp; VO2max training ✍️</span>
+- Mobility &amp; flexibility
+  - <span title="Solo-founder models: content">Stretching ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Yoga 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Pilates 🔥 ✍️</span>
+- Connected fitness
+  - <span title="Solo-founder models: no-code-friendly">Workout apps 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Virtual coaching 🛠️🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI personal trainers 🧩</span>
+- Gyms &amp; studios
+  - <span title="Tags: b2b | Solo-founder models: no-code-friendly">Gym management software 🧩</span>
+- Adaptive &amp; inclusive fitness
+  - <span title="Solo-founder models: service-business, content">Senior fitness 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business, content">Plus-size fitness 🛠️✍️</span>
+  - <span title="Fitness for people with disabilities. | Solo-founder models: service-business">Adaptive training 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Prenatal &amp; postnatal fitness 🛠️✍️</span>
+- Youth sports
+  - <span title="Solo-founder models: service-business">Skills training 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">College recruiting 🛠️✍️</span>
+  - <span title="Tags: b2b | Solo-founder models: no-code-friendly">League &amp; club software 🧩</span>
+### Sleep
+- Sleep optimization
+  - <span title="Solo-founder models: service-business, content">Routines &amp; coaching 🛠️✍️</span>
+- <span title="Tags: regulated">Sleep disorders</span>
+  - <span title="Solo-founder models: content">Insomnia &amp; CBT-I ✍️</span>
+- Infant &amp; child sleep
+  - <span title="Solo-founder models: service-business, content">Sleep consultants 🛠️✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Sleep-training apps 🧩</span>
+- Sleep products
+  - <span title="Solo-founder models: content, no-code-friendly">Sleep audio apps ✍️🧩</span>
+### <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence | See also: Mind, Meaning &amp; Growth &gt; Contemplative Practice &gt; Meditation | See also: Relationships &gt; Death, Grief &amp; Legacy &gt; Grief support">Mental Health ↗</span>
+- Stress &amp; burnout
+  - <span title="Solo-founder models: service-business, content">Burnout 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Workplace stress 🛠️</span>
+- Therapy access
+  - <span title="Solo-founder models: marketplace">Therapist matching 🤝</span>
+- Addiction recovery
+  - <span title="e.g. Sunnyside. | Solo-founder models: content">Alcohol moderation ✍️</span>
+  - <span title="12-step and non-12-step. | Solo-founder models: content">Recovery communities ✍️</span>
+- Digital mental health
+  - <span title="Solo-founder models: content">Peer-support communities ✍️</span>
+- Population-focused care
+  - <span title="Includes fatherhood and men&#x27;s groups. | Solo-founder models: content">Men's mental health ✍️</span>
+### <span title="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; LGBTQ+ health">Sexual &amp; Reproductive Health ↗</span>
+- Pregnancy &amp; postpartum
+  - <span title="Solo-founder models: service-business, marketplace">Doulas &amp; birth support 🛠️🤝</span>
+  - <span title="Solo-founder models: content">Postpartum recovery ✍️</span>
+  - <span title="Solo-founder models: content">Pregnancy-loss support ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Lactation support 🛠️✍️</span>
+- <span title="Individual-focused products and education. Couples programs live in Relationships &gt; Intimacy &amp; Sexuality. | See also: Relationships &gt; Intimacy &amp; Sexuality &gt; Couples intimacy">Sexual wellness ↗</span>
+  - <span title="Solo-founder models: content">Sex education platforms ✍️</span>
+### Aging &amp; Longevity
+- Healthy aging
+  - <span title="Solo-founder models: service-business, content">Healthy-aging coaching 🛠️✍️</span>
+- Age tech
+  - <span title="Solo-founder models: service-business">Aging in place 🛠️</span>
+  - <span title="Solo-founder models: service-business">Senior tech support 🛠️</span>
+  - <span title="Solo-founder models: content">Solo aging ✍️</span>
+  - <span title="Solo-founder models: content">Senior social connection ✍️</span>
+- <span title="The sandwich generation: people caring for both children and parents. | Tags: underserved">Caregiving 🔥</span>
+  - <span title="Solo-founder models: service-business">Care coordination 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Family caregiver support 🛠️✍️</span>
+  - <span title="Solo-founder models: marketplace">Caregiver marketplaces 🤝</span>
+- Senior living
+  - <span title="Solo-founder models: content, marketplace">Senior living search ✍️🤝</span>
+  - <span title="Solo-founder models: marketplace">Senior home-sharing 🤝</span>
+## <span title="Clinical conditions, specialty and population-specific care, care delivery and health-system technology.">Care &amp; Conditions</span>
+### Chronic Conditions
+- Diabetes
+  - <span title="Solo-founder models: content">Prediabetes ✍️</span>
+- <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; Personalized nutrition &gt; Microbiome testing">Digestive health ↗</span>
+  - <span title="Solo-founder models: content">IBS ✍️</span>
+  - <span title="Solo-founder models: content">Food intolerances ✍️</span>
+- Respiratory &amp; allergy
+  - <span title="Solo-founder models: content">Food allergies ✍️</span>
+- <span title="See also: Planet &amp; Frontier &gt; Biotech &amp; Life Sciences &gt; Clinical trials &gt; Patient recruitment">Oncology ↗</span>
+  - <span title="Solo-founder models: service-business">Cancer navigation 🛠️</span>
+  - <span title="Solo-founder models: content">Survivorship support ✍️</span>
+- <span title="Tags: underserved">Complex &amp; rare illness</span>
+  - <span title="Solo-founder models: content">Long COVID ✍️</span>
+  - <span title="A distinct diagnosis, not generic &#x27;chronic fatigue&#x27;. | Solo-founder models: content">ME/CFS ✍️</span>
+  - <span title="Solo-founder models: content">POTS &amp; dysautonomia ✍️</span>
+  - <span title="Solo-founder models: content">Rare-disease communities ✍️</span>
+### Pain &amp; Musculoskeletal
+- Chronic pain
+  - <span title="Solo-founder models: content">Lower back pain ✍️</span>
+- Ergonomics
+  - <span title="Solo-founder models: service-business">Ergonomic assessments 🛠️</span>
+### Brain &amp; Neurological Health
+- <span title="Framed as neurodevelopmental difference, not mental illness. | See also: Mind, Meaning &amp; Growth &gt; Career Development &gt; Inclusive employment &gt; Neurodivergent hiring | See also: Relationships &gt; Social Skills &gt; Neurodivergent social skills | See also: Mind, Meaning &amp; Growth &gt; Productivity &gt; ADHD-friendly productivity">Neurodivergence ↗</span>
+  - <span title="Solo-founder models: content">ADHD ✍️</span>
+  - <span title="Solo-founder models: content">Autism ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Dyslexia &amp; learning differences 🛠️✍️</span>
+  - <span title="Adult ADHD and autism diagnosis. | Solo-founder models: content">Late diagnosis ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Executive-function coaching 🛠️✍️</span>
+- <span title="Tags: underserved">Dementia &amp; cognitive decline</span>
+  - <span title="Solo-founder models: service-business">Dementia care navigation 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Dementia caregiver training 🛠️✍️</span>
+### Specialty Care
+- Hearing
+  - <span title="Solo-founder models: content">Tinnitus management ✍️</span>
+### Population-Specific Care
+- <span title="Femtech. Menstrual care serves everyone who menstruates.">Women's health</span>
+  - <span title="Includes menopause and sexuality. | Tags: underserved | Solo-founder models: content">Menopause &amp; perimenopause 🔥 ✍️</span>
+  - <span title="Solo-founder models: content">PCOS ✍️</span>
+  - <span title="Solo-founder models: content">Endometriosis ✍️</span>
+- <span title="Tags: underserved">Veterans' health</span>
+  - <span title="Solo-founder models: content">Veteran peer support ✍️</span>
+- <span title="Tags: underserved">Rural &amp; underserved care</span>
+  - <span title="Solo-founder models: service-business, marketplace">Medical interpretation 🛠️🤝</span>
+### <span title="See also: Wealth &gt; Insurance &gt; Health &amp; benefits">Care Delivery ↗</span>
+- Patient navigation
+  - <span title="Solo-founder models: service-business">Patient advocacy 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Price comparison tools 🧩</span>
+  - <span title="Solo-founder models: service-business">Medical bill negotiation 🛠️</span>
+### <span title="Software and devices sold to providers, payers and life-science companies. | Tags: b2b">Health Technology</span>
+- Care operations
+  - <span title="Solo-founder models: no-code-friendly">Patient intake &amp; scheduling 🧩</span>
+- Healthcare workforce
+  - <span title="Solo-founder models: content">Continuing medical education ✍️</span>
+### <span title="Evidence bases vary widely. Marketing claims face FTC/FDA scrutiny.">Integrative Medicine</span>
+- Integrative clinics
+  - <span title="Solo-founder models: service-business, content">Integrative health coaching 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Yoga therapy 🛠️</span>
+- <span title="Tags: b2b">Practitioner tools</span>
+  - <span title="Solo-founder models: no-code-friendly">Practice-management software 🧩</span>
+  - <span title="Solo-founder models: content">Practitioner certification ✍️</span>
+  - <span title="Solo-founder models: marketplace">Practitioner marketplaces 🤝</span>
+## <span title="Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise &amp; AI.">Wealth</span>
+### <span title="Tags: consumer">Money Management</span>
+- Budgeting
+  - <span title="Solo-founder models: content, no-code-friendly">Household budgeting ✍️🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Expense tracking 🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI money coaches 🧩</span>
+- Saving
+  - <span title="Solo-founder models: content">College savings ✍️</span>
+- <span title="Tags: regulated">Debt management</span>
+  - <span title="Solo-founder models: content">Student loans ✍️</span>
+- Credit
+  - <span title="Includes credit building for people without banks. | Solo-founder models: content">Credit building ✍️</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Rewards optimization ✍️🧩</span>
+- Financial wellness
+  - <span title="Solo-founder models: service-business, content">Youth financial education 🛠️✍️</span>
+  - <span title="Solo-founder models: content">First-generation guidance ✍️</span>
+  - <span title="Tags: b2b | Solo-founder models: service-business">Workplace financial wellness 🛠️</span>
+  - <span title="Money psychology. | Solo-founder models: service-business">Financial therapy 🛠️</span>
+- <span title="Tags: underserved | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">Life-event finance ↗</span>
+  - <span title="Solo-founder models: content">Widowhood finance ✍️</span>
+  - <span title="Receiving an inheritance; &#x27;women&#x27;s wealth&#x27; transfer. | Solo-founder models: content">Windfall management ✍️</span>
+  - <span title="Solo-founder models: content">Couples' finances ✍️</span>
+  - <span title="Solo-founder models: content">New-parent finances ✍️</span>
+- <span title="e.g. Catch. | Tags: underserved">Gig &amp; creator finance</span>
+  - <span title="Solo-founder models: no-code-friendly">Tax withholding tools 🧩</span>
+### Banking &amp; Payments
+- Consumer payments
+  - <span title="Tracking and cancelling subscriptions. | Solo-founder models: no-code-friendly">Subscription management 🧩</span>
+- <span title="e.g. Wahed.">Islamic finance</span>
+  - <span title="Solo-founder models: content">Halal investing ✍️</span>
+### Investing &amp; Trading
+- <span title="Retail access is governed by securities law (Reg A/CF, accreditation). | Tags: regulated">Alternative investments</span>
+  - <span title="Art, wine &amp; spirits, trading cards as investments. | Solo-founder models: content">Collectible assets ✍️</span>
+### Housing &amp; Real Estate
+- Homebuying
+  - <span title="Solo-founder models: content">First-time buyer programs ✍️</span>
+  - <span title="Solo-founder models: content">Down-payment assistance ✍️</span>
+- Real estate investing
+  - <span title="Solo-founder models: content">Rental properties ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Short-term rentals 🛠️✍️</span>
+### Retirement &amp; Wealth Planning
+- Retirement planning
+  - <span title="Solo-founder models: content">Social Security planning ✍️</span>
+### <span title="See also: Enterprise &amp; AI &gt; Legal &amp; Compliance Tech">Tax &amp; Legal ↗</span>
+- Tax planning
+  - <span title="Solo-founder models: content">International &amp; expat tax ✍️</span>
+- Tax preparation
+  - <span title="Solo-founder models: marketplace">Tax-pro marketplaces 🤝</span>
+### <span title="See also: Enterprise &amp; AI &gt; Software &amp; Developer Tools &gt; No-code &amp; low-code">Entrepreneurship ↗</span>
+- Starting a business
+  - <span title="Solo-founder models: service-business, content, no-code-friendly">Idea validation 🛠️✍️🧩</span>
+  - <span title="Solo-founder models: service-business">Market research 🛠️</span>
+  - <span title="Entity structures and compliance; e.g. Stripe Atlas. | Solo-founder models: no-code-friendly">Business formation 🧩</span>
+- <span title="Buying a business (ETA, micro-PE).">Acquisition entrepreneurship</span>
+  - <span title="Solo-founder models: content">Search funds ✍️</span>
+  - <span title="Solo-founder models: marketplace">Business-for-sale marketplaces 🤝</span>
+- Small business
+  - <span title="Solo-founder models: service-business">Local services 🛠️</span>
+  - <span title="HVAC, electrical, plumbing; acute labor shortage. | Solo-founder models: service-business">Skilled-trades businesses 🔥 🛠️</span>
+- Online business
+  - <span title="Solo-founder models: no-code-friendly">E-commerce 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">SaaS 🧩</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Digital products ✍️🧩</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Memberships ✍️🧩</span>
+  - <span title="Solo-founder models: content">Online courses ✍️</span>
+- <span title="See also: Enterprise &amp; AI &gt; Marketing &amp; Sales Tech &gt; Creator platforms &gt; UGC marketplaces">Creator economy ↗</span>
+  - <span title="Solo-founder models: content">Podcasting ✍️</span>
+  - <span title="Solo-founder models: content">Newsletters ✍️</span>
+  - <span title="Includes personal brands. | Solo-founder models: content">Influencer brands ✍️</span>
+  - <span title="Solo-founder models: content">Live &amp; social commerce 🔥 ✍️</span>
+  - <span title="e.g. Patreon. | Solo-founder models: content, no-code-friendly">Fan memberships ✍️🧩</span>
+- Freelancing &amp; fractional
+  - <span title="Solo-founder models: service-business">Consulting 🛠️</span>
+  - <span title="Solo-founder models: service-business">Design 🛠️</span>
+  - <span title="Solo-founder models: service-business">Programming 🛠️</span>
+  - <span title="Solo-founder models: service-business">Marketing services 🛠️</span>
+  - <span title="Fractional CFO/CMO/CTO. | Solo-founder models: service-business">Fractional executives 🛠️</span>
+- Agencies
+  - <span title="Solo-founder models: service-business">Digital marketing 🛠️</span>
+  - <span title="Solo-founder models: service-business">Web development 🛠️</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">AI automation agencies 🛠️🧩</span>
+- Solopreneurship 🔥
+  - <span title="Tags: ai-native | Solo-founder models: service-business, no-code-friendly">AI-leveraged solo businesses 🛠️🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Micro-SaaS 🧩</span>
+  - <span title="Solo-founder models: service-business">Productized services 🛠️</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Solo operator tools ✍️🧩</span>
+## <span title="Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health &amp; Wellness.">Relationships</span>
+### Dating
+- Dating platforms
+  - <span title="Solo-founder models: service-business, no-code-friendly">Profile optimization 🛠️🧩</span>
+- <span title="Tags: ai-native">AI dating tools</span>
+  - <span title="Solo-founder models: no-code-friendly">AI profile writing 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">AI message coaching 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">AI matchmaking 🧩</span>
+- Matchmaking, coaching &amp; events
+  - <span title="Solo-founder models: service-business">Professional matchmaking 🛠️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Niche matchmaking 🛠️🤝</span>
+  - <span title="Solo-founder models: service-business">Speed dating 🛠️</span>
+  - <span title="Solo-founder models: service-business">Singles events 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Dating coaches 🛠️✍️</span>
+- Niche dating
+  - <span title="Solo-founder models: service-business">Senior dating 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Sober dating 🛠️✍️</span>
+- <span title="Tags: underserved">Dating safety</span>
+  - <span title="Solo-founder models: no-code-friendly">Date check-in apps 🧩</span>
+### <span title="See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings">Couples &amp; Marriage ↗</span>
+- Premarital
+  - <span title="Solo-founder models: service-business">Premarital counseling 🛠️</span>
+  - <span title="Solo-founder models: content">Premarital courses ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Faith-based marriage prep 🛠️✍️</span>
+- <span title="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">Relationship coaching ↗</span>
+  - <span title="e.g. Paired, Lasting (part of Talkspace). | Solo-founder models: no-code-friendly">Couples apps 🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI relationship coaching 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Relationship check-in tools 🧩</span>
+  - <span title="Solo-founder models: service-business">Couples coaching 🛠️</span>
+  - <span title="Solo-founder models: content">Relationship courses ✍️</span>
+- Marriage enrichment
+  - <span title="Solo-founder models: service-business">Date-night services 🛠️</span>
+  - <span title="Solo-founder models: content">Couples activities ✍️</span>
+  - <span title="Solo-founder models: service-business">Relationship retreats 🛠️</span>
+- Long-distance relationships
+  - <span title="Solo-founder models: no-code-friendly">LDR apps 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Shared-experience tools 🧩</span>
+  - <span title="Tags: underserved | Solo-founder models: content">Military couples ✍️</span>
+- <span title="Covers jealousy, insecurity, resentment and recurring conflict.">Relationship repair</span>
+  - <span title="Solo-founder models: service-business, content">Infidelity recovery 🛠️✍️</span>
+- <span title="See also: Wealth &gt; Money Management &gt; Life-event finance &gt; Couples&#x27; finances">Shared household ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Household-task apps 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Shared calendars 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Mental-load tools 🧩</span>
+  - <span title="Solo-founder models: service-business, marketplace">Household managers 🛠️🤝</span>
+### <span title="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
+- Therapy &amp; coaching
+  - <span title="Solo-founder models: service-business">Intimacy coaches 🛠️</span>
+- Couples intimacy
+  - <span title="Solo-founder models: content">Guided intimacy courses ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Intimacy apps 🧩</span>
+  - <span title="Solo-founder models: content">Conversation card games ✍️</span>
+- Life-stage intimacy
+  - <span title="Solo-founder models: content">Postpartum intimacy ✍️</span>
+  - <span title="Solo-founder models: content | See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women&#x27;s health &gt; Menopause &amp; perimenopause">Midlife intimacy ✍️ ↗</span>
+- Desire &amp; communication
+  - <span title="Solo-founder models: service-business, content">Consent education 🛠️✍️</span>
+### Breakups &amp; Divorce
+- Divorce process
+  - <span title="Solo-founder models: service-business, content">Divorce preparation 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Divorce coaching 🛠️</span>
+  - <span title="Solo-founder models: service-business">Divorce mediation 🛠️</span>
+- Divorce finance
+  - <span title="Solo-founder models: service-business">Divorce financial analysts 🛠️</span>
+- Co-parenting
+  - <span title="Solo-founder models: no-code-friendly">Co-parenting apps 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Custody scheduling 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Co-parent expense sharing 🧩</span>
+  - <span title="Solo-founder models: content">Children's divorce support ✍️</span>
+- <span title="Leaving an abusive relationship. Handle with trauma-informed design and strict privacy. | Tags: underserved | See also: Health &amp; Wellness &gt; Mental Health &gt; Trauma &amp; PTSD &gt; Domestic-violence support">Safe separation ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Safety planning apps 🧩</span>
+- Rebuilding after separation
+  - <span title="Solo-founder models: service-business, no-code-friendly">Name-change services 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business, content">Breakup coaching 🛠️✍️</span>
+### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
+- Parenting stages
+  - <span title="Solo-founder models: content">Newborns ✍️</span>
+  - <span title="Solo-founder models: content">Teens ✍️</span>
+- <span title="Covers parent-child communication, discipline and emotional connection.">Parenting support</span>
+  - <span title="Solo-founder models: service-business">Parent coaching 🛠️</span>
+  - <span title="Solo-founder models: content">Parenting courses ✍️</span>
+  - <span title="Solo-founder models: content">Parenting communities ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Family organizers 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Chore &amp; allowance apps 🧩</span>
+- <span title="COPPA and age-appropriate-design laws. | Tags: regulated">Child online safety</span>
+  - <span title="Solo-founder models: content">Online-safety education ✍️</span>
+- <span title="Acute &#x27;care desert&#x27; shortage. | Tags: underserved">Childcare</span>
+  - <span title="Solo-founder models: marketplace">Childcare marketplaces 🤝</span>
+  - <span title="Solo-founder models: marketplace">Nannies &amp; babysitters 🤝</span>
+  - <span title="Solo-founder models: marketplace, no-code-friendly">Nanny shares 🤝🧩</span>
+- Baby &amp; kids products
+  - <span title="Solo-founder models: marketplace, no-code-friendly">Kids' activity booking 🤝🧩</span>
+- Family structures
+  - <span title="Solo-founder models: content">Single parents ✍️</span>
+  - <span title="Tags: underserved | Solo-founder models: content">Adoption &amp; foster care ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Genealogy &amp; family history 🛠️✍️</span>
+- <span title="Tags: underserved">Special-needs parenting</span>
+  - <span title="Solo-founder models: service-business, content">IEP &amp; school advocacy 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Special-needs parent communities ✍️</span>
+### <span title="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">Friendship &amp; Community ↗</span>
+- <span title="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">Making friends</span>
+  - <span title="e.g. BFF by Bumble (relaunched as a standalone app in 2025). | Solo-founder models: no-code-friendly">Friendship apps 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Activity-partner apps 🧩</span>
+  - <span title="Solo-founder models: service-business">Friend-matching dinners 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Newcomer networks 🛠️✍️</span>
+- <span title="US Surgeon General advisory on loneliness, 2023. | Tags: underserved">Loneliness &amp; connection</span>
+  - <span title="Solo-founder models: service-business">Community dinners 🛠️</span>
+  - <span title="Solo-founder models: service-business">Intergenerational programs 🛠️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Friendly-visitor services 🛠️🤝</span>
+- Clubs &amp; groups
+  - <span title="Solo-founder models: service-business, content">Social clubs 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Expat &amp; immigrant communities ✍️</span>
+- Community platforms
+  - <span title="Solo-founder models: no-code-friendly">Social event apps 🧩</span>
+### <span title="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">Social Skills</span>
+- Communication training
+  - <span title="Active listening, assertiveness and conversation skills. | Solo-founder models: service-business">Communication coaching 🛠️</span>
+  - <span title="Practice difficult conversations with an AI partner. | Tags: ai-native | Solo-founder models: no-code-friendly">AI conversation roleplay 🔥 🧩</span>
+  - <span title="Tags: b2b | Solo-founder models: service-business">Workplace communication programs 🛠️</span>
+- Public speaking &amp; presence
+  - <span title="Solo-founder models: service-business">Public speaking coaching 🛠️</span>
+  - <span title="e.g. Yoodli. | Tags: ai-native | Solo-founder models: no-code-friendly">Speech feedback AI 🧩</span>
+  - <span title="Solo-founder models: service-business">Executive presence coaching 🛠️</span>
+- Emotional intelligence
+  - <span title="Solo-founder models: content, no-code-friendly">EQ assessments ✍️🧩</span>
+  - <span title="Tags: b2b | Solo-founder models: service-business">EQ training 🛠️</span>
+  - <span title="Solo-founder models: service-business">Conflict-resolution training 🛠️</span>
+  - <span title="Social-emotional learning (SEL) curricula. | Solo-founder models: content">Empathy programs for kids ✍️</span>
+- <span title="Tags: underserved">Neurodivergent social skills</span>
+  - <span title="Solo-founder models: service-business">Social-skills groups 🛠️</span>
+  - <span title="Solo-founder models: service-business">Workplace social coaching 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Social-skills apps 🧩</span>
+### <span title="&#x27;Death tech.&#x27; | Tags: underserved | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">Death, Grief &amp; Legacy ↗</span>
+- End-of-life planning
+  - <span title="Solo-founder models: no-code-friendly">Advance directives 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">End-of-life planning apps 🧩</span>
+  - <span title="Solo-founder models: service-business">Death doulas 🛠️</span>
+- <span title="State funeral law and the FTC Funeral Rule. | Tags: regulated">Funeral services</span>
+  - <span title="Solo-founder models: content">Funeral price comparison ✍️</span>
+- Memorialization
+  - <span title="Solo-founder models: no-code-friendly">Online memorials 🧩</span>
+- <span title="See also: Lifestyle, Home &amp; Experiences &gt; Pets &amp; Animal Care &gt; Pet lifestyle &gt; Pet loss &amp; grief">Grief support ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Grief apps 🧩</span>
+- <span title="e.g. Empathy.">Digital legacy</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Account closure 🛠️🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Digital estate vaults 🧩</span>
+  - <span title="Solo-founder models: service-business">Legacy memoirs 🛠️</span>
+- After-death logistics
+  - <span title="Solo-founder models: service-business">Death admin concierge 🛠️</span>
+  - <span title="Solo-founder models: service-business">Survivor benefits claims 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Probate navigation 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Estate cleanout 🛠️</span>
+  - <span title="Solo-founder models: service-business">Downsizing services 🛠️</span>
+## <span title="Contemplative practice, meaning, personal development, learning, creativity and career growth.">Mind, Meaning &amp; Growth</span>
+### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">Contemplative Practice ↗</span>
+- Meditation
+  - <span title="Solo-founder models: service-business">Meditation retreats 🛠️</span>
+  - <span title="Tags: b2b | Solo-founder models: service-business">Workplace mindfulness 🛠️</span>
+- Breathwork
+  - <span title="Solo-founder models: content, no-code-friendly">Breathwork apps ✍️🧩</span>
+- Journaling &amp; reflection
+  - <span title="e.g. Day One. | Solo-founder models: no-code-friendly">Journaling apps 🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI journaling 🧩</span>
+- Somatics &amp; embodiment
+  - <span title="Solo-founder models: content">Somatic practitioner training ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Nervous-system regulation apps 🧩</span>
+- Digital wellness
+  - <span title="Solo-founder models: no-code-friendly">Screen-time apps 🧩</span>
+  - <span title="Solo-founder models: service-business">Phone-free social events 🛠️</span>
+### <span title="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">Spirituality &amp; Faith</span>
+- <span title="Faith communities: giving, streaming and church management. | Tags: b2b">Faith tech</span>
+  - <span title="Solo-founder models: no-code-friendly">Church management 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Congregant engagement apps 🧩</span>
+- <span title="e.g. Hallow.">Prayer &amp; scripture</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Prayer apps ✍️🧩</span>
+  - <span title="Solo-founder models: content">Scripture study ✍️</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI scripture study 🧩</span>
+  - <span title="Solo-founder models: content">Faith-based meditation ✍️</span>
+- Spiritual guidance
+  - <span title="Hospitals, workplaces, universities. | Solo-founder models: service-business">Chaplaincy services 🛠️</span>
+  - <span title="Solo-founder models: content">Online religious education ✍️</span>
+  - <span title="e.g. Co-Star. | Solo-founder models: content, no-code-friendly">Astrology apps ✍️🧩</span>
+### <span title="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">Purpose &amp; Life Transitions</span>
+- Life coaching
+  - <span title="Solo-founder models: content">Coach certification ✍️</span>
+  - <span title="Solo-founder models: marketplace">Coaching marketplaces 🤝</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI life coaches 🧩</span>
+  - <span title="Tags: b2b | Solo-founder models: no-code-friendly">Coaching practice software 🧩</span>
+- Self-discovery
+  - <span title="Solo-founder models: content, no-code-friendly">Strengths &amp; values assessments ✍️🧩</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Personality assessments ✍️🧩</span>
+- Life-stage transitions
+  - <span title="Solo-founder models: service-business, content">Midlife reinvention 🛠️✍️</span>
+  - <span title="Un-retirement and second careers after 60. | Solo-founder models: service-business, content">Encore careers 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business, content">Sabbatical planning 🛠️✍️</span>
+### <span title="Self-directed growth products: content, programs, experiences and peer groups.">Personal Development</span>
+- Self-help content
+  - <span title="Solo-founder models: content">Book summaries &amp; audio ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Personal development apps 🧩</span>
+  - <span title="e.g. 30-day and 75-day challenges. | Solo-founder models: content, no-code-friendly">Challenge programs ✍️🧩</span>
+- <span title="Non-clinical. Clinical care lives in Mental Health.">Inner-work programs</span>
+  - <span title="Solo-founder models: content">Body-image programs ✍️</span>
+  - <span title="Solo-founder models: service-business">Resilience training 🛠️</span>
+- Performance &amp; mindset
+  - <span title="Solo-founder models: service-business">Peak-performance coaching 🛠️</span>
+  - <span title="For athletes, performers and executives. | Solo-founder models: service-business">Mental-skills coaching 🛠️</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Habit coaching 🛠️🧩</span>
+- Growth communities
+  - <span title="Solo-founder models: service-business, content">Men's circles 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business, content">Women's circles 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business, content">Mastermind groups 🛠️✍️</span>
+  - <span title="Solo-founder models: content, marketplace">Peer coaching networks ✍️🤝</span>
+### Productivity
+- Tasks &amp; habits
+  - <span title="Solo-founder models: no-code-friendly">Gamified productivity 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Goal-setting &amp; accountability 🛠️🧩</span>
+- Time management
+  - <span title="e.g. Motion. | Tags: ai-native | Solo-founder models: no-code-friendly">AI calendars 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Time tracking 🧩</span>
+- <span title="Second brain / PKM.">Knowledge management</span>
+  - <span title="e.g. Notion, Obsidian. | Solo-founder models: content">Note-taking apps ✍️</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI knowledge assistants 🧩</span>
+- <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">ADHD-friendly productivity ↗</span>
+  - <span title="e.g. Flow Club, Focusmate. | Solo-founder models: service-business, marketplace, no-code-friendly">Body doubling 🛠️🤝🧩</span>
+  - <span title="Solo-founder models: content">ADHD planners ✍️</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI task breakdown 🧩</span>
+- <span title="Tags: ai-native">AI personal assistants 🔥</span>
+  - <span title="Solo-founder models: no-code-friendly">Inbox &amp; email AI 🧩</span>
+### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">Learning &amp; Education ↗</span>
+- Online learning
+  - <span title="Solo-founder models: content">Cohort-based courses ✍️</span>
+  - <span title="Solo-founder models: content, no-code-friendly">Microlearning apps ✍️🧩</span>
+- <span title="Tags: ai-native">AI tutoring 🔥</span>
+  - <span title="e.g. Khanmigo. | Solo-founder models: no-code-friendly">AI tutors 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">AI reading coaches 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Homework help apps 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">AI study tools 🧩</span>
+- Test prep &amp; credentials
+  - <span title="Solo-founder models: service-business, content">Test prep 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Professional certifications ✍️</span>
+  - <span title="Solo-founder models: content">Micro-credentials ✍️</span>
+- Language learning
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI language tutors 🧩</span>
+  - <span title="Solo-founder models: service-business, marketplace">Conversation practice 🛠️🤝</span>
+  - <span title="Solo-founder models: service-business">Workplace English 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Heritage-language programs 🛠️✍️</span>
+- K-12 &amp; alternatives
+  - <span title="Solo-founder models: content">Homeschooling ✍️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Learning pods 🛠️🤝</span>
+  - <span title="Solo-founder models: service-business, marketplace">Tutoring 🛠️🤝</span>
+- Early &amp; enrichment learning
+  - <span title="Solo-founder models: no-code-friendly">Early-learning apps 🧩</span>
+  - <span title="Solo-founder models: service-business">Kids' coding classes 🛠️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Music lessons 🛠️🤝</span>
+  - <span title="Solo-founder models: service-business">After-school programs 🛠️</span>
+- Higher education
+  - <span title="Solo-founder models: service-business, content">College admissions 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business, content">Financial-aid navigation 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Transfer &amp; credit mapping ✍️</span>
+- <span title="Tags: b2b">School EdTech</span>
+  - <span title="Solo-founder models: no-code-friendly">Teacher tools 🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">Lesson-planning AI 🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI grading &amp; assessment 🧩</span>
+  - <span title="Solo-founder models: content, marketplace">Curriculum marketplaces ✍️🤝</span>
+  - <span title="Solo-founder models: no-code-friendly">Parent-school communication 🧩</span>
+### Creativity &amp; Craft
+- Writing
+  - <span title="Solo-founder models: no-code-friendly">Writing tools 🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI writing assistants 🧩</span>
+  - <span title="Solo-founder models: service-business, content">Self-publishing 🛠️✍️</span>
+- Music creation
+  - <span title="DAWs and plugins. | Solo-founder models: service-business, content">Music production 🛠️✍️</span>
+  - <span title="e.g. Splice. | Solo-founder models: content, marketplace">Sample marketplaces ✍️🤝</span>
+  - <span title="Solo-founder models: service-business, content">Instrument learning 🛠️✍️</span>
+- <span title="Artisan revival.">Visual arts &amp; craft</span>
+  - <span title="Solo-founder models: content">Craft kits ✍️</span>
+  - <span title="Solo-founder models: marketplace">Artist marketplaces 🤝</span>
+- Fiber arts
+  - <span title="Solo-founder models: content, marketplace">Pattern marketplaces ✍️🤝</span>
+- Photo &amp; video
+  - <span title="Part of the Gen Z analog revival. | Solo-founder models: content">Film photography ✍️</span>
+  - <span title="Solo-founder models: content, marketplace">Stock media marketplaces ✍️🤝</span>
+- Maker culture
+  - <span title="Solo-founder models: service-business, content">3D printing 🛠️✍️</span>
+- <span title="Taking part yourself, as opposed to attending.">Performing arts</span>
+  - <span title="Solo-founder models: service-business">Dance classes 🛠️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Voice &amp; singing lessons 🛠️🤝</span>
+### Career Development
+- Job search
+  - <span title="Solo-founder models: service-business, no-code-friendly">Resume tools 🛠️🧩</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI job-application tools 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Interview preparation 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business, content">Salary negotiation tools 🛠️✍️</span>
+- <span title="Covers communication, project management, data, software, sales, cybersecurity and AI skills.">Upskilling</span>
+  - <span title="Solo-founder models: service-business, content">AI upskilling 🔥 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Leadership development 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Manager training 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Technical upskilling ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Sales training 🛠️✍️</span>
+- Career transitions
+  - <span title="Solo-founder models: service-business">Career coaching 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Career switching 🛠️✍️</span>
+  - <span title="Tags: underserved | Solo-founder models: service-business, content">Veterans' transition 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Outplacement 🛠️</span>
+- <span title="Tags: underserved">Inclusive employment</span>
+  - <span title="e.g. autism-hiring programs. | Solo-founder models: service-business">Neurodivergent hiring 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Workplace accommodations tools 🧩</span>
+  - <span title="Solo-founder models: marketplace">Older-worker hiring 🤝</span>
+  - <span title="Solo-founder models: marketplace">Second-chance hiring 🤝</span>
+- <span title="See also: Wealth &gt; Entrepreneurship &gt; Small business &gt; Skilled-trades businesses">Skilled trades careers ↗</span>
+  - <span title="Solo-founder models: marketplace">Apprenticeship marketplaces 🤝</span>
+  - <span title="Solo-founder models: content">Licensing exam prep ✍️</span>
+  - <span title="Solo-founder models: marketplace">Trade job boards 🤝</span>
+  - <span title="Solo-founder models: content">Trades continuing education ✍️</span>
+- <span title="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
+  - <span title="Solo-founder models: marketplace">Flexible &amp; part-time jobs 🤝</span>
+  - <span title="Solo-founder models: service-business, marketplace">Interim management 🛠️🤝</span>
+- Professional networking
+  - <span title="Solo-founder models: content">Professional communities ✍️</span>
+  - <span title="Solo-founder models: marketplace">Mentorship platforms 🤝</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Personal branding tools 🛠️🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Warm-intro tools 🧩</span>
+- Workplace navigation
+  - <span title="Solo-founder models: content">Salary data platforms ✍️</span>
+  - <span title="Parental, medical and caregiving leave. | Solo-founder models: service-business, content">Leave navigation 🛠️✍️</span>
+## <span title="Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around.">Lifestyle, Home &amp; Experiences</span>
+### Travel &amp; Adventure
+- Trip planning
+  - <span title="e.g. Mindtrip. | Tags: ai-native | Solo-founder models: no-code-friendly">AI trip planners 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Itinerary apps 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Group trip planning 🛠️🧩</span>
+  - <span title="Solo-founder models: content">Creator travel guides ✍️</span>
+  - <span title="Solo-founder models: content">Travel rewards ✍️</span>
+- Experiential travel
+  - <span title="Solo-founder models: service-business">Adventure tours 🛠️</span>
+  - <span title="Solo-founder models: service-business">Culinary travel 🛠️</span>
+  - <span title="Solo-founder models: service-business">Sports &amp; event travel 🛠️</span>
+  - <span title="Solo-founder models: marketplace">Experiences marketplaces 🤝</span>
+- <span title="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Living arrangements &gt; Coliving | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; International &amp; expat tax">Digital nomadism ↗</span>
+  - <span title="e.g. Nomad List. | Solo-founder models: content">Nomad communities ✍️</span>
+  - <span title="Solo-founder models: service-business">Remote-work retreats 🛠️</span>
+- Wellness travel
+  - <span title="Solo-founder models: service-business">Wellness retreats 🛠️</span>
+  - <span title="Solo-founder models: service-business">Fitness retreats 🛠️</span>
+- Traveler segments
+  - <span title="Solo-founder models: service-business, content">Solo travel 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Family travel ✍️</span>
+  - <span title="Solo-founder models: service-business, content">Senior travel 🛠️✍️</span>
+  - <span title="Tags: underserved | Solo-founder models: service-business, content">Accessible travel 🛠️✍️</span>
+- <span title="Tags: b2b | See also: Planet &amp; Frontier &gt; Built Environment &gt; Property management &gt; Short-term rental operations">Hospitality tech ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Guest messaging 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Direct booking engines 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Tour-operator software 🧩</span>
+### Food &amp; Beverage
+- <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods">Meal solutions ↗</span>
+  - <span title="Solo-founder models: service-business, marketplace">Personal chefs 🛠️🤝</span>
+  - <span title="Solo-founder models: no-code-friendly">Meal-planning apps 🧩</span>
+- <span title="Tags: b2b">Restaurant tech</span>
+  - <span title="Solo-founder models: no-code-friendly">Online ordering &amp; loyalty 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Reservations &amp; waitlists 🧩</span>
+  - <span title="Solo-founder models: marketplace">Restaurant supplier marketplaces 🤝</span>
+- Artisanal &amp; local food
+  - <span title="Home food businesses under state cottage-food laws. | Tags: regulated | Solo-founder models: content">Cottage-food businesses ✍️</span>
+- <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Circular economy">Food waste ↗</span>
+  - <span title="e.g. Too Good To Go. | Solo-founder models: marketplace, no-code-friendly">Surplus-food apps 🤝🧩</span>
+- Cooking &amp; groceries
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI cooking assistants 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Grocery price comparison 🧩</span>
+### Home &amp; Living
+- Smart home
+  - <span title="Solo-founder models: service-business">Smart-home installation 🛠️</span>
+- Design &amp; decor
+  - <span title="e.g. Havenly. | Solo-founder models: service-business">E-design 🛠️</span>
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI interior design 🧩</span>
+- Organizing &amp; moving
+  - <span title="Solo-founder models: service-business">Decluttering services 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Home inventory apps 🧩</span>
+  - <span title="Utilities, address changes and service setup. | Solo-founder models: service-business, no-code-friendly">Move admin 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business">Senior move management 🛠️</span>
+- Home improvement
+  - <span title="Solo-founder models: marketplace">Renovation platforms 🤝</span>
+  - <span title="Solo-founder models: no-code-friendly">Home maintenance apps 🧩</span>
+- <span title="e.g. Thumbtack, TaskRabbit.">Home services</span>
+  - <span title="Solo-founder models: marketplace">Handyman marketplaces 🤝</span>
+  - <span title="Solo-founder models: service-business">Cleaning services 🛠️</span>
+  - <span title="Solo-founder models: service-business">Lawn &amp; pest services 🛠️</span>
+  - <span title="Scheduling, dispatch and invoicing for trades, e.g. Jobber. | Tags: b2b | Solo-founder models: no-code-friendly">Field-service software 🧩</span>
+- Gardening &amp; plants
+  - <span title="Solo-founder models: service-business">Landscape design 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">Native &amp; drought-tolerant landscaping 🛠️✍️</span>
+- Living arrangements
+  - <span title="Solo-founder models: marketplace, no-code-friendly">Roommate matching 🤝🧩</span>
+- <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Clean power">Home electrification ↗</span>
+  - <span title="Solo-founder models: service-business">Energy audits 🛠️</span>
+  - <span title="Finding and claiming electrification incentives. | Solo-founder models: service-business, content, no-code-friendly">Rebate navigation 🛠️✍️🧩</span>
+### <span title="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">Fashion &amp; Beauty ↗</span>
+- <span title="e.g. Depop (sold to eBay in 2026), ThredUp, Vinted.">Resale &amp; circular fashion 🔥</span>
+  - <span title="Solo-founder models: service-business">Repair &amp; upcycling 🛠️</span>
+- Beauty &amp; skincare
+  - <span title="Solo-founder models: service-business, content">Textured hair care 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Nail care 🛠️</span>
+- Fashion &amp; beauty tech
+  - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI styling assistants 🧩</span>
+- Men's grooming
+  - <span title="Solo-founder models: no-code-friendly">Barbershop booking 🧩</span>
+- <span title="Tags: b2b">Salon &amp; spa tech</span>
+  - <span title="Solo-founder models: no-code-friendly">Salon booking software 🧩</span>
+  - <span title="Solo-founder models: marketplace">Salon-suite rental platforms 🤝</span>
+  - <span title="Solo-founder models: marketplace">Beauty-pro marketplaces 🤝</span>
+### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
+- <span title="e.g. Rover.">Pet services</span>
+  - <span title="Solo-founder models: service-business">Pet grooming 🛠️</span>
+  - <span title="Solo-founder models: service-business">Mobile grooming 🛠️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Pet sitting 🛠️🤝</span>
+  - <span title="Solo-founder models: service-business, content">Training &amp; behavior 🛠️✍️</span>
+- Pet lifestyle
+  - <span title="Solo-founder models: content">Pet-friendly travel ✍️</span>
+  - <span title="Solo-founder models: content">Pet loss &amp; grief ✍️</span>
+### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">Sports &amp; Hobbies ↗</span>
+- Racquet sports 🔥
+  - <span title="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026). | Solo-founder models: service-business, content">Pickleball 🛠️✍️</span>
+  - <span title="Solo-founder models: content">Padel ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Court booking 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Racquet coaching apps 🧩</span>
+- Social sports
+  - <span title="Solo-founder models: service-business, content">Run clubs 🔥 🛠️✍️</span>
+  - <span title="e.g. Hyrox. | Solo-founder models: content">Fitness racing 🔥 ✍️</span>
+  - <span title="Solo-founder models: service-business">Adult rec leagues 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Pickup-game apps 🧩</span>
+- Women's sports 🔥
+  - <span title="Solo-founder models: content">Women's sports media ✍️</span>
+  - <span title="Solo-founder models: service-business">Girls' sports participation 🛠️</span>
+- Fandom &amp; spectating
+  - <span title="Solo-founder models: no-code-friendly">Fan engagement apps 🧩</span>
+- Games &amp; puzzles
+  - <span title="Solo-founder models: service-business, content">Chess 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business, content">Tabletop RPGs 🛠️✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Word games 🧩</span>
+- <span title="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">Collecting ↗</span>
+  - <span title="Solo-founder models: content">Trading cards ✍️</span>
+  - <span title="Live-stream breaks and auctions, e.g. Whatnot. | Solo-founder models: content">Live collectible auctions 🔥 ✍️</span>
+- Reading
+  - <span title="BookTok. | Solo-founder models: content, no-code-friendly">Book discovery ✍️🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Reading trackers 🧩</span>
+### Entertainment &amp; Events
+- Streaming &amp; video
+  - <span title="Solo-founder models: content">Creator-led media ✍️</span>
+- Podcasts &amp; audio
+  - <span title="Solo-founder models: content">Audio dramas &amp; fiction ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Audio creator tools 🧩</span>
+- Live events
+  - <span title="Solo-founder models: content, no-code-friendly">Local event discovery ✍️🧩</span>
+- Nightlife &amp; venues
+  - <span title="Solo-founder models: service-business">Sober nightlife 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Table &amp; guest-list apps 🧩</span>
+- Immersive experiences
+  - <span title="Solo-founder models: service-business">Themed pop-ups 🛠️</span>
+- Weddings
+  - <span title="Solo-founder models: no-code-friendly">Wedding planning platforms 🧩</span>
+  - <span title="Solo-founder models: service-business, marketplace">Elopements &amp; micro-weddings 🛠️🤝</span>
+- Celebrations &amp; gifting
+  - <span title="Solo-founder models: service-business">Party planning 🛠️</span>
+  - <span title="Solo-founder models: service-business">Kids' parties 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Group gifting 🧩</span>
+  - <span title="Tags: b2b | Solo-founder models: service-business">Corporate gifting 🛠️</span>
+  - <span title="Tags: b2b | Solo-founder models: service-business, marketplace">Team experiences 🛠️🤝</span>
+### Cars &amp; Transportation
+- Car buying
+  - <span title="Solo-founder models: service-business">Used-car inspections 🛠️</span>
+  - <span title="Solo-founder models: service-business">Car-buying advisors 🛠️</span>
+- <span title="See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance">Car ownership ↗</span>
+  - <span title="Solo-founder models: service-business">Mobile mechanics 🛠️</span>
+  - <span title="Solo-founder models: service-business">Detailing &amp; care 🛠️</span>
+- Car enthusiasts
+  - <span title="Solo-founder models: content">Collector cars ✍️</span>
+  - <span title="Solo-founder models: content">Parts &amp; modification ✍️</span>
+- <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">EV ownership ↗</span>
+  - <span title="Solo-founder models: content">Used EVs &amp; battery health ✍️</span>
+## <span title="Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology). | Tags: b2b">Enterprise &amp; AI</span>
+### <span title="Tags: ai-native">AI Infrastructure 🔥</span>
+- <span title="See also: Enterprise &amp; AI &gt; Cybersecurity &amp; Trust &gt; Security for AI &gt; AI agent security">AI agents ↗</span>
+  - <span title="Legal, sales, healthcare and other industry agents. | Solo-founder models: no-code-friendly">Vertical agents 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Workflow automation 🛠️🧩</span>
+- Data infrastructure
+  - <span title="Solo-founder models: service-business">Data labeling 🛠️</span>
+### Software &amp; Developer Tools
+- No-code &amp; low-code
+  - <span title="Solo-founder models: service-business, content">App builders 🛠️✍️</span>
+  - <span title="Solo-founder models: service-business">Internal-tool builders 🛠️</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Workflow builders 🛠️🧩</span>
+- API economy
+  - <span title="Solo-founder models: service-business, no-code-friendly">Integration platforms 🛠️🧩</span>
+### Cybersecurity &amp; Trust
+- Human risk
+  - <span title="Solo-founder models: service-business, content">Security awareness training 🛠️✍️</span>
+- <span title="Tags: consumer | See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Cyber insurance">Consumer security ↗</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Data-broker removal 🛠️🧩</span>
+  - <span title="Includes elder-fraud protection. | Solo-founder models: content">Scam protection ✍️</span>
+### Work &amp; HR Tech
+- HRIS &amp; people analytics
+  - <span title="Solo-founder models: no-code-friendly">Engagement surveys 🧩</span>
+- Collaboration
+  - <span title="Solo-founder models: service-business">Internal communications 🛠️</span>
+- <span title="See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Fertility benefits | See also: Wealth &gt; Money Management &gt; Financial wellness &gt; Workplace financial wellness">Employee wellbeing ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Recognition &amp; rewards 🧩</span>
+- Learning &amp; development
+  - <span title="e.g. BetterUp. | Solo-founder models: marketplace">Coaching platforms 🤝</span>
+  - <span title="Solo-founder models: service-business, content">Compliance training 🛠️✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Mentoring software 🧩</span>
+- Frontline workforce
+  - <span title="Solo-founder models: no-code-friendly">Shift scheduling 🧩</span>
+  - <span title="Solo-founder models: content">Frontline training ✍️</span>
+### <span title="See also: Wealth &gt; Tax &amp; Legal &gt; Consumer legal services">Legal &amp; Compliance Tech ↗</span>
+- <span title="Tags: ai-native">Legal AI 🔥</span>
+  - <span title="Solo-founder models: no-code-friendly">AI for small firms 🧩</span>
+- Legal operations
+  - <span title="Solo-founder models: no-code-friendly">Legal intake &amp; triage 🧩</span>
+- <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon accounting">ESG &amp; sustainability reporting ↗</span>
+  - <span title="Solo-founder models: service-business">CSRD reporting 🛠️</span>
+- AI governance
+  - <span title="Solo-founder models: service-business">AI risk management 🛠️</span>
+  - <span title="Solo-founder models: service-business">AI audits 🛠️</span>
+  - <span title="Solo-founder models: service-business, content">EU AI Act compliance 🛠️✍️</span>
+- Trade compliance 🔥
+  - <span title="Solo-founder models: service-business, content">Tariff management 🛠️✍️</span>
+- IP management
+  - <span title="Solo-founder models: service-business, no-code-friendly">Trademark monitoring 🛠️🧩</span>
+### Marketing &amp; Sales Tech
+- <span title="Tags: ai-native">Generative marketing</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">AI content generation 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business">Creative automation 🛠️</span>
+  - <span title="Solo-founder models: service-business">AI video ads 🛠️</span>
+  - <span title="Getting brands surfaced in AI assistants&#x27; answers. | Solo-founder models: service-business, content">Generative engine optimization 🔥 🛠️✍️</span>
+- Lifecycle marketing
+  - <span title="Solo-founder models: service-business">Email &amp; SMS marketing 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Referral programs 🧩</span>
+- Creator platforms
+  - <span title="Solo-founder models: marketplace">Influencer marketplaces 🤝</span>
+  - <span title="Solo-founder models: marketplace">UGC marketplaces 🤝</span>
+  - <span title="Solo-founder models: no-code-friendly">Creator analytics 🧩</span>
+- Analytics &amp; attribution
+  - <span title="Solo-founder models: service-business">Server-side tracking 🛠️</span>
+- Customer support 🔥
+  - <span title="Tags: ai-native | Solo-founder models: service-business, no-code-friendly">AI support agents 🛠️🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Support QA &amp; analytics 🧩</span>
+- Event marketing
+  - <span title="Solo-founder models: no-code-friendly">Direct-mail automation 🧩</span>
+- Sales tech
+  - <span title="Solo-founder models: service-business">CRM 🛠️</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Sales data &amp; enrichment 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business, content">Sales enablement 🛠️✍️</span>
+### <span title="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">Commerce &amp; Retail Tech ↗</span>
+- E-commerce enablement
+  - <span title="Solo-founder models: no-code-friendly">Shopify-app ecosystem 🧩</span>
+  - <span title="Solo-founder models: service-business">Checkout &amp; conversion 🛠️</span>
+  - <span title="Solo-founder models: no-code-friendly">Loyalty &amp; gift cards 🧩</span>
+- Marketplace selling
+  - <span title="e.g. Amazon seller software. | Solo-founder models: service-business, no-code-friendly">Marketplace seller tools 🛠️🧩</span>
+  - <span title="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal). | Solo-founder models: service-business, no-code-friendly">Social-commerce seller tools 🛠️🧩</span>
+- <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics">Fulfillment &amp; post-purchase ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Post-purchase experience 🧩</span>
+- <span title="e.g. Jobber.">SMB operations</span>
+  - <span title="Solo-founder models: no-code-friendly">Booking &amp; scheduling 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Invoicing &amp; quotes 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Reviews &amp; reputation 🛠️🧩</span>
+  - <span title="Voice agents that answer calls and book jobs for small businesses. | Tags: ai-native | Solo-founder models: service-business, no-code-friendly">AI receptionists 🔥 🛠️🧩</span>
+### Business Finance Tech
+- Accounting
+  - <span title="AI-native bookkeeping is the growth wedge. | Tags: ai-native | Solo-founder models: service-business">Bookkeeping 🔥 🛠️</span>
+  - <span title="Solo-founder models: service-business">Financial reporting 🛠️</span>
+- Corporate finance
+  - <span title="Solo-founder models: service-business">FP&amp;A 🛠️</span>
+## <span title="Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G.">Planet &amp; Frontier</span>
+### <span title="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Home electrification">Climate &amp; Energy ↗</span>
+- Carbon
+  - <span title="Solo-founder models: service-business, no-code-friendly">Carbon accounting 🛠️🧩</span>
+### Agriculture &amp; Food Systems
+- Food supply chain
+  - <span title="Solo-founder models: marketplace">Farm-to-business marketplaces 🤝</span>
+- <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Crop insurance">Farm operations &amp; finance ↗</span>
+  - <span title="Solo-founder models: marketplace">Farm labor marketplaces 🤝</span>
+### Industry &amp; Supply Chain
+- <span title="Reshoring and smart factories.">Smart manufacturing 🔥</span>
+  - <span title="Solo-founder models: marketplace">Contract-manufacturing marketplaces 🤝</span>
+- Warehousing
+  - <span title="Solo-founder models: marketplace">3PL marketplaces 🤝</span>
+- Reverse logistics
+  - <span title="Solo-founder models: service-business">Refurbishment 🛠️</span>
+  - <span title="Solo-founder models: service-business, marketplace">Repair networks 🛠️🤝</span>
+### <span title="PropTech and construction. | See also: Wealth &gt; Housing &amp; Real Estate">Built Environment ↗</span>
+- Property management
+  - <span title="Solo-founder models: service-business, no-code-friendly">Maintenance coordination 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business">Short-term rental operations 🛠️</span>
+- Construction tech
+  - <span title="Tags: ai-native | Solo-founder models: service-business">Takeoff &amp; estimating AI 🛠️</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Permitting automation 🛠️🧩</span>
+- Construction supply chain
+  - <span title="Solo-founder models: marketplace">Subcontractor marketplaces 🤝</span>
+- Real estate transactions
+  - <span title="Solo-founder models: service-business">Transaction management 🛠️</span>
+### <span title="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">Public Interest &amp; Impact</span>
+- GovTech
+  - <span title="Solo-founder models: content, no-code-friendly">Benefits access ✍️🧩</span>
+- <span title="Tags: underserved">Accessibility tech</span>
+  - <span title="Solo-founder models: service-business">Live captioning 🛠️</span>
+  - <span title="Web and app compliance as a service. | Solo-founder models: service-business">Accessibility compliance 🔥 🛠️</span>
+- <span title="e.g. Givebutter. | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Wealth management &gt; Philanthropy &amp; DAFs">Nonprofit tech ↗</span>
+  - <span title="Solo-founder models: no-code-friendly">Volunteer management 🧩</span>
+  - <span title="Solo-founder models: service-business, no-code-friendly">Grant-seeking tools 🛠️🧩</span>
+  - <span title="Solo-founder models: service-business">Impact measurement 🛠️</span>
+- Civic participation &amp; justice
+  - <span title="Solo-founder models: content">Access to justice ✍️</span>

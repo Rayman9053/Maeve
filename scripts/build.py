@@ -13,7 +13,9 @@ Outputs (all regenerated; never edit by hand):
     output/mindmap.mm               FreeMind XML (imports into XMind / FreeMind / Freeplane)
     output/mindmap.opml             OPML outline (Workflowy / Dynalist)
     output/taxonomy.md              indented markdown with notes, tags and cross-references
-    output/markmap-full.md, output/markmap-condensed.md   Markmap sources for the HTML files
+    output/mindmap-solofounder.html interactive Markmap of the solo-founder, low-capital view
+                                    (leaves labelled in data/solo-founder.csv; see scripts/solofounder.py)
+    output/markmap-*.md             Markmap sources for the HTML files
     reports/stats.md                current stats
 """
 import argparse
@@ -27,6 +29,7 @@ from xml.sax.saxutils import escape, quoteattr
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from taxonomy_lib import ROOT_DIR, TAG_VOCAB, children, load, path_str, stats, walk  # noqa: E402
 from validate import validate  # noqa: E402
+import solofounder  # noqa: E402
 
 OUT = os.path.join(ROOT_DIR, "output")
 MARKMAP_CLI = "markmap-cli@0.18.12"  # pinned for reproducible output
@@ -52,13 +55,13 @@ def pillar_colors(root):
 
 # ─────────────────────────────────────────────── Markmap (HTML)
 
-def markmap_md(root, max_depth, title, expand_level):
+def markmap_md(root, max_depth, title, expand_level, header=None):
     # Markmap hands the first color to the root node, so lead with a neutral grey.
     colors = ["#8A8F98"] + [PALETTE[i % len(PALETTE)] for i in range(len(children(root)))]
     s = stats(root)
     lines = [
         "---",
-        f"title: {title}",
+        f"title: \"{title}\"",
         "markmap:",
         "  colorFreezeLevel: 2",
         "  color: [" + ", ".join(f'"{c}"' for c in colors) + "]",
@@ -67,8 +70,8 @@ def markmap_md(root, max_depth, title, expand_level):
         "  spacingVertical: 6",
         "---",
         "",
-        f"# {root['name']}<br><small>{FIRE} trending · ↗ cross-reference · {s['total']:,} nodes · "
-        "click to expand, hover for notes</small>",
+        f"# {root['name']}<br><small>" + (header or f"{FIRE} trending · ↗ cross-reference · {s['total']:,} nodes")
+        + " · click to expand, hover for notes</small>",
         "",
     ]
 
@@ -79,12 +82,15 @@ def markmap_md(root, max_depth, title, expand_level):
         other = [t for t in node.get("tags") or [] if t != "trending"]
         if other:
             bits.append("Tags: " + ", ".join(other))
+        if node.get("models"):
+            bits.append("Solo-founder models: " + ", ".join(node["models"]))
         for ref in node.get("see") or []:
             bits.append("See also: " + ref)
         return " | ".join(bits)
 
     def text(node):
-        t = html.escape(label(node), quote=False)
+        badges = "".join(solofounder.MODELS[m] for m in node.get("models") or [])
+        t = html.escape(label(node), quote=False) + (f" {badges}" if badges else "")
         tip = tooltip(node)
         if tip:
             marker = " ↗" if node.get("see") else ""
@@ -270,6 +276,10 @@ def stats_md(root):
 
 # ─────────────────────────────────────────────── main
 
+def s_leaves(root):
+    return sum(1 for n, d, _ in walk(root) if d > 0 and not children(n))
+
+
 def write(path, text):
     with open(path, "w", encoding="utf-8") as f:
         f.write(text)
@@ -299,9 +309,24 @@ def main():
     write(os.path.join(OUT, "mindmap.opml"), opml(root))
     write(os.path.join(OUT, "taxonomy.md"), markdown(root))
     write(os.path.join(ROOT_DIR, "reports", "stats.md"), stats_md(root))
+    html_targets = [(full_md, "mindmap-full.html"), (cond_md, "mindmap-condensed.html")]
+
+    if os.path.exists(solofounder.LABELS_PATH):
+        labels = solofounder.load_labels()
+        for problem in solofounder.check(root, labels):
+            print(f"  warning: solo-founder labels: {problem}", file=sys.stderr)
+        view = solofounder.view(root, labels)
+        view["name"] = "Solo Founder, Low Capital"
+        n, counts = solofounder.summary(view)
+        header = (f"{n:,} of {s_leaves(root):,} leaves one founder could start for under ~$10k · "
+                  + " · ".join(f"{b} {m} ({counts[m]})" for m, b in solofounder.MODELS.items())
+                  + f" · {FIRE} trending")
+        solo_md = os.path.join(OUT, "markmap-solofounder.md")
+        write(solo_md, markmap_md(view, 4, "Startup Opportunity Map: solo founder", 3, header))
+        html_targets.append((solo_md, "mindmap-solofounder.html"))
 
     if not args.no_html:
-        for md, name in ((full_md, "mindmap-full.html"), (cond_md, "mindmap-condensed.html")):
+        for md, name in html_targets:
             dest = os.path.join(OUT, name)
             try:
                 build_html(md, dest)

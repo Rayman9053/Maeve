@@ -1,5 +1,5 @@
 ---
-title: Startup Opportunity Map
+title: "Startup Opportunity Map"
 markmap:
   colorFreezeLevel: 2
   color: ["#8A8F98", "#1B9E77", "#1F78B4", "#C99A06", "#D63A7A", "#7570B3", "#E0620D", "#4A5A70", "#5E9E1E"]
