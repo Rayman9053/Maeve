@@ -453,39 +453,26 @@ children:
               - {name: ADHD}
               - {name: Autism}
               - {name: Dyslexia & learning differences}
-              - {name: Late diagnosis, note: "Adult ADHD and autism diagnosis."}
-              - {name: ADHD medication access, tags: [regulated], note: "US telehealth rules for controlled-substance prescribing."}
               - {name: Executive-function coaching}
+              - {name: Late diagnosis, note: "Adult ADHD and autism diagnosis."}
           - name: Dementia & cognitive decline
             tags: [underserved]
             children:
               - {name: Cognitive assessments}
-              - {name: Blood-based Alzheimer's tests, tags: [regulated], note: "First FDA clearances in 2025; verify current status."}
-              - {name: Anti-amyloid therapy navigation}
-              - {name: Dementia care navigation}
-              - {name: Dementia caregiver training}
               - {name: Memory care}
-          - name: Brain health & prevention
-            see: ["Health & Wellness > Aging & Longevity > Healthy aging > Cognitive fitness"]
-            children:
-              - {name: Brain-health clinics}
-              - {name: Brain-health coaching}
-              - {name: Nootropics, tags: [regulated], note: "Weak evidence for most cognitive-enhancement claims."}
+              - {name: Dementia care navigation}
           - name: Neurological conditions
             children:
               - {name: Migraine & headache}
               - {name: Epilepsy}
               - {name: Parkinson's}
-              - {name: Neuropathy}
               - {name: Concussion & TBI}
               - {name: Stroke recovery}
-              - {name: Neurorehabilitation tech}
           - name: Consumer neurotech
             children:
               - {name: EEG headbands}
               - {name: Neurofeedback}
               - {name: Brain-training apps}
-              - {name: Vagus-nerve stimulation devices, tags: [regulated]}
 
       - name: Specialty Care
         children:
@@ -590,41 +577,26 @@ children:
             children:
               - {name: Tech-enabled primary care}
               - {name: Membership primary care, note: "Direct primary care and concierge medicine."}
-              - {name: Senior-focused primary care, note: "e.g. the Oak Street model."}
-              - {name: Retail clinics}
               - {name: Urgent care}
               - {name: Specialist e-consults}
           - name: Home & virtual care
             children:
               - {name: Home healthcare}
               - {name: Hospital at home}
-              - {name: Home infusion}
-              - {name: Mobile phlebotomy & imaging}
               - {name: Remote patient monitoring}
           - name: Pharmacy
             tags: [regulated]
             children:
               - {name: Online pharmacy, note: "e.g. Amazon Pharmacy."}
               - {name: Rx price transparency, note: "Cost Plus-style pricing and Rx savings."}
-              - {name: Specialty pharmacy}
-              - {name: Medication adherence, note: "e.g. pre-sorted pill packs."}
-              - {name: Pharmacist clinical services, note: "Test-and-treat, vaccines, prescribing where allowed."}
               - {name: Compounding pharmacies}
           - name: Patient navigation
             children:
               - {name: Patient advocacy}
-              - {name: Employer health navigation, tags: [b2b]}
-              - {name: Price comparison tools}
               - {name: Medical bill negotiation}
               - {name: Second opinions}
               - {name: Cash-pay surgery, note: "Price-transparent surgery centers."}
               - {name: Medical tourism, see: ["Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel"]}
-          - name: Emergency care
-            see: ["Lifestyle, Home & Experiences > Cars & Transportation > Autonomous & shared rides > Medical & senior rides"]
-            children:
-              - {name: EMS tech, tags: [b2b]}
-              - {name: ER triage & wait-time apps}
-              - {name: Air ambulance memberships, note: "Consumer-protection concerns in the US; check coverage claims."}
 
       - name: Health Technology
         tags: [b2b]
@@ -992,22 +964,18 @@ children:
               - {name: Parametric insurance}
 
       - name: Tax & Legal
-        see: ["Enterprise & AI > Legal & Compliance Tech"]
         children:
           - name: Tax planning
             children:
               - {name: Individual tax}
               - {name: Small-business tax}
               - {name: Capital gains}
-              - {name: Tax-loss harvesting}
               - {name: International & expat tax}
               - {name: Crypto tax}
           - name: Tax preparation
             children:
               - {name: AI tax prep, tags: [trending, ai-native]}
               - {name: DIY filing software}
-              - {name: Tax-pro marketplaces}
-              - {name: Tax-credit finders}
               - {name: Tax resolution, tags: [regulated]}
           - name: Consumer legal services
             tags: [regulated]
@@ -1015,18 +983,8 @@ children:
             see: ["Relationships > Breakups & Divorce > Divorce process > Online divorce"]
             children:
               - {name: Legal marketplaces}
-              - {name: Prepaid legal plans}
-              - {name: AI legal assistants, tags: [ai-native]}
               - {name: Small claims & disputes}
-              - {name: Compensation claims, note: "e.g. flight delays and class-action claims."}
-              - {name: Online notarization}
-          - name: Family & elder law
-            tags: [regulated]
-            see: ["Wealth > Retirement & Wealth Planning > Estate planning"]
-            children:
-              - {name: Powers of attorney}
-              - {name: Guardianship & conservatorship}
-              - {name: Elder law services}
+              - {name: AI legal assistants, tags: [ai-native]}
           - name: Immigration services
             tags: [underserved, regulated]
             note: "Needs attorneys or DOJ-accredited representatives. 'Notario fraud' is a known risk."
@@ -1034,8 +992,6 @@ children:
               - {name: Visa applications}
               - {name: Green cards}
               - {name: Citizenship}
-              - {name: Asylum legal aid}
-              - {name: Immigration case tracking}
               - {name: Employer immigration, tags: [b2b]}
 
       - name: Entrepreneurship
@@ -1213,27 +1169,22 @@ children:
               - {name: Sex-therapy telehealth}
               - {name: Intimacy coaches}
               - {name: Sexual performance anxiety}
-              - {name: Sex-therapist certification, tags: [b2b]}
           - name: Couples intimacy
             children:
               - {name: Guided intimacy courses}
               - {name: Intimacy apps}
-              - {name: Intimacy challenges}
               - {name: Intimacy retreats}
               - {name: Conversation card games}
           - name: Life-stage intimacy
             children:
               - {name: Postpartum intimacy}
               - {name: Midlife intimacy, see: ["Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause"]}
-              - {name: Later-life intimacy}
-              - {name: Intimacy after cancer}
               - {name: Intimacy with illness & disability, tags: [underserved]}
           - name: Desire & communication
             children:
               - {name: Desire-mismatch programs}
-              - {name: Sexual-communication courses}
               - {name: Consent education}
-              - {name: Trauma-informed intimacy programs, tags: [underserved], note: "For survivors of sexual trauma and their partners."}
+              - {name: Sexual-communication courses}
 
       - name: Breakups & Divorce
         children:
@@ -2047,10 +1998,7 @@ children:
           - name: Apparel & accessories
             children:
               - {name: DTC basics}
-              - {name: Athleisure}
               - {name: Sneakers & streetwear, note: "Sneaker collecting sits under Sports & Hobbies > Collecting."}
-              - {name: Kids' clothing}
-              - {name: Handbags & leather goods}
               - {name: Jewelry}
               - {name: Watches}
           - name: Resale & circular fashion
@@ -2060,49 +2008,30 @@ children:
               - {name: Resale marketplaces}
               - {name: Luxury resale}
               - {name: Clothing rental}
-              - {name: Resale-as-a-service, tags: [b2b], note: "Brand take-back and resale programs."}
               - {name: Repair & upcycling}
           - name: Inclusive fashion
             tags: [underserved]
             children:
               - {name: Plus-size fashion}
-              - {name: Petite & tall sizing}
               - {name: Adaptive clothing}
-              - {name: Maternity wear}
               - {name: Modest fashion}
-              - {name: Gender-neutral fashion}
           - name: Beauty & skincare
             children:
               - {name: Skincare DTC}
-              - {name: Makeup}
-              - {name: Clean beauty}
-              - {name: K-beauty, tags: [trending]}
               - {name: Inclusive beauty, note: "Diverse shade ranges (the 'Fenty effect')."}
               - {name: Textured hair care}
-              - {name: Nail care}
               - {name: Fragrance}
-          - name: Fashion & beauty tech
-            children:
-              - {name: Virtual try-on}
-              - {name: AI styling assistants, tags: [ai-native]}
-              - {name: Size & fit tech}
-              - {name: AI skin analysis, tags: [ai-native]}
-              - {name: On-demand apparel manufacturing, tags: [b2b]}
           - name: Men's grooming
             children:
               - {name: Grooming products}
               - {name: Men's skincare}
-              - {name: Shaving subscriptions}
-              - {name: Beard care}
               - {name: Barbershop booking}
           - name: Salon & spa tech
             tags: [b2b]
             children:
               - {name: Salon booking software}
               - {name: Salon management}
-              - {name: Salon-suite rental platforms}
               - {name: Beauty-pro marketplaces}
-              - {name: Beauty-pro payments}
 
       - name: Pets & Animal Care
         see: ["Wealth > Insurance > Specialty lines > Pet insurance"]

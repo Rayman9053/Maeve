@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,318 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,380 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -332,22 +332,33 @@ markmap:
   - ADHD
   - Autism
   - Dyslexia &amp; learning differences
-  - Executive-function coaching
   - <span title="Adult ADHD and autism diagnosis.">Late diagnosis</span>
+  - <span title="US telehealth rules for controlled-substance prescribing. | Tags: regulated">ADHD medication access</span>
+  - Executive-function coaching
 - <span title="Tags: underserved">Dementia &amp; cognitive decline</span>
   - Cognitive assessments
-  - Memory care
+  - <span title="First FDA clearances in 2025; verify current status. | Tags: regulated">Blood-based Alzheimer's tests</span>
+  - Anti-amyloid therapy navigation
   - Dementia care navigation
+  - Dementia caregiver training
+  - Memory care
+- <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Healthy aging &gt; Cognitive fitness">Brain health &amp; prevention ↗</span>
+  - Brain-health clinics
+  - Brain-health coaching
+  - <span title="Weak evidence for most cognitive-enhancement claims. | Tags: regulated">Nootropics</span>
 - Neurological conditions
   - Migraine &amp; headache
   - Epilepsy
   - Parkinson's
+  - Neuropathy
   - Concussion &amp; TBI
   - Stroke recovery
+  - Neurorehabilitation tech
 - Consumer neurotech
   - EEG headbands
   - Neurofeedback
   - Brain-training apps
+  - <span title="Tags: regulated">Vagus-nerve stimulation devices</span>
 ### Specialty Care
 - Dental &amp; oral health
   - <span title="Tags: regulated">Teledentistry</span>
@@ -419,22 +430,35 @@ markmap:
 - Primary &amp; urgent care
   - Tech-enabled primary care
   - <span title="Direct primary care and concierge medicine.">Membership primary care</span>
+  - <span title="e.g. the Oak Street model.">Senior-focused primary care</span>
+  - Retail clinics
   - Urgent care
   - Specialist e-consults
 - Home &amp; virtual care
   - Home healthcare
   - Hospital at home
+  - Home infusion
+  - Mobile phlebotomy &amp; imaging
   - Remote patient monitoring
 - <span title="Tags: regulated">Pharmacy</span>
   - <span title="e.g. Amazon Pharmacy.">Online pharmacy</span>
   - <span title="Cost Plus-style pricing and Rx savings.">Rx price transparency</span>
+  - Specialty pharmacy
+  - <span title="e.g. pre-sorted pill packs.">Medication adherence</span>
+  - <span title="Test-and-treat, vaccines, prescribing where allowed.">Pharmacist clinical services</span>
   - Compounding pharmacies
 - Patient navigation
   - Patient advocacy
+  - <span title="Tags: b2b">Employer health navigation</span>
+  - Price comparison tools
   - Medical bill negotiation
   - Second opinions
   - <span title="Price-transparent surgery centers.">Cash-pay surgery</span>
   - <span title="See also: Lifestyle, Home &amp; Experiences &gt; Travel &amp; Adventure &gt; Wellness travel">Medical tourism ↗</span>
+- <span title="See also: Lifestyle, Home &amp; Experiences &gt; Cars &amp; Transportation &gt; Autonomous &amp; shared rides &gt; Medical &amp; senior rides">Emergency care ↗</span>
+  - <span title="Tags: b2b">EMS tech</span>
+  - ER triage &amp; wait-time apps
+  - <span title="Consumer-protection concerns in the US; check coverage claims.">Air ambulance memberships</span>
 ### <span title="Software and devices sold to providers, payers and life-science companies. | Tags: b2b">Health Technology</span>
 - <span title="Tags: ai-native">Clinical AI 🔥</span>
   - <span title="e.g. Abridge.">Ambient AI scribes</span>
@@ -706,25 +730,37 @@ markmap:
   - Embedded insurance
   - Usage-based insurance
   - Parametric insurance
-### Tax &amp; Legal
+### <span title="See also: Enterprise &amp; AI &gt; Legal &amp; Compliance Tech">Tax &amp; Legal ↗</span>
 - Tax planning
   - Individual tax
   - Small-business tax
   - Capital gains
+  - Tax-loss harvesting
   - International &amp; expat tax
   - Crypto tax
 - Tax preparation
   - <span title="Tags: ai-native">AI tax prep 🔥</span>
   - DIY filing software
+  - Tax-pro marketplaces
+  - Tax-credit finders
   - <span title="Tags: regulated">Tax resolution</span>
 - <span title="Unauthorized-practice-of-law rules apply. | Tags: regulated | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce process &gt; Online divorce">Consumer legal services ↗</span>
   - Legal marketplaces
-  - Small claims &amp; disputes
+  - Prepaid legal plans
   - <span title="Tags: ai-native">AI legal assistants</span>
+  - Small claims &amp; disputes
+  - <span title="e.g. flight delays and class-action claims.">Compensation claims</span>
+  - Online notarization
+- <span title="Tags: regulated | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">Family &amp; elder law ↗</span>
+  - Powers of attorney
+  - Guardianship &amp; conservatorship
+  - Elder law services
 - <span title="Needs attorneys or DOJ-accredited representatives. &#x27;Notario fraud&#x27; is a known risk. | Tags: underserved, regulated">Immigration services</span>
   - Visa applications
   - Green cards
   - Citizenship
+  - Asylum legal aid
+  - Immigration case tracking
   - <span title="Tags: b2b">Employer immigration</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Software &amp; Developer Tools &gt; No-code &amp; low-code">Entrepreneurship ↗</span>
 - Starting a business
@@ -855,19 +891,24 @@ markmap:
   - Sex-therapy telehealth
   - Intimacy coaches
   - Sexual performance anxiety
+  - <span title="Tags: b2b">Sex-therapist certification</span>
 - Couples intimacy
   - Guided intimacy courses
   - Intimacy apps
+  - Intimacy challenges
   - Intimacy retreats
   - Conversation card games
 - Life-stage intimacy
   - Postpartum intimacy
   - <span title="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women&#x27;s health &gt; Menopause &amp; perimenopause">Midlife intimacy ↗</span>
+  - Later-life intimacy
+  - Intimacy after cancer
   - <span title="Tags: underserved">Intimacy with illness &amp; disability</span>
 - Desire &amp; communication
   - Desire-mismatch programs
-  - Consent education
   - Sexual-communication courses
+  - Consent education
+  - <span title="For survivors of sexual trauma and their partners. | Tags: underserved">Trauma-informed intimacy programs</span>
 ### Breakups &amp; Divorce
 - <span title="Covers emotional recovery, no-contact and rebuilding confidence.">Breakup support</span>
   - Breakup coaching
@@ -1481,31 +1522,52 @@ markmap:
 ### <span title="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">Fashion &amp; Beauty ↗</span>
 - Apparel &amp; accessories
   - DTC basics
+  - Athleisure
   - <span title="Sneaker collecting sits under Sports &amp; Hobbies &gt; Collecting.">Sneakers &amp; streetwear</span>
+  - Kids' clothing
+  - Handbags &amp; leather goods
   - Jewelry
   - Watches
 - <span title="e.g. Depop, ThredUp, Vinted.">Resale &amp; circular fashion 🔥</span>
   - Resale marketplaces
   - Luxury resale
   - Clothing rental
+  - <span title="Brand take-back and resale programs. | Tags: b2b">Resale-as-a-service</span>
   - Repair &amp; upcycling
 - <span title="Tags: underserved">Inclusive fashion</span>
   - Plus-size fashion
+  - Petite &amp; tall sizing
   - Adaptive clothing
+  - Maternity wear
   - Modest fashion
+  - Gender-neutral fashion
 - Beauty &amp; skincare
   - Skincare DTC
+  - Makeup
+  - Clean beauty
+  - K-beauty 🔥
   - <span title="Diverse shade ranges (the &#x27;Fenty effect&#x27;).">Inclusive beauty</span>
   - Textured hair care
+  - Nail care
   - Fragrance
+- Fashion &amp; beauty tech
+  - Virtual try-on
+  - <span title="Tags: ai-native">AI styling assistants</span>
+  - Size &amp; fit tech
+  - <span title="Tags: ai-native">AI skin analysis</span>
+  - <span title="Tags: b2b">On-demand apparel manufacturing</span>
 - Men's grooming
   - Grooming products
   - Men's skincare
+  - Shaving subscriptions
+  - Beard care
   - Barbershop booking
 - <span title="Tags: b2b">Salon &amp; spa tech</span>
   - Salon booking software
   - Salon management
+  - Salon-suite rental platforms
   - Beauty-pro marketplaces
+  - Beauty-pro payments
 ### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
 - Pet food
   - <span title="e.g. The Farmer&#x27;s Dog.">Fresh pet food</span>

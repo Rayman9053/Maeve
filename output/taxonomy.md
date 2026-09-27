@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**2,318 nodes**: 8 pillars · 63 categories · 395 subcategories · 1852 leaves.
+**2,380 nodes**: 8 pillars · 63 categories · 399 subcategories · 1910 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -389,22 +389,34 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - ADHD
   - Autism
   - Dyslexia & learning differences
-  - Executive-function coaching
   - Late diagnosis: *Adult ADHD and autism diagnosis.*
+  - ADHD medication access `regulated`: *US telehealth rules for controlled-substance prescribing.*
+  - Executive-function coaching
 - **Dementia & cognitive decline** `underserved`
   - Cognitive assessments
-  - Memory care
+  - Blood-based Alzheimer's tests `regulated`: *First FDA clearances in 2025; verify current status.*
+  - Anti-amyloid therapy navigation
   - Dementia care navigation
+  - Dementia caregiver training
+  - Memory care
+- **Brain health & prevention**
+  - ↗ *see* Health & Wellness > Aging & Longevity > Healthy aging > Cognitive fitness
+  - Brain-health clinics
+  - Brain-health coaching
+  - Nootropics `regulated`: *Weak evidence for most cognitive-enhancement claims.*
 - **Neurological conditions**
   - Migraine & headache
   - Epilepsy
   - Parkinson's
+  - Neuropathy
   - Concussion & TBI
   - Stroke recovery
+  - Neurorehabilitation tech
 - **Consumer neurotech**
   - EEG headbands
   - Neurofeedback
   - Brain-training apps
+  - Vagus-nerve stimulation devices `regulated`
 
 ### Specialty Care
 
@@ -489,23 +501,37 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Primary & urgent care**
   - Tech-enabled primary care
   - Membership primary care: *Direct primary care and concierge medicine.*
+  - Senior-focused primary care: *e.g. the Oak Street model.*
+  - Retail clinics
   - Urgent care
   - Specialist e-consults
 - **Home & virtual care**
   - Home healthcare
   - Hospital at home
+  - Home infusion
+  - Mobile phlebotomy & imaging
   - Remote patient monitoring
 - **Pharmacy** `regulated`
   - Online pharmacy: *e.g. Amazon Pharmacy.*
   - Rx price transparency: *Cost Plus-style pricing and Rx savings.*
+  - Specialty pharmacy
+  - Medication adherence: *e.g. pre-sorted pill packs.*
+  - Pharmacist clinical services: *Test-and-treat, vaccines, prescribing where allowed.*
   - Compounding pharmacies
 - **Patient navigation**
   - Patient advocacy
+  - Employer health navigation `b2b`
+  - Price comparison tools
   - Medical bill negotiation
   - Second opinions
   - Cash-pay surgery: *Price-transparent surgery centers.*
   - Medical tourism
     - ↗ *see* Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel
+- **Emergency care**
+  - ↗ *see* Lifestyle, Home & Experiences > Cars & Transportation > Autonomous & shared rides > Medical & senior rides
+  - EMS tech `b2b`
+  - ER triage & wait-time apps
+  - Air ambulance memberships: *Consumer-protection concerns in the US; check coverage claims.*
 
 ### Health Technology `b2b`
 
@@ -811,25 +837,40 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Tax & Legal
 
+↗ *see* Enterprise & AI > Legal & Compliance Tech  
+
 - **Tax planning**
   - Individual tax
   - Small-business tax
   - Capital gains
+  - Tax-loss harvesting
   - International & expat tax
   - Crypto tax
 - **Tax preparation**
   - AI tax prep 🔥 `ai-native`
   - DIY filing software
+  - Tax-pro marketplaces
+  - Tax-credit finders
   - Tax resolution `regulated`
 - **Consumer legal services** `regulated`: *Unauthorized-practice-of-law rules apply.*
   - ↗ *see* Relationships > Breakups & Divorce > Divorce process > Online divorce
   - Legal marketplaces
-  - Small claims & disputes
+  - Prepaid legal plans
   - AI legal assistants `ai-native`
+  - Small claims & disputes
+  - Compensation claims: *e.g. flight delays and class-action claims.*
+  - Online notarization
+- **Family & elder law** `regulated`
+  - ↗ *see* Wealth > Retirement & Wealth Planning > Estate planning
+  - Powers of attorney
+  - Guardianship & conservatorship
+  - Elder law services
 - **Immigration services** `underserved` `regulated`: *Needs attorneys or DOJ-accredited representatives. 'Notario fraud' is a known risk.*
   - Visa applications
   - Green cards
   - Citizenship
+  - Asylum legal aid
+  - Immigration case tracking
   - Employer immigration `b2b`
 
 ### Entrepreneurship
@@ -983,20 +1024,25 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Sex-therapy telehealth
   - Intimacy coaches
   - Sexual performance anxiety
+  - Sex-therapist certification `b2b`
 - **Couples intimacy**
   - Guided intimacy courses
   - Intimacy apps
+  - Intimacy challenges
   - Intimacy retreats
   - Conversation card games
 - **Life-stage intimacy**
   - Postpartum intimacy
   - Midlife intimacy
     - ↗ *see* Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause
+  - Later-life intimacy
+  - Intimacy after cancer
   - Intimacy with illness & disability `underserved`
 - **Desire & communication**
   - Desire-mismatch programs
-  - Consent education
   - Sexual-communication courses
+  - Consent education
+  - Trauma-informed intimacy programs `underserved`: *For survivors of sexual trauma and their partners.*
 
 ### Breakups & Divorce
 
@@ -1688,31 +1734,52 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Apparel & accessories**
   - DTC basics
+  - Athleisure
   - Sneakers & streetwear: *Sneaker collecting sits under Sports & Hobbies > Collecting.*
+  - Kids' clothing
+  - Handbags & leather goods
   - Jewelry
   - Watches
 - **Resale & circular fashion 🔥**: *e.g. Depop, ThredUp, Vinted.*
   - Resale marketplaces
   - Luxury resale
   - Clothing rental
+  - Resale-as-a-service `b2b`: *Brand take-back and resale programs.*
   - Repair & upcycling
 - **Inclusive fashion** `underserved`
   - Plus-size fashion
+  - Petite & tall sizing
   - Adaptive clothing
+  - Maternity wear
   - Modest fashion
+  - Gender-neutral fashion
 - **Beauty & skincare**
   - Skincare DTC
+  - Makeup
+  - Clean beauty
+  - K-beauty 🔥
   - Inclusive beauty: *Diverse shade ranges (the 'Fenty effect').*
   - Textured hair care
+  - Nail care
   - Fragrance
+- **Fashion & beauty tech**
+  - Virtual try-on
+  - AI styling assistants `ai-native`
+  - Size & fit tech
+  - AI skin analysis `ai-native`
+  - On-demand apparel manufacturing `b2b`
 - **Men's grooming**
   - Grooming products
   - Men's skincare
+  - Shaving subscriptions
+  - Beard care
   - Barbershop booking
 - **Salon & spa tech** `b2b`
   - Salon booking software
   - Salon management
+  - Salon-suite rental platforms
   - Beauty-pro marketplaces
+  - Beauty-pro payments
 
 ### Pets & Animal Care
 

@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,318 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,380 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -34,7 +34,7 @@ markmap:
 ### Housing &amp; Real Estate
 ### Retirement &amp; Wealth Planning
 ### <span title="State-licensed in the US. Every insurance line lives here; other branches cross-reference it. | Tags: regulated">Insurance</span>
-### Tax &amp; Legal
+### <span title="See also: Enterprise &amp; AI &gt; Legal &amp; Compliance Tech">Tax &amp; Legal ↗</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Software &amp; Developer Tools &gt; No-code &amp; low-code">Entrepreneurship ↗</span>
 ## <span title="Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health &amp; Wellness.">Relationships</span>
 ### Dating

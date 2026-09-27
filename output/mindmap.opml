@@ -393,25 +393,37 @@
             <outline text="ADHD"/>
             <outline text="Autism"/>
             <outline text="Dyslexia &amp; learning differences"/>
-            <outline text="Executive-function coaching"/>
             <outline text="Late diagnosis" _note="Adult ADHD and autism diagnosis."/>
+            <outline text="ADHD medication access #regulated" _note="US telehealth rules for controlled-substance prescribing."/>
+            <outline text="Executive-function coaching"/>
           </outline>
           <outline text="Dementia &amp; cognitive decline #underserved">
             <outline text="Cognitive assessments"/>
-            <outline text="Memory care"/>
+            <outline text="Blood-based Alzheimer's tests #regulated" _note="First FDA clearances in 2025; verify current status."/>
+            <outline text="Anti-amyloid therapy navigation"/>
             <outline text="Dementia care navigation"/>
+            <outline text="Dementia caregiver training"/>
+            <outline text="Memory care"/>
+          </outline>
+          <outline text="Brain health &amp; prevention" _note="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Healthy aging &gt; Cognitive fitness">
+            <outline text="Brain-health clinics"/>
+            <outline text="Brain-health coaching"/>
+            <outline text="Nootropics #regulated" _note="Weak evidence for most cognitive-enhancement claims."/>
           </outline>
           <outline text="Neurological conditions">
             <outline text="Migraine &amp; headache"/>
             <outline text="Epilepsy"/>
             <outline text="Parkinson's"/>
+            <outline text="Neuropathy"/>
             <outline text="Concussion &amp; TBI"/>
             <outline text="Stroke recovery"/>
+            <outline text="Neurorehabilitation tech"/>
           </outline>
           <outline text="Consumer neurotech">
             <outline text="EEG headbands"/>
             <outline text="Neurofeedback"/>
             <outline text="Brain-training apps"/>
+            <outline text="Vagus-nerve stimulation devices #regulated"/>
           </outline>
         </outline>
         <outline text="Specialty Care">
@@ -498,25 +510,39 @@
           <outline text="Primary &amp; urgent care">
             <outline text="Tech-enabled primary care"/>
             <outline text="Membership primary care" _note="Direct primary care and concierge medicine."/>
+            <outline text="Senior-focused primary care" _note="e.g. the Oak Street model."/>
+            <outline text="Retail clinics"/>
             <outline text="Urgent care"/>
             <outline text="Specialist e-consults"/>
           </outline>
           <outline text="Home &amp; virtual care">
             <outline text="Home healthcare"/>
             <outline text="Hospital at home"/>
+            <outline text="Home infusion"/>
+            <outline text="Mobile phlebotomy &amp; imaging"/>
             <outline text="Remote patient monitoring"/>
           </outline>
           <outline text="Pharmacy #regulated">
             <outline text="Online pharmacy" _note="e.g. Amazon Pharmacy."/>
             <outline text="Rx price transparency" _note="Cost Plus-style pricing and Rx savings."/>
+            <outline text="Specialty pharmacy"/>
+            <outline text="Medication adherence" _note="e.g. pre-sorted pill packs."/>
+            <outline text="Pharmacist clinical services" _note="Test-and-treat, vaccines, prescribing where allowed."/>
             <outline text="Compounding pharmacies"/>
           </outline>
           <outline text="Patient navigation">
             <outline text="Patient advocacy"/>
+            <outline text="Employer health navigation #b2b"/>
+            <outline text="Price comparison tools"/>
             <outline text="Medical bill negotiation"/>
             <outline text="Second opinions"/>
             <outline text="Cash-pay surgery" _note="Price-transparent surgery centers."/>
             <outline text="Medical tourism" _note="See also: Lifestyle, Home &amp; Experiences &gt; Travel &amp; Adventure &gt; Wellness travel"/>
+          </outline>
+          <outline text="Emergency care" _note="See also: Lifestyle, Home &amp; Experiences &gt; Cars &amp; Transportation &gt; Autonomous &amp; shared rides &gt; Medical &amp; senior rides">
+            <outline text="EMS tech #b2b"/>
+            <outline text="ER triage &amp; wait-time apps"/>
+            <outline text="Air ambulance memberships" _note="Consumer-protection concerns in the US; check coverage claims."/>
           </outline>
         </outline>
         <outline text="Health Technology #b2b" _note="Software and devices sold to providers, payers and life-science companies.">
@@ -844,28 +870,41 @@
             <outline text="Parametric insurance"/>
           </outline>
         </outline>
-        <outline text="Tax &amp; Legal">
+        <outline text="Tax &amp; Legal" _note="See also: Enterprise &amp; AI &gt; Legal &amp; Compliance Tech">
           <outline text="Tax planning">
             <outline text="Individual tax"/>
             <outline text="Small-business tax"/>
             <outline text="Capital gains"/>
+            <outline text="Tax-loss harvesting"/>
             <outline text="International &amp; expat tax"/>
             <outline text="Crypto tax"/>
           </outline>
           <outline text="Tax preparation">
             <outline text="AI tax prep #trending #ai-native"/>
             <outline text="DIY filing software"/>
+            <outline text="Tax-pro marketplaces"/>
+            <outline text="Tax-credit finders"/>
             <outline text="Tax resolution #regulated"/>
           </outline>
           <outline text="Consumer legal services #regulated" _note="Unauthorized-practice-of-law rules apply. | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce process &gt; Online divorce">
             <outline text="Legal marketplaces"/>
-            <outline text="Small claims &amp; disputes"/>
+            <outline text="Prepaid legal plans"/>
             <outline text="AI legal assistants #ai-native"/>
+            <outline text="Small claims &amp; disputes"/>
+            <outline text="Compensation claims" _note="e.g. flight delays and class-action claims."/>
+            <outline text="Online notarization"/>
+          </outline>
+          <outline text="Family &amp; elder law #regulated" _note="See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">
+            <outline text="Powers of attorney"/>
+            <outline text="Guardianship &amp; conservatorship"/>
+            <outline text="Elder law services"/>
           </outline>
           <outline text="Immigration services #underserved #regulated" _note="Needs attorneys or DOJ-accredited representatives. 'Notario fraud' is a known risk.">
             <outline text="Visa applications"/>
             <outline text="Green cards"/>
             <outline text="Citizenship"/>
+            <outline text="Asylum legal aid"/>
+            <outline text="Immigration case tracking"/>
             <outline text="Employer immigration #b2b"/>
           </outline>
         </outline>
@@ -1023,22 +1062,27 @@
             <outline text="Sex-therapy telehealth"/>
             <outline text="Intimacy coaches"/>
             <outline text="Sexual performance anxiety"/>
+            <outline text="Sex-therapist certification #b2b"/>
           </outline>
           <outline text="Couples intimacy">
             <outline text="Guided intimacy courses"/>
             <outline text="Intimacy apps"/>
+            <outline text="Intimacy challenges"/>
             <outline text="Intimacy retreats"/>
             <outline text="Conversation card games"/>
           </outline>
           <outline text="Life-stage intimacy">
             <outline text="Postpartum intimacy"/>
             <outline text="Midlife intimacy" _note="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women's health &gt; Menopause &amp; perimenopause"/>
+            <outline text="Later-life intimacy"/>
+            <outline text="Intimacy after cancer"/>
             <outline text="Intimacy with illness &amp; disability #underserved"/>
           </outline>
           <outline text="Desire &amp; communication">
             <outline text="Desire-mismatch programs"/>
-            <outline text="Consent education"/>
             <outline text="Sexual-communication courses"/>
+            <outline text="Consent education"/>
+            <outline text="Trauma-informed intimacy programs #underserved" _note="For survivors of sexual trauma and their partners."/>
           </outline>
         </outline>
         <outline text="Breakups &amp; Divorce">
@@ -1773,7 +1817,10 @@
         <outline text="Fashion &amp; Beauty" _note="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">
           <outline text="Apparel &amp; accessories">
             <outline text="DTC basics"/>
+            <outline text="Athleisure"/>
             <outline text="Sneakers &amp; streetwear" _note="Sneaker collecting sits under Sports &amp; Hobbies &gt; Collecting."/>
+            <outline text="Kids' clothing"/>
+            <outline text="Handbags &amp; leather goods"/>
             <outline text="Jewelry"/>
             <outline text="Watches"/>
           </outline>
@@ -1781,28 +1828,47 @@
             <outline text="Resale marketplaces"/>
             <outline text="Luxury resale"/>
             <outline text="Clothing rental"/>
+            <outline text="Resale-as-a-service #b2b" _note="Brand take-back and resale programs."/>
             <outline text="Repair &amp; upcycling"/>
           </outline>
           <outline text="Inclusive fashion #underserved">
             <outline text="Plus-size fashion"/>
+            <outline text="Petite &amp; tall sizing"/>
             <outline text="Adaptive clothing"/>
+            <outline text="Maternity wear"/>
             <outline text="Modest fashion"/>
+            <outline text="Gender-neutral fashion"/>
           </outline>
           <outline text="Beauty &amp; skincare">
             <outline text="Skincare DTC"/>
+            <outline text="Makeup"/>
+            <outline text="Clean beauty"/>
+            <outline text="K-beauty #trending"/>
             <outline text="Inclusive beauty" _note="Diverse shade ranges (the 'Fenty effect')."/>
             <outline text="Textured hair care"/>
+            <outline text="Nail care"/>
             <outline text="Fragrance"/>
+          </outline>
+          <outline text="Fashion &amp; beauty tech">
+            <outline text="Virtual try-on"/>
+            <outline text="AI styling assistants #ai-native"/>
+            <outline text="Size &amp; fit tech"/>
+            <outline text="AI skin analysis #ai-native"/>
+            <outline text="On-demand apparel manufacturing #b2b"/>
           </outline>
           <outline text="Men's grooming">
             <outline text="Grooming products"/>
             <outline text="Men's skincare"/>
+            <outline text="Shaving subscriptions"/>
+            <outline text="Beard care"/>
             <outline text="Barbershop booking"/>
           </outline>
           <outline text="Salon &amp; spa tech #b2b">
             <outline text="Salon booking software"/>
             <outline text="Salon management"/>
+            <outline text="Salon-suite rental platforms"/>
             <outline text="Beauty-pro marketplaces"/>
+            <outline text="Beauty-pro payments"/>
           </outline>
         </outline>
         <outline text="Pets &amp; Animal Care" _note="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">

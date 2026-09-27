@@ -1,5 +1,50 @@
 # Changelog
 
+## v9: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v8.yaml`. The branches were the ones named in `reports/handoff.md` (v8). No pillar or
+category was added or removed, no nodes were cut, and no existing node was renamed. Every subcategory in
+these branches now has 3–8 specific leaves, and four subcategories are new. The additions are listed below.
+
+| Old location (v8) | Before | After | Reason |
+|---|---|---|---|
+| Care Delivery | (none) | `Emergency care` | Gap fill: EMS tech, ER triage apps, air ambulance memberships; cross-referenced to Medical & senior rides |
+| Tax & Legal | (none) | `Family & elder law` | Gap fill: powers of attorney, guardianship, elder law; cross-referenced to Estate planning |
+| Tax & Legal | (no cross-ref) | `see:` → `Legal & Compliance Tech` | Links consumer legal to B2B legal tech (mutual) |
+| Brain & Neurological Health | (none) | `Brain health & prevention` | Gap fill; cross-referenced to Cognitive fitness |
+| Fashion & Beauty | (none) | `Fashion & beauty tech` | Gap fill: virtual try-on, AI styling, size & fit, AI skin analysis |
+
+<!-- ADDITIONS:v9:START -->
+58 added nodes.
+
+- **Care & Conditions › Brain & Neurological Health › Neurodivergence**: ADHD medication access
+- **Care & Conditions › Brain & Neurological Health › Dementia & cognitive decline**: Blood-based Alzheimer's tests · Anti-amyloid therapy navigation · Dementia caregiver training
+- **Care & Conditions › Brain & Neurological Health › Brain health & prevention**: Brain-health clinics · Brain-health coaching · Nootropics
+- **Care & Conditions › Brain & Neurological Health › Neurological conditions**: Neuropathy · Neurorehabilitation tech
+- **Care & Conditions › Brain & Neurological Health › Consumer neurotech**: Vagus-nerve stimulation devices
+- **Care & Conditions › Care Delivery › Primary & urgent care**: Senior-focused primary care · Retail clinics
+- **Care & Conditions › Care Delivery › Home & virtual care**: Home infusion · Mobile phlebotomy & imaging
+- **Care & Conditions › Care Delivery › Pharmacy**: Specialty pharmacy · Medication adherence · Pharmacist clinical services
+- **Care & Conditions › Care Delivery › Patient navigation**: Employer health navigation · Price comparison tools
+- **Care & Conditions › Care Delivery › Emergency care**: EMS tech · ER triage & wait-time apps · Air ambulance memberships
+- **Wealth › Tax & Legal › Tax planning**: Tax-loss harvesting
+- **Wealth › Tax & Legal › Tax preparation**: Tax-pro marketplaces · Tax-credit finders
+- **Wealth › Tax & Legal › Consumer legal services**: Prepaid legal plans · Compensation claims · Online notarization
+- **Wealth › Tax & Legal › Family & elder law**: Powers of attorney · Guardianship & conservatorship · Elder law services
+- **Wealth › Tax & Legal › Immigration services**: Asylum legal aid · Immigration case tracking
+- **Relationships › Intimacy & Sexuality › Therapy & coaching**: Sex-therapist certification
+- **Relationships › Intimacy & Sexuality › Couples intimacy**: Intimacy challenges
+- **Relationships › Intimacy & Sexuality › Life-stage intimacy**: Later-life intimacy · Intimacy after cancer
+- **Relationships › Intimacy & Sexuality › Desire & communication**: Trauma-informed intimacy programs
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Apparel & accessories**: Athleisure · Kids' clothing · Handbags & leather goods
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Resale & circular fashion**: Resale-as-a-service
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Inclusive fashion**: Petite & tall sizing · Maternity wear · Gender-neutral fashion
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Beauty & skincare**: Makeup · Clean beauty · K-beauty · Nail care
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Fashion & beauty tech**: Virtual try-on · AI styling assistants · Size & fit tech · AI skin analysis · On-demand apparel manufacturing
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Men's grooming**: Shaving subscriptions · Beard care
+- **Lifestyle, Home & Experiences › Fashion & Beauty › Salon & spa tech**: Salon-suite rental platforms · Beauty-pro payments
+<!-- ADDITIONS:v9:END -->
+
 ## v8: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v7.yaml`. The branches were the ones named in `reports/handoff.md` (v7). No pillar or

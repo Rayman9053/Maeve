@@ -1,5 +1,33 @@
 # Handoff
 
+## v9: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v8 | v9 | What changed |
+|---|---|---|---|
+| Relationships › Intimacy & Sexuality | 4 / 14 / 2 | 4 / 19 / 0 | Later-life intimacy, intimacy after cancer, trauma-informed intimacy programs, intimacy challenges, sex-therapist certification |
+| Care › Care Delivery | 4 / 15 / 2 | 5 / 27 / 1 | New Emergency care (EMS tech, ER triage apps, air-ambulance memberships with a consumer-protection note). Senior-focused primary care, retail clinics, home infusion, mobile phlebotomy, specialty pharmacy, medication adherence, employer health navigation, price comparison |
+| Wealth › Tax & Legal | 4 / 15 / 2 | 5 / 26 / 1 | New Family & elder law (powers of attorney, guardianship, elder law). Tax-loss harvesting, tax-pro marketplaces, tax-credit finders, prepaid legal plans, compensation claims, online notarization, asylum legal aid |
+| Care › Brain & Neurological Health | 4 / 16 / 2 | 5 / 26 / 1 | New Brain health & prevention. ADHD medication access, blood-based Alzheimer's tests and anti-amyloid navigation (verify notes), neuropathy, neurorehab tech, vagus-nerve stimulation devices |
+| Lifestyle › Fashion & Beauty | 6 / 21 / 3 | 7 / 41 / 0 | New Fashion & beauty tech (virtual try-on, AI styling, size & fit, AI skin analysis). Athleisure, kids' clothing, petite/tall and maternity, gender-neutral fashion, makeup, clean beauty, K-beauty (trending), shaving subscriptions, salon-suite platforms |
+
+Overall: 2,318 → 2,380 nodes; subcategories at the 3-leaf minimum 53 → 45 (of 399); cross-references 72 → 76.
+No pillar or category was added or removed, and nothing was cut or renamed. Every version (v0–v8) reconciles with 0 unaccounted.
+
+### How much is left
+
+Of the 63 categories:
+- **32** have no subcategory at the 3-leaf minimum.
+- **29** have 1–3 thin subcategories.
+- **2** are still weak: **Home & Living** and **Entertainment & Events** (4 of 8 each).
+
+So **1 more round (v10)** finishes the weak-branch work. That round can cover those two categories plus a
+sweep of the ~37 scattered 3-leaf subcategories. The sweep should top up only the ones where the market really
+has more to it, and leave naturally small ones alone (e.g. Life coaching, Carbon).
+
+---
+
 ## v8: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
