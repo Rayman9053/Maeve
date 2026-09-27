@@ -1624,13 +1624,10 @@ children:
               - {name: MOOCs, note: "e.g. Coursera."}
               - {name: Course marketplaces, note: "e.g. Udemy."}
               - {name: Cohort-based courses}
-              - {name: Masterclass platforms}
-              - {name: Microlearning apps}
           - name: AI tutoring
             tags: [trending, ai-native]
             children:
               - {name: AI tutors, note: "e.g. Khanmigo."}
-              - {name: AI reading coaches}
               - {name: Homework help apps}
               - {name: AI study tools}
           - name: Test prep & credentials
@@ -1638,15 +1635,10 @@ children:
               - {name: Test prep}
               - {name: Professional certifications}
               - {name: Micro-credentials}
-              - {name: Credential verification, tags: [b2b]}
-              - {name: Online proctoring, tags: [b2b]}
           - name: Language learning
             children:
               - {name: Language apps, note: "e.g. Duolingo."}
-              - {name: AI language tutors, tags: [ai-native]}
               - {name: Conversation practice}
-              - {name: Workplace English}
-              - {name: Heritage-language programs}
               - {name: Immersion programs}
           - name: K-12 & alternatives
             children:
@@ -1665,22 +1657,15 @@ children:
           - name: Higher education
             children:
               - {name: College admissions}
-              - {name: Financial-aid navigation}
-              - {name: Online degrees}
-              - {name: Transfer & credit mapping}
               - {name: Student services}
-              - {name: Campus mental health}
+              - {name: Online degrees}
               - {name: Bootcamps}
           - name: School EdTech
             tags: [b2b]
             children:
               - {name: Teacher tools}
-              - {name: Lesson-planning AI, tags: [ai-native]}
-              - {name: AI grading & assessment, tags: [ai-native]}
-              - {name: Curriculum marketplaces}
               - {name: School management}
-              - {name: Parent-school communication}
-              - {name: Academic-integrity tools}
+              - {name: AI grading & assessment, tags: [ai-native]}
 
       - name: Creativity & Craft
         children:
@@ -1745,22 +1730,18 @@ children:
             children:
               - {name: Career planning}
               - {name: Job boards}
+              - {name: Interview preparation}
               - {name: Resume tools}
               - {name: AI job-application tools, tags: [ai-native]}
-              - {name: Interview preparation}
-              - {name: Salary negotiation tools}
           - name: Upskilling
             note: "Covers communication, project management, data, software, sales, cybersecurity and AI skills."
             children:
               - {name: AI upskilling, tags: [trending]}
               - {name: Leadership development}
-              - {name: Manager training}
               - {name: Technical upskilling}
               - {name: Sales training}
-              - {name: Education-benefit platforms, tags: [b2b], note: "Employer-paid tuition, e.g. Guild."}
           - name: Career transitions
             children:
-              - {name: Career coaching}
               - {name: Career switching}
               - {name: Returnships, tags: [underserved], note: "Career re-entry, e.g. for caregivers."}
               - {name: Veterans' transition, tags: [underserved]}
@@ -1770,9 +1751,6 @@ children:
             children:
               - {name: Neurodivergent hiring, note: "e.g. autism-hiring programs."}
               - {name: Disability employment}
-              - {name: Workplace accommodations tools}
-              - {name: Older-worker hiring}
-              - {name: Refugee & immigrant employment}
               - {name: Second-chance hiring}
           - name: Skilled trades careers
             see: ["Wealth > Entrepreneurship > Small business > Skilled-trades businesses"]
@@ -1780,29 +1758,17 @@ children:
               - {name: Trade schools}
               - {name: Apprenticeship marketplaces}
               - {name: Licensing exam prep}
-              - {name: Trade job boards}
-              - {name: Trades continuing education}
           - name: Work arrangements
             see: ["Wealth > Entrepreneurship > Freelancing & fractional"]
             children:
               - {name: Remote job boards}
-              - {name: Flexible & part-time jobs}
               - {name: Contract work}
-              - {name: Interim management}
               - {name: Executive search}
           - name: Professional networking
             children:
               - {name: Professional communities}
               - {name: Networking events}
               - {name: Mentorship platforms}
-              - {name: Personal branding tools}
-              - {name: Warm-intro tools}
-          - name: Workplace navigation
-            children:
-              - {name: Employer reviews}
-              - {name: Salary data platforms}
-              - {name: Leave navigation, note: "Parental, medical and caregiving leave."}
-              - {name: Employment-law help, tags: [regulated]}
   # ───────────────────────────────────────────────────────── 6
   - name: Lifestyle, Home & Experiences
     note: "Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around."
@@ -1814,16 +1780,11 @@ children:
               - {name: AI trip planners, tags: [ai-native], note: "e.g. Mindtrip."}
               - {name: Booking & deals}
               - {name: Itinerary apps}
-              - {name: Group trip planning}
-              - {name: Creator travel guides}
               - {name: Travel rewards}
           - name: Experiential travel
             children:
               - {name: Adventure tours}
               - {name: Expedition travel}
-              - {name: Culinary travel}
-              - {name: Cultural & heritage tours}
-              - {name: Sports & event travel}
               - {name: Experiences marketplaces}
           - name: Digital nomadism
             see:
@@ -1832,15 +1793,11 @@ children:
             children:
               - {name: Nomad visas}
               - {name: Nomad communities, note: "e.g. Nomad List."}
-              - {name: Coworking passes}
-              - {name: Remote-work retreats}
               - {name: Nomad insurance}
           - name: Wellness travel
             see: ["Care & Conditions > Care Delivery > Patient navigation > Medical tourism"]
             children:
               - {name: Wellness retreats}
-              - {name: Fitness retreats}
-              - {name: Longevity retreats}
               - {name: Sleep tourism}
               - {name: Spa & thermal travel}
           - name: Traveler segments
@@ -1848,33 +1805,18 @@ children:
               - {name: Solo travel}
               - {name: Family travel}
               - {name: Group travel}
-              - {name: Senior travel}
-              - {name: LGBTQ+ travel}
               - {name: Accessible travel, tags: [underserved]}
           - name: Sustainable tourism
             children:
               - {name: Eco-lodges}
               - {name: Low-carbon travel}
               - {name: Community-based tourism}
-              - {name: Voluntourism, note: "Ethical concerns about some programs; vet impact claims."}
-              - {name: Overtourism management, tags: [b2b]}
           - name: Road & outdoor travel
             children:
               - {name: RV & vanlife}
-              - {name: RV rentals, note: "Peer-to-peer, e.g. Outdoorsy."}
               - {name: Overlanding}
               - {name: Glamping}
               - {name: Campground booking}
-              - {name: Road-trip planning}
-          - name: Hospitality tech
-            tags: [b2b]
-            see: ["Planet & Frontier > Built Environment > Property management > Short-term rental operations"]
-            children:
-              - {name: Hotel property management}
-              - {name: Hotel revenue management}
-              - {name: Guest messaging}
-              - {name: Direct booking engines}
-              - {name: Tour-operator software}
 
       - name: Food & Beverage
         children:
@@ -2081,7 +2023,6 @@ children:
               - {name: Aquarium & reptile care}
 
       - name: Sports & Hobbies
-        see: ["Health & Wellness > Fitness & Recovery > Youth sports"]
         children:
           - name: Racquet sports
             tags: [trending]
@@ -2089,29 +2030,17 @@ children:
               - {name: Pickleball, note: "Fastest-growing US sport, 2021-24 (SFIA)."}
               - {name: Padel}
               - {name: Tennis}
-              - {name: Indoor pickleball venues}
-              - {name: Court booking}
-              - {name: Racquet coaching apps}
           - name: Social sports
             children:
               - {name: Run clubs, tags: [trending]}
-              - {name: Fitness racing, tags: [trending], note: "e.g. Hyrox."}
               - {name: Adult rec leagues}
-              - {name: Pickup-game apps}
               - {name: Golf entertainment, note: "e.g. Topgolf, simulators."}
           - name: Women's sports
             tags: [trending]
             children:
               - {name: Pro leagues & fandom}
-              - {name: Women's sports media}
               - {name: Women's sports gear}
               - {name: Girls' sports participation}
-          - name: Fandom & spectating
-            children:
-              - {name: Fan engagement apps}
-              - {name: Watch-party venues}
-              - {name: Amateur sports streaming}
-              - {name: Stadium tech, tags: [b2b]}
           - name: Outdoor recreation
             children:
               - {name: Hiking & camping}
@@ -2124,23 +2053,18 @@ children:
             children:
               - {name: Chess}
               - {name: Board games}
-              - {name: Tabletop RPGs}
               - {name: Puzzles}
-              - {name: Word games}
-              - {name: Board-game cafes}
+              - {name: Tabletop RPGs}
           - name: Collecting
             see: ["Wealth > Investing & Trading > Alternative investments > Collectible assets"]
             children:
               - {name: Trading cards}
               - {name: Sneaker collecting, note: "e.g. StockX."}
               - {name: Comics & memorabilia}
-              - {name: Coins & stamps}
-              - {name: Live collectible auctions, tags: [trending], note: "Live-stream breaks and auctions, e.g. Whatnot."}
               - {name: Grading & authentication}
           - name: Reading
             children:
               - {name: Book discovery, note: "BookTok."}
-              - {name: Reading trackers}
               - {name: Book clubs}
               - {name: Indie bookstores}
 
@@ -2284,58 +2208,25 @@ children:
         children:
           - name: Developer platforms
             children:
-              - {name: Code hosting}
-              - {name: Cloud development environments}
-              - {name: Developer portals}
-              - {name: Package registries}
               - {name: Open-source commercialization}
-          - name: AI coding tools
-            tags: [trending, ai-native]
-            see: ["Enterprise & AI > AI Infrastructure > AI agents > Coding agents"]
-            children:
-              - {name: AI code editors}
-              - {name: AI code review}
-              - {name: AI test generation}
-              - {name: Code modernization AI}
+              - {name: Code hosting}
+              - {name: Developer portals}
           - name: No-code & low-code
             children:
               - {name: App builders}
               - {name: Internal-tool builders}
-              - {name: Spreadsheet-database builders, note: "e.g. Airtable."}
               - {name: AI app generators, tags: [trending, ai-native], note: "'Vibe coding.'"}
               - {name: Workflow builders}
-          - name: Testing & quality
-            children:
-              - {name: Test automation}
-              - {name: Mobile app testing}
-              - {name: Load testing}
-              - {name: Feature flags & experimentation}
           - name: DevOps & observability
             children:
-              - {name: CI/CD}
-              - {name: Infrastructure as code}
               - {name: Observability}
-              - {name: Error monitoring}
+              - {name: CI/CD}
               - {name: Incident management}
               - {name: Cloud cost management}
-          - name: Hosting & compute
-            children:
-              - {name: App hosting}
-              - {name: Serverless functions}
-              - {name: Edge compute}
-          - name: Databases
-            see: ["Enterprise & AI > AI Infrastructure > Data infrastructure"]
-            children:
-              - {name: Managed databases}
-              - {name: Serverless databases}
-              - {name: Analytics engineering tools}
-              - {name: Data observability}
           - name: API economy
             children:
               - {name: API marketplaces}
               - {name: API management}
-              - {name: SDK generation}
-              - {name: Webhook infrastructure}
               - {name: Integration platforms}
 
       - name: Cybersecurity & Trust

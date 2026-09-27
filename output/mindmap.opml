@@ -1427,9 +1427,12 @@
             <outline text="MOOCs" _note="e.g. Coursera."/>
             <outline text="Course marketplaces" _note="e.g. Udemy."/>
             <outline text="Cohort-based courses"/>
+            <outline text="Masterclass platforms"/>
+            <outline text="Microlearning apps"/>
           </outline>
           <outline text="AI tutoring #trending #ai-native">
             <outline text="AI tutors" _note="e.g. Khanmigo."/>
+            <outline text="AI reading coaches"/>
             <outline text="Homework help apps"/>
             <outline text="AI study tools"/>
           </outline>
@@ -1437,10 +1440,15 @@
             <outline text="Test prep"/>
             <outline text="Professional certifications"/>
             <outline text="Micro-credentials"/>
+            <outline text="Credential verification #b2b"/>
+            <outline text="Online proctoring #b2b"/>
           </outline>
           <outline text="Language learning">
             <outline text="Language apps" _note="e.g. Duolingo."/>
+            <outline text="AI language tutors #ai-native"/>
             <outline text="Conversation practice"/>
+            <outline text="Workplace English"/>
+            <outline text="Heritage-language programs"/>
             <outline text="Immersion programs"/>
           </outline>
           <outline text="K-12 &amp; alternatives">
@@ -1459,14 +1467,21 @@
           </outline>
           <outline text="Higher education">
             <outline text="College admissions"/>
-            <outline text="Student services"/>
+            <outline text="Financial-aid navigation"/>
             <outline text="Online degrees"/>
+            <outline text="Transfer &amp; credit mapping"/>
+            <outline text="Student services"/>
+            <outline text="Campus mental health"/>
             <outline text="Bootcamps"/>
           </outline>
           <outline text="School EdTech #b2b">
             <outline text="Teacher tools"/>
-            <outline text="School management"/>
+            <outline text="Lesson-planning AI #ai-native"/>
             <outline text="AI grading &amp; assessment #ai-native"/>
+            <outline text="Curriculum marketplaces"/>
+            <outline text="School management"/>
+            <outline text="Parent-school communication"/>
+            <outline text="Academic-integrity tools"/>
           </outline>
         </outline>
         <outline text="Creativity &amp; Craft">
@@ -1527,17 +1542,21 @@
           <outline text="Job search">
             <outline text="Career planning"/>
             <outline text="Job boards"/>
-            <outline text="Interview preparation"/>
             <outline text="Resume tools"/>
             <outline text="AI job-application tools #ai-native"/>
+            <outline text="Interview preparation"/>
+            <outline text="Salary negotiation tools"/>
           </outline>
           <outline text="Upskilling" _note="Covers communication, project management, data, software, sales, cybersecurity and AI skills.">
             <outline text="AI upskilling #trending"/>
             <outline text="Leadership development"/>
+            <outline text="Manager training"/>
             <outline text="Technical upskilling"/>
             <outline text="Sales training"/>
+            <outline text="Education-benefit platforms #b2b" _note="Employer-paid tuition, e.g. Guild."/>
           </outline>
           <outline text="Career transitions">
+            <outline text="Career coaching"/>
             <outline text="Career switching"/>
             <outline text="Returnships #underserved" _note="Career re-entry, e.g. for caregivers."/>
             <outline text="Veterans' transition #underserved"/>
@@ -1546,22 +1565,37 @@
           <outline text="Inclusive employment #underserved">
             <outline text="Neurodivergent hiring" _note="e.g. autism-hiring programs."/>
             <outline text="Disability employment"/>
+            <outline text="Workplace accommodations tools"/>
+            <outline text="Older-worker hiring"/>
+            <outline text="Refugee &amp; immigrant employment"/>
             <outline text="Second-chance hiring"/>
           </outline>
           <outline text="Skilled trades careers" _note="See also: Wealth &gt; Entrepreneurship &gt; Small business &gt; Skilled-trades businesses">
             <outline text="Trade schools"/>
             <outline text="Apprenticeship marketplaces"/>
             <outline text="Licensing exam prep"/>
+            <outline text="Trade job boards"/>
+            <outline text="Trades continuing education"/>
           </outline>
           <outline text="Work arrangements" _note="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">
             <outline text="Remote job boards"/>
+            <outline text="Flexible &amp; part-time jobs"/>
             <outline text="Contract work"/>
+            <outline text="Interim management"/>
             <outline text="Executive search"/>
           </outline>
           <outline text="Professional networking">
             <outline text="Professional communities"/>
             <outline text="Networking events"/>
             <outline text="Mentorship platforms"/>
+            <outline text="Personal branding tools"/>
+            <outline text="Warm-intro tools"/>
+          </outline>
+          <outline text="Workplace navigation">
+            <outline text="Employer reviews"/>
+            <outline text="Salary data platforms"/>
+            <outline text="Leave navigation" _note="Parental, medical and caregiving leave."/>
+            <outline text="Employment-law help #regulated"/>
           </outline>
         </outline>
       </outline>
@@ -1571,20 +1605,29 @@
             <outline text="AI trip planners #ai-native" _note="e.g. Mindtrip."/>
             <outline text="Booking &amp; deals"/>
             <outline text="Itinerary apps"/>
+            <outline text="Group trip planning"/>
+            <outline text="Creator travel guides"/>
             <outline text="Travel rewards"/>
           </outline>
           <outline text="Experiential travel">
             <outline text="Adventure tours"/>
             <outline text="Expedition travel"/>
+            <outline text="Culinary travel"/>
+            <outline text="Cultural &amp; heritage tours"/>
+            <outline text="Sports &amp; event travel"/>
             <outline text="Experiences marketplaces"/>
           </outline>
           <outline text="Digital nomadism" _note="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Living arrangements &gt; Coliving | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; International &amp; expat tax">
             <outline text="Nomad visas"/>
             <outline text="Nomad communities" _note="e.g. Nomad List."/>
+            <outline text="Coworking passes"/>
+            <outline text="Remote-work retreats"/>
             <outline text="Nomad insurance"/>
           </outline>
           <outline text="Wellness travel" _note="See also: Care &amp; Conditions &gt; Care Delivery &gt; Patient navigation &gt; Medical tourism">
             <outline text="Wellness retreats"/>
+            <outline text="Fitness retreats"/>
+            <outline text="Longevity retreats"/>
             <outline text="Sleep tourism"/>
             <outline text="Spa &amp; thermal travel"/>
           </outline>
@@ -1592,18 +1635,31 @@
             <outline text="Solo travel"/>
             <outline text="Family travel"/>
             <outline text="Group travel"/>
+            <outline text="Senior travel"/>
+            <outline text="LGBTQ+ travel"/>
             <outline text="Accessible travel #underserved"/>
           </outline>
           <outline text="Sustainable tourism">
             <outline text="Eco-lodges"/>
             <outline text="Low-carbon travel"/>
             <outline text="Community-based tourism"/>
+            <outline text="Voluntourism" _note="Ethical concerns about some programs; vet impact claims."/>
+            <outline text="Overtourism management #b2b"/>
           </outline>
           <outline text="Road &amp; outdoor travel">
             <outline text="RV &amp; vanlife"/>
+            <outline text="RV rentals" _note="Peer-to-peer, e.g. Outdoorsy."/>
             <outline text="Overlanding"/>
             <outline text="Glamping"/>
             <outline text="Campground booking"/>
+            <outline text="Road-trip planning"/>
+          </outline>
+          <outline text="Hospitality tech #b2b" _note="See also: Planet &amp; Frontier &gt; Built Environment &gt; Property management &gt; Short-term rental operations">
+            <outline text="Hotel property management"/>
+            <outline text="Hotel revenue management"/>
+            <outline text="Guest messaging"/>
+            <outline text="Direct booking engines"/>
+            <outline text="Tour-operator software"/>
           </outline>
         </outline>
         <outline text="Food &amp; Beverage">
@@ -1793,21 +1849,33 @@
             <outline text="Aquarium &amp; reptile care"/>
           </outline>
         </outline>
-        <outline text="Sports &amp; Hobbies">
+        <outline text="Sports &amp; Hobbies" _note="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">
           <outline text="Racquet sports #trending">
             <outline text="Pickleball" _note="Fastest-growing US sport, 2021-24 (SFIA)."/>
             <outline text="Padel"/>
             <outline text="Tennis"/>
+            <outline text="Indoor pickleball venues"/>
+            <outline text="Court booking"/>
+            <outline text="Racquet coaching apps"/>
           </outline>
           <outline text="Social sports">
             <outline text="Run clubs #trending"/>
+            <outline text="Fitness racing #trending" _note="e.g. Hyrox."/>
             <outline text="Adult rec leagues"/>
+            <outline text="Pickup-game apps"/>
             <outline text="Golf entertainment" _note="e.g. Topgolf, simulators."/>
           </outline>
           <outline text="Women's sports #trending">
             <outline text="Pro leagues &amp; fandom"/>
+            <outline text="Women's sports media"/>
             <outline text="Women's sports gear"/>
             <outline text="Girls' sports participation"/>
+          </outline>
+          <outline text="Fandom &amp; spectating">
+            <outline text="Fan engagement apps"/>
+            <outline text="Watch-party venues"/>
+            <outline text="Amateur sports streaming"/>
+            <outline text="Stadium tech #b2b"/>
           </outline>
           <outline text="Outdoor recreation">
             <outline text="Hiking &amp; camping"/>
@@ -1820,17 +1888,22 @@
           <outline text="Games &amp; puzzles">
             <outline text="Chess"/>
             <outline text="Board games"/>
-            <outline text="Puzzles"/>
             <outline text="Tabletop RPGs"/>
+            <outline text="Puzzles"/>
+            <outline text="Word games"/>
+            <outline text="Board-game cafes"/>
           </outline>
           <outline text="Collecting" _note="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">
             <outline text="Trading cards"/>
             <outline text="Sneaker collecting" _note="e.g. StockX."/>
             <outline text="Comics &amp; memorabilia"/>
+            <outline text="Coins &amp; stamps"/>
+            <outline text="Live collectible auctions #trending" _note="Live-stream breaks and auctions, e.g. Whatnot."/>
             <outline text="Grading &amp; authentication"/>
           </outline>
           <outline text="Reading">
             <outline text="Book discovery" _note="BookTok."/>
+            <outline text="Reading trackers"/>
             <outline text="Book clubs"/>
             <outline text="Indie bookstores"/>
           </outline>
@@ -1964,25 +2037,55 @@
         </outline>
         <outline text="Software &amp; Developer Tools">
           <outline text="Developer platforms">
-            <outline text="Open-source commercialization"/>
             <outline text="Code hosting"/>
+            <outline text="Cloud development environments"/>
             <outline text="Developer portals"/>
+            <outline text="Package registries"/>
+            <outline text="Open-source commercialization"/>
+          </outline>
+          <outline text="AI coding tools #trending #ai-native" _note="See also: Enterprise &amp; AI &gt; AI Infrastructure &gt; AI agents &gt; Coding agents">
+            <outline text="AI code editors"/>
+            <outline text="AI code review"/>
+            <outline text="AI test generation"/>
+            <outline text="Code modernization AI"/>
           </outline>
           <outline text="No-code &amp; low-code">
             <outline text="App builders"/>
             <outline text="Internal-tool builders"/>
+            <outline text="Spreadsheet-database builders" _note="e.g. Airtable."/>
             <outline text="AI app generators #trending #ai-native" _note="'Vibe coding.'"/>
             <outline text="Workflow builders"/>
           </outline>
+          <outline text="Testing &amp; quality">
+            <outline text="Test automation"/>
+            <outline text="Mobile app testing"/>
+            <outline text="Load testing"/>
+            <outline text="Feature flags &amp; experimentation"/>
+          </outline>
           <outline text="DevOps &amp; observability">
-            <outline text="Observability"/>
             <outline text="CI/CD"/>
+            <outline text="Infrastructure as code"/>
+            <outline text="Observability"/>
+            <outline text="Error monitoring"/>
             <outline text="Incident management"/>
             <outline text="Cloud cost management"/>
+          </outline>
+          <outline text="Hosting &amp; compute">
+            <outline text="App hosting"/>
+            <outline text="Serverless functions"/>
+            <outline text="Edge compute"/>
+          </outline>
+          <outline text="Databases" _note="See also: Enterprise &amp; AI &gt; AI Infrastructure &gt; Data infrastructure">
+            <outline text="Managed databases"/>
+            <outline text="Serverless databases"/>
+            <outline text="Analytics engineering tools"/>
+            <outline text="Data observability"/>
           </outline>
           <outline text="API economy">
             <outline text="API marketplaces"/>
             <outline text="API management"/>
+            <outline text="SDK generation"/>
+            <outline text="Webhook infrastructure"/>
             <outline text="Integration platforms"/>
           </outline>
         </outline>

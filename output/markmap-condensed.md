@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,222 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,318 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -60,7 +60,7 @@ markmap:
 ### Home &amp; Living
 ### <span title="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">Fashion &amp; Beauty ↗</span>
 ### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
-### Sports &amp; Hobbies
+### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">Sports &amp; Hobbies ↗</span>
 ### Entertainment &amp; Events
 ### Cars &amp; Transportation
 ## <span title="Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology). | Tags: b2b">Enterprise &amp; AI</span>

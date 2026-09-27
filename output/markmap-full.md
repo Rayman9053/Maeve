@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,222 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,318 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -1189,17 +1189,25 @@ markmap:
   - <span title="e.g. Coursera.">MOOCs</span>
   - <span title="e.g. Udemy.">Course marketplaces</span>
   - Cohort-based courses
+  - Masterclass platforms
+  - Microlearning apps
 - <span title="Tags: ai-native">AI tutoring 🔥</span>
   - <span title="e.g. Khanmigo.">AI tutors</span>
+  - AI reading coaches
   - Homework help apps
   - AI study tools
 - Test prep &amp; credentials
   - Test prep
   - Professional certifications
   - Micro-credentials
+  - <span title="Tags: b2b">Credential verification</span>
+  - <span title="Tags: b2b">Online proctoring</span>
 - Language learning
   - <span title="e.g. Duolingo.">Language apps</span>
+  - <span title="Tags: ai-native">AI language tutors</span>
   - Conversation practice
+  - Workplace English
+  - Heritage-language programs
   - Immersion programs
 - K-12 &amp; alternatives
   - Homeschooling
@@ -1215,13 +1223,20 @@ markmap:
   - After-school programs
 - Higher education
   - College admissions
-  - Student services
+  - Financial-aid navigation
   - Online degrees
+  - Transfer &amp; credit mapping
+  - Student services
+  - Campus mental health
   - Bootcamps
 - <span title="Tags: b2b">School EdTech</span>
   - Teacher tools
-  - School management
+  - <span title="Tags: ai-native">Lesson-planning AI</span>
   - <span title="Tags: ai-native">AI grading &amp; assessment</span>
+  - Curriculum marketplaces
+  - School management
+  - Parent-school communication
+  - Academic-integrity tools
 ### Creativity &amp; Craft
 - Writing
   - Writing tools
@@ -1272,15 +1287,19 @@ markmap:
 - Job search
   - Career planning
   - Job boards
-  - Interview preparation
   - Resume tools
   - <span title="Tags: ai-native">AI job-application tools</span>
+  - Interview preparation
+  - Salary negotiation tools
 - <span title="Covers communication, project management, data, software, sales, cybersecurity and AI skills.">Upskilling</span>
   - AI upskilling 🔥
   - Leadership development
+  - Manager training
   - Technical upskilling
   - Sales training
+  - <span title="Employer-paid tuition, e.g. Guild. | Tags: b2b">Education-benefit platforms</span>
 - Career transitions
+  - Career coaching
   - Career switching
   - <span title="Career re-entry, e.g. for caregivers. | Tags: underserved">Returnships</span>
   - <span title="Tags: underserved">Veterans' transition</span>
@@ -1288,52 +1307,87 @@ markmap:
 - <span title="Tags: underserved">Inclusive employment</span>
   - <span title="e.g. autism-hiring programs.">Neurodivergent hiring</span>
   - Disability employment
+  - Workplace accommodations tools
+  - Older-worker hiring
+  - Refugee &amp; immigrant employment
   - Second-chance hiring
 - <span title="See also: Wealth &gt; Entrepreneurship &gt; Small business &gt; Skilled-trades businesses">Skilled trades careers ↗</span>
   - Trade schools
   - Apprenticeship marketplaces
   - Licensing exam prep
+  - Trade job boards
+  - Trades continuing education
 - <span title="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
   - Remote job boards
+  - Flexible &amp; part-time jobs
   - Contract work
+  - Interim management
   - Executive search
 - Professional networking
   - Professional communities
   - Networking events
   - Mentorship platforms
+  - Personal branding tools
+  - Warm-intro tools
+- Workplace navigation
+  - Employer reviews
+  - Salary data platforms
+  - <span title="Parental, medical and caregiving leave.">Leave navigation</span>
+  - <span title="Tags: regulated">Employment-law help</span>
 ## <span title="Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around.">Lifestyle, Home &amp; Experiences</span>
 ### Travel &amp; Adventure
 - Trip planning
   - <span title="e.g. Mindtrip. | Tags: ai-native">AI trip planners</span>
   - Booking &amp; deals
   - Itinerary apps
+  - Group trip planning
+  - Creator travel guides
   - Travel rewards
 - Experiential travel
   - Adventure tours
   - Expedition travel
+  - Culinary travel
+  - Cultural &amp; heritage tours
+  - Sports &amp; event travel
   - Experiences marketplaces
 - <span title="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Living arrangements &gt; Coliving | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; International &amp; expat tax">Digital nomadism ↗</span>
   - Nomad visas
   - <span title="e.g. Nomad List.">Nomad communities</span>
+  - Coworking passes
+  - Remote-work retreats
   - Nomad insurance
 - <span title="See also: Care &amp; Conditions &gt; Care Delivery &gt; Patient navigation &gt; Medical tourism">Wellness travel ↗</span>
   - Wellness retreats
+  - Fitness retreats
+  - Longevity retreats
   - Sleep tourism
   - Spa &amp; thermal travel
 - Traveler segments
   - Solo travel
   - Family travel
   - Group travel
+  - Senior travel
+  - LGBTQ+ travel
   - <span title="Tags: underserved">Accessible travel</span>
 - Sustainable tourism
   - Eco-lodges
   - Low-carbon travel
   - Community-based tourism
+  - <span title="Ethical concerns about some programs; vet impact claims.">Voluntourism</span>
+  - <span title="Tags: b2b">Overtourism management</span>
 - Road &amp; outdoor travel
   - RV &amp; vanlife
+  - <span title="Peer-to-peer, e.g. Outdoorsy.">RV rentals</span>
   - Overlanding
   - Glamping
   - Campground booking
+  - Road-trip planning
+- <span title="Tags: b2b | See also: Planet &amp; Frontier &gt; Built Environment &gt; Property management &gt; Short-term rental operations">Hospitality tech ↗</span>
+  - Hotel property management
+  - Hotel revenue management
+  - Guest messaging
+  - Direct booking engines
+  - Tour-operator software
 ### Food &amp; Beverage
 - <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods">Meal solutions ↗</span>
   - Meal kits
@@ -1489,19 +1543,30 @@ markmap:
   - Equine care
   - Backyard poultry
   - Aquarium &amp; reptile care
-### Sports &amp; Hobbies
+### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">Sports &amp; Hobbies ↗</span>
 - Racquet sports 🔥
   - <span title="Fastest-growing US sport, 2021-24 (SFIA).">Pickleball</span>
   - Padel
   - Tennis
+  - Indoor pickleball venues
+  - Court booking
+  - Racquet coaching apps
 - Social sports
   - Run clubs 🔥
+  - <span title="e.g. Hyrox.">Fitness racing 🔥</span>
   - Adult rec leagues
+  - Pickup-game apps
   - <span title="e.g. Topgolf, simulators.">Golf entertainment</span>
 - Women's sports 🔥
   - Pro leagues &amp; fandom
+  - Women's sports media
   - Women's sports gear
   - Girls' sports participation
+- Fandom &amp; spectating
+  - Fan engagement apps
+  - Watch-party venues
+  - Amateur sports streaming
+  - <span title="Tags: b2b">Stadium tech</span>
 - Outdoor recreation
   - Hiking &amp; camping
   - Climbing
@@ -1512,15 +1577,20 @@ markmap:
 - Games &amp; puzzles
   - Chess
   - Board games
-  - Puzzles
   - Tabletop RPGs
+  - Puzzles
+  - Word games
+  - Board-game cafes
 - <span title="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">Collecting ↗</span>
   - Trading cards
   - <span title="e.g. StockX.">Sneaker collecting</span>
   - Comics &amp; memorabilia
+  - Coins &amp; stamps
+  - <span title="Live-stream breaks and auctions, e.g. Whatnot.">Live collectible auctions 🔥</span>
   - Grading &amp; authentication
 - Reading
   - <span title="BookTok.">Book discovery</span>
+  - Reading trackers
   - Book clubs
   - Indie bookstores
 ### Entertainment &amp; Events
@@ -1629,22 +1699,48 @@ markmap:
   - Data pipelines
 ### Software &amp; Developer Tools
 - Developer platforms
-  - Open-source commercialization
   - Code hosting
+  - Cloud development environments
   - Developer portals
+  - Package registries
+  - Open-source commercialization
+- <span title="Tags: ai-native | See also: Enterprise &amp; AI &gt; AI Infrastructure &gt; AI agents &gt; Coding agents">AI coding tools 🔥 ↗</span>
+  - AI code editors
+  - AI code review
+  - AI test generation
+  - Code modernization AI
 - No-code &amp; low-code
   - App builders
   - Internal-tool builders
+  - <span title="e.g. Airtable.">Spreadsheet-database builders</span>
   - <span title="&#x27;Vibe coding.&#x27; | Tags: ai-native">AI app generators 🔥</span>
   - Workflow builders
+- Testing &amp; quality
+  - Test automation
+  - Mobile app testing
+  - Load testing
+  - Feature flags &amp; experimentation
 - DevOps &amp; observability
-  - Observability
   - CI/CD
+  - Infrastructure as code
+  - Observability
+  - Error monitoring
   - Incident management
   - Cloud cost management
+- Hosting &amp; compute
+  - App hosting
+  - Serverless functions
+  - Edge compute
+- <span title="See also: Enterprise &amp; AI &gt; AI Infrastructure &gt; Data infrastructure">Databases ↗</span>
+  - Managed databases
+  - Serverless databases
+  - Analytics engineering tools
+  - Data observability
 - API economy
   - API marketplaces
   - API management
+  - SDK generation
+  - Webhook infrastructure
   - Integration platforms
 ### Cybersecurity &amp; Trust
 - Identity &amp; zero trust

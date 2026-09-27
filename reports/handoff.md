@@ -1,5 +1,41 @@
 # Handoff
 
+## v8: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v7 | v8 | What changed |
+|---|---|---|---|
+| Mind › Learning & Education | 8 / 29 / 5 | 8 / 44 / 0 | Masterclass and microlearning platforms, AI reading coaches, credential verification, online proctoring, AI language tutors, workplace English, financial-aid navigation, campus mental health, lesson-planning AI, curriculum marketplaces |
+| Mind › Career Development | 7 / 25 / 4 | 8 / 42 / 0 | New Workplace navigation (employer reviews, salary data, leave navigation, employment-law help). Salary negotiation, manager training, education-benefit platforms, career coaching, older-worker and refugee employment, warm-intro tools |
+| Lifestyle › Travel & Adventure | 7 / 24 / 4 | 8 / 44 / 0 | New Hospitality tech (audit gap from Phase 1). Group trip planning, culinary and heritage travel, coworking passes, longevity retreats, senior and LGBTQ+ travel, voluntourism (ethics note), RV rentals |
+| Lifestyle › Sports & Hobbies | 7 / 26 / 4 | 8 / 41 / 0 | New Fandom & spectating. Court booking, fitness racing (trending), pickup-game apps, women's sports media, word games, board-game cafes, live collectible auctions (trending), reading trackers |
+| Enterprise › Software & Developer Tools | 4 / 14 / 2 | 8 / 36 / 1 | New AI coding tools, Testing & quality, Hosting & compute and Databases. Cloud dev environments, package registries, infrastructure as code, error monitoring, SDK generation, webhooks |
+
+Overall: 2,222 → 2,318 nodes; subcategories at the 3-leaf minimum 71 → 53 (of 395); cross-references 68 → 72.
+No pillar or category was added or removed, and nothing was cut or renamed. Every version (v0–v7) reconciles with 0 unaccounted.
+
+### How much is left
+
+Of the 63 categories:
+- **30** have no subcategory at the 3-leaf minimum.
+- **26** have a minority of thin subcategories.
+- **7** are still weak (half or more of their subcategories at the minimum).
+
+That leaves **2 more rounds**: v9 with five categories, then v10 with the last two. v10 could also do a one-pass sweep of the remaining thin subcategories.
+
+### Next weakest (for v9)
+
+1. **Relationships › Intimacy & Sexuality**: 2 of 4 at the minimum, 14 leaves.
+2. **Care › Care Delivery**: 2 of 4, 15 leaves.
+3. **Wealth › Tax & Legal**: 2 of 4, 15 leaves.
+4. **Care › Brain & Neurological Health**: 2 of 4, 16 leaves.
+5. **Lifestyle › Fashion & Beauty**: 3 of 6.
+
+Then for v10: **Home & Living** and **Entertainment & Events** (4 of 8 each).
+
+---
+
 ## v7: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.

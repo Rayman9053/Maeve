@@ -10,6 +10,10 @@ startup markets.
 
 Format: `node name` (old location): reason.
 
+## v8
+
+No nodes cut.
+
 ## v7
 
 No nodes cut.

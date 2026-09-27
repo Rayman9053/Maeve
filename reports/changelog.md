@@ -1,5 +1,61 @@
 # Changelog
 
+## v8: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v7.yaml`. The branches were the ones named in `reports/handoff.md` (v7). No pillar or
+category was added or removed, no nodes were cut, and no existing node was renamed. Every subcategory in
+these branches now has 3–7 specific leaves, and seven subcategories are new. The additions are listed below.
+
+| Old location (v7) | Before | After | Reason |
+|---|---|---|---|
+| Career Development | (none) | `Workplace navigation` | Gap fill: employer reviews, salary data, leave navigation, employment-law help |
+| Travel & Adventure | (none) | `Hospitality tech` | Gap fill from the Phase 1 audit (travel and hospitality B2B tech was never added); cross-referenced to Short-term rental operations |
+| Sports & Hobbies | (none) | `Fandom & spectating` | Gap fill: fan engagement, watch parties, amateur sports streaming, stadium tech |
+| Sports & Hobbies | (no cross-ref) | `see:` → `Youth sports` | Youth sports lives in Fitness & Recovery |
+| Software & Developer Tools | (none) | `AI coding tools` · `Testing & quality` · `Hosting & compute` · `Databases` | Gap fill: core developer-tool markets were missing; cross-referenced to `Coding agents` and `Data infrastructure` |
+
+<!-- ADDITIONS:v8:START -->
+89 added nodes.
+
+- **Mind, Meaning & Growth › Learning & Education › Online learning**: Masterclass platforms · Microlearning apps
+- **Mind, Meaning & Growth › Learning & Education › AI tutoring**: AI reading coaches
+- **Mind, Meaning & Growth › Learning & Education › Test prep & credentials**: Credential verification · Online proctoring
+- **Mind, Meaning & Growth › Learning & Education › Language learning**: AI language tutors · Workplace English · Heritage-language programs
+- **Mind, Meaning & Growth › Learning & Education › Higher education**: Financial-aid navigation · Transfer & credit mapping · Campus mental health
+- **Mind, Meaning & Growth › Learning & Education › School EdTech**: Lesson-planning AI · Curriculum marketplaces · Parent-school communication · Academic-integrity tools
+- **Mind, Meaning & Growth › Career Development › Job search**: Salary negotiation tools
+- **Mind, Meaning & Growth › Career Development › Upskilling**: Manager training · Education-benefit platforms
+- **Mind, Meaning & Growth › Career Development › Career transitions**: Career coaching
+- **Mind, Meaning & Growth › Career Development › Inclusive employment**: Workplace accommodations tools · Older-worker hiring · Refugee & immigrant employment
+- **Mind, Meaning & Growth › Career Development › Skilled trades careers**: Trade job boards · Trades continuing education
+- **Mind, Meaning & Growth › Career Development › Work arrangements**: Flexible & part-time jobs · Interim management
+- **Mind, Meaning & Growth › Career Development › Professional networking**: Personal branding tools · Warm-intro tools
+- **Mind, Meaning & Growth › Career Development › Workplace navigation**: Employer reviews · Salary data platforms · Leave navigation · Employment-law help
+- **Lifestyle, Home & Experiences › Travel & Adventure › Trip planning**: Group trip planning · Creator travel guides
+- **Lifestyle, Home & Experiences › Travel & Adventure › Experiential travel**: Culinary travel · Cultural & heritage tours · Sports & event travel
+- **Lifestyle, Home & Experiences › Travel & Adventure › Digital nomadism**: Coworking passes · Remote-work retreats
+- **Lifestyle, Home & Experiences › Travel & Adventure › Wellness travel**: Fitness retreats · Longevity retreats
+- **Lifestyle, Home & Experiences › Travel & Adventure › Traveler segments**: Senior travel · LGBTQ+ travel
+- **Lifestyle, Home & Experiences › Travel & Adventure › Sustainable tourism**: Voluntourism · Overtourism management
+- **Lifestyle, Home & Experiences › Travel & Adventure › Road & outdoor travel**: RV rentals · Road-trip planning
+- **Lifestyle, Home & Experiences › Travel & Adventure › Hospitality tech**: Hotel property management · Hotel revenue management · Guest messaging · Direct booking engines · Tour-operator software
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Racquet sports**: Indoor pickleball venues · Court booking · Racquet coaching apps
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Social sports**: Fitness racing · Pickup-game apps
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Women's sports**: Women's sports media
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Fandom & spectating**: Fan engagement apps · Watch-party venues · Amateur sports streaming · Stadium tech
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Games & puzzles**: Word games · Board-game cafes
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Collecting**: Coins & stamps · Live collectible auctions
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Reading**: Reading trackers
+- **Enterprise & AI › Software & Developer Tools › Developer platforms**: Cloud development environments · Package registries
+- **Enterprise & AI › Software & Developer Tools › AI coding tools**: AI code editors · AI code review · AI test generation · Code modernization AI
+- **Enterprise & AI › Software & Developer Tools › No-code & low-code**: Spreadsheet-database builders
+- **Enterprise & AI › Software & Developer Tools › Testing & quality**: Test automation · Mobile app testing · Load testing · Feature flags & experimentation
+- **Enterprise & AI › Software & Developer Tools › DevOps & observability**: Infrastructure as code · Error monitoring
+- **Enterprise & AI › Software & Developer Tools › Hosting & compute**: App hosting · Serverless functions · Edge compute
+- **Enterprise & AI › Software & Developer Tools › Databases**: Managed databases · Serverless databases · Analytics engineering tools · Data observability
+- **Enterprise & AI › Software & Developer Tools › API economy**: SDK generation · Webhook infrastructure
+<!-- ADDITIONS:v8:END -->
+
 ## v7: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v6.yaml`. The branches were the ones named in `reports/handoff.md` (v6). No pillar or

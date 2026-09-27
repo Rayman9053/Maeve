@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**2,222 nodes**: 8 pillars · 63 categories · 388 subcategories · 1763 leaves.
+**2,318 nodes**: 8 pillars · 63 categories · 395 subcategories · 1852 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -1367,17 +1367,25 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - MOOCs: *e.g. Coursera.*
   - Course marketplaces: *e.g. Udemy.*
   - Cohort-based courses
+  - Masterclass platforms
+  - Microlearning apps
 - **AI tutoring 🔥** `ai-native`
   - AI tutors: *e.g. Khanmigo.*
+  - AI reading coaches
   - Homework help apps
   - AI study tools
 - **Test prep & credentials**
   - Test prep
   - Professional certifications
   - Micro-credentials
+  - Credential verification `b2b`
+  - Online proctoring `b2b`
 - **Language learning**
   - Language apps: *e.g. Duolingo.*
+  - AI language tutors `ai-native`
   - Conversation practice
+  - Workplace English
+  - Heritage-language programs
   - Immersion programs
 - **K-12 & alternatives**
   - Homeschooling
@@ -1393,13 +1401,20 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - After-school programs
 - **Higher education**
   - College admissions
-  - Student services
+  - Financial-aid navigation
   - Online degrees
+  - Transfer & credit mapping
+  - Student services
+  - Campus mental health
   - Bootcamps
 - **School EdTech** `b2b`
   - Teacher tools
-  - School management
+  - Lesson-planning AI `ai-native`
   - AI grading & assessment `ai-native`
+  - Curriculum marketplaces
+  - School management
+  - Parent-school communication
+  - Academic-integrity tools
 
 ### Creativity & Craft
 
@@ -1454,15 +1469,19 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Job search**
   - Career planning
   - Job boards
-  - Interview preparation
   - Resume tools
   - AI job-application tools `ai-native`
+  - Interview preparation
+  - Salary negotiation tools
 - **Upskilling**: *Covers communication, project management, data, software, sales, cybersecurity and AI skills.*
   - AI upskilling 🔥
   - Leadership development
+  - Manager training
   - Technical upskilling
   - Sales training
+  - Education-benefit platforms `b2b`: *Employer-paid tuition, e.g. Guild.*
 - **Career transitions**
+  - Career coaching
   - Career switching
   - Returnships `underserved`: *Career re-entry, e.g. for caregivers.*
   - Veterans' transition `underserved`
@@ -1470,21 +1489,35 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Inclusive employment** `underserved`
   - Neurodivergent hiring: *e.g. autism-hiring programs.*
   - Disability employment
+  - Workplace accommodations tools
+  - Older-worker hiring
+  - Refugee & immigrant employment
   - Second-chance hiring
 - **Skilled trades careers**
   - ↗ *see* Wealth > Entrepreneurship > Small business > Skilled-trades businesses
   - Trade schools
   - Apprenticeship marketplaces
   - Licensing exam prep
+  - Trade job boards
+  - Trades continuing education
 - **Work arrangements**
   - ↗ *see* Wealth > Entrepreneurship > Freelancing & fractional
   - Remote job boards
+  - Flexible & part-time jobs
   - Contract work
+  - Interim management
   - Executive search
 - **Professional networking**
   - Professional communities
   - Networking events
   - Mentorship platforms
+  - Personal branding tools
+  - Warm-intro tools
+- **Workplace navigation**
+  - Employer reviews
+  - Salary data platforms
+  - Leave navigation: *Parental, medical and caregiving leave.*
+  - Employment-law help `regulated`
 ---
 
 ## Lifestyle, Home & Experiences
@@ -1498,36 +1531,58 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - AI trip planners `ai-native`: *e.g. Mindtrip.*
   - Booking & deals
   - Itinerary apps
+  - Group trip planning
+  - Creator travel guides
   - Travel rewards
 - **Experiential travel**
   - Adventure tours
   - Expedition travel
+  - Culinary travel
+  - Cultural & heritage tours
+  - Sports & event travel
   - Experiences marketplaces
 - **Digital nomadism**
   - ↗ *see* Lifestyle, Home & Experiences > Home & Living > Living arrangements > Coliving
   - ↗ *see* Wealth > Tax & Legal > Tax planning > International & expat tax
   - Nomad visas
   - Nomad communities: *e.g. Nomad List.*
+  - Coworking passes
+  - Remote-work retreats
   - Nomad insurance
 - **Wellness travel**
   - ↗ *see* Care & Conditions > Care Delivery > Patient navigation > Medical tourism
   - Wellness retreats
+  - Fitness retreats
+  - Longevity retreats
   - Sleep tourism
   - Spa & thermal travel
 - **Traveler segments**
   - Solo travel
   - Family travel
   - Group travel
+  - Senior travel
+  - LGBTQ+ travel
   - Accessible travel `underserved`
 - **Sustainable tourism**
   - Eco-lodges
   - Low-carbon travel
   - Community-based tourism
+  - Voluntourism: *Ethical concerns about some programs; vet impact claims.*
+  - Overtourism management `b2b`
 - **Road & outdoor travel**
   - RV & vanlife
+  - RV rentals: *Peer-to-peer, e.g. Outdoorsy.*
   - Overlanding
   - Glamping
   - Campground booking
+  - Road-trip planning
+- **Hospitality tech** `b2b`
+  - ↗ *see* Planet & Frontier > Built Environment > Property management > Short-term rental operations
+  - Hotel property management
+  - Hotel revenue management
+  - Guest messaging
+  - Direct booking engines
+  - Tour-operator software
 
 ### Food & Beverage
 
@@ -1702,18 +1757,31 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Sports & Hobbies
 
+↗ *see* Health & Wellness > Fitness & Recovery > Youth sports  
+
 - **Racquet sports 🔥**
   - Pickleball: *Fastest-growing US sport, 2021-24 (SFIA).*
   - Padel
   - Tennis
+  - Indoor pickleball venues
+  - Court booking
+  - Racquet coaching apps
 - **Social sports**
   - Run clubs 🔥
+  - Fitness racing 🔥: *e.g. Hyrox.*
   - Adult rec leagues
+  - Pickup-game apps
   - Golf entertainment: *e.g. Topgolf, simulators.*
 - **Women's sports 🔥**
   - Pro leagues & fandom
+  - Women's sports media
   - Women's sports gear
   - Girls' sports participation
+- **Fandom & spectating**
+  - Fan engagement apps
+  - Watch-party venues
+  - Amateur sports streaming
+  - Stadium tech `b2b`
 - **Outdoor recreation**
   - Hiking & camping
   - Climbing
@@ -1724,16 +1792,21 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Games & puzzles**
   - Chess
   - Board games
-  - Puzzles
   - Tabletop RPGs
+  - Puzzles
+  - Word games
+  - Board-game cafes
 - **Collecting**
   - ↗ *see* Wealth > Investing & Trading > Alternative investments > Collectible assets
   - Trading cards
   - Sneaker collecting: *e.g. StockX.*
   - Comics & memorabilia
+  - Coins & stamps
+  - Live collectible auctions 🔥: *Live-stream breaks and auctions, e.g. Whatnot.*
   - Grading & authentication
 - **Reading**
   - Book discovery: *BookTok.*
+  - Reading trackers
   - Book clubs
   - Indie bookstores
 
@@ -1857,22 +1930,50 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ### Software & Developer Tools
 
 - **Developer platforms**
-  - Open-source commercialization
   - Code hosting
+  - Cloud development environments
   - Developer portals
+  - Package registries
+  - Open-source commercialization
+- **AI coding tools 🔥** `ai-native`
+  - ↗ *see* Enterprise & AI > AI Infrastructure > AI agents > Coding agents
+  - AI code editors
+  - AI code review
+  - AI test generation
+  - Code modernization AI
 - **No-code & low-code**
   - App builders
   - Internal-tool builders
+  - Spreadsheet-database builders: *e.g. Airtable.*
   - AI app generators 🔥 `ai-native`: *'Vibe coding.'*
   - Workflow builders
+- **Testing & quality**
+  - Test automation
+  - Mobile app testing
+  - Load testing
+  - Feature flags & experimentation
 - **DevOps & observability**
-  - Observability
   - CI/CD
+  - Infrastructure as code
+  - Observability
+  - Error monitoring
   - Incident management
   - Cloud cost management
+- **Hosting & compute**
+  - App hosting
+  - Serverless functions
+  - Edge compute
+- **Databases**
+  - ↗ *see* Enterprise & AI > AI Infrastructure > Data infrastructure
+  - Managed databases
+  - Serverless databases
+  - Analytics engineering tools
+  - Data observability
 - **API economy**
   - API marketplaces
   - API management
+  - SDK generation
+  - Webhook infrastructure
   - Integration platforms
 
 ### Cybersecurity & Trust
