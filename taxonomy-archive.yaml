@@ -1,0 +1,1177 @@
+# Startup Opportunity Map: archive of low-actionability leaves.
+#
+# Leaves scoring <= 2 on startup-actionability (rubric: scripts/prune.py) were moved here
+# from taxonomy.yaml by `python3 scripts/prune.py --apply`. The structure mirrors their original
+# Pillar > Category > Subcategory location. This file is not validated for child counts and is
+# not built into the mindmaps. To restore a leaf, move it back into taxonomy.yaml, give it a score
+# in data/actionability.csv, then validate and rebuild.
+
+name: Startup Opportunity Map (archive)
+note: "Leaves moved out of taxonomy.yaml by the actionability prune (score <= 2). Scores: data/actionability-archived.csv."
+children:
+  # ───────────────────────────────────────────────────────── 1
+  - name: Health & Wellness
+    note: "Consumer wellness and prevention. Clinical conditions and care delivery live in Care & Conditions."
+    children:
+      - name: Prevention & Diagnostics
+        children:
+          - name: Immunization
+            children:
+              - {name: Adult immunization}
+              - {name: Travel vaccines}
+              - {name: Workplace flu clinics}
+
+      - name: Nutrition & Metabolic Health
+        children:
+          - name: Weight management
+            children:
+              - {name: Fat loss}
+              - {name: Healthy weight gain}
+              - {name: Body recomposition}
+          - name: GLP-1 economy
+            tags: [trending, regulated]
+            note: "The 'Ozempic economy'. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026."
+            children:
+              - {name: Compounded GLP-1s}
+          - name: Personalized nutrition
+            children:
+              - {name: Nutrigenomics}
+          - name: Sports nutrition
+            children:
+              - {name: Competition prep}
+          - name: Special diets
+            children:
+              - {name: Low-carb & keto}
+              - {name: Elimination diets}
+          - name: Supplements
+            tags: [regulated]
+            note: "US claims are governed by DSHEA and FTC rules."
+            children:
+              - {name: Omega-3}
+              - {name: Herbal supplements, note: "Drug-interaction risk."}
+          - name: Clinical nutrition
+            children:
+              - {name: Intuitive eating, note: "Non-clinical approach; distinct from eating-disorder treatment."}
+
+      - name: Fitness & Recovery
+        children:
+          - name: Strength training
+            children:
+              - {name: Weightlifting}
+              - {name: Bodybuilding}
+              - {name: Powerlifting}
+              - {name: Functional strength}
+          - name: Cardio & endurance
+            children:
+              - {name: Swimming}
+              - {name: Walking}
+          - name: Mobility & flexibility
+            children:
+              - {name: Joint mobility}
+          - name: Athletic recovery
+            note: "Evidence for therapeutic claims varies by modality."
+            children:
+              - {name: Float therapy}
+
+      - name: Sleep
+        children:
+          - name: Sleep optimization
+            children:
+              - {name: Bedroom environment}
+          - name: Sleep disorders
+            tags: [regulated]
+            children:
+              - {name: Restless legs}
+              - {name: Circadian rhythm disorders}
+          - name: Sleep products
+            children:
+              - {name: Sleep aids, note: "e.g. melatonin; supplement rules apply."}
+
+      - name: Mental Health
+        children:
+          - name: Anxiety & mood
+            children:
+              - {name: Panic disorder}
+              - {name: Seasonal depression}
+          - name: Stress & burnout
+            children:
+              - {name: Chronic stress}
+              - {name: Relaxation techniques}
+          - name: Therapy access
+            children:
+              - {name: Sliding-scale clinics, tags: [underserved]}
+
+      - name: Sexual & Reproductive Health
+        children:
+          - name: Contraception
+            children:
+              - {name: Emergency contraception}
+          - name: Sexual health services
+            children:
+              - {name: STI prevention}
+
+      - name: Aging & Longevity
+        children:
+          - name: Healthy aging
+            children:
+              - {name: Senior nutrition}
+          - name: Longevity medicine
+            tags: [trending]
+            children:
+              - {name: Off-label longevity drugs, tags: [regulated], note: "e.g. rapamycin, metformin. Human evidence for longevity use is limited."}
+              - {name: Regenerative medicine, tags: [regulated], note: "Unapproved stem-cell clinics have drawn FDA warnings."}
+          - name: Biohacking
+            children:
+              - {name: HRV tracking}
+              - {name: Wearable stacks}
+              - {name: Self-experiment platforms}
+              - {name: Biohacker communities}
+          - name: Senior living
+            children:
+              - {name: Active-adult communities}
+  # ───────────────────────────────────────────────────────── 2
+  - name: Care & Conditions
+    note: "Clinical conditions, specialty and population-specific care, care delivery and health-system technology."
+    children:
+      - name: Chronic Conditions
+        children:
+          - name: Autoimmune disease
+            children:
+              - {name: Lupus}
+              - {name: Multiple sclerosis}
+          - name: Digestive health
+            children:
+              - {name: GERD}
+          - name: Respiratory & allergy
+            children:
+              - {name: Seasonal allergies}
+
+      - name: Pain & Musculoskeletal
+        children:
+          - name: Back & neck
+            children:
+              - {name: Sciatica}
+              - {name: Posture}
+              - {name: Tech neck}
+              - {name: Cervical pain}
+          - name: Joint & bone health
+            children:
+              - {name: Knee pain}
+              - {name: Hip pain}
+              - {name: Shoulder pain}
+          - name: Foot & ankle care
+            children:
+              - {name: Plantar fasciitis}
+          - name: Chronic pain
+            children:
+              - {name: Pain-tracking apps}
+
+      - name: Brain & Neurological Health
+        children:
+          - name: Brain health & prevention
+            children:
+              - {name: Brain-health coaching}
+              - {name: Nootropics, tags: [regulated], note: "Weak evidence for most cognitive-enhancement claims."}
+          - name: Consumer neurotech
+            children:
+              - {name: Brain-training apps}
+
+      - name: Specialty Care
+        children:
+          - name: Dental & oral health
+            children:
+              - {name: Oral microbiome}
+          - name: Vision
+            children:
+              - {name: Contact lenses}
+          - name: Medical aesthetics
+            tags: [regulated]
+            note: "Physician-supervision and corporate-practice rules vary by US state."
+            children:
+              - {name: IV hydration}
+
+      - name: Population-Specific Care
+        children:
+          - name: LGBTQ+ health
+            tags: [regulated]
+            note: "Legal status of gender-affirming care varies by jurisdiction and age."
+            children:
+              - {name: Trans-inclusive provider directories}
+          - name: Rural & underserved care
+            tags: [underserved]
+            children:
+              - {name: Refugee health navigation}
+
+      - name: Care Delivery
+        children:
+          - name: Primary & urgent care
+            children:
+              - {name: Retail clinics}
+          - name: Pharmacy
+            tags: [regulated]
+            children:
+              - {name: Compounding pharmacies}
+          - name: Patient navigation
+            children:
+              - {name: Medical tourism, see: ["Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel"]}
+          - name: Emergency care
+            children:
+              - {name: ER triage & wait-time apps}
+              - {name: Air ambulance memberships, note: "Consumer-protection concerns in the US; check coverage claims."}
+
+      - name: Health Technology
+        tags: [b2b]
+        note: "Software and devices sold to providers, payers and life-science companies."
+        children:
+          - name: Health data infrastructure
+            children:
+              - {name: EHR}
+          - name: Healthcare workforce
+            children:
+              - {name: Clinician burnout tools}
+
+      - name: Integrative Medicine
+        note: "Evidence bases vary widely. Marketing claims face FTC/FDA scrutiny."
+        children:
+          - name: Whole systems
+            children:
+              - {name: Ayurveda}
+              - {name: Traditional Chinese Medicine}
+              - {name: Unani}
+              - {name: Indigenous medicine}
+              - {name: Naturopathy, tags: [regulated], note: "Licensure and scope vary by jurisdiction."}
+              - {name: Homeopathy, tags: [regulated], note: "Scientific consensus finds no effect beyond placebo; understand the category before entering."}
+          - name: Herbal medicine
+            note: "Drug-interaction risk; botanical claims are regulated."
+            children:
+              - {name: Clinical herbalism}
+              - {name: Herbal apothecaries}
+              - {name: Herbalism education}
+          - name: Manual therapies
+            children:
+              - {name: Reflexology, note: "Limited evidence for therapeutic claims."}
+              - {name: Cupping & gua sha}
+          - name: Energy & movement practices
+            note: "Limited evidence for therapeutic claims. Qigong and tai chi have support as gentle exercise."
+            children:
+              - {name: Reiki}
+              - {name: Qigong}
+              - {name: Tai chi}
+  # ───────────────────────────────────────────────────────── 3
+  - name: Wealth
+    note: "Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise & AI."
+    children:
+      - name: Money Management
+        tags: [consumer]
+        children:
+          - name: Budgeting
+            children:
+              - {name: Zero-based budgeting}
+              - {name: Household cash flow}
+          - name: Saving
+            children:
+              - {name: Emergency funds}
+              - {name: Goal-based saving}
+          - name: Debt management
+            tags: [regulated]
+            children:
+              - {name: Debt settlement, note: "FTC Telemarketing Sales Rule; frequent enforcement."}
+          - name: Credit
+            children:
+              - {name: Credit repair, tags: [regulated], note: "Governed by the US Credit Repair Organizations Act."}
+              - {name: Credit monitoring}
+
+      - name: Banking & Payments
+        children:
+          - name: Consumer payments
+            children:
+              - {name: P2P payments}
+              - {name: Digital wallets}
+          - name: Consumer lending
+            tags: [regulated]
+            children:
+              - {name: Auto loans}
+              - {name: Loan marketplaces}
+          - name: Financial inclusion
+            tags: [underserved]
+            children:
+              - {name: Microloans}
+
+      - name: Investing & Trading
+        children:
+          - name: Public markets
+            children:
+              - {name: Stock investing, note: "Dividend, growth, value and small-cap."}
+              - {name: Bonds, note: "Government, corporate and municipal."}
+              - {name: Index funds & ETFs}
+              - {name: Active & sector funds}
+          - name: Automated investing
+            children:
+              - {name: Robo-advisors, note: "e.g. Betterment, Wealthfront."}
+              - {name: Micro-investing}
+          - name: Alternative investments
+            tags: [regulated]
+            note: "Retail access is governed by securities law (Reg A/CF, accreditation)."
+            children:
+              - {name: Private equity & VC}
+              - {name: Commodities & precious metals}
+              - {name: Farmland, note: "e.g. AcreTrader."}
+          - name: Active trading
+            tags: [regulated]
+            note: "Retail loss rates are high."
+            children:
+              - {name: Day & swing trading, note: "Includes momentum trading."}
+              - {name: Options trading, note: "Covered calls, income, volatility, hedging."}
+              - {name: Futures, note: "Commodity, index and currency futures."}
+              - {name: Retail forex}
+          - name: Trading platforms
+            tags: [regulated]
+            children:
+              - {name: Prop firms, note: "Funded accounts. Regulatory status is unsettled: the CFTC's case against My Forex Funds was dismissed in 2025 with sanctions against the agency."}
+              - {name: Copy trading, note: "e.g. eToro."}
+              - {name: Trading simulators}
+
+      - name: Housing & Real Estate
+        children:
+          - name: Homebuying
+            children:
+              - {name: Home search}
+          - name: Renting
+            children:
+              - {name: Rental search}
+          - name: Real estate investing
+            children:
+              - {name: Commercial property}
+              - {name: REITs}
+              - {name: House flipping}
+              - {name: Real estate crowdfunding, tags: [regulated]}
+          - name: Home equity
+            tags: [regulated]
+            children:
+              - {name: HELOCs}
+
+      - name: Retirement & Wealth Planning
+        children:
+          - name: Retirement planning
+            children:
+              - {name: Pension planning}
+              - {name: Early retirement & FIRE}
+          - name: Retirement accounts
+            children:
+              - {name: Annuities, tags: [regulated]}
+              - {name: Income portfolios}
+          - name: Wealth management
+            tags: [regulated]
+            children:
+              - {name: Financial advisors}
+              - {name: Asset protection, note: "Liability planning and asset-protection trusts."}
+          - name: Estate planning
+            children:
+              - {name: Beneficiary planning}
+
+      - name: Insurance
+        tags: [regulated]
+        note: "State-licensed in the US. Every insurance line lives here; other branches cross-reference it."
+        children:
+          - name: Life insurance
+            children:
+              - {name: Term life}
+              - {name: Whole life}
+              - {name: Universal life}
+          - name: Health & benefits
+            children:
+              - {name: Family plans}
+          - name: Property & casualty
+            children:
+              - {name: Renters insurance}
+              - {name: Umbrella policies}
+          - name: Specialty lines
+            children:
+              - {name: Travel insurance}
+
+      - name: Tax & Legal
+        children:
+          - name: Tax planning
+            children:
+              - {name: Capital gains}
+          - name: Tax preparation
+            children:
+              - {name: DIY filing software}
+          - name: Consumer legal services
+            tags: [regulated]
+            note: "Unauthorized-practice-of-law rules apply."
+            children:
+              - {name: Prepaid legal plans}
+          - name: Immigration services
+            tags: [underserved, regulated]
+            note: "Needs attorneys or DOJ-accredited representatives. 'Notario fraud' is a known risk."
+            children:
+              - {name: Asylum legal aid}
+
+      - name: Entrepreneurship
+        children:
+          - name: Starting a business
+            children:
+              - {name: Business planning}
+          - name: Small business
+            children:
+              - {name: Retail shops}
+          - name: Online business
+            children:
+              - {name: Affiliate marketing}
+          - name: Creator economy
+            children:
+              - {name: YouTube}
+          - name: Freelancing & fractional
+            children:
+              - {name: Copywriting}
+          - name: Agencies
+            children:
+              - {name: SEO}
+              - {name: Advertising}
+  # ───────────────────────────────────────────────────────── 4
+  - name: Relationships
+    note: "Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health & Wellness."
+    children:
+      - name: Dating
+        children:
+          - name: Dating platforms
+            children:
+              - {name: Swipe apps}
+              - {name: Profile photography}
+          - name: Dating coaching
+            note: "Covers first dates, conversation, flirting and confidence."
+            children:
+              - {name: Dating courses}
+              - {name: Image consulting}
+          - name: Matchmaking & events
+            children:
+              - {name: International matchmaking}
+          - name: Niche dating
+            children:
+              - {name: Intercultural dating}
+
+      - name: Couples & Marriage
+        children:
+          - name: Premarital
+            children:
+              - {name: Compatibility assessments}
+          - name: Marriage enrichment
+            children:
+              - {name: Anniversary experiences}
+              - {name: Vow renewals}
+          - name: Long-distance relationships
+            children:
+              - {name: LDR care packages}
+              - {name: Visit planning}
+          - name: Relationship repair
+            note: "Covers jealousy, insecurity, resentment and recurring conflict."
+            children:
+              - {name: Trust rebuilding}
+          - name: Couples communities
+            note: "Support for couples in specific situations."
+            children:
+              - {name: Intercultural couples}
+              - {name: LGBTQ+ couples}
+              - {name: Caregiver couples}
+
+      - name: Intimacy & Sexuality
+        note: "Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health & Wellness > Sexual & Reproductive Health."
+        children:
+          - name: Therapy & coaching
+            children:
+              - {name: Sex-therapist certification, tags: [b2b]}
+          - name: Couples intimacy
+            children:
+              - {name: Intimacy challenges}
+              - {name: Intimacy retreats}
+          - name: Life-stage intimacy
+            children:
+              - {name: Later-life intimacy}
+          - name: Desire & communication
+            children:
+              - {name: Sexual-communication courses}
+
+      - name: Breakups & Divorce
+        children:
+          - name: Breakup support
+            note: "Covers emotional recovery, no-contact and rebuilding confidence."
+            children:
+              - {name: Heartbreak programs}
+              - {name: No-contact apps}
+              - {name: Breakup support communities}
+          - name: Divorce finance
+            children:
+              - {name: Support calculators, note: "Child and spousal support."}
+          - name: Co-parenting
+            children:
+              - {name: Parallel parenting support}
+          - name: Life after divorce
+            children:
+              - {name: Dating after divorce}
+              - {name: Divorce support groups}
+              - {name: Social rebuilding}
+              - {name: Personal reinvention}
+
+      - name: Parenting & Family
+        children:
+          - name: Parenting stages
+            children:
+              - {name: Toddlers}
+              - {name: School-age kids}
+              - {name: Adult children}
+          - name: Family structures
+            children:
+              - {name: Blended families, tags: [underserved]}
+              - {name: Multigenerational households}
+          - name: Extended family
+            note: "Covers family boundaries and sibling conflict."
+            children:
+              - {name: In-law relationships}
+              - {name: Grandparenting}
+              - {name: Adult siblings}
+
+      - name: Friendship & Community
+        children:
+          - name: Making friends
+            note: "Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups."
+            children:
+              - {name: Online friendship communities}
+          - name: Loneliness & connection
+            tags: [underserved]
+            note: "US Surgeon General advisory on loneliness, 2023."
+            children:
+              - {name: Warmlines, note: "Non-crisis peer phone lines."}
+          - name: Clubs & groups
+            children:
+              - {name: Hobby clubs}
+              - {name: Fandom communities}
+              - {name: Local community groups}
+          - name: Community platforms
+            children:
+              - {name: Group chat communities}
+              - {name: Neighborhood networks}
+              - {name: Mutual-aid platforms}
+
+      - name: Social Skills
+        note: "Interpersonal skills training sold as coaching, courses, apps and corporate programs."
+        children:
+          - name: Communication training
+            children:
+              - {name: Body-language coaching}
+          - name: Public speaking & presence
+            children:
+              - {name: Speaking clubs, note: "e.g. the Toastmasters model."}
+              - {name: Shyness programs}
+
+      - name: Death, Grief & Legacy
+        tags: [underserved]
+        note: "'Death tech.'"
+        children:
+          - name: Memorialization
+            children:
+              - {name: Livestreamed services}
+          - name: Grief support
+            children:
+              - {name: Grief support groups}
+  # ───────────────────────────────────────────────────────── 5
+  - name: Mind, Meaning & Growth
+    note: "Contemplative practice, meaning, personal development, learning, creativity and career growth."
+    children:
+      - name: Contemplative Practice
+        children:
+          - name: Meditation
+            children:
+              - {name: Meditation apps, note: "e.g. Calm, Headspace."}
+              - {name: Meditation teacher training}
+          - name: Breathwork
+            children:
+              - {name: Breathwork facilitators}
+              - {name: Breathwork certification}
+              - {name: Breath coaching for athletes}
+          - name: Journaling & reflection
+            children:
+              - {name: Gratitude apps}
+              - {name: Printed guided journals}
+              - {name: Guided reflection programs}
+          - name: Somatics & embodiment
+            children:
+              - {name: Somatic practices}
+              - {name: Embodiment coaching}
+              - {name: Ecstatic dance}
+          - name: Nature practices
+            children:
+              - {name: Forest bathing}
+              - {name: Nature-therapy programs}
+              - {name: Mindful hiking groups}
+          - name: Digital wellness
+            children:
+              - {name: Digital detox retreats}
+
+      - name: Spirituality & Faith
+        note: "Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths."
+        children:
+          - name: Prayer & scripture
+            note: "e.g. Hallow."
+            children:
+              - {name: Sermons & religious audio}
+          - name: Spiritual guidance
+            children:
+              - {name: Spiritual direction}
+              - {name: Pilgrimages & retreats}
+              - {name: Interfaith communities}
+          - name: Modern spirituality
+            children:
+              - {name: Tarot & divination}
+              - {name: Manifestation apps}
+              - {name: Sound baths & ceremonies}
+              - {name: Spiritual retail}
+          - name: Philosophy & Stoicism
+            children:
+              - {name: Stoicism apps}
+              - {name: Philosophy courses}
+              - {name: Philosophy media, note: "Newsletters, podcasts, YouTube."}
+              - {name: Secular communities}
+
+      - name: Purpose & Life Transitions
+        note: "Guidance on direction and life stages. Self-directed growth products live in Personal Development."
+        children:
+          - name: Self-discovery
+            children:
+              - {name: Attachment-style assessments}
+              - {name: Purpose programs, note: "Includes ikigai-style programs."}
+          - name: Life-stage transitions
+            children:
+              - {name: Quarter-life coaching}
+              - {name: Empty-nest programs}
+          - name: Sabbaticals & career breaks
+            children:
+              - {name: Adult gap-year programs}
+              - {name: Career-break communities}
+
+      - name: Personal Development
+        note: "Self-directed growth products: content, programs, experiences and peer groups."
+        children:
+          - name: Self-help content
+            children:
+              - {name: Self-help courses}
+              - {name: Self-help media, note: "Newsletters, podcasts, YouTube."}
+          - name: Inner-work programs
+            note: "Non-clinical. Clinical care lives in Mental Health."
+            children:
+              - {name: Self-esteem programs}
+              - {name: Self-compassion training}
+              - {name: Attachment-healing courses}
+              - {name: Boundaries coaching}
+          - name: Performance & mindset
+            children:
+              - {name: Mindset coaching}
+          - name: Transformational experiences
+            children:
+              - {name: Transformational workshops, note: "Some large-group programs have been criticized for high-pressure sales; vet providers."}
+              - {name: Growth retreats}
+              - {name: Personal-growth festivals}
+          - name: Growth communities
+            children:
+              - {name: Online growth communities}
+
+      - name: Productivity
+        children:
+          - name: Tasks & habits
+            children:
+              - {name: Habit trackers}
+              - {name: To-do apps}
+              - {name: Routine builders}
+          - name: Time management
+            children:
+              - {name: Scheduling links, note: "e.g. Calendly."}
+              - {name: Time-blocking tools}
+              - {name: Focus apps}
+          - name: Knowledge management
+            note: "Second brain / PKM."
+            children:
+              - {name: Personal wikis}
+              - {name: Whiteboards & mind mapping}
+              - {name: Read-later & highlights}
+          - name: ADHD-friendly productivity
+            children:
+              - {name: Visual timers}
+          - name: AI personal assistants
+            tags: [trending, ai-native]
+            children:
+              - {name: Voice assistants}
+
+      - name: Learning & Education
+        children:
+          - name: Online learning
+            children:
+              - {name: MOOCs, note: "e.g. Coursera."}
+              - {name: Course marketplaces, note: "e.g. Udemy (merged into Coursera in 2026)."}
+          - name: Language learning
+            children:
+              - {name: Language apps, note: "e.g. Duolingo."}
+              - {name: Immersion programs}
+          - name: Higher education
+            children:
+              - {name: Bootcamps}
+
+      - name: Creativity & Craft
+        children:
+          - name: Writing
+            children:
+              - {name: Writing communities, note: "e.g. Wattpad."}
+              - {name: Storytelling courses}
+          - name: Music creation
+            children:
+              - {name: Home recording gear}
+          - name: Visual arts & craft
+            note: "Artisan revival."
+            children:
+              - {name: Paint-and-sip}
+              - {name: Online art classes}
+              - {name: Art supplies}
+          - name: Fiber arts
+            children:
+              - {name: Knitting & crochet}
+              - {name: Sewing & quilting}
+          - name: Photo & video
+            children:
+              - {name: Photography}
+              - {name: Filmmaking}
+          - name: Maker culture
+            children:
+              - {name: Woodworking}
+              - {name: Makerspaces}
+          - name: Performing arts
+            note: "Taking part yourself, as opposed to attending."
+            children:
+              - {name: Improv classes}
+              - {name: Acting & theater}
+              - {name: Community choirs}
+
+      - name: Career Development
+        children:
+          - name: Job search
+            children:
+              - {name: Career planning}
+              - {name: Job boards}
+          - name: Work arrangements
+            children:
+              - {name: Remote job boards}
+              - {name: Contract work}
+              - {name: Executive search}
+          - name: Professional networking
+            children:
+              - {name: Networking events}
+          - name: Workplace navigation
+            children:
+              - {name: Employer reviews}
+  # ───────────────────────────────────────────────────────── 6
+  - name: Lifestyle, Home & Experiences
+    note: "Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around."
+    children:
+      - name: Travel & Adventure
+        children:
+          - name: Trip planning
+            children:
+              - {name: Booking & deals}
+          - name: Experiential travel
+            children:
+              - {name: Expedition travel}
+              - {name: Cultural & heritage tours}
+          - name: Digital nomadism
+            children:
+              - {name: Nomad visas}
+          - name: Wellness travel
+            children:
+              - {name: Sleep tourism}
+              - {name: Spa & thermal travel}
+          - name: Traveler segments
+            children:
+              - {name: Group travel}
+              - {name: LGBTQ+ travel}
+          - name: Sustainable tourism
+            children:
+              - {name: Eco-lodges}
+              - {name: Low-carbon travel}
+              - {name: Community-based tourism}
+              - {name: Voluntourism, note: "Ethical concerns about some programs; vet impact claims."}
+          - name: Road & outdoor travel
+            children:
+              - {name: RV & vanlife}
+              - {name: Overlanding}
+              - {name: Road-trip planning}
+
+      - name: Food & Beverage
+        children:
+          - name: Meal solutions
+            children:
+              - {name: Meal kits}
+          - name: Better-for-you foods
+            children:
+              - {name: Diet-specific foods}
+          - name: Beverages
+            children:
+              - {name: Specialty coffee}
+              - {name: Energy drinks}
+              - {name: Wine & spirits}
+          - name: Delivery & quick commerce
+            children:
+              - {name: Food delivery}
+              - {name: Quick commerce}
+              - {name: Grocery delivery}
+          - name: Artisanal & local food
+            children:
+              - {name: Farmers-market platforms}
+              - {name: Farm subscriptions, note: "Community-supported agriculture (CSA)."}
+          - name: Cooking & groceries
+            children:
+              - {name: Recipe apps}
+              - {name: Cooking classes}
+              - {name: Kitchen gadgets}
+
+      - name: Home & Living
+        children:
+          - name: Smart home
+            children:
+              - {name: Smart home devices}
+          - name: Design & decor
+            children:
+              - {name: Furniture DTC}
+              - {name: Decor marketplaces}
+              - {name: Home-office setups}
+          - name: Organizing & moving
+            children:
+              - {name: Storage solutions}
+          - name: Home improvement
+            children:
+              - {name: DIY projects}
+          - name: Home services
+            note: "e.g. Thumbtack, TaskRabbit."
+            children:
+              - {name: Home warranties}
+          - name: Gardening & plants
+            children:
+              - {name: Houseplants}
+              - {name: Plant-care apps}
+              - {name: Home gardening}
+          - name: Living arrangements
+            children:
+              - {name: Cohousing}
+
+      - name: Fashion & Beauty
+        children:
+          - name: Apparel & accessories
+            children:
+              - {name: DTC basics}
+              - {name: Athleisure}
+              - {name: Sneakers & streetwear, note: "Sneaker collecting sits under Sports & Hobbies > Collecting."}
+              - {name: Handbags & leather goods}
+              - {name: Jewelry}
+              - {name: Watches}
+          - name: Resale & circular fashion
+            tags: [trending]
+            note: "e.g. Depop (sold to eBay in 2026), ThredUp, Vinted."
+            children:
+              - {name: Clothing rental}
+          - name: Inclusive fashion
+            tags: [underserved]
+            children:
+              - {name: Gender-neutral fashion}
+          - name: Beauty & skincare
+            children:
+              - {name: Skincare DTC}
+              - {name: Makeup}
+              - {name: Clean beauty}
+          - name: Men's grooming
+            children:
+              - {name: Grooming products}
+              - {name: Shaving subscriptions}
+              - {name: Beard care}
+
+      - name: Pets & Animal Care
+        children:
+          - name: Pet food
+            children:
+              - {name: Raw & specialty diets}
+          - name: Pet tech
+            children:
+              - {name: Pet cameras}
+              - {name: Smart feeders}
+          - name: Pet services
+            note: "e.g. Rover."
+            children:
+              - {name: Dog walking}
+          - name: Pet lifestyle
+            children:
+              - {name: Pet apparel & accessories}
+          - name: Other animals
+            children:
+              - {name: Backyard poultry}
+              - {name: Aquarium & reptile care}
+
+      - name: Sports & Hobbies
+        children:
+          - name: Racquet sports
+            tags: [trending]
+            children:
+              - {name: Tennis}
+          - name: Outdoor recreation
+            children:
+              - {name: Hiking & camping}
+              - {name: Climbing}
+              - {name: Skiing & snowboarding}
+              - {name: Fishing}
+              - {name: Hunting}
+              - {name: Boating}
+          - name: Games & puzzles
+            children:
+              - {name: Board games}
+              - {name: Puzzles}
+              - {name: Board-game cafes}
+          - name: Collecting
+            children:
+              - {name: Sneaker collecting, note: "e.g. StockX."}
+              - {name: Comics & memorabilia}
+              - {name: Coins & stamps}
+          - name: Reading
+            children:
+              - {name: Book clubs}
+              - {name: Indie bookstores}
+
+      - name: Entertainment & Events
+        children:
+          - name: Streaming & video
+            children:
+              - {name: Streaming services}
+          - name: Podcasts & audio
+            children:
+              - {name: Podcast apps}
+              - {name: Audiobooks}
+          - name: Gaming
+            children:
+              - {name: PC & console games}
+              - {name: Cloud gaming}
+              - {name: Esports}
+              - {name: Game streaming}
+          - name: Live events
+            children:
+              - {name: Concerts}
+              - {name: Festivals}
+              - {name: Comedy shows}
+              - {name: Theater}
+          - name: Nightlife & venues
+            children:
+              - {name: Bars & clubs}
+              - {name: Karaoke venues}
+          - name: Immersive experiences
+            children:
+              - {name: Escape rooms}
+              - {name: VR arcades}
+          - name: Weddings
+            children:
+              - {name: Venues}
+              - {name: Honeymoons}
+
+      - name: Cars & Transportation
+        children:
+          - name: Car buying
+            children:
+              - {name: Car subscriptions}
+          - name: Car enthusiasts
+            children:
+              - {name: Car clubs & events}
+              - {name: Motorsports & track days}
+          - name: EV ownership
+            children:
+              - {name: EV trip planning}
+          - name: Micromobility
+            children:
+              - {name: E-scooters}
+              - {name: Bike & scooter sharing}
+          - name: Autonomous & shared rides
+            tags: [trending]
+            children:
+              - {name: Robotaxis}
+              - {name: Ride-hailing}
+              - {name: Carpooling}
+  # ───────────────────────────────────────────────────────── 7
+  - name: Enterprise & AI
+    tags: [b2b]
+    note: "Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology)."
+    children:
+      - name: AI Infrastructure
+        tags: [trending, ai-native]
+        children:
+          - name: Foundation models
+            children:
+              - {name: Model APIs}
+          - name: Compute & data centers
+            children:
+              - {name: AI data centers}
+
+      - name: Software & Developer Tools
+        children:
+          - name: Developer platforms
+            children:
+              - {name: Code hosting}
+              - {name: Package registries}
+          - name: API economy
+            children:
+              - {name: API marketplaces}
+
+      - name: Cybersecurity & Trust
+        children:
+          - name: Consumer security
+            tags: [consumer]
+            children:
+              - {name: Password managers}
+
+      - name: Work & HR Tech
+        children:
+          - name: Collaboration
+            children:
+              - {name: Virtual offices}
+          - name: Employee wellbeing
+            children:
+              - {name: Wellness programs}
+
+      - name: Marketing & Sales Tech
+        children:
+          - name: Retail media & ads
+            tags: [trending]
+            children:
+              - {name: Programmatic ad tech}
+          - name: Analytics & attribution
+            children:
+              - {name: Multi-touch attribution}
+          - name: Event marketing
+            children:
+              - {name: Webinar platforms}
+
+      - name: Commerce & Retail Tech
+        note: "Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon & spa tech, field-service software."
+        children:
+          - name: E-commerce enablement
+            children:
+              - {name: Storefront platforms}
+          - name: Point of sale
+            note: "e.g. Square. Restaurant POS lives in Restaurant tech."
+            children:
+              - {name: Retail POS}
+              - {name: Mobile POS}
+          - name: SMB operations
+            note: "e.g. Jobber."
+            children:
+              - {name: Website builders}
+
+      - name: Business Finance Tech
+        children:
+          - name: Business lending
+            tags: [regulated]
+            children:
+              - {name: Term loans}
+  # ───────────────────────────────────────────────────────── 8
+  - name: Planet & Frontier
+    note: "Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G."
+    children:
+      - name: Climate & Energy
+        children:
+          - name: Clean power
+            children:
+              - {name: Wind power}
+              - {name: Fusion}
+          - name: Clean fuels & industry
+            children:
+              - {name: Green hydrogen}
+          - name: Carbon
+            children:
+              - {name: Carbon markets}
+
+      - name: Agriculture & Food Systems
+        children:
+          - name: Controlled-environment agriculture
+            children:
+              - {name: Vertical farms}
+              - {name: Container farms}
+              - {name: Indoor grow lighting}
+          - name: Livestock & aquaculture
+            children:
+              - {name: Insect farming}
+          - name: Alternative proteins
+            children:
+              - {name: Plant-based meat}
+              - {name: Cultivated meat, tags: [regulated]}
+
+      - name: Industry & Supply Chain
+        children:
+          - name: Additive manufacturing
+            children:
+              - {name: Printing materials}
+          - name: Warehousing
+            children:
+              - {name: Micro-fulfillment}
+          - name: Last-mile delivery
+            children:
+              - {name: Crowdsourced couriers}
+              - {name: Sidewalk robots}
+
+      - name: Built Environment
+        note: "PropTech and construction."
+        children:
+          - name: Property management
+            children:
+              - {name: Tenant experience}
+          - name: Commercial real estate tech
+            children:
+              - {name: Flexible workspace}
+          - name: Smart buildings
+            children:
+              - {name: Occupancy analytics}
+
+      - name: Aerospace & Defense
+        tags: [trending]
+        children:
+          - name: Launch & in-space
+            children:
+              - {name: Launch services}
+              - {name: Lunar missions}
+              - {name: Space tourism}
+          - name: Satellites & space data
+            note: "e.g. Starlink."
+            children:
+              - {name: Satellite connectivity}
+          - name: Next-gen aviation
+            children:
+              - {name: eVTOL air taxis}
+              - {name: Supersonic flight}
+
+      - name: Deep Tech
+        children:
+          - name: Semiconductors & AI chips
+            tags: [trending]
+            children:
+              - {name: Neuromorphic chips}
+          - name: Quantum computing
+            tags: [trending]
+            children:
+              - {name: Quantum cloud access}
+
+      - name: Public Interest & Impact
+        note: "Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech."
+        children:
+          - name: Smart cities & transit
+            children:
+              - {name: Civic data platforms}
+          - name: Accessibility tech
+            tags: [underserved]
+            children:
+              - {name: Screen readers}
+          - name: Global development
+            children:
+              - {name: Digital public infrastructure}
+          - name: Civic participation & justice
+            children:
+              - {name: Civic engagement platforms}
+              - {name: Participatory budgeting}
+              - {name: Election administration}

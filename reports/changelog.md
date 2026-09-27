@@ -1,5 +1,133 @@
 # Changelog
 
+## v12: actionability prune
+
+Input: `source/taxonomy-v11.yaml`. Every leaf was scored 1–5 on startup-actionability (rubric in
+`scripts/prune.py`, scores in `data/actionability.csv`). The 423 leaves scoring 1–2 moved to
+`taxonomy-archive.yaml`, which mirrors their original locations; they are listed one by one in
+`cut.md` under v12 with their scores and archived scores are kept in `data/actionability-archived.csv`.
+The approved preview is `reports/prune-preview.md`; the structural plan is `data/prune-resolution.yaml`.
+
+### Added
+
+<!-- ADDITIONS:v12:START -->
+1 added nodes.
+
+- **Wealth › Investing & Trading**: Investing tools
+<!-- ADDITIONS:v12:END -->
+
+### Rule change
+
+Subcategories may now hold **2–8 leaves** (was 3–8). Pillars and categories keep 3–8 children.
+`MIN_LEAVES = 2` in `scripts/taxonomy_lib.py`; `validate.py` enforces it.
+
+### Result
+
+| | v11 | v12 |
+|---|---|---|
+| Total nodes | 2,490 | 2,038 |
+| Leaves | 2,016 | 1,593 |
+| Subcategories | 403 | 374 |
+| Categories | 63 | 63 |
+| Pillars | 8 | 8 |
+
+### Tooling
+
+- `scripts/prune.py`: `--preview` / `--apply` / `--check`; simulates the whole prune, validates the result, and refuses to apply a tree that fails validation.
+- `scripts/yaml_style.py`: writes YAML in the house style (divider comments, flow-mapping leaves, quoted notes); `taxonomy.yaml` round-trips byte for byte, so scripted edits keep the file hand-readable.
+
+#### Subcategories that move entirely (9)
+
+Every leaf scored ≤ 2, so the subcategory itself goes to the archive.
+
+- Health & Wellness > Prevention & Diagnostics > `Immunization`
+- Health & Wellness > Fitness & Recovery > `Strength training`
+- Care & Conditions > Integrative Medicine > `Whole systems`
+- Care & Conditions > Integrative Medicine > `Herbal medicine`
+- Wealth > Investing & Trading > `Active trading`
+- Wealth > Insurance > `Life insurance`
+- Mind, Meaning & Growth > Contemplative Practice > `Nature practices`
+- Mind, Meaning & Growth > Spirituality & Faith > `Philosophy & Stoicism`
+- Lifestyle, Home & Experiences > Sports & Hobbies > `Outdoor recreation`
+
+#### Merged (1)
+
+- **Investing tools** (new, tagged `regulated`) ← `Public markets` + `Automated investing` + `Trading platforms`: Direct indexing, AI investing copilots, AI trading tools
+
+#### Folded into a sibling (18)
+
+These subcategories kept only one leaf, so the survivor moves and the subcategory dissolves.
+
+| Dissolved subcategory | Survivor | Moves to |
+|---|---|---|
+| `Weight management` | Metabolic health | Nutrition & Metabolic Health > Personalized nutrition |
+| `Back & neck` | Lower back pain | Pain & Musculoskeletal > Chronic pain |
+| `Brain health & prevention` | Brain-health clinics | Brain & Neurological Health > Dementia & cognitive decline |
+| `Emergency care` | EMS tech | Health Technology > Care operations |
+| `Energy & movement practices` | Yoga therapy | Integrative Medicine > Integrative clinics |
+| `Dating coaching` | Dating coaches | Dating > Matchmaking, coaching & events |
+| `Couples communities` | Military couples | Couples & Marriage > Long-distance relationships |
+| `Breakup support` | Breakup coaching | Breakups & Divorce > Rebuilding after separation |
+| `Extended family` | Genealogy & family history | Parenting & Family > Family structures |
+| `Modern spirituality` | Astrology apps | Spirituality & Faith > Spiritual guidance |
+| `Sabbaticals & career breaks` | Sabbatical planning | Purpose & Life Transitions > Life-stage transitions |
+| `Transformational experiences` | Wilderness programs | Personal Development > Inner-work programs |
+| `Sustainable tourism` | Overtourism management | Travel & Adventure > Hospitality tech |
+| `Delivery & quick commerce` | Senior meal delivery | Food & Beverage > Meal solutions |
+| `Apparel & accessories` | Kids' clothing | Parenting & Family > Baby & kids products |
+| `Other animals` | Equine care | Pets & Animal Care > Pet health |
+| `Point of sale` | Loyalty & gift cards | Commerce & Retail Tech > E-commerce enablement |
+| `Controlled-environment agriculture` | Greenhouse tech | Agriculture & Food Systems > Precision agriculture |
+
+Renamed to fit their new contents: `Matchmaking & events` → `Matchmaking, coaching & events`; `Life after divorce` → `Rebuilding after separation`.
+
+#### Left with 2 leaves (27)
+
+Allowed under the relaxed rule (approved).
+
+- Sleep > Sleep disorders: Insomnia & CBT-I, Sleep apnea
+- Mental Health > Stress & burnout: Burnout, Workplace stress
+- Aging & Longevity > Biohacking: Longevity data dashboards, Smart rings
+- Chronic Conditions > Autoimmune disease: Rheumatoid arthritis, Hashimoto's
+- Pain & Musculoskeletal > Foot & ankle care: Custom orthotics, Podiatry telehealth
+- Housing & Real Estate > Home equity: Equity release, Home-equity investments
+- Retirement & Wealth Planning > Retirement planning: Retirement income, Social Security planning
+- Retirement & Wealth Planning > Retirement accounts: IRAs & 401(k)s, Small-business retirement plans
+- Dating > Dating platforms: Curated apps, Profile optimization
+- Parenting & Family > Parenting stages: Newborns, Teens
+- Contemplative Practice > Breathwork: Breathwork apps, Breath-training devices
+- Contemplative Practice > Journaling & reflection: Journaling apps, AI journaling
+- Contemplative Practice > Somatics & embodiment: Somatic practitioner training, Nervous-system regulation apps
+- Purpose & Life Transitions > Self-discovery: Strengths & values assessments, Personality assessments
+- Productivity > Tasks & habits: Gamified productivity, Goal-setting & accountability
+- Productivity > Time management: AI calendars, Time tracking
+- Productivity > Knowledge management: Note-taking apps, AI knowledge assistants
+- Creativity & Craft > Fiber arts: Pattern marketplaces, Yarn & fabric DTC
+- Creativity & Craft > Performing arts: Dance classes, Voice & singing lessons
+- Career Development > Work arrangements: Flexible & part-time jobs, Interim management
+- Food & Beverage > Beverages: Tea & matcha, Non-alcoholic drinks
+- Home & Living > Design & decor: E-design, AI interior design
+- Fashion & Beauty > Men's grooming: Men's skincare, Barbershop booking
+- Sports & Hobbies > Reading: Book discovery, Reading trackers
+- Cars & Transportation > Car enthusiasts: Collector cars, Parts & modification
+- Cars & Transportation > Autonomous & shared rides: Peer-to-peer car sharing, Medical & senior rides
+- Aerospace & Defense > Launch & in-space: In-space servicing, In-space manufacturing
+
+#### Tags dropped because the new parent already carries them (3)
+
+- Care & Conditions > Health Technology > Care operations > EMS tech: b2b
+- Wealth > Investing & Trading > Investing tools > AI investing copilots: regulated
+- Lifestyle, Home & Experiences > Travel & Adventure > Hospitality tech > Overtourism management: b2b
+
+#### Cross-references updated (6)
+
+- at Health & Wellness > Prevention & Diagnostics: `Enterprise & AI > Work & HR Tech > Employee wellbeing > Wellness programs` → removed (target archived)
+- at Health & Wellness > Sleep: `Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel > Sleep tourism` → removed (target archived)
+- at Health & Wellness > Aging & Longevity: `Lifestyle, Home & Experiences > Fashion & Beauty > Beauty & skincare > Skincare DTC` → removed (target archived)
+- at Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel: `Care & Conditions > Care Delivery > Patient navigation > Medical tourism` → removed (target archived)
+- at Planet & Frontier > Agriculture & Food Systems > Ag biologicals & genetics > Regenerative ag programs: `Planet & Frontier > Climate & Energy > Carbon > Carbon markets` → removed (target archived)
+- at Planet & Frontier > Industry & Supply Chain > Last-mile delivery: `Lifestyle, Home & Experiences > Food & Beverage > Delivery & quick commerce` → removed (target archived)
+
 ## v11: fact check and 2026 momentum pass
 
 Input: `source/taxonomy-v10.yaml`. Two passes: (1) verify every note that makes a dated factual claim or names a

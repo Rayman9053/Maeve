@@ -12,7 +12,8 @@ Errors (must fix):
   - symbols or [tags] embedded in names
   - duplicate sibling names (case-insensitive)
   - depth > 4 (Pillar > Category > Subcategory > Leaf)
-  - a non-leaf with fewer than 3 or more than 8 children
+  - a pillar or category with fewer than 3 or more than 8 children, or a subcategory
+    with fewer than 2 (MIN_LEAVES) or more than 8 leaves
   - tags outside the vocabulary, repeated tags, a tag repeating an ancestor's tag,
     b2b and consumer on the same node
   - cross-references (see:) that don't resolve to exactly one node, or that point

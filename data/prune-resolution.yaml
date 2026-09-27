@@ -13,6 +13,8 @@ min_subcategory_children: 2
 merges:
   - name: Investing tools
     category: "Wealth > Investing & Trading"
+    tags: [regulated]
+    note: "Investment-advice and trading tools; securities rules apply."
     from:
       - "Wealth > Investing & Trading > Public markets"
       - "Wealth > Investing & Trading > Automated investing"

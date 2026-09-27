@@ -1,5 +1,37 @@
 # Handoff
 
+## v12: actionability prune
+
+Every leaf was scored 1–5 on startup-actionability. The 423 leaves scoring 1–2 moved to `taxonomy-archive.yaml`,
+at their original paths. Nothing was deleted. Per your approval, subcategories may now hold 2 leaves, and the
+file keeps its hand-written formatting (divider comments, one-line leaves, quoted notes).
+
+| | v11 | v12 |
+|---|---|---|
+| Total nodes | 2,490 | 2,038 |
+| Leaves | 2,016 | 1,593 |
+| Subcategories | 403 | 374 |
+| Categories / pillars | 63 / 8 | 63 / 8 |
+| `trending` | 67 | 67 |
+| `regulated` | 79 | 68 |
+| Cross-references | 79 | 68 |
+
+The remaining leaves score 3 (946), 4 (543) or 5 (104).
+
+Structure:
+- 9 subcategories moved whole, because every one of their leaves scored ≤ 2.
+- Public markets, Automated investing and Trading platforms merged into **Investing tools**.
+- 18 subcategories kept only one leaf, so each survivor was folded into a sibling. Two receiving subcategories were renamed: Matchmaking, coaching & events and Rebuilding after separation.
+- 27 subcategories now have 2 leaves.
+
+Every trending leaf survived. The `regulated` and cross-reference counts fell because they pointed at archived leaves.
+Details: `changelog.md` and `cut.md` (v12), and `prune-preview.md`. Every version (v0–v11) reconciles with 0 unaccounted.
+
+Where to look next: the 27 two-leaf subcategories are the thinnest parts of the map. Each one can gain a leaf or be
+folded into a sibling.
+
+---
+
 ## v11: fact check and 2026 momentum pass
 
 **Fact check.** Every note with a dated claim, and every brand whose status could have changed, was checked

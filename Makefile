@@ -8,7 +8,7 @@ validate:
 build:
 	python3 scripts/build.py
 
-LATEST_SNAPSHOT := $(lastword $(sort $(wildcard source/taxonomy-v*.yaml)))
+LATEST_SNAPSHOT := $(shell ls source/taxonomy-v*.yaml | sort -V | tail -1)
 
 # Checks the working taxonomy against the most recent snapshot (and the original input).
 reconcile:

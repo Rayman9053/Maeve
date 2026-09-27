@@ -1,4 +1,4 @@
-# Prune preview (nothing has been changed yet)
+# Prune preview (approved; applied as v12)
 
 Leaves scoring **≤ 2** move to `taxonomy-archive.yaml`. Scores are in `data/actionability.csv`; the rubric is in `scripts/prune.py`. The structural plan is in `data/prune-resolution.yaml`.
 
@@ -115,9 +115,10 @@ Allowed under the relaxed rule. The alternative is keeping some 2-scored leaves 
 - Cars & Transportation > Autonomous & shared rides: Peer-to-peer car sharing, Medical & senior rides
 - Aerospace & Defense > Launch & in-space: In-space servicing, In-space manufacturing
 
-### Tags dropped because the new parent already carries them (2)
+### Tags dropped because the new parent already carries them (3)
 
 - Care & Conditions > Health Technology > Care operations > EMS tech: b2b
+- Wealth > Investing & Trading > Investing tools > AI investing copilots: regulated
 - Lifestyle, Home & Experiences > Travel & Adventure > Hospitality tech > Overtourism management: b2b
 
 ### Cross-references updated (6)

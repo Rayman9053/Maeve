@@ -27,6 +27,7 @@ from collections import Counter
 
 import yaml
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from taxonomy_lib import ROOT_DIR, TAXONOMY_PATH, children, load, path_str, stats, walk
 from validate import validate
 
@@ -60,7 +61,7 @@ def simulate(root, scores, threshold, resolution):
     new = copy.deepcopy(root)
     archive = {"name": "Startup Opportunity Map (archive)",
                "note": "Leaves moved out of taxonomy.yaml by the actionability prune (score <= "
-                       f"{threshold}). Scores: data/actionability.csv.",
+                       f"{threshold}). Scores: data/actionability-archived.csv.",
                "children": []}
     moved, remap = [], {}          # remap: old path -> new path (None = archived)
 
@@ -106,7 +107,12 @@ def simulate(root, scores, threshold, resolution):
                 leaves.append(leaf)
             remap[src] = m["category"] + SEP + m["name"]
         cat["children"] = [c for c in cat["children"] if SEP.join((m["category"], c["name"])) not in m["from"]]
-        cat["children"].insert(first_idx, {"name": m["name"], "children": leaves})
+        merged = {"name": m["name"]}
+        for key in ("tags", "note"):
+            if m.get(key):
+                merged[key] = m[key]
+        merged["children"] = leaves
+        cat["children"].insert(first_idx, merged)
         merges_done.append((m, [l["name"] for l in leaves]))
 
     # 3. folds
@@ -269,10 +275,38 @@ def preview_md(root, new, rep, scores, threshold, resolution):
     return "\n".join(L) + "\n"
 
 
-def dump(path, root, header):
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(header)
-        yaml.safe_dump(root, f, sort_keys=False, allow_unicode=True, width=120)
+ARCHIVE_HEADER = """# Startup Opportunity Map: archive of low-actionability leaves.
+#
+# Leaves scoring <= {threshold} on startup-actionability (rubric: scripts/prune.py) were moved here
+# from taxonomy.yaml by `python3 scripts/prune.py --apply`. The structure mirrors their original
+# Pillar > Category > Subcategory location. This file is not validated for child counts and is
+# not built into the mindmaps. To restore a leaf, move it back into taxonomy.yaml, give it a score
+# in data/actionability.csv, then validate and rebuild.
+
+"""
+
+
+def merge_archive(existing, new):
+    """Merge a freshly built archive tree into an existing archive (repeat prunes accumulate)."""
+    if not existing:
+        return new
+
+    def merge(dst, src):
+        for child in children(src):
+            match = next((c for c in children(dst) if c["name"] == child["name"]), None)
+            if match is None or not children(child):
+                dst.setdefault("children", []).append(child)
+            else:
+                merge(match, child)
+    merge(existing, new)
+    return existing
+
+
+def write_scores(path, rows):
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["path", "score"])
+        w.writerows(rows)
 
 
 def main():
@@ -312,8 +346,28 @@ def main():
         if rep["errors"]:
             print("Refusing to apply: simulated result fails validation. Run --preview.")
             return 1
-        print("Apply writes taxonomy.yaml in normalized YAML formatting; see README before running.")
-        return 1
+        from yaml_style import read_header, write
+        header = read_header(TAXONOMY_PATH).replace(
+            "Every non-leaf has 3-8 children.",
+            "Pillars and categories have 3-8 children;\n# subcategories have 2-8 leaves.")
+        write(TAXONOMY_PATH, new, header)
+
+        existing = load(ARCHIVE_PATH) if os.path.exists(ARCHIVE_PATH) else None
+        write(ARCHIVE_PATH, merge_archive(existing, archive), ARCHIVE_HEADER.format(threshold=a.threshold))
+
+        by_name = {p.rsplit(SEP, 1)[1]: sc for p, sc in scores.items()}
+        moved = {p for p, _ in rep["moved"]}
+        write_scores(SCORES_PATH, [(path_str(p), by_name[n["name"]]) for n, d, p in walk(new) if d == 4])
+        arch_scores = os.path.join(ROOT_DIR, "data", "actionability-archived.csv")
+        old_rows = []
+        if os.path.exists(arch_scores):
+            with open(arch_scores, encoding="utf-8") as f:
+                old_rows = [(r["path"], int(r["score"])) for r in csv.DictReader(f)]
+        write_scores(arch_scores, old_rows + [(p, scores[p]) for p in sorted(moved)])
+
+        print(f"moved {len(rep['moved'])} leaves to {os.path.relpath(ARCHIVE_PATH, ROOT_DIR)}; "
+              f"taxonomy.yaml now has {stats(new)['total']:,} nodes")
+        return 0
 
     ap.print_help()
     return 0
