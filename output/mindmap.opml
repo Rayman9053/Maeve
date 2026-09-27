@@ -493,32 +493,58 @@
             <outline text="Medical tourism" _note="See also: Lifestyle, Home &amp; Experiences &gt; Travel &amp; Adventure &gt; Wellness travel"/>
           </outline>
         </outline>
-        <outline text="Health Technology #b2b">
+        <outline text="Health Technology #b2b" _note="Software and devices sold to providers, payers and life-science companies.">
           <outline text="Clinical AI #trending #ai-native">
             <outline text="Ambient AI scribes" _note="e.g. Abridge."/>
             <outline text="Clinical decision support"/>
             <outline text="AI imaging diagnostics"/>
+            <outline text="AI pathology"/>
+            <outline text="Patient-message triage AI"/>
+          </outline>
+          <outline text="Care operations">
+            <outline text="Patient intake &amp; scheduling"/>
+            <outline text="Patient engagement"/>
+            <outline text="Telehealth infrastructure" _note="White-label virtual-care platforms for providers."/>
+            <outline text="Hospital operations" _note="Bed management and command centers."/>
+            <outline text="Care-team collaboration"/>
           </outline>
           <outline text="Revenue cycle &amp; payer">
             <outline text="Revenue-cycle automation"/>
+            <outline text="Medical coding AI #ai-native"/>
             <outline text="Prior authorization"/>
             <outline text="Claims integrity"/>
+            <outline text="Risk adjustment"/>
             <outline text="Value-based care enablement"/>
           </outline>
           <outline text="Health data infrastructure">
             <outline text="EHR"/>
             <outline text="Interoperability" _note="FHIR and data exchange."/>
+            <outline text="Healthcare APIs"/>
+            <outline text="Health data platforms"/>
+            <outline text="Data de-identification"/>
+            <outline text="Healthcare cybersecurity"/>
             <outline text="Personal health records #consumer"/>
           </outline>
           <outline text="Medical devices #regulated">
             <outline text="Consumer health wearables #consumer"/>
             <outline text="Diagnostic devices"/>
+            <outline text="SaMD" _note="Software as a medical device."/>
+            <outline text="Implantables"/>
             <outline text="Surgical robotics"/>
+            <outline text="Device quality &amp; regulatory software"/>
           </outline>
           <outline text="Healthcare workforce">
             <outline text="Staffing marketplaces"/>
             <outline text="Nurse scheduling"/>
             <outline text="Clinician credentialing"/>
+            <outline text="Continuing medical education"/>
+            <outline text="Clinician burnout tools"/>
+          </outline>
+          <outline text="Life-science commercial tech">
+            <outline text="Pharma CRM"/>
+            <outline text="HCP engagement"/>
+            <outline text="Patient support programs"/>
+            <outline text="Pharmacovigilance AI #ai-native #regulated"/>
           </outline>
         </outline>
         <outline text="Integrative Medicine" _note="Evidence bases vary widely. Marketing claims face FTC/FDA scrutiny.">
@@ -600,32 +626,46 @@
           <outline text="Digital banking">
             <outline text="Neobanks" _note="e.g. Chime."/>
             <outline text="Teen &amp; family banking"/>
+            <outline text="Freelancer banking"/>
+            <outline text="Senior banking"/>
             <outline text="Immigrant banking #underserved"/>
           </outline>
           <outline text="Consumer payments">
             <outline text="P2P payments"/>
             <outline text="Digital wallets"/>
+            <outline text="Pay by bank #trending" _note="Open-banking payments."/>
+            <outline text="Bill pay"/>
+            <outline text="Subscription management" _note="Tracking and cancelling subscriptions."/>
             <outline text="Stablecoin payments #trending #regulated"/>
           </outline>
           <outline text="Cross-border money" _note="Core to immigrant economies.">
             <outline text="Remittances" _note="e.g. Wise."/>
             <outline text="Multi-currency accounts"/>
+            <outline text="Cross-border bill pay" _note="Paying family bills abroad directly."/>
+            <outline text="Travel money &amp; FX cards"/>
             <outline text="Diaspora investing"/>
           </outline>
           <outline text="Consumer lending #regulated">
             <outline text="Buy now pay later" _note="US regulatory treatment shifted in 2024-25."/>
             <outline text="Earned wage access"/>
             <outline text="Small-dollar loans"/>
+            <outline text="Credit-builder loans"/>
+            <outline text="Medical financing"/>
             <outline text="Auto loans"/>
+            <outline text="Loan marketplaces"/>
           </outline>
           <outline text="Islamic finance" _note="e.g. Wahed.">
             <outline text="Sharia-compliant banking"/>
             <outline text="Halal investing"/>
             <outline text="Islamic home finance"/>
+            <outline text="Sharia-compliant BNPL"/>
+            <outline text="Zakat &amp; sadaqah apps"/>
           </outline>
           <outline text="Financial inclusion #underserved" _note="See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Global development &gt; Financial-inclusion infrastructure">
             <outline text="Community finance" _note="CDFIs and credit unions."/>
             <outline text="Unbanked onboarding"/>
+            <outline text="Alternative credit data"/>
+            <outline text="Cash-access networks"/>
             <outline text="Microloans"/>
           </outline>
         </outline>
@@ -1322,34 +1362,55 @@
         <outline text="Creativity &amp; Craft">
           <outline text="Writing">
             <outline text="Writing tools"/>
+            <outline text="AI writing assistants #ai-native"/>
+            <outline text="Screenwriting software"/>
             <outline text="Self-publishing"/>
+            <outline text="Writing communities" _note="e.g. Wattpad."/>
             <outline text="Storytelling courses"/>
           </outline>
           <outline text="Music creation">
-            <outline text="Music production" _note="e.g. Splice."/>
+            <outline text="Music production" _note="DAWs and plugins."/>
+            <outline text="Sample marketplaces" _note="e.g. Splice."/>
+            <outline text="Home recording gear"/>
             <outline text="Instrument learning"/>
             <outline text="AI music tools #ai-native"/>
+            <outline text="Music distribution" _note="e.g. DistroKid."/>
           </outline>
           <outline text="Visual arts &amp; craft" _note="Artisan revival.">
             <outline text="Pottery studios"/>
             <outline text="Paint-and-sip"/>
+            <outline text="Online art classes"/>
+            <outline text="Digital art tools" _note="e.g. Procreate."/>
             <outline text="Art supplies"/>
             <outline text="Craft kits"/>
+            <outline text="Artist marketplaces"/>
+          </outline>
+          <outline text="Fiber arts">
+            <outline text="Knitting &amp; crochet"/>
+            <outline text="Sewing &amp; quilting"/>
+            <outline text="Pattern marketplaces"/>
+            <outline text="Yarn &amp; fabric DTC"/>
           </outline>
           <outline text="Photo &amp; video">
             <outline text="Photography"/>
             <outline text="Filmmaking"/>
             <outline text="Editing tools"/>
+            <outline text="AI video generation #trending #ai-native"/>
+            <outline text="Stock media marketplaces"/>
           </outline>
           <outline text="Maker culture">
             <outline text="3D printing"/>
             <outline text="Electronics kits"/>
+            <outline text="Woodworking"/>
+            <outline text="CNC &amp; laser cutters"/>
             <outline text="Makerspaces"/>
           </outline>
           <outline text="Performing arts" _note="Taking part yourself, as opposed to attending.">
             <outline text="Improv classes"/>
             <outline text="Acting &amp; theater"/>
             <outline text="Dance classes"/>
+            <outline text="Voice &amp; singing lessons"/>
+            <outline text="Community choirs"/>
           </outline>
         </outline>
         <outline text="Career Development">
@@ -1796,33 +1857,53 @@
         <outline text="Work &amp; HR Tech">
           <outline text="Recruiting #regulated" _note="Watch for bias and compliance issues: NYC Local Law 144, EU AI Act (high-risk).">
             <outline text="AI recruiting #ai-native"/>
+            <outline text="Candidate sourcing"/>
             <outline text="Skills-based hiring"/>
             <outline text="Interview intelligence"/>
+            <outline text="Employment screening" _note="FCRA applies in the US."/>
+            <outline text="Recruiter marketplaces"/>
+          </outline>
+          <outline text="HRIS &amp; people analytics">
+            <outline text="HRIS"/>
+            <outline text="Performance management"/>
+            <outline text="Engagement surveys"/>
+            <outline text="People analytics"/>
+            <outline text="Compensation benchmarking"/>
           </outline>
           <outline text="Collaboration">
             <outline text="Async collaboration"/>
+            <outline text="Internal communications"/>
+            <outline text="Enterprise knowledge bases"/>
             <outline text="Virtual offices"/>
             <outline text="AI meeting notetakers #trending #ai-native"/>
           </outline>
-          <outline text="Employee wellbeing">
+          <outline text="Employee wellbeing" _note="See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Fertility benefits | See also: Wealth &gt; Money Management &gt; Financial wellness &gt; Workplace financial wellness">
             <outline text="Wellness programs"/>
             <outline text="Mental-health benefits"/>
+            <outline text="Caregiving benefits"/>
             <outline text="Benefits administration"/>
+            <outline text="Recognition &amp; rewards"/>
           </outline>
           <outline text="Learning &amp; development">
             <outline text="L&amp;D platforms"/>
             <outline text="Coaching platforms" _note="e.g. BetterUp."/>
+            <outline text="Compliance training"/>
+            <outline text="Mentoring software"/>
             <outline text="Skills intelligence"/>
+            <outline text="Internal mobility"/>
           </outline>
           <outline text="Global workforce" _note="e.g. Deel, Remote.">
             <outline text="Employer of record"/>
             <outline text="Payroll software"/>
             <outline text="Contractor compliance"/>
             <outline text="Global hiring"/>
+            <outline text="Employee relocation"/>
           </outline>
           <outline text="Frontline workforce">
             <outline text="Shift scheduling"/>
+            <outline text="Shift marketplaces" _note="e.g. Instawork."/>
             <outline text="Frontline communication"/>
+            <outline text="Frontline training"/>
             <outline text="Workforce management"/>
           </outline>
         </outline>
@@ -2245,29 +2326,42 @@
         <outline text="Deep Tech">
           <outline text="Semiconductors &amp; AI chips #trending">
             <outline text="AI accelerators"/>
+            <outline text="Low-power edge chips"/>
+            <outline text="Neuromorphic chips"/>
             <outline text="Chip design tools"/>
             <outline text="Photonics"/>
             <outline text="Advanced packaging"/>
+            <outline text="Semiconductor equipment"/>
           </outline>
           <outline text="Quantum computing">
-            <outline text="Quantum hardware"/>
+            <outline text="Quantum hardware" _note="Superconducting, trapped-ion, neutral-atom and photonic approaches."/>
             <outline text="Quantum software"/>
+            <outline text="Quantum cloud access"/>
+            <outline text="Quantum sensing"/>
+            <outline text="Quantum networking"/>
             <outline text="Post-quantum cryptography"/>
           </outline>
           <outline text="Robotics #trending">
             <outline text="Humanoid robots" _note="e.g. Figure, Optimus."/>
             <outline text="Robot foundation models #ai-native"/>
+            <outline text="Robot training data" _note="Simulation, teleoperation and demonstration data."/>
+            <outline text="Actuators &amp; dexterous hands"/>
             <outline text="Service robots"/>
+            <outline text="Robotics-as-a-service"/>
           </outline>
           <outline text="Neurotech &amp; BCI #trending #regulated">
-            <outline text="Brain-computer interfaces"/>
+            <outline text="Implantable BCIs"/>
+            <outline text="Non-invasive BCIs"/>
+            <outline text="Neuroprosthetics"/>
             <outline text="Neurostimulation"/>
             <outline text="Neural data platforms"/>
           </outline>
           <outline text="Advanced materials">
             <outline text="AI materials discovery #ai-native"/>
-            <outline text="Advanced composites"/>
             <outline text="Next-gen batteries"/>
+            <outline text="Advanced composites"/>
+            <outline text="Metamaterials"/>
+            <outline text="Low-carbon cement &amp; steel"/>
           </outline>
         </outline>
         <outline text="Public Interest &amp; Impact" _note="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">

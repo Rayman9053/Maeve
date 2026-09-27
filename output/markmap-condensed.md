@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,888 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,978 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -25,7 +25,7 @@ markmap:
 ### Specialty Care
 ### Population-Specific Care
 ### <span title="See also: Wealth &gt; Insurance &gt; Health &amp; benefits">Care Delivery ↗</span>
-### <span title="Tags: b2b">Health Technology</span>
+### <span title="Software and devices sold to providers, payers and life-science companies. | Tags: b2b">Health Technology</span>
 ### <span title="Evidence bases vary widely. Marketing claims face FTC/FDA scrutiny.">Integrative Medicine</span>
 ## <span title="Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise &amp; AI.">Wealth</span>
 ### <span title="Tags: consumer">Money Management</span>

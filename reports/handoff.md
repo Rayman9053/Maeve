@@ -1,5 +1,32 @@
 # Handoff
 
+## v4: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v3 | v4 | What changed |
+|---|---|---|---|
+| Care › Health Technology | 5 / 16 / 4 | 7 / 38 / 0 | New Care operations (intake, telehealth infrastructure, hospital ops) and Life-science commercial tech (pharma CRM, HCP engagement, pharmacovigilance). AI pathology, medical-coding AI, risk adjustment, healthcare APIs and cybersecurity, SaMD, device QMS |
+| Wealth › Banking & Payments | 6 / 19 / 5 | 6 / 33 / 0 | Pay by bank, bill pay, subscription management, cross-border bill pay, credit-builder loans, medical financing, Sharia-compliant BNPL, zakat apps, alternative credit data |
+| Enterprise › Work & HR Tech | 6 / 19 / 5 | 7 / 37 / 0 | New HRIS & people analytics. Candidate sourcing, employment screening, caregiving benefits, recognition, mentoring, internal mobility, shift marketplaces. Cross-references to fertility and financial-wellness benefits |
+| Planet › Deep Tech | 5 / 16 / 4 | 5 / 29 / 0 | Edge and neuromorphic chips, semiconductor equipment, quantum sensing/networking/cloud, robot training data, actuators, RaaS, BCIs split into implantable and non-invasive, metamaterials, low-carbon cement & steel |
+| Mind › Creativity & Craft | 6 / 19 / 5 | 7 / 38 / 0 | New Fiber arts. AI writing assistants, screenwriting, sample marketplaces, music distribution, digital art tools, AI video generation, stock media, woodworking, CNC, voice lessons |
+
+Overall: 1,888 → 1,978 nodes; subcategories at the 3-leaf minimum 145 → 122 (of 370); cross-references 58 → 60.
+No pillar or category was added or removed, and nothing was cut. Every version (v0–v3) reconciles with 0 unaccounted.
+
+### Next weakest (for v5)
+
+1. **Planet › Built Environment**: only 13 leaves; 3 of 4 subcategories at the minimum.
+2. **Planet › Aerospace & Defense**: 14 leaves; 3 of 4 at the minimum.
+3. **Enterprise › Marketing & Sales Tech**: 4 of 5 at the minimum.
+4. **Lifestyle › Cars & Transportation**: 4 of 5 at the minimum.
+5. **Lifestyle › Pets & Animal Care**: 4 of 5 at the minimum.
+
+Close behind: Breakups & Divorce, Contemplative Practice, Integrative Medicine, Personal Development, Food & Beverage.
+
+---
+
 ## v3: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.

@@ -1,5 +1,58 @@
 # Changelog
 
+## v4: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v3.yaml`. The branches were the ones named in `reports/handoff.md` (v3). No pillar or
+category was added or removed, and no nodes were cut. Every subcategory in these branches now has 4–7
+specific leaves, and four subcategories are new. The additions are listed below.
+
+| Old location (v3) | Before | After | Reason |
+|---|---|---|---|
+| Deep Tech › Neurotech & BCI | `Brain-computer interfaces` | `Implantable BCIs` · `Non-invasive BCIs` | R6: distinct markets with different regulatory paths |
+| Health Technology | (none) | `Care operations` · `Life-science commercial tech` | Gap fill: provider operations and pharma commercial software were missing |
+| Health Technology | (no note) | Scope note: sold to providers, payers and life-science companies | Clarity |
+| Work & HR Tech | (none) | `HRIS & people analytics` | Gap fill: the core HR system of record was missing |
+| Work & HR Tech › Employee wellbeing | (no cross-ref) | `see:` → `Fertility benefits` · `Workplace financial wellness` | Benefits kept once in their domain homes |
+| Creativity & Craft | (none) | `Fiber arts` | Gap fill: knitting and sewing were missing |
+| Creativity & Craft › Music creation | note on `Music production` "e.g. Splice." | note moved to `Sample marketplaces` | Splice is a sample marketplace |
+
+<!-- ADDITIONS:v4:START -->
+84 added nodes.
+
+- **Care & Conditions › Health Technology › Clinical AI**: AI pathology · Patient-message triage AI
+- **Care & Conditions › Health Technology › Care operations**: Patient intake & scheduling · Patient engagement · Telehealth infrastructure · Hospital operations · Care-team collaboration
+- **Care & Conditions › Health Technology › Revenue cycle & payer**: Medical coding AI · Risk adjustment
+- **Care & Conditions › Health Technology › Health data infrastructure**: Healthcare APIs · Health data platforms · Data de-identification · Healthcare cybersecurity
+- **Care & Conditions › Health Technology › Medical devices**: SaMD · Implantables · Device quality & regulatory software
+- **Care & Conditions › Health Technology › Healthcare workforce**: Continuing medical education · Clinician burnout tools
+- **Care & Conditions › Health Technology › Life-science commercial tech**: Pharma CRM · HCP engagement · Patient support programs · Pharmacovigilance AI
+- **Wealth › Banking & Payments › Digital banking**: Freelancer banking · Senior banking
+- **Wealth › Banking & Payments › Consumer payments**: Pay by bank · Bill pay · Subscription management
+- **Wealth › Banking & Payments › Cross-border money**: Cross-border bill pay · Travel money & FX cards
+- **Wealth › Banking & Payments › Consumer lending**: Credit-builder loans · Medical financing · Loan marketplaces
+- **Wealth › Banking & Payments › Islamic finance**: Sharia-compliant BNPL · Zakat & sadaqah apps
+- **Wealth › Banking & Payments › Financial inclusion**: Alternative credit data · Cash-access networks
+- **Mind, Meaning & Growth › Creativity & Craft › Writing**: AI writing assistants · Screenwriting software · Writing communities
+- **Mind, Meaning & Growth › Creativity & Craft › Music creation**: Home recording gear · Music distribution
+- **Mind, Meaning & Growth › Creativity & Craft › Visual arts & craft**: Online art classes · Digital art tools · Artist marketplaces
+- **Mind, Meaning & Growth › Creativity & Craft › Fiber arts**: Knitting & crochet · Sewing & quilting · Pattern marketplaces · Yarn & fabric DTC
+- **Mind, Meaning & Growth › Creativity & Craft › Photo & video**: AI video generation · Stock media marketplaces
+- **Mind, Meaning & Growth › Creativity & Craft › Maker culture**: Woodworking · CNC & laser cutters
+- **Mind, Meaning & Growth › Creativity & Craft › Performing arts**: Voice & singing lessons · Community choirs
+- **Enterprise & AI › Work & HR Tech › Recruiting**: Candidate sourcing · Employment screening · Recruiter marketplaces
+- **Enterprise & AI › Work & HR Tech › HRIS & people analytics**: HRIS · Performance management · Engagement surveys · People analytics · Compensation benchmarking
+- **Enterprise & AI › Work & HR Tech › Collaboration**: Internal communications · Enterprise knowledge bases
+- **Enterprise & AI › Work & HR Tech › Employee wellbeing**: Caregiving benefits · Recognition & rewards
+- **Enterprise & AI › Work & HR Tech › Learning & development**: Compliance training · Mentoring software · Internal mobility
+- **Enterprise & AI › Work & HR Tech › Global workforce**: Employee relocation
+- **Enterprise & AI › Work & HR Tech › Frontline workforce**: Shift marketplaces · Frontline training
+- **Planet & Frontier › Deep Tech › Semiconductors & AI chips**: Low-power edge chips · Neuromorphic chips · Semiconductor equipment
+- **Planet & Frontier › Deep Tech › Quantum computing**: Quantum cloud access · Quantum sensing · Quantum networking
+- **Planet & Frontier › Deep Tech › Robotics**: Robot training data · Actuators & dexterous hands · Robotics-as-a-service
+- **Planet & Frontier › Deep Tech › Neurotech & BCI**: Neuroprosthetics
+- **Planet & Frontier › Deep Tech › Advanced materials**: Metamaterials · Low-carbon cement & steel
+<!-- ADDITIONS:v4:END -->
+
 ## v3: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v2.yaml`. The branches were the ones named in `reports/handoff.md` (v2); item 5

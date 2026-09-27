@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**1,888 nodes**: 8 pillars · 63 categories · 366 subcategories · 1451 leaves.
+**1,978 nodes**: 8 pillars · 63 categories · 370 subcategories · 1537 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -480,27 +480,53 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Health Technology `b2b`
 
+*Software and devices sold to providers, payers and life-science companies.*  
+
 - **Clinical AI 🔥** `ai-native`
   - Ambient AI scribes: *e.g. Abridge.*
   - Clinical decision support
   - AI imaging diagnostics
+  - AI pathology
+  - Patient-message triage AI
+- **Care operations**
+  - Patient intake & scheduling
+  - Patient engagement
+  - Telehealth infrastructure: *White-label virtual-care platforms for providers.*
+  - Hospital operations: *Bed management and command centers.*
+  - Care-team collaboration
 - **Revenue cycle & payer**
   - Revenue-cycle automation
+  - Medical coding AI `ai-native`
   - Prior authorization
   - Claims integrity
+  - Risk adjustment
   - Value-based care enablement
 - **Health data infrastructure**
   - EHR
   - Interoperability: *FHIR and data exchange.*
+  - Healthcare APIs
+  - Health data platforms
+  - Data de-identification
+  - Healthcare cybersecurity
   - Personal health records `consumer`
 - **Medical devices** `regulated`
   - Consumer health wearables `consumer`
   - Diagnostic devices
+  - SaMD: *Software as a medical device.*
+  - Implantables
   - Surgical robotics
+  - Device quality & regulatory software
 - **Healthcare workforce**
   - Staffing marketplaces
   - Nurse scheduling
   - Clinician credentialing
+  - Continuing medical education
+  - Clinician burnout tools
+- **Life-science commercial tech**
+  - Pharma CRM
+  - HCP engagement
+  - Patient support programs
+  - Pharmacovigilance AI `ai-native` `regulated`
 
 ### Integrative Medicine
 
@@ -580,28 +606,42 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Digital banking**
   - Neobanks: *e.g. Chime.*
   - Teen & family banking
+  - Freelancer banking
+  - Senior banking
   - Immigrant banking `underserved`
 - **Consumer payments**
   - P2P payments
   - Digital wallets
+  - Pay by bank 🔥: *Open-banking payments.*
+  - Bill pay
+  - Subscription management: *Tracking and cancelling subscriptions.*
   - Stablecoin payments 🔥 `regulated`
 - **Cross-border money**: *Core to immigrant economies.*
   - Remittances: *e.g. Wise.*
   - Multi-currency accounts
+  - Cross-border bill pay: *Paying family bills abroad directly.*
+  - Travel money & FX cards
   - Diaspora investing
 - **Consumer lending** `regulated`
   - Buy now pay later: *US regulatory treatment shifted in 2024-25.*
   - Earned wage access
   - Small-dollar loans
+  - Credit-builder loans
+  - Medical financing
   - Auto loans
+  - Loan marketplaces
 - **Islamic finance**: *e.g. Wahed.*
   - Sharia-compliant banking
   - Halal investing
   - Islamic home finance
+  - Sharia-compliant BNPL
+  - Zakat & sadaqah apps
 - **Financial inclusion** `underserved`
   - ↗ *see* Planet & Frontier > Public Interest & Impact > Global development > Financial-inclusion infrastructure
   - Community finance: *CDFIs and credit unions.*
   - Unbanked onboarding
+  - Alternative credit data
+  - Cash-access networks
   - Microloans
 
 ### Investing & Trading
@@ -1255,29 +1295,49 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Writing**
   - Writing tools
+  - AI writing assistants `ai-native`
+  - Screenwriting software
   - Self-publishing
+  - Writing communities: *e.g. Wattpad.*
   - Storytelling courses
 - **Music creation**
-  - Music production: *e.g. Splice.*
+  - Music production: *DAWs and plugins.*
+  - Sample marketplaces: *e.g. Splice.*
+  - Home recording gear
   - Instrument learning
   - AI music tools `ai-native`
+  - Music distribution: *e.g. DistroKid.*
 - **Visual arts & craft**: *Artisan revival.*
   - Pottery studios
   - Paint-and-sip
+  - Online art classes
+  - Digital art tools: *e.g. Procreate.*
   - Art supplies
   - Craft kits
+  - Artist marketplaces
+- **Fiber arts**
+  - Knitting & crochet
+  - Sewing & quilting
+  - Pattern marketplaces
+  - Yarn & fabric DTC
 - **Photo & video**
   - Photography
   - Filmmaking
   - Editing tools
+  - AI video generation 🔥 `ai-native`
+  - Stock media marketplaces
 - **Maker culture**
   - 3D printing
   - Electronics kits
+  - Woodworking
+  - CNC & laser cutters
   - Makerspaces
 - **Performing arts**: *Taking part yourself, as opposed to attending.*
   - Improv classes
   - Acting & theater
   - Dance classes
+  - Voice & singing lessons
+  - Community choirs
 
 ### Career Development
 
@@ -1685,28 +1745,49 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Recruiting** `regulated`: *Watch for bias and compliance issues: NYC Local Law 144, EU AI Act (high-risk).*
   - AI recruiting `ai-native`
+  - Candidate sourcing
   - Skills-based hiring
   - Interview intelligence
+  - Employment screening: *FCRA applies in the US.*
+  - Recruiter marketplaces
+- **HRIS & people analytics**
+  - HRIS
+  - Performance management
+  - Engagement surveys
+  - People analytics
+  - Compensation benchmarking
 - **Collaboration**
   - Async collaboration
+  - Internal communications
+  - Enterprise knowledge bases
   - Virtual offices
   - AI meeting notetakers 🔥 `ai-native`
 - **Employee wellbeing**
+  - ↗ *see* Health & Wellness > Sexual & Reproductive Health > Fertility & family building > Fertility benefits
+  - ↗ *see* Wealth > Money Management > Financial wellness > Workplace financial wellness
   - Wellness programs
   - Mental-health benefits
+  - Caregiving benefits
   - Benefits administration
+  - Recognition & rewards
 - **Learning & development**
   - L&D platforms
   - Coaching platforms: *e.g. BetterUp.*
+  - Compliance training
+  - Mentoring software
   - Skills intelligence
+  - Internal mobility
 - **Global workforce**: *e.g. Deel, Remote.*
   - Employer of record
   - Payroll software
   - Contractor compliance
   - Global hiring
+  - Employee relocation
 - **Frontline workforce**
   - Shift scheduling
+  - Shift marketplaces: *e.g. Instawork.*
   - Frontline communication
+  - Frontline training
   - Workforce management
 
 ### Legal & Compliance Tech
@@ -2096,25 +2177,38 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Semiconductors & AI chips 🔥**
   - AI accelerators
+  - Low-power edge chips
+  - Neuromorphic chips
   - Chip design tools
   - Photonics
   - Advanced packaging
+  - Semiconductor equipment
 - **Quantum computing**
-  - Quantum hardware
+  - Quantum hardware: *Superconducting, trapped-ion, neutral-atom and photonic approaches.*
   - Quantum software
+  - Quantum cloud access
+  - Quantum sensing
+  - Quantum networking
   - Post-quantum cryptography
 - **Robotics 🔥**
   - Humanoid robots: *e.g. Figure, Optimus.*
   - Robot foundation models `ai-native`
+  - Robot training data: *Simulation, teleoperation and demonstration data.*
+  - Actuators & dexterous hands
   - Service robots
+  - Robotics-as-a-service
 - **Neurotech & BCI 🔥** `regulated`
-  - Brain-computer interfaces
+  - Implantable BCIs
+  - Non-invasive BCIs
+  - Neuroprosthetics
   - Neurostimulation
   - Neural data platforms
 - **Advanced materials**
   - AI materials discovery `ai-native`
-  - Advanced composites
   - Next-gen batteries
+  - Advanced composites
+  - Metamaterials
+  - Low-carbon cement & steel
 
 ### Public Interest & Impact
 

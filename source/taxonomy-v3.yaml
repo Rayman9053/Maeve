@@ -568,7 +568,6 @@ children:
 
       - name: Health Technology
         tags: [b2b]
-        note: "Software and devices sold to providers, payers and life-science companies."
         children:
           - name: Clinical AI
             tags: [trending, ai-native]
@@ -576,54 +575,28 @@ children:
               - {name: Ambient AI scribes, note: "e.g. Abridge."}
               - {name: Clinical decision support}
               - {name: AI imaging diagnostics}
-              - {name: AI pathology}
-              - {name: Patient-message triage AI}
-          - name: Care operations
-            children:
-              - {name: Patient intake & scheduling}
-              - {name: Patient engagement}
-              - {name: Telehealth infrastructure, note: "White-label virtual-care platforms for providers."}
-              - {name: Hospital operations, note: "Bed management and command centers."}
-              - {name: Care-team collaboration}
           - name: Revenue cycle & payer
             children:
               - {name: Revenue-cycle automation}
-              - {name: Medical coding AI, tags: [ai-native]}
               - {name: Prior authorization}
               - {name: Claims integrity}
-              - {name: Risk adjustment}
               - {name: Value-based care enablement}
           - name: Health data infrastructure
             children:
               - {name: EHR}
               - {name: Interoperability, note: "FHIR and data exchange."}
-              - {name: Healthcare APIs}
-              - {name: Health data platforms}
-              - {name: Data de-identification}
-              - {name: Healthcare cybersecurity}
               - {name: Personal health records, tags: [consumer]}
           - name: Medical devices
             tags: [regulated]
             children:
               - {name: Consumer health wearables, tags: [consumer]}
               - {name: Diagnostic devices}
-              - {name: SaMD, note: "Software as a medical device."}
-              - {name: Implantables}
               - {name: Surgical robotics}
-              - {name: Device quality & regulatory software}
           - name: Healthcare workforce
             children:
               - {name: Staffing marketplaces}
               - {name: Nurse scheduling}
               - {name: Clinician credentialing}
-              - {name: Continuing medical education}
-              - {name: Clinician burnout tools}
-          - name: Life-science commercial tech
-            children:
-              - {name: Pharma CRM}
-              - {name: HCP engagement}
-              - {name: Patient support programs}
-              - {name: Pharmacovigilance AI, tags: [ai-native, regulated]}
 
       - name: Integrative Medicine
         note: "Evidence bases vary widely. Marketing claims face FTC/FDA scrutiny."
@@ -717,24 +690,17 @@ children:
             children:
               - {name: Neobanks, note: "e.g. Chime."}
               - {name: Teen & family banking}
-              - {name: Freelancer banking}
-              - {name: Senior banking}
               - {name: Immigrant banking, tags: [underserved]}
           - name: Consumer payments
             children:
               - {name: P2P payments}
               - {name: Digital wallets}
-              - {name: Pay by bank, tags: [trending], note: "Open-banking payments."}
-              - {name: Bill pay}
-              - {name: Subscription management, note: "Tracking and cancelling subscriptions."}
               - {name: Stablecoin payments, tags: [trending, regulated]}
           - name: Cross-border money
             note: "Core to immigrant economies."
             children:
               - {name: Remittances, note: "e.g. Wise."}
               - {name: Multi-currency accounts}
-              - {name: Cross-border bill pay, note: "Paying family bills abroad directly."}
-              - {name: Travel money & FX cards}
               - {name: Diaspora investing}
           - name: Consumer lending
             tags: [regulated]
@@ -742,26 +708,19 @@ children:
               - {name: Buy now pay later, note: "US regulatory treatment shifted in 2024-25."}
               - {name: Earned wage access}
               - {name: Small-dollar loans}
-              - {name: Credit-builder loans}
-              - {name: Medical financing}
               - {name: Auto loans}
-              - {name: Loan marketplaces}
           - name: Islamic finance
             note: "e.g. Wahed."
             children:
               - {name: Sharia-compliant banking}
               - {name: Halal investing}
               - {name: Islamic home finance}
-              - {name: Sharia-compliant BNPL}
-              - {name: Zakat & sadaqah apps}
           - name: Financial inclusion
             tags: [underserved]
             see: ["Planet & Frontier > Public Interest & Impact > Global development > Financial-inclusion infrastructure"]
             children:
               - {name: Community finance, note: "CDFIs and credit unions."}
               - {name: Unbanked onboarding}
-              - {name: Alternative credit data}
-              - {name: Cash-access networks}
               - {name: Microloans}
 
       - name: Investing & Trading
@@ -1548,48 +1507,29 @@ children:
           - name: Writing
             children:
               - {name: Writing tools}
-              - {name: AI writing assistants, tags: [ai-native]}
-              - {name: Screenwriting software}
               - {name: Self-publishing}
-              - {name: Writing communities, note: "e.g. Wattpad."}
               - {name: Storytelling courses}
           - name: Music creation
             children:
-              - {name: Music production, note: "DAWs and plugins."}
-              - {name: Sample marketplaces, note: "e.g. Splice."}
-              - {name: Home recording gear}
+              - {name: Music production, note: "e.g. Splice."}
               - {name: Instrument learning}
               - {name: AI music tools, tags: [ai-native]}
-              - {name: Music distribution, note: "e.g. DistroKid."}
           - name: Visual arts & craft
             note: "Artisan revival."
             children:
               - {name: Pottery studios}
               - {name: Paint-and-sip}
-              - {name: Online art classes}
-              - {name: Digital art tools, note: "e.g. Procreate."}
               - {name: Art supplies}
               - {name: Craft kits}
-              - {name: Artist marketplaces}
-          - name: Fiber arts
-            children:
-              - {name: Knitting & crochet}
-              - {name: Sewing & quilting}
-              - {name: Pattern marketplaces}
-              - {name: Yarn & fabric DTC}
           - name: Photo & video
             children:
               - {name: Photography}
               - {name: Filmmaking}
               - {name: Editing tools}
-              - {name: AI video generation, tags: [trending, ai-native]}
-              - {name: Stock media marketplaces}
           - name: Maker culture
             children:
               - {name: 3D printing}
               - {name: Electronics kits}
-              - {name: Woodworking}
-              - {name: CNC & laser cutters}
               - {name: Makerspaces}
           - name: Performing arts
             note: "Taking part yourself, as opposed to attending."
@@ -1597,8 +1537,6 @@ children:
               - {name: Improv classes}
               - {name: Acting & theater}
               - {name: Dance classes}
-              - {name: Voice & singing lessons}
-              - {name: Community choirs}
 
       - name: Career Development
         children:
@@ -2094,43 +2032,23 @@ children:
             note: "Watch for bias and compliance issues: NYC Local Law 144, EU AI Act (high-risk)."
             children:
               - {name: AI recruiting, tags: [ai-native]}
-              - {name: Candidate sourcing}
               - {name: Skills-based hiring}
               - {name: Interview intelligence}
-              - {name: Employment screening, note: "FCRA applies in the US."}
-              - {name: Recruiter marketplaces}
-          - name: HRIS & people analytics
-            children:
-              - {name: HRIS}
-              - {name: Performance management}
-              - {name: Engagement surveys}
-              - {name: People analytics}
-              - {name: Compensation benchmarking}
           - name: Collaboration
             children:
               - {name: Async collaboration}
-              - {name: Internal communications}
-              - {name: Enterprise knowledge bases}
               - {name: Virtual offices}
               - {name: AI meeting notetakers, tags: [trending, ai-native]}
           - name: Employee wellbeing
-            see:
-              - "Health & Wellness > Sexual & Reproductive Health > Fertility & family building > Fertility benefits"
-              - "Wealth > Money Management > Financial wellness > Workplace financial wellness"
             children:
               - {name: Wellness programs}
               - {name: Mental-health benefits}
-              - {name: Caregiving benefits}
               - {name: Benefits administration}
-              - {name: Recognition & rewards}
           - name: Learning & development
             children:
               - {name: L&D platforms}
               - {name: Coaching platforms, note: "e.g. BetterUp."}
-              - {name: Compliance training}
-              - {name: Mentoring software}
               - {name: Skills intelligence}
-              - {name: Internal mobility}
           - name: Global workforce
             note: "e.g. Deel, Remote."
             children:
@@ -2138,13 +2056,10 @@ children:
               - {name: Payroll software}
               - {name: Contractor compliance}
               - {name: Global hiring}
-              - {name: Employee relocation}
           - name: Frontline workforce
             children:
               - {name: Shift scheduling}
-              - {name: Shift marketplaces, note: "e.g. Instawork."}
               - {name: Frontline communication}
-              - {name: Frontline training}
               - {name: Workforce management}
 
       - name: Legal & Compliance Tech
@@ -2614,44 +2529,31 @@ children:
             tags: [trending]
             children:
               - {name: AI accelerators}
-              - {name: Low-power edge chips}
-              - {name: Neuromorphic chips}
               - {name: Chip design tools}
               - {name: Photonics}
               - {name: Advanced packaging}
-              - {name: Semiconductor equipment}
           - name: Quantum computing
             children:
-              - {name: Quantum hardware, note: "Superconducting, trapped-ion, neutral-atom and photonic approaches."}
+              - {name: Quantum hardware}
               - {name: Quantum software}
-              - {name: Quantum cloud access}
-              - {name: Quantum sensing}
-              - {name: Quantum networking}
               - {name: Post-quantum cryptography}
           - name: Robotics
             tags: [trending]
             children:
               - {name: Humanoid robots, note: "e.g. Figure, Optimus."}
               - {name: Robot foundation models, tags: [ai-native]}
-              - {name: Robot training data, note: "Simulation, teleoperation and demonstration data."}
-              - {name: Actuators & dexterous hands}
               - {name: Service robots}
-              - {name: Robotics-as-a-service}
           - name: Neurotech & BCI
             tags: [trending, regulated]
             children:
-              - {name: Implantable BCIs}
-              - {name: Non-invasive BCIs}
-              - {name: Neuroprosthetics}
+              - {name: Brain-computer interfaces}
               - {name: Neurostimulation}
               - {name: Neural data platforms}
           - name: Advanced materials
             children:
               - {name: AI materials discovery, tags: [ai-native]}
-              - {name: Next-gen batteries}
               - {name: Advanced composites}
-              - {name: Metamaterials}
-              - {name: Low-carbon cement & steel}
+              - {name: Next-gen batteries}
 
       - name: Public Interest & Impact
         note: "Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech."

@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,888 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 1,978 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -410,28 +410,52 @@ markmap:
   - Second opinions
   - <span title="Price-transparent surgery centers.">Cash-pay surgery</span>
   - <span title="See also: Lifestyle, Home &amp; Experiences &gt; Travel &amp; Adventure &gt; Wellness travel">Medical tourism ↗</span>
-### <span title="Tags: b2b">Health Technology</span>
+### <span title="Software and devices sold to providers, payers and life-science companies. | Tags: b2b">Health Technology</span>
 - <span title="Tags: ai-native">Clinical AI 🔥</span>
   - <span title="e.g. Abridge.">Ambient AI scribes</span>
   - Clinical decision support
   - AI imaging diagnostics
+  - AI pathology
+  - Patient-message triage AI
+- Care operations
+  - Patient intake &amp; scheduling
+  - Patient engagement
+  - <span title="White-label virtual-care platforms for providers.">Telehealth infrastructure</span>
+  - <span title="Bed management and command centers.">Hospital operations</span>
+  - Care-team collaboration
 - Revenue cycle &amp; payer
   - Revenue-cycle automation
+  - <span title="Tags: ai-native">Medical coding AI</span>
   - Prior authorization
   - Claims integrity
+  - Risk adjustment
   - Value-based care enablement
 - Health data infrastructure
   - EHR
   - <span title="FHIR and data exchange.">Interoperability</span>
+  - Healthcare APIs
+  - Health data platforms
+  - Data de-identification
+  - Healthcare cybersecurity
   - <span title="Tags: consumer">Personal health records</span>
 - <span title="Tags: regulated">Medical devices</span>
   - <span title="Tags: consumer">Consumer health wearables</span>
   - Diagnostic devices
+  - <span title="Software as a medical device.">SaMD</span>
+  - Implantables
   - Surgical robotics
+  - Device quality &amp; regulatory software
 - Healthcare workforce
   - Staffing marketplaces
   - Nurse scheduling
   - Clinician credentialing
+  - Continuing medical education
+  - Clinician burnout tools
+- Life-science commercial tech
+  - Pharma CRM
+  - HCP engagement
+  - Patient support programs
+  - <span title="Tags: ai-native, regulated">Pharmacovigilance AI</span>
 ### <span title="Evidence bases vary widely. Marketing claims face FTC/FDA scrutiny.">Integrative Medicine</span>
 - Whole systems
   - Ayurveda
@@ -497,27 +521,41 @@ markmap:
 - Digital banking
   - <span title="e.g. Chime.">Neobanks</span>
   - Teen &amp; family banking
+  - Freelancer banking
+  - Senior banking
   - <span title="Tags: underserved">Immigrant banking</span>
 - Consumer payments
   - P2P payments
   - Digital wallets
+  - <span title="Open-banking payments.">Pay by bank 🔥</span>
+  - Bill pay
+  - <span title="Tracking and cancelling subscriptions.">Subscription management</span>
   - <span title="Tags: regulated">Stablecoin payments 🔥</span>
 - <span title="Core to immigrant economies.">Cross-border money</span>
   - <span title="e.g. Wise.">Remittances</span>
   - Multi-currency accounts
+  - <span title="Paying family bills abroad directly.">Cross-border bill pay</span>
+  - Travel money &amp; FX cards
   - Diaspora investing
 - <span title="Tags: regulated">Consumer lending</span>
   - <span title="US regulatory treatment shifted in 2024-25.">Buy now pay later</span>
   - Earned wage access
   - Small-dollar loans
+  - Credit-builder loans
+  - Medical financing
   - Auto loans
+  - Loan marketplaces
 - <span title="e.g. Wahed.">Islamic finance</span>
   - Sharia-compliant banking
   - Halal investing
   - Islamic home finance
+  - Sharia-compliant BNPL
+  - Zakat &amp; sadaqah apps
 - <span title="Tags: underserved | See also: Planet &amp; Frontier &gt; Public Interest &amp; Impact &gt; Global development &gt; Financial-inclusion infrastructure">Financial inclusion ↗</span>
   - <span title="CDFIs and credit unions.">Community finance</span>
   - Unbanked onboarding
+  - Alternative credit data
+  - Cash-access networks
   - Microloans
 ### Investing &amp; Trading
 - Public markets
@@ -1084,29 +1122,49 @@ markmap:
 ### Creativity &amp; Craft
 - Writing
   - Writing tools
+  - <span title="Tags: ai-native">AI writing assistants</span>
+  - Screenwriting software
   - Self-publishing
+  - <span title="e.g. Wattpad.">Writing communities</span>
   - Storytelling courses
 - Music creation
-  - <span title="e.g. Splice.">Music production</span>
+  - <span title="DAWs and plugins.">Music production</span>
+  - <span title="e.g. Splice.">Sample marketplaces</span>
+  - Home recording gear
   - Instrument learning
   - <span title="Tags: ai-native">AI music tools</span>
+  - <span title="e.g. DistroKid.">Music distribution</span>
 - <span title="Artisan revival.">Visual arts &amp; craft</span>
   - Pottery studios
   - Paint-and-sip
+  - Online art classes
+  - <span title="e.g. Procreate.">Digital art tools</span>
   - Art supplies
   - Craft kits
+  - Artist marketplaces
+- Fiber arts
+  - Knitting &amp; crochet
+  - Sewing &amp; quilting
+  - Pattern marketplaces
+  - Yarn &amp; fabric DTC
 - Photo &amp; video
   - Photography
   - Filmmaking
   - Editing tools
+  - <span title="Tags: ai-native">AI video generation 🔥</span>
+  - Stock media marketplaces
 - Maker culture
   - 3D printing
   - Electronics kits
+  - Woodworking
+  - CNC &amp; laser cutters
   - Makerspaces
 - <span title="Taking part yourself, as opposed to attending.">Performing arts</span>
   - Improv classes
   - Acting &amp; theater
   - Dance classes
+  - Voice &amp; singing lessons
+  - Community choirs
 ### Career Development
 - Job search
   - Career planning
@@ -1462,28 +1520,47 @@ markmap:
 ### Work &amp; HR Tech
 - <span title="Watch for bias and compliance issues: NYC Local Law 144, EU AI Act (high-risk). | Tags: regulated">Recruiting</span>
   - <span title="Tags: ai-native">AI recruiting</span>
+  - Candidate sourcing
   - Skills-based hiring
   - Interview intelligence
+  - <span title="FCRA applies in the US.">Employment screening</span>
+  - Recruiter marketplaces
+- HRIS &amp; people analytics
+  - HRIS
+  - Performance management
+  - Engagement surveys
+  - People analytics
+  - Compensation benchmarking
 - Collaboration
   - Async collaboration
+  - Internal communications
+  - Enterprise knowledge bases
   - Virtual offices
   - <span title="Tags: ai-native">AI meeting notetakers 🔥</span>
-- Employee wellbeing
+- <span title="See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Fertility benefits | See also: Wealth &gt; Money Management &gt; Financial wellness &gt; Workplace financial wellness">Employee wellbeing ↗</span>
   - Wellness programs
   - Mental-health benefits
+  - Caregiving benefits
   - Benefits administration
+  - Recognition &amp; rewards
 - Learning &amp; development
   - L&amp;D platforms
   - <span title="e.g. BetterUp.">Coaching platforms</span>
+  - Compliance training
+  - Mentoring software
   - Skills intelligence
+  - Internal mobility
 - <span title="e.g. Deel, Remote.">Global workforce</span>
   - Employer of record
   - Payroll software
   - Contractor compliance
   - Global hiring
+  - Employee relocation
 - Frontline workforce
   - Shift scheduling
+  - <span title="e.g. Instawork.">Shift marketplaces</span>
   - Frontline communication
+  - Frontline training
   - Workforce management
 ### <span title="See also: Wealth &gt; Tax &amp; Legal &gt; Consumer legal services">Legal &amp; Compliance Tech ↗</span>
 - <span title="Tags: ai-native">Legal AI 🔥</span>
@@ -1829,25 +1906,38 @@ markmap:
 ### Deep Tech
 - Semiconductors &amp; AI chips 🔥
   - AI accelerators
+  - Low-power edge chips
+  - Neuromorphic chips
   - Chip design tools
   - Photonics
   - Advanced packaging
+  - Semiconductor equipment
 - Quantum computing
-  - Quantum hardware
+  - <span title="Superconducting, trapped-ion, neutral-atom and photonic approaches.">Quantum hardware</span>
   - Quantum software
+  - Quantum cloud access
+  - Quantum sensing
+  - Quantum networking
   - Post-quantum cryptography
 - Robotics 🔥
   - <span title="e.g. Figure, Optimus.">Humanoid robots</span>
   - <span title="Tags: ai-native">Robot foundation models</span>
+  - <span title="Simulation, teleoperation and demonstration data.">Robot training data</span>
+  - Actuators &amp; dexterous hands
   - Service robots
+  - Robotics-as-a-service
 - <span title="Tags: regulated">Neurotech &amp; BCI 🔥</span>
-  - Brain-computer interfaces
+  - Implantable BCIs
+  - Non-invasive BCIs
+  - Neuroprosthetics
   - Neurostimulation
   - Neural data platforms
 - Advanced materials
   - <span title="Tags: ai-native">AI materials discovery</span>
-  - Advanced composites
   - Next-gen batteries
+  - Advanced composites
+  - Metamaterials
+  - Low-carbon cement &amp; steel
 ### <span title="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">Public Interest &amp; Impact</span>
 - GovTech
   - Permitting software
