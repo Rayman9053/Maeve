@@ -1,5 +1,61 @@
 # Changelog
 
+## v10: finish the weak branches
+
+Input: `source/taxonomy-v9.yaml`. This round covers the last two categories with half or more of their subcategories
+at the 3-leaf minimum (Home & Living, Entertainment & Events). It also covers the three with the highest
+remaining share (Climate & Energy, Aging & Longevity, AI Infrastructure). No pillar or category was added or
+removed, no nodes were cut, and no existing node was renamed. Three subcategories are new. The additions are
+listed below.
+
+| Old location (v9) | Before | After | Reason |
+|---|---|---|---|
+| Climate & Energy | (none) | `Clean fuels & industry` | Gap fill: hydrogen, e-fuels, industrial heat; cross-referenced to Low-carbon cement & steel |
+| Climate & Energy | (no cross-ref) | `see:` → `Home electrification` | Links the consumer side |
+| Aging & Longevity | (none) | `Senior living` | Gap fill; `Senior living search` moved here from `Caregiving` |
+| AI Infrastructure | (none) | `Model training & serving` | Gap fill: fine-tuning, distributed training, serving, registries |
+| AI Infrastructure › AI agents | (no cross-ref) | `see:` → `AI agent security` | Links to the security side |
+
+<!-- ADDITIONS:v10:START -->
+89 added nodes.
+
+- **Health & Wellness › Aging & Longevity › Healthy aging**: Sarcopenia programs · Healthy-aging coaching
+- **Health & Wellness › Aging & Longevity › Longevity medicine**: Longevity telehealth · Off-label longevity drugs
+- **Health & Wellness › Aging & Longevity › Biohacking**: Longevity data dashboards · Biohacker communities
+- **Health & Wellness › Aging & Longevity › Age tech**: Passive home monitoring · Senior-friendly devices · Senior tech support
+- **Health & Wellness › Aging & Longevity › Caregiving**: Paid family caregiving · Caregiver marketplaces
+- **Health & Wellness › Aging & Longevity › Senior living**: Active-adult communities · Senior home-sharing · Senior-living operator software
+- **Lifestyle, Home & Experiences › Home & Living › Smart home**: Smart-home installation · Home robots · Water-leak sensors
+- **Lifestyle, Home & Experiences › Home & Living › Design & decor**: AI interior design
+- **Lifestyle, Home & Experiences › Home & Living › Organizing & moving**: Home inventory apps · Move admin · Senior move management
+- **Lifestyle, Home & Experiences › Home & Living › Home improvement**: Renovation financing · Home accessibility retrofits · Home maintenance apps
+- **Lifestyle, Home & Experiences › Home & Living › Home services**: Home warranties
+- **Lifestyle, Home & Experiences › Home & Living › Gardening & plants**: Plant-care apps · Seed & plant DTC · Native & drought-tolerant landscaping
+- **Lifestyle, Home & Experiences › Home & Living › Home electrification**: Induction cooking · Rebate navigation
+- **Lifestyle, Home & Experiences › Entertainment & Events › Streaming & video**: FAST channels · International content streaming
+- **Lifestyle, Home & Experiences › Entertainment & Events › Podcasts & audio**: Audio dramas & fiction · Podcast advertising
+- **Lifestyle, Home & Experiences › Entertainment & Events › Gaming**: Cloud gaming · Game UGC platforms · Indie game publishing · AI game-dev tools
+- **Lifestyle, Home & Experiences › Entertainment & Events › Live events**: Local event discovery · Ticket resale
+- **Lifestyle, Home & Experiences › Entertainment & Events › Nightlife & venues**: Karaoke venues · Table & guest-list apps · Venue management software
+- **Lifestyle, Home & Experiences › Entertainment & Events › Immersive experiences**: Immersive theater · Themed pop-ups · Location-based AR
+- **Lifestyle, Home & Experiences › Entertainment & Events › Weddings**: Elopements & micro-weddings · Wedding vendor software
+- **Lifestyle, Home & Experiences › Entertainment & Events › Celebrations & gifting**: Personalized gifts · Group gifting
+- **Enterprise & AI › AI Infrastructure › Foundation models**: Small & on-device models · Voice & multimodal models · Model gateways & routing
+- **Enterprise & AI › AI Infrastructure › AI agents**: Computer-use agents · Agent memory & context · Agent tool protocols
+- **Enterprise & AI › AI Infrastructure › Model training & serving**: Fine-tuning platforms · Distributed training · Model serving · Model registries
+- **Enterprise & AI › AI Infrastructure › AI tooling**: Prompt management · RAG frameworks
+- **Enterprise & AI › AI Infrastructure › Compute & data centers**: GPU marketplaces · Data-center cooling
+- **Enterprise & AI › AI Infrastructure › Data infrastructure**: Web data APIs · Training-data licensing
+- **Planet & Frontier › Climate & Energy › Clean power**: Wind power · Project development software
+- **Planet & Frontier › Climate & Energy › Storage & grid**: Long-duration storage · Advanced transmission · Interconnection software
+- **Planet & Frontier › Climate & Energy › Clean fuels & industry**: Green hydrogen · Electrolyzers · E-fuels & biofuels · Industrial heat electrification · Thermal energy storage · Low-carbon chemicals
+- **Planet & Frontier › Climate & Energy › Carbon**: Carbon removal · MRV platforms · Methane detection
+- **Planet & Frontier › Climate & Energy › Water tech**: PFAS remediation · Water reuse · Smart water meters
+- **Planet & Frontier › Climate & Energy › Circular economy**: E-waste recycling · Textile recycling · Reuse & refill systems
+- **Planet & Frontier › Climate & Energy › Climate adaptation**: Drought resilience
+- **Planet & Frontier › Climate & Energy › EV infrastructure**: Charging management software · Vehicle-to-grid
+<!-- ADDITIONS:v10:END -->
+
 ## v9: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v8.yaml`. The branches were the ones named in `reports/handoff.md` (v8). No pillar or

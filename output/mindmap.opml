@@ -264,21 +264,30 @@
             <outline text="Senior mobility"/>
             <outline text="Cognitive fitness"/>
             <outline text="Senior nutrition"/>
+            <outline text="Sarcopenia programs" _note="Preventing age-related muscle loss."/>
+            <outline text="Healthy-aging coaching"/>
           </outline>
           <outline text="Longevity medicine #trending">
             <outline text="Longevity clinics" _note="e.g. Fountain Life."/>
+            <outline text="Longevity telehealth"/>
             <outline text="Biomarker tracking"/>
             <outline text="Healthspan programs"/>
+            <outline text="Off-label longevity drugs #regulated" _note="e.g. rapamycin, metformin. Human evidence for longevity use is limited."/>
             <outline text="Regenerative medicine #regulated" _note="Unapproved stem-cell clinics have drawn FDA warnings."/>
           </outline>
           <outline text="Biohacking">
             <outline text="HRV tracking"/>
             <outline text="Wearable stacks"/>
+            <outline text="Longevity data dashboards"/>
             <outline text="Self-experiment platforms"/>
+            <outline text="Biohacker communities"/>
           </outline>
           <outline text="Age tech">
             <outline text="Fall detection"/>
+            <outline text="Passive home monitoring"/>
             <outline text="Aging in place"/>
+            <outline text="Senior-friendly devices"/>
+            <outline text="Senior tech support"/>
             <outline text="Solo aging"/>
             <outline text="Senior social connection"/>
           </outline>
@@ -286,8 +295,15 @@
             <outline text="Care coordination"/>
             <outline text="Respite care"/>
             <outline text="Family caregiver support"/>
+            <outline text="Paid family caregiving #regulated" _note="Medicaid and state programs that pay family caregivers."/>
+            <outline text="Caregiver marketplaces"/>
             <outline text="Home care agencies"/>
+          </outline>
+          <outline text="Senior living">
             <outline text="Senior living search"/>
+            <outline text="Active-adult communities"/>
+            <outline text="Senior home-sharing"/>
+            <outline text="Senior-living operator software #b2b"/>
           </outline>
         </outline>
       </outline>
@@ -1771,35 +1787,49 @@
         <outline text="Home &amp; Living">
           <outline text="Smart home">
             <outline text="Smart home devices"/>
+            <outline text="Smart-home installation"/>
             <outline text="Home security"/>
+            <outline text="Home robots" _note="Robot vacuums, mowers and pool cleaners."/>
             <outline text="Home energy monitors"/>
+            <outline text="Water-leak sensors"/>
           </outline>
           <outline text="Design &amp; decor">
             <outline text="E-design" _note="e.g. Havenly."/>
+            <outline text="AI interior design #ai-native"/>
             <outline text="Furniture DTC"/>
             <outline text="Decor marketplaces"/>
             <outline text="Home-office setups"/>
           </outline>
           <outline text="Organizing &amp; moving">
             <outline text="Decluttering services"/>
+            <outline text="Home inventory apps"/>
             <outline text="Storage solutions"/>
             <outline text="Moving services"/>
+            <outline text="Move admin" _note="Utilities, address changes and service setup."/>
+            <outline text="Senior move management"/>
           </outline>
           <outline text="Home improvement">
             <outline text="DIY projects"/>
             <outline text="Renovation platforms"/>
+            <outline text="Renovation financing #regulated"/>
+            <outline text="Home accessibility retrofits"/>
+            <outline text="Home maintenance apps"/>
             <outline text="Home inspection"/>
           </outline>
           <outline text="Home services" _note="e.g. Thumbtack, TaskRabbit.">
             <outline text="Handyman marketplaces"/>
             <outline text="Cleaning services"/>
             <outline text="Lawn &amp; pest services"/>
+            <outline text="Home warranties"/>
             <outline text="Field-service software #b2b" _note="Scheduling, dispatch and invoicing for trades, e.g. Jobber."/>
           </outline>
           <outline text="Gardening &amp; plants">
             <outline text="Houseplants"/>
+            <outline text="Plant-care apps"/>
             <outline text="Home gardening"/>
+            <outline text="Seed &amp; plant DTC"/>
             <outline text="Landscape design"/>
+            <outline text="Native &amp; drought-tolerant landscaping"/>
           </outline>
           <outline text="Living arrangements">
             <outline text="Coliving" _note="e.g. Common (status: verify)."/>
@@ -1811,7 +1841,9 @@
             <outline text="Heat pumps"/>
             <outline text="Rooftop solar"/>
             <outline text="Home batteries"/>
+            <outline text="Induction cooking"/>
             <outline text="Energy audits"/>
+            <outline text="Rebate navigation" _note="Finding and claiming electrification incentives."/>
           </outline>
         </outline>
         <outline text="Fashion &amp; Beauty" _note="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">
@@ -1977,17 +2009,25 @@
         <outline text="Entertainment &amp; Events">
           <outline text="Streaming &amp; video">
             <outline text="Streaming services"/>
+            <outline text="FAST channels" _note="Free ad-supported streaming TV."/>
+            <outline text="International content streaming"/>
             <outline text="Microdramas #trending"/>
             <outline text="Creator-led media"/>
           </outline>
           <outline text="Podcasts &amp; audio">
             <outline text="Podcast apps"/>
             <outline text="Audiobooks"/>
+            <outline text="Audio dramas &amp; fiction"/>
             <outline text="Audio creator tools"/>
+            <outline text="Podcast advertising #b2b"/>
           </outline>
           <outline text="Gaming">
             <outline text="Mobile games"/>
             <outline text="PC &amp; console games"/>
+            <outline text="Cloud gaming"/>
+            <outline text="Game UGC platforms" _note="Player-created games and worlds, e.g. Roblox."/>
+            <outline text="Indie game publishing"/>
+            <outline text="AI game-dev tools #ai-native"/>
             <outline text="Esports"/>
             <outline text="Game streaming"/>
           </outline>
@@ -1996,29 +2036,41 @@
             <outline text="Festivals"/>
             <outline text="Comedy shows"/>
             <outline text="Theater"/>
+            <outline text="Local event discovery"/>
             <outline text="Ticketing"/>
+            <outline text="Ticket resale #regulated"/>
           </outline>
           <outline text="Nightlife &amp; venues">
             <outline text="Bars &amp; clubs"/>
             <outline text="Eatertainment venues"/>
+            <outline text="Karaoke venues"/>
             <outline text="Sober nightlife"/>
+            <outline text="Table &amp; guest-list apps"/>
+            <outline text="Venue management software #b2b"/>
           </outline>
           <outline text="Immersive experiences">
             <outline text="Escape rooms"/>
+            <outline text="Immersive theater"/>
             <outline text="Interactive art"/>
+            <outline text="Themed pop-ups"/>
             <outline text="VR arcades"/>
+            <outline text="Location-based AR"/>
           </outline>
           <outline text="Weddings">
             <outline text="Wedding planning platforms"/>
             <outline text="Registries"/>
             <outline text="Venues"/>
             <outline text="Wedding attire"/>
+            <outline text="Elopements &amp; micro-weddings"/>
             <outline text="Honeymoons"/>
+            <outline text="Wedding vendor software #b2b"/>
           </outline>
           <outline text="Celebrations &amp; gifting">
             <outline text="Party planning"/>
             <outline text="Kids' parties"/>
             <outline text="Gifting platforms"/>
+            <outline text="Personalized gifts"/>
+            <outline text="Group gifting"/>
             <outline text="Corporate gifting #b2b"/>
             <outline text="Team experiences #b2b"/>
           </outline>
@@ -2076,27 +2128,45 @@
             <outline text="Model APIs"/>
             <outline text="Open-weight models"/>
             <outline text="Domain-specific models"/>
+            <outline text="Small &amp; on-device models"/>
+            <outline text="Voice &amp; multimodal models"/>
+            <outline text="Model gateways &amp; routing"/>
           </outline>
-          <outline text="AI agents">
+          <outline text="AI agents" _note="See also: Enterprise &amp; AI &gt; Cybersecurity &amp; Trust &gt; Security for AI &gt; AI agent security">
             <outline text="Vertical agents" _note="Legal, sales, healthcare and other industry agents."/>
             <outline text="Coding agents"/>
+            <outline text="Computer-use agents"/>
             <outline text="Workflow automation"/>
             <outline text="Agent orchestration"/>
+            <outline text="Agent memory &amp; context"/>
+            <outline text="Agent tool protocols" _note="e.g. MCP servers and tool registries."/>
+          </outline>
+          <outline text="Model training &amp; serving">
+            <outline text="Fine-tuning platforms"/>
+            <outline text="Distributed training"/>
+            <outline text="Model serving"/>
+            <outline text="Model registries"/>
           </outline>
           <outline text="AI tooling">
             <outline text="Evals"/>
             <outline text="LLM observability"/>
+            <outline text="Prompt management"/>
+            <outline text="RAG frameworks"/>
             <outline text="Guardrails &amp; safety"/>
           </outline>
           <outline text="Compute &amp; data centers">
             <outline text="GPU cloud" _note="e.g. CoreWeave."/>
+            <outline text="GPU marketplaces"/>
             <outline text="Inference optimization"/>
             <outline text="AI data centers"/>
+            <outline text="Data-center cooling"/>
             <outline text="Edge AI"/>
           </outline>
           <outline text="Data infrastructure">
             <outline text="Data labeling"/>
             <outline text="Synthetic data"/>
+            <outline text="Web data APIs"/>
+            <outline text="Training-data licensing"/>
             <outline text="Vector databases"/>
             <outline text="Data pipelines"/>
           </outline>
@@ -2451,32 +2521,54 @@
         </outline>
       </outline>
       <outline text="Planet &amp; Frontier" _note="Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G.">
-        <outline text="Climate &amp; Energy">
+        <outline text="Climate &amp; Energy" _note="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Home electrification">
           <outline text="Clean power">
             <outline text="Utility-scale solar"/>
-            <outline text="Community energy"/>
+            <outline text="Wind power"/>
             <outline text="Nuclear &amp; SMRs #trending"/>
             <outline text="Geothermal #trending"/>
             <outline text="Fusion"/>
+            <outline text="Community energy"/>
+            <outline text="Project development software"/>
           </outline>
           <outline text="Storage &amp; grid">
             <outline text="Batteries &amp; storage"/>
+            <outline text="Long-duration storage"/>
             <outline text="Grid modernization"/>
+            <outline text="Advanced transmission"/>
+            <outline text="Interconnection software"/>
             <outline text="Virtual power plants"/>
             <outline text="Data-center power #trending"/>
           </outline>
+          <outline text="Clean fuels &amp; industry" _note="See also: Planet &amp; Frontier &gt; Deep Tech &gt; Advanced materials &gt; Low-carbon cement &amp; steel">
+            <outline text="Green hydrogen"/>
+            <outline text="Electrolyzers"/>
+            <outline text="E-fuels &amp; biofuels"/>
+            <outline text="Industrial heat electrification"/>
+            <outline text="Thermal energy storage"/>
+            <outline text="Low-carbon chemicals"/>
+          </outline>
           <outline text="Carbon">
             <outline text="Carbon markets"/>
-            <outline text="Carbon capture"/>
             <outline text="Carbon accounting"/>
+            <outline text="Carbon capture"/>
+            <outline text="Carbon removal" _note="Direct air capture, enhanced weathering, biochar."/>
+            <outline text="MRV platforms" _note="Measurement, reporting and verification."/>
+            <outline text="Methane detection"/>
           </outline>
           <outline text="Water tech">
             <outline text="Water purification"/>
-            <outline text="Leak detection"/>
+            <outline text="PFAS remediation #regulated"/>
+            <outline text="Water reuse"/>
             <outline text="Desalination"/>
+            <outline text="Smart water meters"/>
+            <outline text="Leak detection"/>
           </outline>
           <outline text="Circular economy">
             <outline text="Recycling tech"/>
+            <outline text="E-waste recycling"/>
+            <outline text="Textile recycling"/>
+            <outline text="Reuse &amp; refill systems"/>
             <outline text="Waste management"/>
             <outline text="Sustainable materials"/>
             <outline text="Sustainable packaging"/>
@@ -2485,10 +2577,13 @@
             <outline text="Climate-risk analytics"/>
             <outline text="Wildfire tech"/>
             <outline text="Flood resilience"/>
+            <outline text="Drought resilience"/>
             <outline text="Extreme-heat solutions"/>
           </outline>
           <outline text="EV infrastructure">
             <outline text="Charging networks"/>
+            <outline text="Charging management software"/>
+            <outline text="Vehicle-to-grid"/>
             <outline text="Fleet electrification"/>
             <outline text="Battery recycling"/>
           </outline>

@@ -308,31 +308,22 @@ children:
               - {name: Senior mobility}
               - {name: Cognitive fitness}
               - {name: Senior nutrition}
-              - {name: Sarcopenia programs, note: "Preventing age-related muscle loss."}
-              - {name: Healthy-aging coaching}
           - name: Longevity medicine
             tags: [trending]
             children:
               - {name: Longevity clinics, note: "e.g. Fountain Life."}
-              - {name: Longevity telehealth}
               - {name: Biomarker tracking}
               - {name: Healthspan programs}
-              - {name: Off-label longevity drugs, tags: [regulated], note: "e.g. rapamycin, metformin. Human evidence for longevity use is limited."}
               - {name: Regenerative medicine, tags: [regulated], note: "Unapproved stem-cell clinics have drawn FDA warnings."}
           - name: Biohacking
             children:
               - {name: HRV tracking}
               - {name: Wearable stacks}
-              - {name: Longevity data dashboards}
               - {name: Self-experiment platforms}
-              - {name: Biohacker communities}
           - name: Age tech
             children:
               - {name: Fall detection}
-              - {name: Passive home monitoring}
               - {name: Aging in place}
-              - {name: Senior-friendly devices}
-              - {name: Senior tech support}
               - {name: Solo aging}
               - {name: Senior social connection}
           - name: Caregiving
@@ -342,15 +333,8 @@ children:
               - {name: Care coordination}
               - {name: Respite care}
               - {name: Family caregiver support}
-              - {name: Paid family caregiving, tags: [regulated], note: "Medicaid and state programs that pay family caregivers."}
-              - {name: Caregiver marketplaces}
               - {name: Home care agencies}
-          - name: Senior living
-            children:
               - {name: Senior living search}
-              - {name: Active-adult communities}
-              - {name: Senior home-sharing}
-              - {name: Senior-living operator software, tags: [b2b]}
   # ───────────────────────────────────────────────────────── 2
   - name: Care & Conditions
     note: "Clinical conditions, specialty and population-specific care, care delivery and health-system technology."
@@ -2013,33 +1997,23 @@ children:
           - name: Smart home
             children:
               - {name: Smart home devices}
-              - {name: Smart-home installation}
               - {name: Home security}
-              - {name: Home robots, note: "Robot vacuums, mowers and pool cleaners."}
               - {name: Home energy monitors}
-              - {name: Water-leak sensors}
           - name: Design & decor
             children:
               - {name: E-design, note: "e.g. Havenly."}
-              - {name: AI interior design, tags: [ai-native]}
               - {name: Furniture DTC}
               - {name: Decor marketplaces}
               - {name: Home-office setups}
           - name: Organizing & moving
             children:
               - {name: Decluttering services}
-              - {name: Home inventory apps}
               - {name: Storage solutions}
               - {name: Moving services}
-              - {name: Move admin, note: "Utilities, address changes and service setup."}
-              - {name: Senior move management}
           - name: Home improvement
             children:
               - {name: DIY projects}
               - {name: Renovation platforms}
-              - {name: Renovation financing, tags: [regulated]}
-              - {name: Home accessibility retrofits}
-              - {name: Home maintenance apps}
               - {name: Home inspection}
           - name: Home services
             note: "e.g. Thumbtack, TaskRabbit."
@@ -2047,16 +2021,12 @@ children:
               - {name: Handyman marketplaces}
               - {name: Cleaning services}
               - {name: Lawn & pest services}
-              - {name: Home warranties}
               - {name: Field-service software, tags: [b2b], note: "Scheduling, dispatch and invoicing for trades, e.g. Jobber."}
           - name: Gardening & plants
             children:
               - {name: Houseplants}
-              - {name: Plant-care apps}
               - {name: Home gardening}
-              - {name: Seed & plant DTC}
               - {name: Landscape design}
-              - {name: Native & drought-tolerant landscaping}
           - name: Living arrangements
             children:
               - {name: Coliving, note: "e.g. Common (status: verify)."}
@@ -2069,9 +2039,7 @@ children:
               - {name: Heat pumps}
               - {name: Rooftop solar}
               - {name: Home batteries}
-              - {name: Induction cooking}
               - {name: Energy audits}
-              - {name: Rebate navigation, note: "Finding and claiming electrification incentives."}
 
       - name: Fashion & Beauty
         see: ["Care & Conditions > Specialty Care > Dermatology"]
@@ -2252,25 +2220,17 @@ children:
           - name: Streaming & video
             children:
               - {name: Streaming services}
-              - {name: FAST channels, note: "Free ad-supported streaming TV."}
-              - {name: International content streaming}
               - {name: Microdramas, tags: [trending]}
               - {name: Creator-led media}
           - name: Podcasts & audio
             children:
               - {name: Podcast apps}
               - {name: Audiobooks}
-              - {name: Audio dramas & fiction}
               - {name: Audio creator tools}
-              - {name: Podcast advertising, tags: [b2b]}
           - name: Gaming
             children:
               - {name: Mobile games}
               - {name: PC & console games}
-              - {name: Cloud gaming}
-              - {name: Game UGC platforms, note: "Player-created games and worlds, e.g. Roblox."}
-              - {name: Indie game publishing}
-              - {name: AI game-dev tools, tags: [ai-native]}
               - {name: Esports}
               - {name: Game streaming}
           - name: Live events
@@ -2279,41 +2239,29 @@ children:
               - {name: Festivals}
               - {name: Comedy shows}
               - {name: Theater}
-              - {name: Local event discovery}
               - {name: Ticketing}
-              - {name: Ticket resale, tags: [regulated]}
           - name: Nightlife & venues
             children:
               - {name: Bars & clubs}
               - {name: Eatertainment venues}
-              - {name: Karaoke venues}
               - {name: Sober nightlife}
-              - {name: Table & guest-list apps}
-              - {name: Venue management software, tags: [b2b]}
           - name: Immersive experiences
             children:
               - {name: Escape rooms}
-              - {name: Immersive theater}
               - {name: Interactive art}
-              - {name: Themed pop-ups}
               - {name: VR arcades}
-              - {name: Location-based AR}
           - name: Weddings
             children:
               - {name: Wedding planning platforms}
               - {name: Registries}
               - {name: Venues}
               - {name: Wedding attire}
-              - {name: Elopements & micro-weddings}
               - {name: Honeymoons}
-              - {name: Wedding vendor software, tags: [b2b]}
           - name: Celebrations & gifting
             children:
               - {name: Party planning}
               - {name: Kids' parties}
               - {name: Gifting platforms}
-              - {name: Personalized gifts}
-              - {name: Group gifting}
               - {name: Corporate gifting, tags: [b2b]}
               - {name: Team experiences, tags: [b2b]}
 
@@ -2379,46 +2327,27 @@ children:
               - {name: Model APIs}
               - {name: Open-weight models}
               - {name: Domain-specific models}
-              - {name: Small & on-device models}
-              - {name: Voice & multimodal models}
-              - {name: Model gateways & routing}
           - name: AI agents
-            see: ["Enterprise & AI > Cybersecurity & Trust > Security for AI > AI agent security"]
             children:
               - {name: Vertical agents, note: "Legal, sales, healthcare and other industry agents."}
               - {name: Coding agents}
-              - {name: Computer-use agents}
               - {name: Workflow automation}
               - {name: Agent orchestration}
-              - {name: Agent memory & context}
-              - {name: Agent tool protocols, note: "e.g. MCP servers and tool registries."}
-          - name: Model training & serving
-            children:
-              - {name: Fine-tuning platforms}
-              - {name: Distributed training}
-              - {name: Model serving}
-              - {name: Model registries}
           - name: AI tooling
             children:
               - {name: Evals}
               - {name: LLM observability}
-              - {name: Prompt management}
-              - {name: RAG frameworks}
               - {name: Guardrails & safety}
           - name: Compute & data centers
             children:
               - {name: GPU cloud, note: "e.g. CoreWeave."}
-              - {name: GPU marketplaces}
               - {name: Inference optimization}
               - {name: AI data centers}
-              - {name: Data-center cooling}
               - {name: Edge AI}
           - name: Data infrastructure
             children:
               - {name: Data labeling}
               - {name: Synthetic data}
-              - {name: Web data APIs}
-              - {name: Training-data licensing}
               - {name: Vector databases}
               - {name: Data pipelines}
 
@@ -2811,57 +2740,33 @@ children:
     note: "Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G."
     children:
       - name: Climate & Energy
-        see: ["Lifestyle, Home & Experiences > Home & Living > Home electrification"]
         children:
           - name: Clean power
             children:
               - {name: Utility-scale solar}
-              - {name: Wind power}
+              - {name: Community energy}
               - {name: Nuclear & SMRs, tags: [trending]}
               - {name: Geothermal, tags: [trending]}
               - {name: Fusion}
-              - {name: Community energy}
-              - {name: Project development software}
           - name: Storage & grid
             children:
               - {name: Batteries & storage}
-              - {name: Long-duration storage}
               - {name: Grid modernization}
-              - {name: Advanced transmission}
-              - {name: Interconnection software}
               - {name: Virtual power plants}
               - {name: Data-center power, tags: [trending]}
-          - name: Clean fuels & industry
-            see: ["Planet & Frontier > Deep Tech > Advanced materials > Low-carbon cement & steel"]
-            children:
-              - {name: Green hydrogen}
-              - {name: Electrolyzers}
-              - {name: E-fuels & biofuels}
-              - {name: Industrial heat electrification}
-              - {name: Thermal energy storage}
-              - {name: Low-carbon chemicals}
           - name: Carbon
             children:
               - {name: Carbon markets}
-              - {name: Carbon accounting}
               - {name: Carbon capture}
-              - {name: Carbon removal, note: "Direct air capture, enhanced weathering, biochar."}
-              - {name: MRV platforms, note: "Measurement, reporting and verification."}
-              - {name: Methane detection}
+              - {name: Carbon accounting}
           - name: Water tech
             children:
               - {name: Water purification}
-              - {name: PFAS remediation, tags: [regulated]}
-              - {name: Water reuse}
-              - {name: Desalination}
-              - {name: Smart water meters}
               - {name: Leak detection}
+              - {name: Desalination}
           - name: Circular economy
             children:
               - {name: Recycling tech}
-              - {name: E-waste recycling}
-              - {name: Textile recycling}
-              - {name: Reuse & refill systems}
               - {name: Waste management}
               - {name: Sustainable materials}
               - {name: Sustainable packaging}
@@ -2870,13 +2775,10 @@ children:
               - {name: Climate-risk analytics}
               - {name: Wildfire tech}
               - {name: Flood resilience}
-              - {name: Drought resilience}
               - {name: Extreme-heat solutions}
           - name: EV infrastructure
             children:
               - {name: Charging networks}
-              - {name: Charging management software}
-              - {name: Vehicle-to-grid}
               - {name: Fleet electrification}
               - {name: Battery recycling}
 

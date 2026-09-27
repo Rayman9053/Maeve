@@ -1,5 +1,40 @@
 # Handoff
 
+## v10: the weak-branch work is finished
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v9 | v10 | What changed |
+|---|---|---|---|
+| Lifestyle › Home & Living | 8 / 28 / 4 | 8 / 44 / 0 | Home robots, smart-home installation, water-leak sensors, AI interior design, move admin, senior move management, renovation financing, accessibility retrofits, home warranties, plant-care apps, induction cooking, rebate navigation |
+| Lifestyle › Entertainment & Events | 8 / 31 / 4 | 8 / 51 / 0 | FAST channels, audio dramas, cloud gaming, game UGC platforms, AI game-dev tools, ticket resale, karaoke, immersive theater, elopements, wedding vendor software, group gifting |
+| Planet › Climate & Energy | 7 / 26 / 3 | 8 / 49 / 0 | New Clean fuels & industry (hydrogen, e-fuels, industrial heat). Wind, long-duration storage, advanced transmission, interconnection software, carbon removal, MRV, methane detection, PFAS remediation, e-waste and textile recycling, vehicle-to-grid |
+| Health › Aging & Longevity | 5 / 19 / 2 | 6 / 33 / 0 | New Senior living. Sarcopenia programs, longevity telehealth, off-label longevity drugs (regulated, evidence note), passive home monitoring, senior tech support, paid family caregiving, caregiver marketplaces |
+| Enterprise › AI Infrastructure | 5 / 18 / 2 | 6 / 34 / 0 | New Model training & serving. On-device models, model gateways, computer-use agents, agent memory, agent tool protocols (MCP), prompt management, RAG frameworks, GPU marketplaces, data-center cooling, training-data licensing |
+
+Overall: 2,380 → 2,472 nodes; subcategories at the 3-leaf minimum 45 → 30 (of 402); cross-references 76 → 79.
+No pillar or category was added or removed, and nothing was cut or renamed. Every version (v0–v9) reconciles with 0 unaccounted.
+
+### Where things stand
+
+**No category is weak by the structural measure any more.**
+- 37 of 63 categories have no subcategory at the 3-leaf minimum.
+- The other 26 have only 1–2 each.
+- The smallest category now has 15 leaves.
+
+The 30 remaining 3-leaf subcategories are mostly complete as they are:
+- Life insurance: term, whole, universal.
+- Immunization, Hearing, Home equity, Equity management, Point of sale.
+- Several young niches that were only added in v2–v9.
+
+Another "weakest five" round would now mostly add filler. Recommended next steps are quality work rather than more nodes:
+
+1. **Verify the "verify" notes and brand examples.** About a dozen notes rest on recollection: 2025 regulatory events, company status, e.g. Woebot, Catch, Common.
+2. **Rebalance `trending`** (60 tags). Several v2–v10 additions could be retagged against the 2024–26 criterion.
+3. **Consider trimming the map for presentations.** At 2,472 nodes, the full map is best explored interactively. The condensed map (pillars + categories) is the one to present.
+
+---
+
 ## v9: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.

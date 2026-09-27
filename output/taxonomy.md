@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**2,380 nodes**: 8 pillars · 63 categories · 399 subcategories · 1910 leaves.
+**2,472 nodes**: 8 pillars · 63 categories · 402 subcategories · 1999 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -267,26 +267,41 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Senior mobility
   - Cognitive fitness
   - Senior nutrition
+  - Sarcopenia programs: *Preventing age-related muscle loss.*
+  - Healthy-aging coaching
 - **Longevity medicine 🔥**
   - Longevity clinics: *e.g. Fountain Life.*
+  - Longevity telehealth
   - Biomarker tracking
   - Healthspan programs
+  - Off-label longevity drugs `regulated`: *e.g. rapamycin, metformin. Human evidence for longevity use is limited.*
   - Regenerative medicine `regulated`: *Unapproved stem-cell clinics have drawn FDA warnings.*
 - **Biohacking**
   - HRV tracking
   - Wearable stacks
+  - Longevity data dashboards
   - Self-experiment platforms
+  - Biohacker communities
 - **Age tech**
   - Fall detection
+  - Passive home monitoring
   - Aging in place
+  - Senior-friendly devices
+  - Senior tech support
   - Solo aging
   - Senior social connection
 - **Caregiving 🔥** `underserved`: *The sandwich generation: people caring for both children and parents.*
   - Care coordination
   - Respite care
   - Family caregiver support
+  - Paid family caregiving `regulated`: *Medicaid and state programs that pay family caregivers.*
+  - Caregiver marketplaces
   - Home care agencies
+- **Senior living**
   - Senior living search
+  - Active-adult communities
+  - Senior home-sharing
+  - Senior-living operator software `b2b`
 ---
 
 ## Care & Conditions
@@ -1692,30 +1707,44 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Smart home**
   - Smart home devices
+  - Smart-home installation
   - Home security
+  - Home robots: *Robot vacuums, mowers and pool cleaners.*
   - Home energy monitors
+  - Water-leak sensors
 - **Design & decor**
   - E-design: *e.g. Havenly.*
+  - AI interior design `ai-native`
   - Furniture DTC
   - Decor marketplaces
   - Home-office setups
 - **Organizing & moving**
   - Decluttering services
+  - Home inventory apps
   - Storage solutions
   - Moving services
+  - Move admin: *Utilities, address changes and service setup.*
+  - Senior move management
 - **Home improvement**
   - DIY projects
   - Renovation platforms
+  - Renovation financing `regulated`
+  - Home accessibility retrofits
+  - Home maintenance apps
   - Home inspection
 - **Home services**: *e.g. Thumbtack, TaskRabbit.*
   - Handyman marketplaces
   - Cleaning services
   - Lawn & pest services
+  - Home warranties
   - Field-service software `b2b`: *Scheduling, dispatch and invoicing for trades, e.g. Jobber.*
 - **Gardening & plants**
   - Houseplants
+  - Plant-care apps
   - Home gardening
+  - Seed & plant DTC
   - Landscape design
+  - Native & drought-tolerant landscaping
 - **Living arrangements**
   - Coliving: *e.g. Common (status: verify).*
   - Cohousing
@@ -1726,7 +1755,9 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Heat pumps
   - Rooftop solar
   - Home batteries
+  - Induction cooking
   - Energy audits
+  - Rebate navigation: *Finding and claiming electrification incentives.*
 
 ### Fashion & Beauty
 
@@ -1881,15 +1912,23 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Streaming & video**
   - Streaming services
+  - FAST channels: *Free ad-supported streaming TV.*
+  - International content streaming
   - Microdramas 🔥
   - Creator-led media
 - **Podcasts & audio**
   - Podcast apps
   - Audiobooks
+  - Audio dramas & fiction
   - Audio creator tools
+  - Podcast advertising `b2b`
 - **Gaming**
   - Mobile games
   - PC & console games
+  - Cloud gaming
+  - Game UGC platforms: *Player-created games and worlds, e.g. Roblox.*
+  - Indie game publishing
+  - AI game-dev tools `ai-native`
   - Esports
   - Game streaming
 - **Live events**
@@ -1897,25 +1936,37 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Festivals
   - Comedy shows
   - Theater
+  - Local event discovery
   - Ticketing
+  - Ticket resale `regulated`
 - **Nightlife & venues**
   - Bars & clubs
   - Eatertainment venues
+  - Karaoke venues
   - Sober nightlife
+  - Table & guest-list apps
+  - Venue management software `b2b`
 - **Immersive experiences**
   - Escape rooms
+  - Immersive theater
   - Interactive art
+  - Themed pop-ups
   - VR arcades
+  - Location-based AR
 - **Weddings**
   - Wedding planning platforms
   - Registries
   - Venues
   - Wedding attire
+  - Elopements & micro-weddings
   - Honeymoons
+  - Wedding vendor software `b2b`
 - **Celebrations & gifting**
   - Party planning
   - Kids' parties
   - Gifting platforms
+  - Personalized gifts
+  - Group gifting
   - Corporate gifting `b2b`
   - Team experiences `b2b`
 
@@ -1974,23 +2025,41 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Model APIs
   - Open-weight models
   - Domain-specific models
+  - Small & on-device models
+  - Voice & multimodal models
+  - Model gateways & routing
 - **AI agents**
+  - ↗ *see* Enterprise & AI > Cybersecurity & Trust > Security for AI > AI agent security
   - Vertical agents: *Legal, sales, healthcare and other industry agents.*
   - Coding agents
+  - Computer-use agents
   - Workflow automation
   - Agent orchestration
+  - Agent memory & context
+  - Agent tool protocols: *e.g. MCP servers and tool registries.*
+- **Model training & serving**
+  - Fine-tuning platforms
+  - Distributed training
+  - Model serving
+  - Model registries
 - **AI tooling**
   - Evals
   - LLM observability
+  - Prompt management
+  - RAG frameworks
   - Guardrails & safety
 - **Compute & data centers**
   - GPU cloud: *e.g. CoreWeave.*
+  - GPU marketplaces
   - Inference optimization
   - AI data centers
+  - Data-center cooling
   - Edge AI
 - **Data infrastructure**
   - Data labeling
   - Synthetic data
+  - Web data APIs
+  - Training-data licensing
   - Vector databases
   - Data pipelines
 
@@ -2320,27 +2389,51 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Climate & Energy
 
+↗ *see* Lifestyle, Home & Experiences > Home & Living > Home electrification  
+
 - **Clean power**
   - Utility-scale solar
-  - Community energy
+  - Wind power
   - Nuclear & SMRs 🔥
   - Geothermal 🔥
   - Fusion
+  - Community energy
+  - Project development software
 - **Storage & grid**
   - Batteries & storage
+  - Long-duration storage
   - Grid modernization
+  - Advanced transmission
+  - Interconnection software
   - Virtual power plants
   - Data-center power 🔥
+- **Clean fuels & industry**
+  - ↗ *see* Planet & Frontier > Deep Tech > Advanced materials > Low-carbon cement & steel
+  - Green hydrogen
+  - Electrolyzers
+  - E-fuels & biofuels
+  - Industrial heat electrification
+  - Thermal energy storage
+  - Low-carbon chemicals
 - **Carbon**
   - Carbon markets
-  - Carbon capture
   - Carbon accounting
+  - Carbon capture
+  - Carbon removal: *Direct air capture, enhanced weathering, biochar.*
+  - MRV platforms: *Measurement, reporting and verification.*
+  - Methane detection
 - **Water tech**
   - Water purification
-  - Leak detection
+  - PFAS remediation `regulated`
+  - Water reuse
   - Desalination
+  - Smart water meters
+  - Leak detection
 - **Circular economy**
   - Recycling tech
+  - E-waste recycling
+  - Textile recycling
+  - Reuse & refill systems
   - Waste management
   - Sustainable materials
   - Sustainable packaging
@@ -2348,9 +2441,12 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Climate-risk analytics
   - Wildfire tech
   - Flood resilience
+  - Drought resilience
   - Extreme-heat solutions
 - **EV infrastructure**
   - Charging networks
+  - Charging management software
+  - Vehicle-to-grid
   - Fleet electrification
   - Battery recycling
 

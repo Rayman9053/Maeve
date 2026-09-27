@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,380 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,472 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -226,26 +226,41 @@ markmap:
   - Senior mobility
   - Cognitive fitness
   - Senior nutrition
+  - <span title="Preventing age-related muscle loss.">Sarcopenia programs</span>
+  - Healthy-aging coaching
 - Longevity medicine 🔥
   - <span title="e.g. Fountain Life.">Longevity clinics</span>
+  - Longevity telehealth
   - Biomarker tracking
   - Healthspan programs
+  - <span title="e.g. rapamycin, metformin. Human evidence for longevity use is limited. | Tags: regulated">Off-label longevity drugs</span>
   - <span title="Unapproved stem-cell clinics have drawn FDA warnings. | Tags: regulated">Regenerative medicine</span>
 - Biohacking
   - HRV tracking
   - Wearable stacks
+  - Longevity data dashboards
   - Self-experiment platforms
+  - Biohacker communities
 - Age tech
   - Fall detection
+  - Passive home monitoring
   - Aging in place
+  - Senior-friendly devices
+  - Senior tech support
   - Solo aging
   - Senior social connection
 - <span title="The sandwich generation: people caring for both children and parents. | Tags: underserved">Caregiving 🔥</span>
   - Care coordination
   - Respite care
   - Family caregiver support
+  - <span title="Medicaid and state programs that pay family caregivers. | Tags: regulated">Paid family caregiving</span>
+  - Caregiver marketplaces
   - Home care agencies
+- Senior living
   - Senior living search
+  - Active-adult communities
+  - Senior home-sharing
+  - <span title="Tags: b2b">Senior-living operator software</span>
 ## <span title="Clinical conditions, specialty and population-specific care, care delivery and health-system technology.">Care &amp; Conditions</span>
 ### Chronic Conditions
 - Diabetes
@@ -1485,30 +1500,44 @@ markmap:
 ### Home &amp; Living
 - Smart home
   - Smart home devices
+  - Smart-home installation
   - Home security
+  - <span title="Robot vacuums, mowers and pool cleaners.">Home robots</span>
   - Home energy monitors
+  - Water-leak sensors
 - Design &amp; decor
   - <span title="e.g. Havenly.">E-design</span>
+  - <span title="Tags: ai-native">AI interior design</span>
   - Furniture DTC
   - Decor marketplaces
   - Home-office setups
 - Organizing &amp; moving
   - Decluttering services
+  - Home inventory apps
   - Storage solutions
   - Moving services
+  - <span title="Utilities, address changes and service setup.">Move admin</span>
+  - Senior move management
 - Home improvement
   - DIY projects
   - Renovation platforms
+  - <span title="Tags: regulated">Renovation financing</span>
+  - Home accessibility retrofits
+  - Home maintenance apps
   - Home inspection
 - <span title="e.g. Thumbtack, TaskRabbit.">Home services</span>
   - Handyman marketplaces
   - Cleaning services
   - Lawn &amp; pest services
+  - Home warranties
   - <span title="Scheduling, dispatch and invoicing for trades, e.g. Jobber. | Tags: b2b">Field-service software</span>
 - Gardening &amp; plants
   - Houseplants
+  - Plant-care apps
   - Home gardening
+  - Seed &amp; plant DTC
   - Landscape design
+  - Native &amp; drought-tolerant landscaping
 - Living arrangements
   - <span title="e.g. Common (status: verify).">Coliving</span>
   - Cohousing
@@ -1518,7 +1547,9 @@ markmap:
   - Heat pumps
   - Rooftop solar
   - Home batteries
+  - Induction cooking
   - Energy audits
+  - <span title="Finding and claiming electrification incentives.">Rebate navigation</span>
 ### <span title="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">Fashion &amp; Beauty ↗</span>
 - Apparel &amp; accessories
   - DTC basics
@@ -1658,15 +1689,23 @@ markmap:
 ### Entertainment &amp; Events
 - Streaming &amp; video
   - Streaming services
+  - <span title="Free ad-supported streaming TV.">FAST channels</span>
+  - International content streaming
   - Microdramas 🔥
   - Creator-led media
 - Podcasts &amp; audio
   - Podcast apps
   - Audiobooks
+  - Audio dramas &amp; fiction
   - Audio creator tools
+  - <span title="Tags: b2b">Podcast advertising</span>
 - Gaming
   - Mobile games
   - PC &amp; console games
+  - Cloud gaming
+  - <span title="Player-created games and worlds, e.g. Roblox.">Game UGC platforms</span>
+  - Indie game publishing
+  - <span title="Tags: ai-native">AI game-dev tools</span>
   - Esports
   - Game streaming
 - Live events
@@ -1674,25 +1713,37 @@ markmap:
   - Festivals
   - Comedy shows
   - Theater
+  - Local event discovery
   - Ticketing
+  - <span title="Tags: regulated">Ticket resale</span>
 - Nightlife &amp; venues
   - Bars &amp; clubs
   - Eatertainment venues
+  - Karaoke venues
   - Sober nightlife
+  - Table &amp; guest-list apps
+  - <span title="Tags: b2b">Venue management software</span>
 - Immersive experiences
   - Escape rooms
+  - Immersive theater
   - Interactive art
+  - Themed pop-ups
   - VR arcades
+  - Location-based AR
 - Weddings
   - Wedding planning platforms
   - Registries
   - Venues
   - Wedding attire
+  - Elopements &amp; micro-weddings
   - Honeymoons
+  - <span title="Tags: b2b">Wedding vendor software</span>
 - Celebrations &amp; gifting
   - Party planning
   - Kids' parties
   - Gifting platforms
+  - Personalized gifts
+  - Group gifting
   - <span title="Tags: b2b">Corporate gifting</span>
   - <span title="Tags: b2b">Team experiences</span>
 ### Cars &amp; Transportation
@@ -1740,23 +1791,40 @@ markmap:
   - Model APIs
   - Open-weight models
   - Domain-specific models
-- AI agents
+  - Small &amp; on-device models
+  - Voice &amp; multimodal models
+  - Model gateways &amp; routing
+- <span title="See also: Enterprise &amp; AI &gt; Cybersecurity &amp; Trust &gt; Security for AI &gt; AI agent security">AI agents ↗</span>
   - <span title="Legal, sales, healthcare and other industry agents.">Vertical agents</span>
   - Coding agents
+  - Computer-use agents
   - Workflow automation
   - Agent orchestration
+  - Agent memory &amp; context
+  - <span title="e.g. MCP servers and tool registries.">Agent tool protocols</span>
+- Model training &amp; serving
+  - Fine-tuning platforms
+  - Distributed training
+  - Model serving
+  - Model registries
 - AI tooling
   - Evals
   - LLM observability
+  - Prompt management
+  - RAG frameworks
   - Guardrails &amp; safety
 - Compute &amp; data centers
   - <span title="e.g. CoreWeave.">GPU cloud</span>
+  - GPU marketplaces
   - Inference optimization
   - AI data centers
+  - Data-center cooling
   - Edge AI
 - Data infrastructure
   - Data labeling
   - Synthetic data
+  - Web data APIs
+  - Training-data licensing
   - Vector databases
   - Data pipelines
 ### Software &amp; Developer Tools
@@ -2051,28 +2119,49 @@ markmap:
   - Embedded finance
   - Stablecoin rails 🔥
 ## <span title="Physical-world industries, deep tech and public-interest markets. Mostly B2B/B2G.">Planet &amp; Frontier</span>
-### Climate &amp; Energy
+### <span title="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Home electrification">Climate &amp; Energy ↗</span>
 - Clean power
   - Utility-scale solar
-  - Community energy
+  - Wind power
   - Nuclear &amp; SMRs 🔥
   - Geothermal 🔥
   - Fusion
+  - Community energy
+  - Project development software
 - Storage &amp; grid
   - Batteries &amp; storage
+  - Long-duration storage
   - Grid modernization
+  - Advanced transmission
+  - Interconnection software
   - Virtual power plants
   - Data-center power 🔥
+- <span title="See also: Planet &amp; Frontier &gt; Deep Tech &gt; Advanced materials &gt; Low-carbon cement &amp; steel">Clean fuels &amp; industry ↗</span>
+  - Green hydrogen
+  - Electrolyzers
+  - E-fuels &amp; biofuels
+  - Industrial heat electrification
+  - Thermal energy storage
+  - Low-carbon chemicals
 - Carbon
   - Carbon markets
-  - Carbon capture
   - Carbon accounting
+  - Carbon capture
+  - <span title="Direct air capture, enhanced weathering, biochar.">Carbon removal</span>
+  - <span title="Measurement, reporting and verification.">MRV platforms</span>
+  - Methane detection
 - Water tech
   - Water purification
-  - Leak detection
+  - <span title="Tags: regulated">PFAS remediation</span>
+  - Water reuse
   - Desalination
+  - Smart water meters
+  - Leak detection
 - Circular economy
   - Recycling tech
+  - E-waste recycling
+  - Textile recycling
+  - Reuse &amp; refill systems
   - Waste management
   - Sustainable materials
   - Sustainable packaging
@@ -2080,9 +2169,12 @@ markmap:
   - Climate-risk analytics
   - Wildfire tech
   - Flood resilience
+  - Drought resilience
   - Extreme-heat solutions
 - EV infrastructure
   - Charging networks
+  - Charging management software
+  - Vehicle-to-grid
   - Fleet electrification
   - Battery recycling
 ### Agriculture &amp; Food Systems
