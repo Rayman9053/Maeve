@@ -16,12 +16,12 @@ Well-established brands were not individually re-checked: public companies and c
 
 **Momentum pass.**
 - 20 new nodes where 2026 momentum had zero coverage. These include a new Customer support subcategory (AI support agents, voice AI contact centers), AI glasses, oral GLP-1s, smart rings, AI health assistants, AI receptionists, sovereign AI clouds, rare-earth magnets, creatine and child investment accounts.
-- `trending` added to 10 nodes and removed from 2 (AI SDRs, AI meeting notetakers).
+- `trending` added to 9 nodes and removed from 2 (AI SDRs, AI meeting notetakers).
 - 2 nodes cut as dated: Ghost kitchens and iBuying.
 
 Every change has a source in `changelog.md` (v11).
 
-Totals: 2,472 → 2,490 nodes; `trending` 60 → 68. Every version (v0–v10) reconciles with 0 unaccounted.
+Totals: 2,472 → 2,490 nodes; `trending` 60 → 67. Every version (v0–v10) reconciles with 0 unaccounted.
 
 Open decision: nicotine pouches have large 2024-26 growth but were not added (health-harm product). Tell me if you want them.
 

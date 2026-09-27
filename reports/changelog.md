@@ -38,7 +38,7 @@ remove what reads dated. Sources are listed at the end of this section.
 
 ### 2. Trend tags
 
-Added `trending`: `Stablecoins`, `Age verification`, `Quantum computing`, `Critical minerals`, plus 6 of the new nodes below.
+Added `trending`: `Stablecoins`, `Age verification`, `Quantum computing`, `Critical minerals`, plus 5 of the new nodes below (`Customer support`, `AI receptionists`, `Smart rings`, `AI health assistants`, `Creatine`). Net: 60 → 67.
 Removed `trending`: `AI SDRs`, `AI meeting notetakers`.
 
 ### 3. New nodes (20, momentum with zero prior coverage)
