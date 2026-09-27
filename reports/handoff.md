@@ -1,5 +1,44 @@
 # Handoff
 
+## v7: the next five weakest branches, reworked
+
+Format: subcategories / leaves / subcategories still at the 3-leaf minimum.
+
+| Branch | v6 | v7 | What changed |
+|---|---|---|---|
+| Relationships › Couples & Marriage | 6 / 20 / 4 | 7 / 33 / 0 | New Couples communities (intercultural, LGBTQ+, military, caregiver couples). Cohabitation agreements, faith-based marriage prep, check-in tools, vow renewals, marriage intensives, couples programs in recovery, household managers |
+| Care › Pain & Musculoskeletal | 6 / 21 / 4 | 7 / 34 / 1 | New Foot & ankle care. Hip pain, joint-replacement navigation, prehab, MSK care navigation, remote therapeutic monitoring, fibromyalgia, interventional pain clinics, industrial exoskeletons |
+| Care › Population-Specific Care | 6 / 24 / 4 | 6 / 35 / 0 | Men's health now cross-references its four need-based homes and adds preventive care and male pelvic health. Pediatric specialty access, adolescent health, LGBTQ+ primary care and family-building, veteran peer support, medical interpretation, refugee health |
+| Enterprise › Cybersecurity & Trust | 5 / 17 / 3 | 8 / 40 / 1 | New Cloud & application security, Data security and Human risk. Non-human identity (trending), MDR, incident response, AI agent security, prompt-injection defense, account takeover, password managers; cyber insurance added to Wealth › Insurance |
+| Relationships › Friendship & Community | 5 / 18 / 3 | 5 / 29 / 0 | Parent-friendship and activity-partner apps, community dinners, friendly-visitor services, warmlines, alumni networks, senior AI companions, companion robots, mutual-aid platforms |
+
+Overall: 2,145 → 2,222 nodes; subcategories at the 3-leaf minimum 87 → 71 (of 388); cross-references 62 → 68.
+No pillar or category was added or removed, and nothing was cut or renamed. Every version (v0–v6) reconciles with 0 unaccounted.
+
+### How much is left
+
+Across the 63 categories:
+- **26** have no subcategory at the 3-leaf minimum.
+- **25** have only 1–3 thin subcategories (under half). These are minor.
+- **12** still have half or more of their subcategories at the minimum. These are the real remaining weak branches:
+  - Learning & Education, Career Development, Travel & Adventure, Sports & Hobbies
+  - Brain & Neurological Health, Care Delivery, Tax & Legal, Intimacy & Sexuality
+  - Home & Living, Fashion & Beauty, Entertainment & Events, Software & Developer Tools
+
+At five per round, that's **about 3 more rounds (v8–v10)**. After that the "weakest five" signal flattens out.
+The remaining ~40 thin subcategories would be better handled in a single sweep, or left alone: a
+3-leaf subcategory is not wrong in itself when the market really is small (e.g. Life coaching).
+
+### Next weakest (for v8)
+
+1. **Mind › Learning & Education**: 5 of 8 subcategories at the minimum.
+2. **Mind › Career Development**: 4 of 7.
+3. **Lifestyle › Travel & Adventure**: 4 of 7.
+4. **Lifestyle › Sports & Hobbies**: 4 of 7.
+5. **Enterprise › Software & Developer Tools**: 2 of 4, and only 14 leaves for a very large market.
+
+---
+
 ## v6: the next five weakest branches, reworked
 
 Format: subcategories / leaves / subcategories still at the 3-leaf minimum.

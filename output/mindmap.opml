@@ -349,28 +349,43 @@
           <outline text="Joint &amp; bone health">
             <outline text="Osteoarthritis"/>
             <outline text="Knee pain"/>
+            <outline text="Hip pain"/>
             <outline text="Shoulder pain"/>
+            <outline text="Joint replacement navigation"/>
             <outline text="Osteoporosis"/>
           </outline>
+          <outline text="Foot &amp; ankle care">
+            <outline text="Plantar fasciitis"/>
+            <outline text="Custom orthotics"/>
+            <outline text="Podiatry telehealth"/>
+          </outline>
           <outline text="Physical rehabilitation">
+            <outline text="Prehab" _note="Conditioning before surgery."/>
             <outline text="Post-surgical rehab"/>
             <outline text="Sports rehab"/>
             <outline text="Occupational rehab"/>
+            <outline text="Home rehab equipment"/>
           </outline>
           <outline text="Digital MSK #trending">
             <outline text="Virtual physical therapy" _note="e.g. Hinge Health, Sword."/>
             <outline text="Motion-tracking apps"/>
+            <outline text="MSK care navigation" _note="Steering patients to conservative care before surgery."/>
+            <outline text="Remote therapeutic monitoring #b2b"/>
             <outline text="Employer MSK programs #b2b"/>
           </outline>
           <outline text="Chronic pain">
             <outline text="Non-opioid pain programs"/>
             <outline text="Pain psychology"/>
+            <outline text="Pain-tracking apps"/>
+            <outline text="Fibromyalgia care"/>
+            <outline text="Interventional pain clinics"/>
             <outline text="Neuromodulation devices #regulated"/>
           </outline>
           <outline text="Ergonomics">
             <outline text="Workplace injury prevention #b2b"/>
-            <outline text="Ergonomic equipment"/>
             <outline text="Ergonomic assessments"/>
+            <outline text="Ergonomic equipment"/>
+            <outline text="Industrial exoskeletons #b2b"/>
           </outline>
         </outline>
         <outline text="Brain &amp; Neurological Health">
@@ -441,31 +456,42 @@
             <outline text="Menstrual health" _note="Cycle tracking and period products."/>
             <outline text="Women's health devices"/>
           </outline>
-          <outline text="Men's health">
+          <outline text="Men's health" _note="Many men's markets live in their need-based homes; see the cross-references. | See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology &gt; Hair loss | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Male fertility | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual health services &gt; Erectile dysfunction | See also: Health &amp; Wellness &gt; Mental Health &gt; Population-focused care &gt; Men's mental health">
             <outline text="Men's telehealth" _note="e.g. Hims model."/>
+            <outline text="Men's preventive care" _note="Reaching men who avoid checkups."/>
             <outline text="Testosterone therapy #regulated" _note="Schedule III in the US; prescribing without a deficiency is contested."/>
             <outline text="Prostate care" _note="BPH and prostate screening."/>
+            <outline text="Male pelvic health"/>
           </outline>
           <outline text="Children's health">
             <outline text="Pediatric telehealth"/>
             <outline text="Kids' urgent care"/>
+            <outline text="Pediatric specialty access #underserved" _note="Long waits for developmental and behavioral specialists."/>
+            <outline text="Adolescent health"/>
             <outline text="School health"/>
             <outline text="Early intervention"/>
           </outline>
           <outline text="LGBTQ+ health #regulated" _note="Legal status of gender-affirming care varies by jurisdiction and age. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual health services &gt; PrEP access">
+            <outline text="LGBTQ+ primary care"/>
             <outline text="HRT access" _note="e.g. Plume, FOLX."/>
             <outline text="Gender-affirming care navigation"/>
+            <outline text="LGBTQ+ family-building navigation"/>
             <outline text="Trans-inclusive provider directories"/>
           </outline>
           <outline text="Veterans' health #underserved">
             <outline text="VA care navigation"/>
             <outline text="Disability claims support"/>
             <outline text="Veteran PTSD programs"/>
+            <outline text="Veteran peer support"/>
+            <outline text="Military-family care"/>
           </outline>
           <outline text="Rural &amp; underserved care #underserved">
             <outline text="Rural telehealth"/>
             <outline text="Mobile clinics"/>
             <outline text="Community health workers"/>
+            <outline text="Medical interpretation"/>
+            <outline text="Refugee health navigation"/>
+            <outline text="Rural hospital operations #b2b"/>
           </outline>
         </outline>
         <outline text="Care Delivery" _note="See also: Wealth &gt; Insurance &gt; Health &amp; benefits">
@@ -809,6 +835,7 @@
             <outline text="Pet insurance"/>
             <outline text="Small-business insurance"/>
             <outline text="Crop insurance"/>
+            <outline text="Cyber insurance"/>
           </outline>
           <outline text="Insurtech">
             <outline text="Digital insurers" _note="e.g. Lemonade."/>
@@ -944,35 +971,50 @@
         <outline text="Couples &amp; Marriage" _note="See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings">
           <outline text="Premarital">
             <outline text="Premarital counseling"/>
-            <outline text="Compatibility assessments"/>
             <outline text="Premarital courses"/>
+            <outline text="Faith-based marriage prep"/>
+            <outline text="Compatibility assessments"/>
             <outline text="Prenups #regulated"/>
+            <outline text="Cohabitation agreements #regulated"/>
           </outline>
-          <outline text="Relationship coaching" _note="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.">
+          <outline text="Relationship coaching" _note="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">
             <outline text="Couples apps" _note="e.g. Paired, Lasting."/>
             <outline text="AI relationship coaching #ai-native"/>
+            <outline text="Relationship check-in tools"/>
             <outline text="Couples coaching"/>
             <outline text="Relationship courses"/>
           </outline>
           <outline text="Marriage enrichment">
             <outline text="Date-night services"/>
             <outline text="Couples activities"/>
+            <outline text="Anniversary experiences"/>
+            <outline text="Vow renewals"/>
             <outline text="Relationship retreats"/>
           </outline>
           <outline text="Long-distance relationships">
             <outline text="LDR apps"/>
             <outline text="Shared-experience tools"/>
+            <outline text="LDR care packages"/>
             <outline text="Visit planning"/>
           </outline>
           <outline text="Relationship repair" _note="Covers jealousy, insecurity, resentment and recurring conflict.">
             <outline text="Infidelity recovery"/>
             <outline text="Trust rebuilding"/>
+            <outline text="Marriage intensives"/>
+            <outline text="Couples programs in recovery" _note="For couples where one partner is in addiction recovery."/>
             <outline text="Discernment counseling"/>
           </outline>
           <outline text="Shared household" _note="See also: Wealth &gt; Money Management &gt; Life-event finance &gt; Couples' finances">
             <outline text="Household-task apps"/>
             <outline text="Shared calendars"/>
             <outline text="Mental-load tools"/>
+            <outline text="Household managers"/>
+          </outline>
+          <outline text="Couples communities" _note="Support for couples in specific situations.">
+            <outline text="Intercultural couples"/>
+            <outline text="LGBTQ+ couples"/>
+            <outline text="Military couples #underserved"/>
+            <outline text="Caregiver couples"/>
           </outline>
         </outline>
         <outline text="Intimacy &amp; Sexuality" _note="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">
@@ -1098,31 +1140,42 @@
         <outline text="Friendship &amp; Community" _note="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">
           <outline text="Making friends" _note="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">
             <outline text="Friendship apps" _note="e.g. Bumble BFF."/>
+            <outline text="Parent friendship apps" _note="e.g. Peanut."/>
+            <outline text="Activity-partner apps"/>
             <outline text="Friend-matching dinners"/>
             <outline text="Newcomer networks"/>
             <outline text="Online friendship communities"/>
           </outline>
           <outline text="Loneliness &amp; connection #underserved" _note="US Surgeon General advisory on loneliness, 2023.">
             <outline text="Third places"/>
+            <outline text="Community dinners"/>
             <outline text="Social prescribing"/>
             <outline text="Intergenerational programs"/>
+            <outline text="Friendly-visitor services"/>
+            <outline text="Warmlines" _note="Non-crisis peer phone lines."/>
           </outline>
           <outline text="Clubs &amp; groups">
             <outline text="Hobby clubs"/>
             <outline text="Social clubs"/>
             <outline text="Fandom communities"/>
+            <outline text="Alumni networks"/>
             <outline text="Local community groups"/>
             <outline text="Expat &amp; immigrant communities"/>
           </outline>
           <outline text="AI companions #trending #regulated #ai-native" _note="Open ethical and regulatory questions, especially for minors.">
             <outline text="Companion apps"/>
             <outline text="Voice companions"/>
+            <outline text="Senior AI companions"/>
+            <outline text="Companion robots"/>
             <outline text="Companion safety &amp; age checks"/>
           </outline>
           <outline text="Community platforms">
             <outline text="Community software #b2b"/>
+            <outline text="Club membership management #b2b"/>
+            <outline text="Group chat communities"/>
             <outline text="Social event apps"/>
             <outline text="Neighborhood networks"/>
+            <outline text="Mutual-aid platforms"/>
           </outline>
         </outline>
         <outline text="Social Skills" _note="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">
@@ -1936,16 +1989,42 @@
         <outline text="Cybersecurity &amp; Trust">
           <outline text="Identity &amp; zero trust">
             <outline text="Identity management"/>
-            <outline text="Zero-trust access"/>
             <outline text="Passwordless authentication"/>
+            <outline text="Privileged access management"/>
+            <outline text="Zero-trust access"/>
+            <outline text="Identity threat detection"/>
+            <outline text="Non-human identity #trending" _note="Credentials for service accounts and AI agents."/>
           </outline>
           <outline text="Security operations">
             <outline text="SOC automation #ai-native"/>
             <outline text="Threat detection"/>
+            <outline text="Managed detection &amp; response"/>
+            <outline text="Incident response"/>
+            <outline text="Threat intelligence"/>
             <outline text="Vulnerability management"/>
+          </outline>
+          <outline text="Cloud &amp; application security">
+            <outline text="Cloud security posture"/>
+            <outline text="Application security testing"/>
+            <outline text="Software supply-chain security"/>
+            <outline text="API security"/>
+            <outline text="Secrets management"/>
+          </outline>
+          <outline text="Data security">
+            <outline text="Data security posture"/>
+            <outline text="Encryption &amp; key management"/>
+            <outline text="Email security"/>
+            <outline text="Backup &amp; ransomware recovery"/>
+          </outline>
+          <outline text="Human risk">
+            <outline text="Security awareness training"/>
+            <outline text="Phishing simulation"/>
+            <outline text="Insider-risk management"/>
           </outline>
           <outline text="Security for AI #trending" _note="A new category.">
             <outline text="Model security"/>
+            <outline text="AI agent security"/>
+            <outline text="Prompt-injection defense"/>
             <outline text="AI red-teaming"/>
             <outline text="AI data-leak prevention"/>
           </outline>
@@ -1953,9 +2032,12 @@
             <outline text="Deepfake detection #trending"/>
             <outline text="Content provenance"/>
             <outline text="Content moderation"/>
+            <outline text="Trust &amp; safety operations"/>
             <outline text="Bot &amp; fraud detection"/>
+            <outline text="Account takeover prevention"/>
           </outline>
-          <outline text="Consumer security #consumer">
+          <outline text="Consumer security #consumer" _note="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Cyber insurance">
+            <outline text="Password managers"/>
             <outline text="Identity-theft protection"/>
             <outline text="Data-broker removal"/>
             <outline text="Scam protection" _note="Includes elder-fraud protection."/>

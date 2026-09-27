@@ -4,7 +4,7 @@
 
 Markets where someone could start a company, organized by the life domain or industry they serve.
 
-**2,145 nodes**: 8 pillars · 63 categories · 383 subcategories · 1691 leaves.
+**2,222 nodes**: 8 pillars · 63 categories · 388 subcategories · 1763 leaves.
 
 Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topic lives.
 
@@ -347,24 +347,38 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Joint & bone health**
   - Osteoarthritis
   - Knee pain
+  - Hip pain
   - Shoulder pain
+  - Joint replacement navigation
   - Osteoporosis
+- **Foot & ankle care**
+  - Plantar fasciitis
+  - Custom orthotics
+  - Podiatry telehealth
 - **Physical rehabilitation**
+  - Prehab: *Conditioning before surgery.*
   - Post-surgical rehab
   - Sports rehab
   - Occupational rehab
+  - Home rehab equipment
 - **Digital MSK 🔥**
   - Virtual physical therapy: *e.g. Hinge Health, Sword.*
   - Motion-tracking apps
+  - MSK care navigation: *Steering patients to conservative care before surgery.*
+  - Remote therapeutic monitoring `b2b`
   - Employer MSK programs `b2b`
 - **Chronic pain**
   - Non-opioid pain programs
   - Pain psychology
+  - Pain-tracking apps
+  - Fibromyalgia care
+  - Interventional pain clinics
   - Neuromodulation devices `regulated`
 - **Ergonomics**
   - Workplace injury prevention `b2b`
-  - Ergonomic equipment
   - Ergonomic assessments
+  - Ergonomic equipment
+  - Industrial exoskeletons `b2b`
 
 ### Brain & Neurological Health
 
@@ -430,28 +444,43 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Pelvic pain
   - Menstrual health: *Cycle tracking and period products.*
   - Women's health devices
-- **Men's health**
+- **Men's health**: *Many men's markets live in their need-based homes; see the cross-references.*
+  - ↗ *see* Care & Conditions > Specialty Care > Dermatology > Hair loss
+  - ↗ *see* Health & Wellness > Sexual & Reproductive Health > Fertility & family building > Male fertility
+  - ↗ *see* Health & Wellness > Sexual & Reproductive Health > Sexual health services > Erectile dysfunction
+  - ↗ *see* Health & Wellness > Mental Health > Population-focused care > Men's mental health
   - Men's telehealth: *e.g. Hims model.*
+  - Men's preventive care: *Reaching men who avoid checkups.*
   - Testosterone therapy `regulated`: *Schedule III in the US; prescribing without a deficiency is contested.*
   - Prostate care: *BPH and prostate screening.*
+  - Male pelvic health
 - **Children's health**
   - Pediatric telehealth
   - Kids' urgent care
+  - Pediatric specialty access `underserved`: *Long waits for developmental and behavioral specialists.*
+  - Adolescent health
   - School health
   - Early intervention
 - **LGBTQ+ health** `regulated`: *Legal status of gender-affirming care varies by jurisdiction and age.*
   - ↗ *see* Health & Wellness > Sexual & Reproductive Health > Sexual health services > PrEP access
+  - LGBTQ+ primary care
   - HRT access: *e.g. Plume, FOLX.*
   - Gender-affirming care navigation
+  - LGBTQ+ family-building navigation
   - Trans-inclusive provider directories
 - **Veterans' health** `underserved`
   - VA care navigation
   - Disability claims support
   - Veteran PTSD programs
+  - Veteran peer support
+  - Military-family care
 - **Rural & underserved care** `underserved`
   - Rural telehealth
   - Mobile clinics
   - Community health workers
+  - Medical interpretation
+  - Refugee health navigation
+  - Rural hospital operations `b2b`
 
 ### Care Delivery
 
@@ -773,6 +802,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Pet insurance
   - Small-business insurance
   - Crop insurance
+  - Cyber insurance
 - **Insurtech**
   - Digital insurers: *e.g. Lemonade.*
   - Embedded insurance
@@ -902,31 +932,46 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Premarital**
   - Premarital counseling
-  - Compatibility assessments
   - Premarital courses
+  - Faith-based marriage prep
+  - Compatibility assessments
   - Prenups `regulated`
+  - Cohabitation agreements `regulated`
 - **Relationship coaching**: *Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.*
+  - ↗ *see* Health & Wellness > Mental Health > Therapy access > Couples therapy
   - Couples apps: *e.g. Paired, Lasting.*
   - AI relationship coaching `ai-native`
+  - Relationship check-in tools
   - Couples coaching
   - Relationship courses
 - **Marriage enrichment**
   - Date-night services
   - Couples activities
+  - Anniversary experiences
+  - Vow renewals
   - Relationship retreats
 - **Long-distance relationships**
   - LDR apps
   - Shared-experience tools
+  - LDR care packages
   - Visit planning
 - **Relationship repair**: *Covers jealousy, insecurity, resentment and recurring conflict.*
   - Infidelity recovery
   - Trust rebuilding
+  - Marriage intensives
+  - Couples programs in recovery: *For couples where one partner is in addiction recovery.*
   - Discernment counseling
 - **Shared household**
   - ↗ *see* Wealth > Money Management > Life-event finance > Couples' finances
   - Household-task apps
   - Shared calendars
   - Mental-load tools
+  - Household managers
+- **Couples communities**: *Support for couples in specific situations.*
+  - Intercultural couples
+  - LGBTQ+ couples
+  - Military couples `underserved`
+  - Caregiver couples
 
 ### Intimacy & Sexuality
 
@@ -1046,27 +1091,38 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Making friends**: *Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.*
   - Friendship apps: *e.g. Bumble BFF.*
+  - Parent friendship apps: *e.g. Peanut.*
+  - Activity-partner apps
   - Friend-matching dinners
   - Newcomer networks
   - Online friendship communities
 - **Loneliness & connection** `underserved`: *US Surgeon General advisory on loneliness, 2023.*
   - Third places
+  - Community dinners
   - Social prescribing
   - Intergenerational programs
+  - Friendly-visitor services
+  - Warmlines: *Non-crisis peer phone lines.*
 - **Clubs & groups**
   - Hobby clubs
   - Social clubs
   - Fandom communities
+  - Alumni networks
   - Local community groups
   - Expat & immigrant communities
 - **AI companions 🔥** `regulated` `ai-native`: *Open ethical and regulatory questions, especially for minors.*
   - Companion apps
   - Voice companions
+  - Senior AI companions
+  - Companion robots
   - Companion safety & age checks
 - **Community platforms**
   - Community software `b2b`
+  - Club membership management `b2b`
+  - Group chat communities
   - Social event apps
   - Neighborhood networks
+  - Mutual-aid platforms
 
 ### Social Skills
 
@@ -1823,22 +1879,49 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Identity & zero trust**
   - Identity management
-  - Zero-trust access
   - Passwordless authentication
+  - Privileged access management
+  - Zero-trust access
+  - Identity threat detection
+  - Non-human identity 🔥: *Credentials for service accounts and AI agents.*
 - **Security operations**
   - SOC automation `ai-native`
   - Threat detection
+  - Managed detection & response
+  - Incident response
+  - Threat intelligence
   - Vulnerability management
+- **Cloud & application security**
+  - Cloud security posture
+  - Application security testing
+  - Software supply-chain security
+  - API security
+  - Secrets management
+- **Data security**
+  - Data security posture
+  - Encryption & key management
+  - Email security
+  - Backup & ransomware recovery
+- **Human risk**
+  - Security awareness training
+  - Phishing simulation
+  - Insider-risk management
 - **Security for AI 🔥**: *A new category.*
   - Model security
+  - AI agent security
+  - Prompt-injection defense
   - AI red-teaming
   - AI data-leak prevention
 - **Trust & safety**
   - Deepfake detection 🔥
   - Content provenance
   - Content moderation
+  - Trust & safety operations
   - Bot & fraud detection
+  - Account takeover prevention
 - **Consumer security** `consumer`
+  - ↗ *see* Wealth > Insurance > Specialty lines > Cyber insurance
+  - Password managers
   - Identity-theft protection
   - Data-broker removal
   - Scam protection: *Includes elder-fraud protection.*

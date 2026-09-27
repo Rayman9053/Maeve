@@ -1,5 +1,56 @@
 # Changelog
 
+## v7: strengthen the next five weakest branches
+
+Input: `source/taxonomy-v6.yaml`. The branches were the ones named in `reports/handoff.md` (v6). No pillar or
+category was added or removed, no nodes were cut, and no existing node was renamed. Every subcategory in
+these branches now has 3–6 specific leaves, and six subcategories are new. The additions are listed below.
+
+| Old location (v6) | Before | After | Reason |
+|---|---|---|---|
+| Couples & Marriage | (none) | `Couples communities` | Gap fill: intercultural, LGBTQ+, military and caregiver couples |
+| Couples & Marriage › Relationship coaching | (no cross-ref) | `see:` → `Couples therapy` | Links coaching to the clinical side |
+| Pain & Musculoskeletal | (none) | `Foot & ankle care` | Gap fill |
+| Population-Specific Care › Men's health | (no cross-ref) | `see:` → `Hair loss` · `Male fertility` · `Erectile dysfunction` · `Men's mental health` | Men's markets are kept once in their need-based homes; this makes them findable |
+| Cybersecurity & Trust | (none) | `Cloud & application security` · `Data security` · `Human risk` | Gap fill: core security markets were missing |
+| Cybersecurity & Trust › Consumer security | (no cross-ref) | `see:` → `Cyber insurance` | New leaf in Wealth › Insurance › Specialty lines; every insurance line lives in Wealth |
+
+<!-- ADDITIONS:v7:START -->
+71 added nodes.
+
+- **Care & Conditions › Pain & Musculoskeletal › Joint & bone health**: Hip pain · Joint replacement navigation
+- **Care & Conditions › Pain & Musculoskeletal › Foot & ankle care**: Plantar fasciitis · Custom orthotics · Podiatry telehealth
+- **Care & Conditions › Pain & Musculoskeletal › Physical rehabilitation**: Prehab · Home rehab equipment
+- **Care & Conditions › Pain & Musculoskeletal › Digital MSK**: MSK care navigation · Remote therapeutic monitoring
+- **Care & Conditions › Pain & Musculoskeletal › Chronic pain**: Pain-tracking apps · Fibromyalgia care · Interventional pain clinics
+- **Care & Conditions › Pain & Musculoskeletal › Ergonomics**: Industrial exoskeletons
+- **Care & Conditions › Population-Specific Care › Men's health**: Men's preventive care · Male pelvic health
+- **Care & Conditions › Population-Specific Care › Children's health**: Pediatric specialty access · Adolescent health
+- **Care & Conditions › Population-Specific Care › LGBTQ+ health**: LGBTQ+ primary care · LGBTQ+ family-building navigation
+- **Care & Conditions › Population-Specific Care › Veterans' health**: Veteran peer support · Military-family care
+- **Care & Conditions › Population-Specific Care › Rural & underserved care**: Medical interpretation · Refugee health navigation · Rural hospital operations
+- **Relationships › Couples & Marriage › Premarital**: Faith-based marriage prep · Cohabitation agreements
+- **Relationships › Couples & Marriage › Relationship coaching**: Relationship check-in tools
+- **Relationships › Couples & Marriage › Marriage enrichment**: Anniversary experiences · Vow renewals
+- **Relationships › Couples & Marriage › Long-distance relationships**: LDR care packages
+- **Relationships › Couples & Marriage › Relationship repair**: Marriage intensives · Couples programs in recovery
+- **Relationships › Couples & Marriage › Shared household**: Household managers
+- **Relationships › Couples & Marriage › Couples communities**: Intercultural couples · LGBTQ+ couples · Military couples · Caregiver couples
+- **Relationships › Friendship & Community › Making friends**: Parent friendship apps · Activity-partner apps
+- **Relationships › Friendship & Community › Loneliness & connection**: Community dinners · Friendly-visitor services · Warmlines
+- **Relationships › Friendship & Community › Clubs & groups**: Alumni networks
+- **Relationships › Friendship & Community › AI companions**: Senior AI companions · Companion robots
+- **Relationships › Friendship & Community › Community platforms**: Club membership management · Group chat communities · Mutual-aid platforms
+- **Enterprise & AI › Cybersecurity & Trust › Identity & zero trust**: Privileged access management · Identity threat detection · Non-human identity
+- **Enterprise & AI › Cybersecurity & Trust › Security operations**: Managed detection & response · Incident response · Threat intelligence
+- **Enterprise & AI › Cybersecurity & Trust › Cloud & application security**: Cloud security posture · Application security testing · Software supply-chain security · API security · Secrets management
+- **Enterprise & AI › Cybersecurity & Trust › Data security**: Data security posture · Encryption & key management · Email security · Backup & ransomware recovery
+- **Enterprise & AI › Cybersecurity & Trust › Human risk**: Security awareness training · Phishing simulation · Insider-risk management
+- **Enterprise & AI › Cybersecurity & Trust › Security for AI**: AI agent security · Prompt-injection defense
+- **Enterprise & AI › Cybersecurity & Trust › Trust & safety**: Trust & safety operations · Account takeover prevention
+- **Enterprise & AI › Cybersecurity & Trust › Consumer security**: Password managers
+<!-- ADDITIONS:v7:END -->
+
 ## v6: strengthen the next five weakest branches
 
 Input: `source/taxonomy-v5.yaml`. The branches were the ones named in `reports/handoff.md` (v5). No pillar or

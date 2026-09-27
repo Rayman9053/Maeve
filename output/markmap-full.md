@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,145 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,222 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Employee wellbeing &gt; Wellness programs">Prevention &amp; Diagnostics ↗</span>
@@ -295,24 +295,38 @@ markmap:
 - Joint &amp; bone health
   - Osteoarthritis
   - Knee pain
+  - Hip pain
   - Shoulder pain
+  - Joint replacement navigation
   - Osteoporosis
+- Foot &amp; ankle care
+  - Plantar fasciitis
+  - Custom orthotics
+  - Podiatry telehealth
 - Physical rehabilitation
+  - <span title="Conditioning before surgery.">Prehab</span>
   - Post-surgical rehab
   - Sports rehab
   - Occupational rehab
+  - Home rehab equipment
 - Digital MSK 🔥
   - <span title="e.g. Hinge Health, Sword.">Virtual physical therapy</span>
   - Motion-tracking apps
+  - <span title="Steering patients to conservative care before surgery.">MSK care navigation</span>
+  - <span title="Tags: b2b">Remote therapeutic monitoring</span>
   - <span title="Tags: b2b">Employer MSK programs</span>
 - Chronic pain
   - Non-opioid pain programs
   - Pain psychology
+  - Pain-tracking apps
+  - Fibromyalgia care
+  - Interventional pain clinics
   - <span title="Tags: regulated">Neuromodulation devices</span>
 - Ergonomics
   - <span title="Tags: b2b">Workplace injury prevention</span>
-  - Ergonomic equipment
   - Ergonomic assessments
+  - Ergonomic equipment
+  - <span title="Tags: b2b">Industrial exoskeletons</span>
 ### Brain &amp; Neurological Health
 - <span title="Framed as neurodevelopmental difference, not mental illness. | See also: Mind, Meaning &amp; Growth &gt; Career Development &gt; Inclusive employment &gt; Neurodivergent hiring | See also: Relationships &gt; Social Skills &gt; Neurodivergent social skills | See also: Mind, Meaning &amp; Growth &gt; Productivity &gt; ADHD-friendly productivity">Neurodivergence ↗</span>
   - ADHD
@@ -369,27 +383,38 @@ markmap:
   - Pelvic pain
   - <span title="Cycle tracking and period products.">Menstrual health</span>
   - Women's health devices
-- Men's health
+- <span title="Many men&#x27;s markets live in their need-based homes; see the cross-references. | See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology &gt; Hair loss | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Male fertility | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual health services &gt; Erectile dysfunction | See also: Health &amp; Wellness &gt; Mental Health &gt; Population-focused care &gt; Men&#x27;s mental health">Men's health ↗</span>
   - <span title="e.g. Hims model.">Men's telehealth</span>
+  - <span title="Reaching men who avoid checkups.">Men's preventive care</span>
   - <span title="Schedule III in the US; prescribing without a deficiency is contested. | Tags: regulated">Testosterone therapy</span>
   - <span title="BPH and prostate screening.">Prostate care</span>
+  - Male pelvic health
 - Children's health
   - Pediatric telehealth
   - Kids' urgent care
+  - <span title="Long waits for developmental and behavioral specialists. | Tags: underserved">Pediatric specialty access</span>
+  - Adolescent health
   - School health
   - Early intervention
 - <span title="Legal status of gender-affirming care varies by jurisdiction and age. | Tags: regulated | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual health services &gt; PrEP access">LGBTQ+ health ↗</span>
+  - LGBTQ+ primary care
   - <span title="e.g. Plume, FOLX.">HRT access</span>
   - Gender-affirming care navigation
+  - LGBTQ+ family-building navigation
   - Trans-inclusive provider directories
 - <span title="Tags: underserved">Veterans' health</span>
   - VA care navigation
   - Disability claims support
   - Veteran PTSD programs
+  - Veteran peer support
+  - Military-family care
 - <span title="Tags: underserved">Rural &amp; underserved care</span>
   - Rural telehealth
   - Mobile clinics
   - Community health workers
+  - Medical interpretation
+  - Refugee health navigation
+  - <span title="Tags: b2b">Rural hospital operations</span>
 ### <span title="See also: Wealth &gt; Insurance &gt; Health &amp; benefits">Care Delivery ↗</span>
 - Primary &amp; urgent care
   - Tech-enabled primary care
@@ -675,6 +700,7 @@ markmap:
   - Pet insurance
   - Small-business insurance
   - Crop insurance
+  - Cyber insurance
 - Insurtech
   - <span title="e.g. Lemonade.">Digital insurers</span>
   - Embedded insurance
@@ -785,30 +811,44 @@ markmap:
 ### <span title="See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings">Couples &amp; Marriage ↗</span>
 - Premarital
   - Premarital counseling
-  - Compatibility assessments
   - Premarital courses
+  - Faith-based marriage prep
+  - Compatibility assessments
   - <span title="Tags: regulated">Prenups</span>
-- <span title="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.">Relationship coaching</span>
+  - <span title="Tags: regulated">Cohabitation agreements</span>
+- <span title="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">Relationship coaching ↗</span>
   - <span title="e.g. Paired, Lasting.">Couples apps</span>
   - <span title="Tags: ai-native">AI relationship coaching</span>
+  - Relationship check-in tools
   - Couples coaching
   - Relationship courses
 - Marriage enrichment
   - Date-night services
   - Couples activities
+  - Anniversary experiences
+  - Vow renewals
   - Relationship retreats
 - Long-distance relationships
   - LDR apps
   - Shared-experience tools
+  - LDR care packages
   - Visit planning
 - <span title="Covers jealousy, insecurity, resentment and recurring conflict.">Relationship repair</span>
   - Infidelity recovery
   - Trust rebuilding
+  - Marriage intensives
+  - <span title="For couples where one partner is in addiction recovery.">Couples programs in recovery</span>
   - Discernment counseling
 - <span title="See also: Wealth &gt; Money Management &gt; Life-event finance &gt; Couples&#x27; finances">Shared household ↗</span>
   - Household-task apps
   - Shared calendars
   - Mental-load tools
+  - Household managers
+- <span title="Support for couples in specific situations.">Couples communities</span>
+  - Intercultural couples
+  - LGBTQ+ couples
+  - <span title="Tags: underserved">Military couples</span>
+  - Caregiver couples
 ### <span title="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
 - Therapy &amp; coaching
   - Sex therapists
@@ -911,27 +951,38 @@ markmap:
 ### <span title="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">Friendship &amp; Community ↗</span>
 - <span title="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">Making friends</span>
   - <span title="e.g. Bumble BFF.">Friendship apps</span>
+  - <span title="e.g. Peanut.">Parent friendship apps</span>
+  - Activity-partner apps
   - Friend-matching dinners
   - Newcomer networks
   - Online friendship communities
 - <span title="US Surgeon General advisory on loneliness, 2023. | Tags: underserved">Loneliness &amp; connection</span>
   - Third places
+  - Community dinners
   - Social prescribing
   - Intergenerational programs
+  - Friendly-visitor services
+  - <span title="Non-crisis peer phone lines.">Warmlines</span>
 - Clubs &amp; groups
   - Hobby clubs
   - Social clubs
   - Fandom communities
+  - Alumni networks
   - Local community groups
   - Expat &amp; immigrant communities
 - <span title="Open ethical and regulatory questions, especially for minors. | Tags: regulated, ai-native">AI companions 🔥</span>
   - Companion apps
   - Voice companions
+  - Senior AI companions
+  - Companion robots
   - Companion safety &amp; age checks
 - Community platforms
   - <span title="Tags: b2b">Community software</span>
+  - <span title="Tags: b2b">Club membership management</span>
+  - Group chat communities
   - Social event apps
   - Neighborhood networks
+  - Mutual-aid platforms
 ### <span title="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">Social Skills</span>
 - Communication training
   - <span title="Active listening, assertiveness and conversation skills.">Communication coaching</span>
@@ -1598,22 +1649,48 @@ markmap:
 ### Cybersecurity &amp; Trust
 - Identity &amp; zero trust
   - Identity management
-  - Zero-trust access
   - Passwordless authentication
+  - Privileged access management
+  - Zero-trust access
+  - Identity threat detection
+  - <span title="Credentials for service accounts and AI agents.">Non-human identity 🔥</span>
 - Security operations
   - <span title="Tags: ai-native">SOC automation</span>
   - Threat detection
+  - Managed detection &amp; response
+  - Incident response
+  - Threat intelligence
   - Vulnerability management
+- Cloud &amp; application security
+  - Cloud security posture
+  - Application security testing
+  - Software supply-chain security
+  - API security
+  - Secrets management
+- Data security
+  - Data security posture
+  - Encryption &amp; key management
+  - Email security
+  - Backup &amp; ransomware recovery
+- Human risk
+  - Security awareness training
+  - Phishing simulation
+  - Insider-risk management
 - <span title="A new category.">Security for AI 🔥</span>
   - Model security
+  - AI agent security
+  - Prompt-injection defense
   - AI red-teaming
   - AI data-leak prevention
 - Trust &amp; safety
   - Deepfake detection 🔥
   - Content provenance
   - Content moderation
+  - Trust &amp; safety operations
   - Bot &amp; fraud detection
-- <span title="Tags: consumer">Consumer security</span>
+  - Account takeover prevention
+- <span title="Tags: consumer | See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Cyber insurance">Consumer security ↗</span>
+  - Password managers
   - Identity-theft protection
   - Data-broker removal
   - <span title="Includes elder-fraud protection.">Scam protection</span>

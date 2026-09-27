@@ -402,44 +402,29 @@ children:
             children:
               - {name: Osteoarthritis}
               - {name: Knee pain}
-              - {name: Hip pain}
               - {name: Shoulder pain}
-              - {name: Joint replacement navigation}
               - {name: Osteoporosis}
-          - name: Foot & ankle care
-            children:
-              - {name: Plantar fasciitis}
-              - {name: Custom orthotics}
-              - {name: Podiatry telehealth}
           - name: Physical rehabilitation
             children:
-              - {name: Prehab, note: "Conditioning before surgery."}
               - {name: Post-surgical rehab}
               - {name: Sports rehab}
               - {name: Occupational rehab}
-              - {name: Home rehab equipment}
           - name: Digital MSK
             tags: [trending]
             children:
               - {name: Virtual physical therapy, note: "e.g. Hinge Health, Sword."}
               - {name: Motion-tracking apps}
-              - {name: MSK care navigation, note: "Steering patients to conservative care before surgery."}
-              - {name: Remote therapeutic monitoring, tags: [b2b]}
               - {name: Employer MSK programs, tags: [b2b]}
           - name: Chronic pain
             children:
               - {name: Non-opioid pain programs}
               - {name: Pain psychology}
-              - {name: Pain-tracking apps}
-              - {name: Fibromyalgia care}
-              - {name: Interventional pain clinics}
               - {name: Neuromodulation devices, tags: [regulated]}
           - name: Ergonomics
             children:
               - {name: Workplace injury prevention, tags: [b2b]}
-              - {name: Ergonomic assessments}
               - {name: Ergonomic equipment}
-              - {name: Industrial exoskeletons, tags: [b2b]}
+              - {name: Ergonomic assessments}
 
       - name: Brain & Neurological Health
         children:
@@ -522,24 +507,14 @@ children:
               - {name: Menstrual health, note: "Cycle tracking and period products."}
               - {name: Women's health devices}
           - name: Men's health
-            note: "Many men's markets live in their need-based homes; see the cross-references."
-            see:
-              - "Care & Conditions > Specialty Care > Dermatology > Hair loss"
-              - "Health & Wellness > Sexual & Reproductive Health > Fertility & family building > Male fertility"
-              - "Health & Wellness > Sexual & Reproductive Health > Sexual health services > Erectile dysfunction"
-              - "Health & Wellness > Mental Health > Population-focused care > Men's mental health"
             children:
               - {name: Men's telehealth, note: "e.g. Hims model."}
-              - {name: Men's preventive care, note: "Reaching men who avoid checkups."}
               - {name: Testosterone therapy, tags: [regulated], note: "Schedule III in the US; prescribing without a deficiency is contested."}
               - {name: Prostate care, note: "BPH and prostate screening."}
-              - {name: Male pelvic health}
           - name: Children's health
             children:
               - {name: Pediatric telehealth}
               - {name: Kids' urgent care}
-              - {name: Pediatric specialty access, tags: [underserved], note: "Long waits for developmental and behavioral specialists."}
-              - {name: Adolescent health}
               - {name: School health}
               - {name: Early intervention}
           - name: LGBTQ+ health
@@ -547,10 +522,8 @@ children:
             note: "Legal status of gender-affirming care varies by jurisdiction and age."
             see: ["Health & Wellness > Sexual & Reproductive Health > Sexual health services > PrEP access"]
             children:
-              - {name: LGBTQ+ primary care}
               - {name: HRT access, note: "e.g. Plume, FOLX."}
               - {name: Gender-affirming care navigation}
-              - {name: LGBTQ+ family-building navigation}
               - {name: Trans-inclusive provider directories}
           - name: Veterans' health
             tags: [underserved]
@@ -558,17 +531,12 @@ children:
               - {name: VA care navigation}
               - {name: Disability claims support}
               - {name: Veteran PTSD programs}
-              - {name: Veteran peer support}
-              - {name: Military-family care}
           - name: Rural & underserved care
             tags: [underserved]
             children:
               - {name: Rural telehealth}
               - {name: Mobile clinics}
               - {name: Community health workers}
-              - {name: Medical interpretation}
-              - {name: Refugee health navigation}
-              - {name: Rural hospital operations, tags: [b2b]}
 
       - name: Care Delivery
         see: ["Wealth > Insurance > Health & benefits"]
@@ -955,7 +923,6 @@ children:
               - {name: Pet insurance}
               - {name: Small-business insurance}
               - {name: Crop insurance}
-              - {name: Cyber insurance}
           - name: Insurtech
             children:
               - {name: Digital insurers, note: "e.g. Lemonade."}
@@ -1109,40 +1076,31 @@ children:
           - name: Premarital
             children:
               - {name: Premarital counseling}
-              - {name: Premarital courses}
-              - {name: Faith-based marriage prep}
               - {name: Compatibility assessments}
+              - {name: Premarital courses}
               - {name: Prenups, tags: [regulated]}
-              - {name: Cohabitation agreements, tags: [regulated]}
           - name: Relationship coaching
             note: "Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns."
-            see: ["Health & Wellness > Mental Health > Therapy access > Couples therapy"]
             children:
               - {name: Couples apps, note: "e.g. Paired, Lasting."}
               - {name: AI relationship coaching, tags: [ai-native]}
-              - {name: Relationship check-in tools}
               - {name: Couples coaching}
               - {name: Relationship courses}
           - name: Marriage enrichment
             children:
               - {name: Date-night services}
               - {name: Couples activities}
-              - {name: Anniversary experiences}
-              - {name: Vow renewals}
               - {name: Relationship retreats}
           - name: Long-distance relationships
             children:
               - {name: LDR apps}
               - {name: Shared-experience tools}
-              - {name: LDR care packages}
               - {name: Visit planning}
           - name: Relationship repair
             note: "Covers jealousy, insecurity, resentment and recurring conflict."
             children:
               - {name: Infidelity recovery}
               - {name: Trust rebuilding}
-              - {name: Marriage intensives}
-              - {name: Couples programs in recovery, note: "For couples where one partner is in addiction recovery."}
               - {name: Discernment counseling}
           - name: Shared household
             see: ["Wealth > Money Management > Life-event finance > Couples' finances"]
@@ -1150,14 +1108,6 @@ children:
               - {name: Household-task apps}
               - {name: Shared calendars}
               - {name: Mental-load tools}
-              - {name: Household managers}
-          - name: Couples communities
-            note: "Support for couples in specific situations."
-            children:
-              - {name: Intercultural couples}
-              - {name: LGBTQ+ couples}
-              - {name: Military couples, tags: [underserved]}
-              - {name: Caregiver couples}
 
       - name: Intimacy & Sexuality
         note: "Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health & Wellness > Sexual & Reproductive Health."
@@ -1303,8 +1253,6 @@ children:
             note: "Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups."
             children:
               - {name: Friendship apps, note: "e.g. Bumble BFF."}
-              - {name: Parent friendship apps, note: "e.g. Peanut."}
-              - {name: Activity-partner apps}
               - {name: Friend-matching dinners}
               - {name: Newcomer networks}
               - {name: Online friendship communities}
@@ -1313,17 +1261,13 @@ children:
             note: "US Surgeon General advisory on loneliness, 2023."
             children:
               - {name: Third places}
-              - {name: Community dinners}
               - {name: Social prescribing}
               - {name: Intergenerational programs}
-              - {name: Friendly-visitor services}
-              - {name: Warmlines, note: "Non-crisis peer phone lines."}
           - name: Clubs & groups
             children:
               - {name: Hobby clubs}
               - {name: Social clubs}
               - {name: Fandom communities}
-              - {name: Alumni networks}
               - {name: Local community groups}
               - {name: Expat & immigrant communities}
           - name: AI companions
@@ -1332,17 +1276,12 @@ children:
             children:
               - {name: Companion apps}
               - {name: Voice companions}
-              - {name: Senior AI companions}
-              - {name: Companion robots}
               - {name: Companion safety & age checks}
           - name: Community platforms
             children:
               - {name: Community software, tags: [b2b]}
-              - {name: Club membership management, tags: [b2b]}
-              - {name: Group chat communities}
               - {name: Social event apps}
               - {name: Neighborhood networks}
-              - {name: Mutual-aid platforms}
 
       - name: Social Skills
         note: "Interpersonal skills training sold as coaching, courses, apps and corporate programs."
@@ -2234,44 +2173,18 @@ children:
           - name: Identity & zero trust
             children:
               - {name: Identity management}
-              - {name: Passwordless authentication}
-              - {name: Privileged access management}
               - {name: Zero-trust access}
-              - {name: Identity threat detection}
-              - {name: Non-human identity, tags: [trending], note: "Credentials for service accounts and AI agents."}
+              - {name: Passwordless authentication}
           - name: Security operations
             children:
               - {name: SOC automation, tags: [ai-native]}
               - {name: Threat detection}
-              - {name: Managed detection & response}
-              - {name: Incident response}
-              - {name: Threat intelligence}
               - {name: Vulnerability management}
-          - name: Cloud & application security
-            children:
-              - {name: Cloud security posture}
-              - {name: Application security testing}
-              - {name: Software supply-chain security}
-              - {name: API security}
-              - {name: Secrets management}
-          - name: Data security
-            children:
-              - {name: Data security posture}
-              - {name: Encryption & key management}
-              - {name: Email security}
-              - {name: Backup & ransomware recovery}
-          - name: Human risk
-            children:
-              - {name: Security awareness training}
-              - {name: Phishing simulation}
-              - {name: Insider-risk management}
           - name: Security for AI
             tags: [trending]
             note: "A new category."
             children:
               - {name: Model security}
-              - {name: AI agent security}
-              - {name: Prompt-injection defense}
               - {name: AI red-teaming}
               - {name: AI data-leak prevention}
           - name: Trust & safety
@@ -2279,14 +2192,10 @@ children:
               - {name: Deepfake detection, tags: [trending]}
               - {name: Content provenance}
               - {name: Content moderation}
-              - {name: Trust & safety operations}
               - {name: Bot & fraud detection}
-              - {name: Account takeover prevention}
           - name: Consumer security
             tags: [consumer]
-            see: ["Wealth > Insurance > Specialty lines > Cyber insurance"]
             children:
-              - {name: Password managers}
               - {name: Identity-theft protection}
               - {name: Data-broker removal}
               - {name: Scam protection, note: "Includes elder-fraud protection."}
