@@ -1,5 +1,18 @@
 # Handoff
 
+## v13: solo-founder models are tags now
+
+The four solo-founder labels now live in `taxonomy.yaml` as tags: `service-business`, `content`, `marketplace` and
+`no-code-friendly`. `data/solo-founder.csv` is gone. The move was lossless: `mindmap-solofounder.html` still shows
+the same 543 leaves with the same badges.
+- Where a whole subcategory shared a model, the tag sits on the subcategory (29 cases), following the existing rule
+  that a tag covers its subtree.
+- `validate.py` now rejects any model tag other than `content` inside a `regulated` subtree.
+- The model tags also appear in the other outputs, like any tag: full-map tooltips, `taxonomy.md`, OPML
+  hashtags and FreeMind attributes.
+
+---
+
 ## v12: actionability prune
 
 Every leaf was scored 1–5 on startup-actionability. The 423 leaves scoring 1–2 moved to `taxonomy-archive.yaml`,

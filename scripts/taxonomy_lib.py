@@ -7,7 +7,12 @@ import yaml
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TAXONOMY_PATH = os.path.join(ROOT_DIR, "taxonomy.yaml")
 
-TAG_VOCAB = ("trending", "underserved", "regulated", "b2b", "consumer", "ai-native")
+TAG_VOCAB = ("trending", "underserved", "regulated", "b2b", "consumer", "ai-native",
+             # solo-founder business models (scripts/solofounder.py has the rubric)
+             "service-business", "content", "marketplace", "no-code-friendly")
+# Under a `regulated` tag a solo founder can write about the topic but not practise it.
+REGULATED_ONLY = {"content"}
+SOLO_MODELS = ("service-business", "content", "marketplace", "no-code-friendly")
 ALLOWED_KEYS = {"name", "note", "tags", "see", "children"}
 MAX_DEPTH = 4
 MIN_CHILDREN, MAX_CHILDREN = 3, 8

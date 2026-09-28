@@ -38,7 +38,6 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 | `reports/prune-preview.md` | The approved preview of the v12 prune: every leaf that moved and every structural change. |
 | `data/actionability.csv` | Startup-actionability score (1–5) for every leaf in `taxonomy.yaml`. |
 | `data/actionability-archived.csv` | Scores of the archived leaves, at their original paths. |
-| `data/solo-founder.csv` | Solo-founder business-model labels for every leaf (empty = not in the view). |
 | `data/prune-resolution.yaml` | How the prune handles subcategories it thins out (folds, merges, renames). |
 | `source/taxonomy-v0.md` | The original, unmodified input. Kept so the diff stays checkable. |
 | `source/taxonomy-v1.yaml` | Snapshot of v1, the base for the v2 changes. Each iteration snapshots the version it changes. |
@@ -46,7 +45,7 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 | `scripts/build.py` | Generates everything in `output/` plus `reports/stats.md`. |
 | `scripts/reconcile.py` | Proves no node was dropped silently between two versions. |
 | `scripts/prune.py` | Actionability prune: `--check` (every leaf scored), `--preview`, `--apply`. |
-| `scripts/solofounder.py` | Rubric, checks and filter for the solo-founder view; `--check` validates the labels. |
+| `scripts/solofounder.py` | Rubric and filter for the solo-founder view; run alone for counts. |
 | `scripts/yaml_style.py` | Writes taxonomy YAML in the house style. Run alone to check `taxonomy.yaml` round-trips byte for byte. |
 | `scripts/audit_stats.py` | Parses the legacy markdown format and prints audit stats. |
 | `scripts/taxonomy_lib.py` | Shared loader, walker and stats. |
@@ -56,7 +55,8 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 ```yaml
 - name: GLP-1 economy              # required, 1-4 words (excluding "&"), unique among siblings
   note: "Short scope/caveat/examples (as of 2026)."   # optional
-  tags: [trending, regulated]      # optional: trending, underserved, regulated, b2b, consumer, ai-native
+  tags: [trending, regulated]      # optional: trending, underserved, regulated, b2b, consumer, ai-native,
+                                   #   service-business, content, marketplace, no-code-friendly
   see: ["Pillar > Category > Subcategory > Leaf"]     # optional exact-path cross-references
   children: [...]                  # optional
 ```
@@ -86,6 +86,7 @@ Keep the topic once and add a `see:` in the other place.
 - `trending`: a clear 2024–26 funding or adoption inflection, not merely "growing"
 - `regulated`: needs licensing, clearance, or carries notable legal exposure
 - `underserved`: obvious unmet demand
+- `service-business`, `content`, `marketplace`, `no-code-friendly`: how a solo founder with little capital could start it (see the solo-founder view below)
 
 ## Iterating (the repeatable loop)
 
@@ -124,8 +125,8 @@ The archive accumulates across prunes. To bring a leaf back, move it into `taxon
 ## Solo-founder view
 
 `output/mindmap-solofounder.html` shows only the leaves that one founder with little capital could start:
-within a few months, for under about $10k, with no professional license. Each leaf in `data/solo-founder.csv` has
-zero or more of these labels, shown as badges:
+within a few months, for under about $10k, with no professional license. Four tags in `taxonomy.yaml` mark how,
+and the view shows them as badges on each leaf:
 
 | Badge | Model | Meaning |
 |---|---|---|
@@ -134,10 +135,10 @@ zero or more of these labels, shown as badges:
 | 🤝 | `marketplace` | Fragmented supply and demand to match, with no inventory or license |
 | 🧩 | `no-code-friendly` | An MVP a non-engineer can ship with no-code tools and AI APIs |
 
-Leaves inside a `regulated` subtree may only be labelled `content`: writing about the topic is fine, but
-practising it needs a license. `python3 scripts/solofounder.py --check` enforces this (it runs in `make validate`)
-and also flags unlabelled leaves and rows whose path no longer exists. Update the CSV whenever you add, rename or move a
-leaf. The labels are kept out of `taxonomy.yaml` because they describe one audience's constraints, not the market.
+Like every tag, these cover their subtree: a subcategory where every leaf shares a model carries the tag once.
+Inside a `regulated` subtree only `content` is allowed, because writing about the topic is fine but practising it
+needs a license; `validate.py` enforces this. Tag new leaves as you add them; an untagged leaf is simply left out
+of the view.
 
 ## Conventions
 

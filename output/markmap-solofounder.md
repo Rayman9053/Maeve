@@ -25,16 +25,16 @@ markmap:
 - Sports nutrition
   - <span title="Solo-founder models: content">Endurance fueling ✍️</span>
   - <span title="Solo-founder models: content">Strength &amp; protein ✍️</span>
-- Special diets
+- <span title="Tags: content">Special diets</span>
   - <span title="Solo-founder models: content">Plant-based ✍️</span>
   - <span title="Solo-founder models: content">Gluten-free ✍️</span>
   - <span title="Halal, kosher, Ayurvedic. | Solo-founder models: content, no-code-friendly">Culturally tailored diets ✍️🧩</span>
 ### Fitness &amp; Recovery
-- Cardio &amp; endurance
+- <span title="Tags: content">Cardio &amp; endurance</span>
   - <span title="Solo-founder models: content">Running ✍️</span>
   - <span title="Solo-founder models: content">Cycling ✍️</span>
   - <span title="Solo-founder models: content">Zone-2 &amp; VO2max training ✍️</span>
-- Mobility &amp; flexibility
+- <span title="Tags: content">Mobility &amp; flexibility</span>
   - <span title="Solo-founder models: content">Stretching ✍️</span>
   - <span title="Solo-founder models: service-business, content">Yoga 🛠️✍️</span>
   - <span title="Solo-founder models: content">Pilates 🔥 ✍️</span>
@@ -44,7 +44,7 @@ markmap:
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI personal trainers 🧩</span>
 - Gyms &amp; studios
   - <span title="Tags: b2b | Solo-founder models: no-code-friendly">Gym management software 🧩</span>
-- Adaptive &amp; inclusive fitness
+- <span title="Tags: service-business">Adaptive &amp; inclusive fitness</span>
   - <span title="Solo-founder models: service-business, content">Senior fitness 🛠️✍️</span>
   - <span title="Solo-founder models: service-business, content">Plus-size fitness 🛠️✍️</span>
   - <span title="Fitness for people with disabilities. | Solo-founder models: service-business">Adaptive training 🛠️</span>
@@ -64,7 +64,7 @@ markmap:
 - Sleep products
   - <span title="Solo-founder models: content, no-code-friendly">Sleep audio apps ✍️🧩</span>
 ### <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence | See also: Mind, Meaning &amp; Growth &gt; Contemplative Practice &gt; Meditation | See also: Relationships &gt; Death, Grief &amp; Legacy &gt; Grief support">Mental Health ↗</span>
-- Stress &amp; burnout
+- <span title="Tags: service-business">Stress &amp; burnout</span>
   - <span title="Solo-founder models: service-business, content">Burnout 🛠️✍️</span>
   - <span title="Solo-founder models: service-business">Workplace stress 🛠️</span>
 - Therapy access
@@ -163,7 +163,7 @@ markmap:
   - <span title="Solo-founder models: marketplace">Practitioner marketplaces 🤝</span>
 ## <span title="Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise &amp; AI.">Wealth</span>
 ### <span title="Tags: consumer">Money Management</span>
-- Budgeting
+- <span title="Tags: no-code-friendly">Budgeting</span>
   - <span title="Solo-founder models: content, no-code-friendly">Household budgeting ✍️🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Expense tracking 🧩</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI money coaches 🧩</span>
@@ -179,7 +179,7 @@ markmap:
   - <span title="Solo-founder models: content">First-generation guidance ✍️</span>
   - <span title="Tags: b2b | Solo-founder models: service-business">Workplace financial wellness 🛠️</span>
   - <span title="Money psychology. | Solo-founder models: service-business">Financial therapy 🛠️</span>
-- <span title="Tags: underserved | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">Life-event finance ↗</span>
+- <span title="Tags: underserved, content | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">Life-event finance ↗</span>
   - <span title="Solo-founder models: content">Widowhood finance ✍️</span>
   - <span title="Receiving an inheritance; &#x27;women&#x27;s wealth&#x27; transfer. | Solo-founder models: content">Windfall management ✍️</span>
   - <span title="Solo-founder models: content">Couples' finances ✍️</span>
@@ -232,13 +232,13 @@ markmap:
   - <span title="Includes personal brands. | Solo-founder models: content">Influencer brands ✍️</span>
   - <span title="Solo-founder models: content">Live &amp; social commerce 🔥 ✍️</span>
   - <span title="e.g. Patreon. | Solo-founder models: content, no-code-friendly">Fan memberships ✍️🧩</span>
-- Freelancing &amp; fractional
+- <span title="Tags: service-business">Freelancing &amp; fractional</span>
   - <span title="Solo-founder models: service-business">Consulting 🛠️</span>
   - <span title="Solo-founder models: service-business">Design 🛠️</span>
   - <span title="Solo-founder models: service-business">Programming 🛠️</span>
   - <span title="Solo-founder models: service-business">Marketing services 🛠️</span>
   - <span title="Fractional CFO/CMO/CTO. | Solo-founder models: service-business">Fractional executives 🛠️</span>
-- Agencies
+- <span title="Tags: service-business">Agencies</span>
   - <span title="Solo-founder models: service-business">Digital marketing 🛠️</span>
   - <span title="Solo-founder models: service-business">Web development 🛠️</span>
   - <span title="Solo-founder models: service-business, no-code-friendly">AI automation agencies 🛠️🧩</span>
@@ -251,11 +251,11 @@ markmap:
 ### Dating
 - Dating platforms
   - <span title="Solo-founder models: service-business, no-code-friendly">Profile optimization 🛠️🧩</span>
-- <span title="Tags: ai-native">AI dating tools</span>
+- <span title="Tags: ai-native, no-code-friendly">AI dating tools</span>
   - <span title="Solo-founder models: no-code-friendly">AI profile writing 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">AI message coaching 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">AI matchmaking 🧩</span>
-- Matchmaking, coaching &amp; events
+- <span title="Tags: service-business">Matchmaking, coaching &amp; events</span>
   - <span title="Solo-founder models: service-business">Professional matchmaking 🛠️</span>
   - <span title="Solo-founder models: service-business, marketplace">Niche matchmaking 🛠️🤝</span>
   - <span title="Solo-founder models: service-business">Speed dating 🛠️</span>
@@ -322,7 +322,7 @@ markmap:
   - <span title="Solo-founder models: service-business, no-code-friendly">Name-change services 🛠️🧩</span>
   - <span title="Solo-founder models: service-business, content">Breakup coaching 🛠️✍️</span>
 ### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
-- Parenting stages
+- <span title="Tags: content">Parenting stages</span>
   - <span title="Solo-founder models: content">Newborns ✍️</span>
   - <span title="Solo-founder models: content">Teens ✍️</span>
 - <span title="Covers parent-child communication, discipline and emotional connection.">Parenting support</span>
@@ -394,7 +394,7 @@ markmap:
   - <span title="Solo-founder models: service-business, no-code-friendly">Account closure 🛠️🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Digital estate vaults 🧩</span>
   - <span title="Solo-founder models: service-business">Legacy memoirs 🛠️</span>
-- After-death logistics
+- <span title="Tags: service-business">After-death logistics</span>
   - <span title="Solo-founder models: service-business">Death admin concierge 🛠️</span>
   - <span title="Solo-founder models: service-business">Survivor benefits claims 🛠️</span>
   - <span title="Solo-founder models: service-business, content">Probate navigation 🛠️✍️</span>
@@ -407,7 +407,7 @@ markmap:
   - <span title="Tags: b2b | Solo-founder models: service-business">Workplace mindfulness 🛠️</span>
 - Breathwork
   - <span title="Solo-founder models: content, no-code-friendly">Breathwork apps ✍️🧩</span>
-- Journaling &amp; reflection
+- <span title="Tags: no-code-friendly">Journaling &amp; reflection</span>
   - <span title="e.g. Day One. | Solo-founder models: no-code-friendly">Journaling apps 🧩</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI journaling 🧩</span>
 - Somatics &amp; embodiment
@@ -435,10 +435,10 @@ markmap:
   - <span title="Solo-founder models: marketplace">Coaching marketplaces 🤝</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI life coaches 🧩</span>
   - <span title="Tags: b2b | Solo-founder models: no-code-friendly">Coaching practice software 🧩</span>
-- Self-discovery
+- <span title="Tags: content, no-code-friendly">Self-discovery</span>
   - <span title="Solo-founder models: content, no-code-friendly">Strengths &amp; values assessments ✍️🧩</span>
   - <span title="Solo-founder models: content, no-code-friendly">Personality assessments ✍️🧩</span>
-- Life-stage transitions
+- <span title="Tags: service-business, content">Life-stage transitions</span>
   - <span title="Solo-founder models: service-business, content">Midlife reinvention 🛠️✍️</span>
   - <span title="Un-retirement and second careers after 60. | Solo-founder models: service-business, content">Encore careers 🛠️✍️</span>
   - <span title="Solo-founder models: service-business, content">Sabbatical planning 🛠️✍️</span>
@@ -450,20 +450,20 @@ markmap:
 - <span title="Non-clinical. Clinical care lives in Mental Health.">Inner-work programs</span>
   - <span title="Solo-founder models: content">Body-image programs ✍️</span>
   - <span title="Solo-founder models: service-business">Resilience training 🛠️</span>
-- Performance &amp; mindset
+- <span title="Tags: service-business">Performance &amp; mindset</span>
   - <span title="Solo-founder models: service-business">Peak-performance coaching 🛠️</span>
   - <span title="For athletes, performers and executives. | Solo-founder models: service-business">Mental-skills coaching 🛠️</span>
   - <span title="Solo-founder models: service-business, no-code-friendly">Habit coaching 🛠️🧩</span>
-- Growth communities
+- <span title="Tags: content">Growth communities</span>
   - <span title="Solo-founder models: service-business, content">Men's circles 🛠️✍️</span>
   - <span title="Solo-founder models: service-business, content">Women's circles 🛠️✍️</span>
   - <span title="Solo-founder models: service-business, content">Mastermind groups 🛠️✍️</span>
   - <span title="Solo-founder models: content, marketplace">Peer coaching networks ✍️🤝</span>
 ### Productivity
-- Tasks &amp; habits
+- <span title="Tags: no-code-friendly">Tasks &amp; habits</span>
   - <span title="Solo-founder models: no-code-friendly">Gamified productivity 🧩</span>
   - <span title="Solo-founder models: service-business, no-code-friendly">Goal-setting &amp; accountability 🛠️🧩</span>
-- Time management
+- <span title="Tags: no-code-friendly">Time management</span>
   - <span title="e.g. Motion. | Tags: ai-native | Solo-founder models: no-code-friendly">AI calendars 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Time tracking 🧩</span>
 - <span title="Second brain / PKM.">Knowledge management</span>
@@ -479,7 +479,7 @@ markmap:
 - Online learning
   - <span title="Solo-founder models: content">Cohort-based courses ✍️</span>
   - <span title="Solo-founder models: content, no-code-friendly">Microlearning apps ✍️🧩</span>
-- <span title="Tags: ai-native">AI tutoring 🔥</span>
+- <span title="Tags: ai-native, no-code-friendly">AI tutoring 🔥</span>
   - <span title="e.g. Khanmigo. | Solo-founder models: no-code-friendly">AI tutors 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">AI reading coaches 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Homework help apps 🧩</span>
@@ -531,7 +531,7 @@ markmap:
   - <span title="Solo-founder models: content, marketplace">Stock media marketplaces ✍️🤝</span>
 - Maker culture
   - <span title="Solo-founder models: service-business, content">3D printing 🛠️✍️</span>
-- <span title="Taking part yourself, as opposed to attending.">Performing arts</span>
+- <span title="Taking part yourself, as opposed to attending. | Tags: service-business">Performing arts</span>
   - <span title="Solo-founder models: service-business">Dance classes 🛠️</span>
   - <span title="Solo-founder models: service-business, marketplace">Voice &amp; singing lessons 🛠️🤝</span>
 ### Career Development
@@ -561,7 +561,7 @@ markmap:
   - <span title="Solo-founder models: content">Licensing exam prep ✍️</span>
   - <span title="Solo-founder models: marketplace">Trade job boards 🤝</span>
   - <span title="Solo-founder models: content">Trades continuing education ✍️</span>
-- <span title="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
+- <span title="Tags: marketplace | See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
   - <span title="Solo-founder models: marketplace">Flexible &amp; part-time jobs 🤝</span>
   - <span title="Solo-founder models: service-business, marketplace">Interim management 🛠️🤝</span>
 - Professional networking
@@ -591,7 +591,7 @@ markmap:
 - Wellness travel
   - <span title="Solo-founder models: service-business">Wellness retreats 🛠️</span>
   - <span title="Solo-founder models: service-business">Fitness retreats 🛠️</span>
-- Traveler segments
+- <span title="Tags: content">Traveler segments</span>
   - <span title="Solo-founder models: service-business, content">Solo travel 🛠️✍️</span>
   - <span title="Solo-founder models: content">Family travel ✍️</span>
   - <span title="Solo-founder models: service-business, content">Senior travel 🛠️✍️</span>
@@ -688,7 +688,7 @@ markmap:
 - <span title="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">Collecting ↗</span>
   - <span title="Solo-founder models: content">Trading cards ✍️</span>
   - <span title="Live-stream breaks and auctions, e.g. Whatnot. | Solo-founder models: content">Live collectible auctions 🔥 ✍️</span>
-- Reading
+- <span title="Tags: no-code-friendly">Reading</span>
   - <span title="BookTok. | Solo-founder models: content, no-code-friendly">Book discovery ✍️🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Reading trackers 🧩</span>
 ### Entertainment &amp; Events
@@ -720,7 +720,7 @@ markmap:
 - <span title="See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance">Car ownership ↗</span>
   - <span title="Solo-founder models: service-business">Mobile mechanics 🛠️</span>
   - <span title="Solo-founder models: service-business">Detailing &amp; care 🛠️</span>
-- Car enthusiasts
+- <span title="Tags: content">Car enthusiasts</span>
   - <span title="Solo-founder models: content">Collector cars ✍️</span>
   - <span title="Solo-founder models: content">Parts &amp; modification ✍️</span>
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">EV ownership ↗</span>
@@ -808,7 +808,7 @@ markmap:
   - <span title="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal). | Solo-founder models: service-business, no-code-friendly">Social-commerce seller tools 🛠️🧩</span>
 - <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics">Fulfillment &amp; post-purchase ↗</span>
   - <span title="Solo-founder models: no-code-friendly">Post-purchase experience 🧩</span>
-- <span title="e.g. Jobber.">SMB operations</span>
+- <span title="e.g. Jobber. | Tags: no-code-friendly">SMB operations</span>
   - <span title="Solo-founder models: no-code-friendly">Booking &amp; scheduling 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Invoicing &amp; quotes 🧩</span>
   - <span title="Solo-founder models: service-business, no-code-friendly">Reviews &amp; reputation 🛠️🧩</span>

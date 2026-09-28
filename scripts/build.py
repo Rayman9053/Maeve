@@ -14,7 +14,7 @@ Outputs (all regenerated; never edit by hand):
     output/mindmap.opml             OPML outline (Workflowy / Dynalist)
     output/taxonomy.md              indented markdown with notes, tags and cross-references
     output/mindmap-solofounder.html interactive Markmap of the solo-founder, low-capital view
-                                    (leaves labelled in data/solo-founder.csv; see scripts/solofounder.py)
+                                    (nodes with a solo-founder model tag; see scripts/solofounder.py)
     output/markmap-*.md             Markmap sources for the HTML files
     reports/stats.md                current stats
 """
@@ -27,7 +27,7 @@ import sys
 from xml.sax.saxutils import escape, quoteattr
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from taxonomy_lib import ROOT_DIR, TAG_VOCAB, children, load, path_str, stats, walk  # noqa: E402
+from taxonomy_lib import ROOT_DIR, SOLO_MODELS, TAG_VOCAB, children, load, path_str, stats, walk  # noqa: E402
 from validate import validate  # noqa: E402
 import solofounder  # noqa: E402
 
@@ -79,7 +79,7 @@ def markmap_md(root, max_depth, title, expand_level, header=None):
         bits = []
         if node.get("note"):
             bits.append(node["note"])
-        other = [t for t in node.get("tags") or [] if t != "trending"]
+        other = [t for t in node.get("tags") or [] if t != "trending" and not (node.get("models") and t in SOLO_MODELS)]
         if other:
             bits.append("Tags: " + ", ".join(other))
         if node.get("models"):
@@ -89,7 +89,7 @@ def markmap_md(root, max_depth, title, expand_level, header=None):
         return " | ".join(bits)
 
     def text(node):
-        badges = "".join(solofounder.MODELS[m] for m in node.get("models") or [])
+        badges = "".join(solofounder.BADGES[m] for m in node.get("models") or [])
         t = html.escape(label(node), quote=False) + (f" {badges}" if badges else "")
         tip = tooltip(node)
         if tip:
@@ -311,19 +311,15 @@ def main():
     write(os.path.join(ROOT_DIR, "reports", "stats.md"), stats_md(root))
     html_targets = [(full_md, "mindmap-full.html"), (cond_md, "mindmap-condensed.html")]
 
-    if os.path.exists(solofounder.LABELS_PATH):
-        labels = solofounder.load_labels()
-        for problem in solofounder.check(root, labels):
-            print(f"  warning: solo-founder labels: {problem}", file=sys.stderr)
-        view = solofounder.view(root, labels)
-        view["name"] = "Solo Founder, Low Capital"
-        n, counts = solofounder.summary(view)
-        header = (f"{n:,} of {s_leaves(root):,} leaves one founder could start for under ~$10k · "
-                  + " · ".join(f"{b} {m} ({counts[m]})" for m, b in solofounder.MODELS.items())
-                  + f" · {FIRE} trending")
-        solo_md = os.path.join(OUT, "markmap-solofounder.md")
-        write(solo_md, markmap_md(view, 4, "Startup Opportunity Map: solo founder", 3, header))
-        html_targets.append((solo_md, "mindmap-solofounder.html"))
+    view = solofounder.view(root)
+    view["name"] = "Solo Founder, Low Capital"
+    n, counts = solofounder.summary(view)
+    header = (f"{n:,} of {s_leaves(root):,} leaves one founder could start for under ~$10k · "
+              + " · ".join(f"{b} {m} ({counts[m]})" for m, b in solofounder.BADGES.items())
+              + f" · {FIRE} trending")
+    solo_md = os.path.join(OUT, "markmap-solofounder.md")
+    write(solo_md, markmap_md(view, 4, "Startup Opportunity Map: solo founder", 3, header))
+    html_targets.append((solo_md, "mindmap-solofounder.html"))
 
     if not args.no_html:
         for md, name in html_targets:

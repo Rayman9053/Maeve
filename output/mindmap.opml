@@ -30,7 +30,7 @@
             <outline text="Hereditary risk panels"/>
           </outline>
           <outline text="Environmental health">
-            <outline text="Indoor air quality"/>
+            <outline text="Indoor air quality #service-business #content"/>
             <outline text="Water testing &amp; filtration"/>
             <outline text="Mold &amp; toxin testing"/>
             <outline text="Microplastics testing"/>
@@ -40,25 +40,25 @@
           <outline text="GLP-1 economy #trending #regulated" _note="The 'Ozempic economy'. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026.">
             <outline text="GLP-1 telehealth"/>
             <outline text="Oral GLP-1s" _note="Wegovy pill launched in the US in January 2026."/>
-            <outline text="Muscle preservation"/>
-            <outline text="GLP-1 companion foods"/>
-            <outline text="Maintenance &amp; off-ramp"/>
+            <outline text="Muscle preservation #content"/>
+            <outline text="GLP-1 companion foods #content"/>
+            <outline text="Maintenance &amp; off-ramp #content"/>
           </outline>
           <outline text="Personalized nutrition">
             <outline text="Microbiome testing" _note="e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated."/>
             <outline text="CGM programs" _note="e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven."/>
-            <outline text="AI meal planning #ai-native"/>
-            <outline text="Metabolic health"/>
+            <outline text="AI meal planning #ai-native #no-code-friendly"/>
+            <outline text="Metabolic health #content"/>
           </outline>
           <outline text="Sports nutrition">
-            <outline text="Endurance fueling"/>
-            <outline text="Strength &amp; protein"/>
+            <outline text="Endurance fueling #content"/>
+            <outline text="Strength &amp; protein #content"/>
             <outline text="Hydration &amp; electrolytes"/>
           </outline>
-          <outline text="Special diets">
+          <outline text="Special diets #content">
             <outline text="Plant-based"/>
             <outline text="Gluten-free"/>
-            <outline text="Culturally tailored diets" _note="Halal, kosher, Ayurvedic."/>
+            <outline text="Culturally tailored diets #no-code-friendly" _note="Halal, kosher, Ayurvedic."/>
           </outline>
           <outline text="Supplements #regulated" _note="US claims are governed by DSHEA and FTC rules.">
             <outline text="Vitamins &amp; minerals"/>
@@ -74,22 +74,22 @@
           </outline>
         </outline>
         <outline text="Fitness &amp; Recovery">
-          <outline text="Cardio &amp; endurance">
+          <outline text="Cardio &amp; endurance #content">
             <outline text="Running"/>
             <outline text="Cycling"/>
             <outline text="Zone-2 &amp; VO2max training"/>
           </outline>
-          <outline text="Mobility &amp; flexibility">
+          <outline text="Mobility &amp; flexibility #content">
             <outline text="Stretching"/>
-            <outline text="Yoga"/>
+            <outline text="Yoga #service-business"/>
             <outline text="Pilates #trending"/>
           </outline>
           <outline text="Connected fitness">
             <outline text="Home gyms"/>
             <outline text="Fitness equipment"/>
-            <outline text="Workout apps"/>
-            <outline text="Virtual coaching"/>
-            <outline text="AI personal trainers #ai-native"/>
+            <outline text="Workout apps #no-code-friendly"/>
+            <outline text="Virtual coaching #service-business #no-code-friendly"/>
+            <outline text="AI personal trainers #ai-native #no-code-friendly"/>
           </outline>
           <outline text="Athletic recovery" _note="Evidence for therapeutic claims varies by modality.">
             <outline text="Sauna &amp; heat"/>
@@ -102,39 +102,39 @@
             <outline text="Boutique franchises" _note="e.g. F45, Orangetheory."/>
             <outline text="Budget gyms"/>
             <outline text="Climbing gyms"/>
-            <outline text="Gym management software #b2b"/>
+            <outline text="Gym management software #b2b #no-code-friendly"/>
           </outline>
-          <outline text="Adaptive &amp; inclusive fitness">
-            <outline text="Senior fitness"/>
-            <outline text="Plus-size fitness"/>
+          <outline text="Adaptive &amp; inclusive fitness #service-business">
+            <outline text="Senior fitness #content"/>
+            <outline text="Plus-size fitness #content"/>
             <outline text="Adaptive training" _note="Fitness for people with disabilities."/>
-            <outline text="Prenatal &amp; postnatal fitness"/>
+            <outline text="Prenatal &amp; postnatal fitness #content"/>
           </outline>
           <outline text="Youth sports">
-            <outline text="Skills training"/>
-            <outline text="College recruiting"/>
-            <outline text="League &amp; club software #b2b"/>
+            <outline text="Skills training #service-business"/>
+            <outline text="College recruiting #service-business #content"/>
+            <outline text="League &amp; club software #b2b #no-code-friendly"/>
           </outline>
         </outline>
         <outline text="Sleep">
           <outline text="Sleep optimization">
             <outline text="Sleep trackers"/>
-            <outline text="Routines &amp; coaching"/>
+            <outline text="Routines &amp; coaching #service-business #content"/>
             <outline text="Cooling &amp; smart beds"/>
             <outline text="Circadian lighting"/>
           </outline>
           <outline text="Sleep disorders #regulated">
-            <outline text="Insomnia &amp; CBT-I"/>
+            <outline text="Insomnia &amp; CBT-I #content"/>
             <outline text="Sleep apnea"/>
           </outline>
           <outline text="Infant &amp; child sleep">
-            <outline text="Sleep consultants"/>
+            <outline text="Sleep consultants #service-business #content"/>
             <outline text="Smart bassinets"/>
-            <outline text="Sleep-training apps"/>
+            <outline text="Sleep-training apps #no-code-friendly"/>
           </outline>
           <outline text="Sleep products">
             <outline text="Mattresses &amp; bedding"/>
-            <outline text="Sleep audio apps"/>
+            <outline text="Sleep audio apps #content #no-code-friendly"/>
             <outline text="Snoring solutions"/>
           </outline>
         </outline>
@@ -147,8 +147,8 @@
             <outline text="Major depression"/>
             <outline text="Perinatal depression" _note="Includes paternal perinatal depression."/>
           </outline>
-          <outline text="Stress &amp; burnout">
-            <outline text="Burnout"/>
+          <outline text="Stress &amp; burnout #service-business">
+            <outline text="Burnout #content"/>
             <outline text="Workplace stress"/>
           </outline>
           <outline text="Therapy access">
@@ -156,7 +156,7 @@
             <outline text="Couples therapy"/>
             <outline text="Family therapy"/>
             <outline text="Online therapy"/>
-            <outline text="Therapist matching"/>
+            <outline text="Therapist matching #marketplace"/>
           </outline>
           <outline text="Trauma &amp; PTSD">
             <outline text="PTSD"/>
@@ -165,17 +165,17 @@
             <outline text="Domestic-violence support #underserved"/>
           </outline>
           <outline text="Addiction recovery">
-            <outline text="Alcohol moderation" _note="e.g. Sunnyside."/>
+            <outline text="Alcohol moderation #content" _note="e.g. Sunnyside."/>
             <outline text="Gambling addiction" _note="Demand rose with legal sports betting."/>
             <outline text="Opioid recovery #regulated" _note="Medication-assisted treatment is regulated."/>
             <outline text="Vaping cessation"/>
-            <outline text="Recovery communities" _note="12-step and non-12-step."/>
+            <outline text="Recovery communities #content" _note="12-step and non-12-step."/>
           </outline>
           <outline text="Digital mental health">
             <outline text="Mental-health apps"/>
             <outline text="Digital therapeutics #regulated"/>
             <outline text="AI mental-health companions #regulated #ai-native" _note="e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it."/>
-            <outline text="Peer-support communities"/>
+            <outline text="Peer-support communities #content"/>
           </outline>
           <outline text="Acute &amp; advanced care #regulated">
             <outline text="Crisis &amp; suicide prevention"/>
@@ -184,7 +184,7 @@
             <outline text="Ketamine &amp; TMS clinics"/>
           </outline>
           <outline text="Population-focused care">
-            <outline text="Men's mental health" _note="Includes fatherhood and men's groups."/>
+            <outline text="Men's mental health #content" _note="Includes fatherhood and men's groups."/>
             <outline text="Youth mental health"/>
             <outline text="LGBTQ+ affirmative therapy"/>
             <outline text="Culturally responsive therapy" _note="Includes bilingual therapy."/>
@@ -201,10 +201,10 @@
           </outline>
           <outline text="Pregnancy &amp; postpartum">
             <outline text="Prenatal care"/>
-            <outline text="Doulas &amp; birth support"/>
-            <outline text="Postpartum recovery"/>
-            <outline text="Pregnancy-loss support"/>
-            <outline text="Lactation support"/>
+            <outline text="Doulas &amp; birth support #service-business #marketplace"/>
+            <outline text="Postpartum recovery #content"/>
+            <outline text="Pregnancy-loss support #content"/>
+            <outline text="Lactation support #service-business #content"/>
           </outline>
           <outline text="Contraception">
             <outline text="Birth-control telehealth"/>
@@ -219,7 +219,7 @@
           </outline>
           <outline text="Sexual wellness" _note="Individual-focused products and education. Couples programs live in Relationships &gt; Intimacy &amp; Sexuality. | See also: Relationships &gt; Intimacy &amp; Sexuality &gt; Couples intimacy">
             <outline text="Sex tech &amp; devices" _note="Payment-processor limits; 2024-25 US age-verification laws."/>
-            <outline text="Sex education platforms"/>
+            <outline text="Sex education platforms #content"/>
             <outline text="Sexual wellness apps"/>
           </outline>
         </outline>
@@ -228,7 +228,7 @@
             <outline text="Senior mobility"/>
             <outline text="Cognitive fitness"/>
             <outline text="Sarcopenia programs" _note="Preventing age-related muscle loss."/>
-            <outline text="Healthy-aging coaching"/>
+            <outline text="Healthy-aging coaching #service-business #content"/>
           </outline>
           <outline text="Longevity medicine #trending">
             <outline text="Longevity clinics" _note="e.g. Fountain Life."/>
@@ -243,23 +243,23 @@
           <outline text="Age tech">
             <outline text="Fall detection"/>
             <outline text="Passive home monitoring"/>
-            <outline text="Aging in place"/>
+            <outline text="Aging in place #service-business"/>
             <outline text="Senior-friendly devices"/>
-            <outline text="Senior tech support"/>
-            <outline text="Solo aging"/>
-            <outline text="Senior social connection"/>
+            <outline text="Senior tech support #service-business"/>
+            <outline text="Solo aging #content"/>
+            <outline text="Senior social connection #content"/>
           </outline>
           <outline text="Caregiving #trending #underserved" _note="The sandwich generation: people caring for both children and parents.">
-            <outline text="Care coordination"/>
+            <outline text="Care coordination #service-business"/>
             <outline text="Respite care"/>
-            <outline text="Family caregiver support"/>
+            <outline text="Family caregiver support #service-business #content"/>
             <outline text="Paid family caregiving #regulated" _note="Medicaid and state programs that pay family caregivers."/>
-            <outline text="Caregiver marketplaces"/>
+            <outline text="Caregiver marketplaces #marketplace"/>
             <outline text="Home care agencies"/>
           </outline>
           <outline text="Senior living">
-            <outline text="Senior living search"/>
-            <outline text="Senior home-sharing"/>
+            <outline text="Senior living search #content #marketplace"/>
+            <outline text="Senior home-sharing #marketplace"/>
             <outline text="Senior-living operator software #b2b"/>
           </outline>
         </outline>
@@ -269,7 +269,7 @@
           <outline text="Diabetes">
             <outline text="Type 1"/>
             <outline text="Type 2"/>
-            <outline text="Prediabetes"/>
+            <outline text="Prediabetes #content"/>
             <outline text="Glucose management"/>
           </outline>
           <outline text="Cardiometabolic disease">
@@ -284,27 +284,27 @@
             <outline text="Hashimoto's"/>
           </outline>
           <outline text="Digestive health" _note="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; Personalized nutrition &gt; Microbiome testing">
-            <outline text="IBS"/>
+            <outline text="IBS #content"/>
             <outline text="IBD"/>
-            <outline text="Food intolerances"/>
+            <outline text="Food intolerances #content"/>
           </outline>
           <outline text="Respiratory &amp; allergy">
             <outline text="Asthma"/>
             <outline text="COPD"/>
-            <outline text="Food allergies"/>
+            <outline text="Food allergies #content"/>
           </outline>
           <outline text="Oncology" _note="See also: Planet &amp; Frontier &gt; Biotech &amp; Life Sciences &gt; Clinical trials &gt; Patient recruitment">
-            <outline text="Cancer navigation"/>
-            <outline text="Survivorship support"/>
+            <outline text="Cancer navigation #service-business"/>
+            <outline text="Survivorship support #content"/>
             <outline text="Breast cancer support"/>
             <outline text="Prostate cancer support"/>
           </outline>
           <outline text="Complex &amp; rare illness #underserved">
-            <outline text="Long COVID"/>
-            <outline text="ME/CFS" _note="A distinct diagnosis, not generic 'chronic fatigue'."/>
-            <outline text="POTS &amp; dysautonomia"/>
+            <outline text="Long COVID #content"/>
+            <outline text="ME/CFS #content" _note="A distinct diagnosis, not generic 'chronic fatigue'."/>
+            <outline text="POTS &amp; dysautonomia #content"/>
             <outline text="Rare-disease diagnostics"/>
-            <outline text="Rare-disease communities"/>
+            <outline text="Rare-disease communities #content"/>
           </outline>
         </outline>
         <outline text="Pain &amp; Musculoskeletal">
@@ -337,30 +337,30 @@
             <outline text="Fibromyalgia care"/>
             <outline text="Interventional pain clinics"/>
             <outline text="Neuromodulation devices #regulated"/>
-            <outline text="Lower back pain"/>
+            <outline text="Lower back pain #content"/>
           </outline>
           <outline text="Ergonomics">
             <outline text="Workplace injury prevention #b2b"/>
-            <outline text="Ergonomic assessments"/>
+            <outline text="Ergonomic assessments #service-business"/>
             <outline text="Ergonomic equipment"/>
             <outline text="Industrial exoskeletons #b2b"/>
           </outline>
         </outline>
         <outline text="Brain &amp; Neurological Health">
           <outline text="Neurodivergence" _note="Framed as neurodevelopmental difference, not mental illness. | See also: Mind, Meaning &amp; Growth &gt; Career Development &gt; Inclusive employment &gt; Neurodivergent hiring | See also: Relationships &gt; Social Skills &gt; Neurodivergent social skills | See also: Mind, Meaning &amp; Growth &gt; Productivity &gt; ADHD-friendly productivity">
-            <outline text="ADHD"/>
-            <outline text="Autism"/>
-            <outline text="Dyslexia &amp; learning differences"/>
-            <outline text="Late diagnosis" _note="Adult ADHD and autism diagnosis."/>
+            <outline text="ADHD #content"/>
+            <outline text="Autism #content"/>
+            <outline text="Dyslexia &amp; learning differences #service-business #content"/>
+            <outline text="Late diagnosis #content" _note="Adult ADHD and autism diagnosis."/>
             <outline text="ADHD medication access #regulated" _note="DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending."/>
-            <outline text="Executive-function coaching"/>
+            <outline text="Executive-function coaching #service-business #content"/>
           </outline>
           <outline text="Dementia &amp; cognitive decline #underserved">
             <outline text="Cognitive assessments"/>
             <outline text="Blood-based Alzheimer's tests #regulated" _note="FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025)."/>
             <outline text="Anti-amyloid therapy navigation"/>
-            <outline text="Dementia care navigation"/>
-            <outline text="Dementia caregiver training"/>
+            <outline text="Dementia care navigation #service-business"/>
+            <outline text="Dementia caregiver training #service-business #content"/>
             <outline text="Memory care"/>
             <outline text="Brain-health clinics"/>
           </outline>
@@ -393,7 +393,7 @@
           <outline text="Hearing">
             <outline text="OTC hearing aids" _note="The 2022 FDA rule opened the market."/>
             <outline text="Online hearing tests"/>
-            <outline text="Tinnitus management"/>
+            <outline text="Tinnitus management #content"/>
           </outline>
           <outline text="Dermatology">
             <outline text="Teledermatology"/>
@@ -409,9 +409,9 @@
         </outline>
         <outline text="Population-Specific Care">
           <outline text="Women's health" _note="Femtech. Menstrual care serves everyone who menstruates.">
-            <outline text="Menopause &amp; perimenopause #underserved #trending" _note="Includes menopause and sexuality."/>
-            <outline text="PCOS"/>
-            <outline text="Endometriosis"/>
+            <outline text="Menopause &amp; perimenopause #underserved #trending #content" _note="Includes menopause and sexuality."/>
+            <outline text="PCOS #content"/>
+            <outline text="Endometriosis #content"/>
             <outline text="PMS &amp; PMDD"/>
             <outline text="Pelvic floor &amp; incontinence"/>
             <outline text="Pelvic pain"/>
@@ -443,14 +443,14 @@
             <outline text="VA care navigation"/>
             <outline text="Disability claims support"/>
             <outline text="Veteran PTSD programs"/>
-            <outline text="Veteran peer support"/>
+            <outline text="Veteran peer support #content"/>
             <outline text="Military-family care"/>
           </outline>
           <outline text="Rural &amp; underserved care #underserved">
             <outline text="Rural telehealth"/>
             <outline text="Mobile clinics"/>
             <outline text="Community health workers"/>
-            <outline text="Medical interpretation"/>
+            <outline text="Medical interpretation #service-business #marketplace"/>
             <outline text="Rural hospital operations #b2b"/>
           </outline>
         </outline>
@@ -478,10 +478,10 @@
             <outline text="Pharmacist clinical services" _note="Test-and-treat, vaccines, prescribing where allowed."/>
           </outline>
           <outline text="Patient navigation">
-            <outline text="Patient advocacy"/>
+            <outline text="Patient advocacy #service-business"/>
             <outline text="Employer health navigation #b2b"/>
-            <outline text="Price comparison tools"/>
-            <outline text="Medical bill negotiation"/>
+            <outline text="Price comparison tools #no-code-friendly"/>
+            <outline text="Medical bill negotiation #service-business"/>
             <outline text="Second opinions"/>
             <outline text="Cash-pay surgery" _note="Price-transparent surgery centers."/>
           </outline>
@@ -495,7 +495,7 @@
             <outline text="Patient-message triage AI"/>
           </outline>
           <outline text="Care operations">
-            <outline text="Patient intake &amp; scheduling"/>
+            <outline text="Patient intake &amp; scheduling #no-code-friendly"/>
             <outline text="Patient engagement"/>
             <outline text="Telehealth infrastructure" _note="White-label virtual-care platforms for providers."/>
             <outline text="Hospital operations" _note="Bed management and command centers."/>
@@ -530,7 +530,7 @@
             <outline text="Staffing marketplaces"/>
             <outline text="Nurse scheduling"/>
             <outline text="Clinician credentialing"/>
-            <outline text="Continuing medical education"/>
+            <outline text="Continuing medical education #content"/>
           </outline>
           <outline text="Life-science commercial tech">
             <outline text="Pharma CRM"/>
@@ -549,21 +549,21 @@
             <outline text="Functional medicine" _note="'Root-cause' clinic model; contested evidence for some protocols."/>
             <outline text="Integrative primary care"/>
             <outline text="Integrative oncology" _note="Evidence-informed supportive care alongside standard treatment."/>
-            <outline text="Integrative health coaching"/>
-            <outline text="Yoga therapy"/>
+            <outline text="Integrative health coaching #service-business #content"/>
+            <outline text="Yoga therapy #service-business"/>
           </outline>
           <outline text="Practitioner tools #b2b">
-            <outline text="Practice-management software"/>
-            <outline text="Practitioner certification"/>
-            <outline text="Practitioner marketplaces"/>
+            <outline text="Practice-management software #no-code-friendly"/>
+            <outline text="Practitioner certification #content"/>
+            <outline text="Practitioner marketplaces #marketplace"/>
             <outline text="Practitioner-grade supplements" _note="Dispensaries, e.g. Fullscript."/>
           </outline>
         </outline>
       </outline>
       <outline text="Wealth" _note="Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise &amp; AI.">
         <outline text="Money Management #consumer">
-          <outline text="Budgeting">
-            <outline text="Household budgeting"/>
+          <outline text="Budgeting #no-code-friendly">
+            <outline text="Household budgeting #content"/>
             <outline text="Expense tracking"/>
             <outline text="AI money coaches #ai-native"/>
           </outline>
@@ -571,33 +571,33 @@
             <outline text="High-yield savings"/>
             <outline text="Kids' savings"/>
             <outline text="Child investment accounts" _note="US 'Trump Accounts' launched July 2026, with a $1,000 federal seed for children born 2025-28."/>
-            <outline text="College savings"/>
+            <outline text="College savings #content"/>
           </outline>
           <outline text="Debt management #regulated">
             <outline text="Credit-card debt"/>
-            <outline text="Student loans"/>
+            <outline text="Student loans #content"/>
             <outline text="Personal loans"/>
             <outline text="Debt consolidation"/>
           </outline>
           <outline text="Credit">
-            <outline text="Credit building" _note="Includes credit building for people without banks."/>
+            <outline text="Credit building #content" _note="Includes credit building for people without banks."/>
             <outline text="Credit cards"/>
-            <outline text="Rewards optimization"/>
+            <outline text="Rewards optimization #content #no-code-friendly"/>
           </outline>
           <outline text="Financial wellness">
-            <outline text="Youth financial education"/>
-            <outline text="First-generation guidance"/>
-            <outline text="Workplace financial wellness #b2b"/>
-            <outline text="Financial therapy" _note="Money psychology."/>
+            <outline text="Youth financial education #service-business #content"/>
+            <outline text="First-generation guidance #content"/>
+            <outline text="Workplace financial wellness #b2b #service-business"/>
+            <outline text="Financial therapy #service-business" _note="Money psychology."/>
           </outline>
-          <outline text="Life-event finance #underserved" _note="See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">
+          <outline text="Life-event finance #underserved #content" _note="See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">
             <outline text="Widowhood finance"/>
             <outline text="Windfall management" _note="Receiving an inheritance; 'women's wealth' transfer."/>
             <outline text="Couples' finances"/>
             <outline text="New-parent finances"/>
           </outline>
           <outline text="Gig &amp; creator finance #underserved" _note="e.g. Catch.">
-            <outline text="Tax withholding tools"/>
+            <outline text="Tax withholding tools #no-code-friendly"/>
             <outline text="Portable benefits"/>
             <outline text="Income smoothing"/>
             <outline text="Gig-worker retirement"/>
@@ -614,7 +614,7 @@
           <outline text="Consumer payments">
             <outline text="Pay by bank #trending" _note="Open-banking payments."/>
             <outline text="Bill pay"/>
-            <outline text="Subscription management" _note="Tracking and cancelling subscriptions."/>
+            <outline text="Subscription management #no-code-friendly" _note="Tracking and cancelling subscriptions."/>
             <outline text="Stablecoin payments #trending #regulated"/>
           </outline>
           <outline text="Cross-border money" _note="Core to immigrant economies.">
@@ -633,7 +633,7 @@
           </outline>
           <outline text="Islamic finance" _note="e.g. Wahed.">
             <outline text="Sharia-compliant banking"/>
-            <outline text="Halal investing"/>
+            <outline text="Halal investing #content"/>
             <outline text="Islamic home finance"/>
             <outline text="Sharia-compliant BNPL"/>
             <outline text="Zakat &amp; sadaqah apps"/>
@@ -653,7 +653,7 @@
           </outline>
           <outline text="Alternative investments #regulated" _note="Retail access is governed by securities law (Reg A/CF, accreditation).">
             <outline text="Private credit"/>
-            <outline text="Collectible assets" _note="Art, wine &amp; spirits, trading cards as investments."/>
+            <outline text="Collectible assets #content" _note="Art, wine &amp; spirits, trading cards as investments."/>
             <outline text="Private-market access #trending" _note="Secondaries; Fundrise model."/>
           </outline>
           <outline text="Digital assets #regulated" _note="See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; Crypto tax">
@@ -666,8 +666,8 @@
         <outline text="Housing &amp; Real Estate">
           <outline text="Homebuying">
             <outline text="Mortgages #regulated"/>
-            <outline text="First-time buyer programs"/>
-            <outline text="Down-payment assistance"/>
+            <outline text="First-time buyer programs #content"/>
+            <outline text="Down-payment assistance #content"/>
             <outline text="Rent-to-own"/>
           </outline>
           <outline text="Renting">
@@ -676,8 +676,8 @@
             <outline text="Renter services"/>
           </outline>
           <outline text="Real estate investing">
-            <outline text="Rental properties"/>
-            <outline text="Short-term rentals"/>
+            <outline text="Rental properties #content"/>
+            <outline text="Short-term rentals #service-business #content"/>
             <outline text="Fractional ownership #regulated"/>
           </outline>
           <outline text="Home equity #regulated">
@@ -688,7 +688,7 @@
         <outline text="Retirement &amp; Wealth Planning">
           <outline text="Retirement planning">
             <outline text="Retirement income"/>
-            <outline text="Social Security planning"/>
+            <outline text="Social Security planning #content"/>
           </outline>
           <outline text="Retirement accounts">
             <outline text="IRAs &amp; 401(k)s"/>
@@ -739,12 +739,12 @@
             <outline text="Individual tax"/>
             <outline text="Small-business tax"/>
             <outline text="Tax-loss harvesting"/>
-            <outline text="International &amp; expat tax"/>
+            <outline text="International &amp; expat tax #content"/>
             <outline text="Crypto tax"/>
           </outline>
           <outline text="Tax preparation">
             <outline text="AI tax prep #trending #ai-native"/>
-            <outline text="Tax-pro marketplaces"/>
+            <outline text="Tax-pro marketplaces #marketplace"/>
             <outline text="Tax-credit finders"/>
             <outline text="Tax resolution #regulated"/>
           </outline>
@@ -770,53 +770,53 @@
         </outline>
         <outline text="Entrepreneurship" _note="See also: Enterprise &amp; AI &gt; Software &amp; Developer Tools &gt; No-code &amp; low-code">
           <outline text="Starting a business">
-            <outline text="Idea validation"/>
-            <outline text="Market research"/>
-            <outline text="Business formation" _note="Entity structures and compliance; e.g. Stripe Atlas."/>
+            <outline text="Idea validation #service-business #content #no-code-friendly"/>
+            <outline text="Market research #service-business"/>
+            <outline text="Business formation #no-code-friendly" _note="Entity structures and compliance; e.g. Stripe Atlas."/>
           </outline>
           <outline text="Acquisition entrepreneurship" _note="Buying a business (ETA, micro-PE).">
-            <outline text="Search funds"/>
-            <outline text="Business-for-sale marketplaces"/>
+            <outline text="Search funds #content"/>
+            <outline text="Business-for-sale marketplaces #marketplace"/>
             <outline text="SBA acquisition loans #regulated"/>
             <outline text="Small-business roll-ups"/>
           </outline>
           <outline text="Small business">
-            <outline text="Local services"/>
+            <outline text="Local services #service-business"/>
             <outline text="Franchises"/>
-            <outline text="Skilled-trades businesses #trending" _note="HVAC, electrical, plumbing; acute labor shortage."/>
+            <outline text="Skilled-trades businesses #trending #service-business" _note="HVAC, electrical, plumbing; acute labor shortage."/>
           </outline>
           <outline text="Online business">
-            <outline text="E-commerce"/>
-            <outline text="SaaS"/>
-            <outline text="Digital products"/>
-            <outline text="Memberships"/>
-            <outline text="Online courses"/>
+            <outline text="E-commerce #no-code-friendly"/>
+            <outline text="SaaS #no-code-friendly"/>
+            <outline text="Digital products #content #no-code-friendly"/>
+            <outline text="Memberships #content #no-code-friendly"/>
+            <outline text="Online courses #content"/>
           </outline>
           <outline text="Creator economy" _note="See also: Enterprise &amp; AI &gt; Marketing &amp; Sales Tech &gt; Creator platforms &gt; UGC marketplaces">
-            <outline text="Podcasting"/>
-            <outline text="Newsletters"/>
-            <outline text="Influencer brands" _note="Includes personal brands."/>
+            <outline text="Podcasting #content"/>
+            <outline text="Newsletters #content"/>
+            <outline text="Influencer brands #content" _note="Includes personal brands."/>
             <outline text="AI virtual creators #ai-native"/>
-            <outline text="Live &amp; social commerce #trending"/>
-            <outline text="Fan memberships" _note="e.g. Patreon."/>
+            <outline text="Live &amp; social commerce #trending #content"/>
+            <outline text="Fan memberships #content #no-code-friendly" _note="e.g. Patreon."/>
           </outline>
-          <outline text="Freelancing &amp; fractional">
+          <outline text="Freelancing &amp; fractional #service-business">
             <outline text="Consulting"/>
             <outline text="Design"/>
             <outline text="Programming"/>
             <outline text="Marketing services"/>
             <outline text="Fractional executives" _note="Fractional CFO/CMO/CTO."/>
           </outline>
-          <outline text="Agencies">
+          <outline text="Agencies #service-business">
             <outline text="Digital marketing"/>
             <outline text="Web development"/>
-            <outline text="AI automation agencies"/>
+            <outline text="AI automation agencies #no-code-friendly"/>
           </outline>
           <outline text="Solopreneurship #trending">
-            <outline text="AI-leveraged solo businesses #ai-native"/>
-            <outline text="Micro-SaaS"/>
-            <outline text="Productized services"/>
-            <outline text="Solo operator tools"/>
+            <outline text="AI-leveraged solo businesses #ai-native #service-business #no-code-friendly"/>
+            <outline text="Micro-SaaS #no-code-friendly"/>
+            <outline text="Productized services #service-business"/>
+            <outline text="Solo operator tools #content #no-code-friendly"/>
           </outline>
         </outline>
       </outline>
@@ -824,102 +824,102 @@
         <outline text="Dating">
           <outline text="Dating platforms">
             <outline text="Curated apps"/>
-            <outline text="Profile optimization"/>
+            <outline text="Profile optimization #service-business #no-code-friendly"/>
           </outline>
-          <outline text="AI dating tools #ai-native">
+          <outline text="AI dating tools #ai-native #no-code-friendly">
             <outline text="AI profile writing"/>
             <outline text="AI message coaching"/>
             <outline text="AI matchmaking"/>
           </outline>
-          <outline text="Matchmaking, coaching &amp; events">
+          <outline text="Matchmaking, coaching &amp; events #service-business">
             <outline text="Professional matchmaking"/>
-            <outline text="Niche matchmaking"/>
+            <outline text="Niche matchmaking #marketplace"/>
             <outline text="Speed dating"/>
             <outline text="Singles events"/>
-            <outline text="Dating coaches"/>
+            <outline text="Dating coaches #content"/>
           </outline>
           <outline text="Niche dating">
-            <outline text="Senior dating"/>
+            <outline text="Senior dating #service-business"/>
             <outline text="LGBTQ+ dating"/>
             <outline text="Single-parent dating"/>
-            <outline text="Sober dating"/>
+            <outline text="Sober dating #service-business #content"/>
             <outline text="Dating with disability"/>
             <outline text="Faith-based dating"/>
           </outline>
           <outline text="Dating safety #underserved">
             <outline text="Identity verification"/>
             <outline text="Background checks #regulated" _note="FCRA applies."/>
-            <outline text="Date check-in apps"/>
+            <outline text="Date check-in apps #no-code-friendly"/>
             <outline text="Romance-scam protection"/>
           </outline>
         </outline>
         <outline text="Couples &amp; Marriage" _note="See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings">
           <outline text="Premarital">
-            <outline text="Premarital counseling"/>
-            <outline text="Premarital courses"/>
-            <outline text="Faith-based marriage prep"/>
+            <outline text="Premarital counseling #service-business"/>
+            <outline text="Premarital courses #content"/>
+            <outline text="Faith-based marriage prep #service-business #content"/>
             <outline text="Prenups #regulated"/>
             <outline text="Cohabitation agreements #regulated"/>
           </outline>
           <outline text="Relationship coaching" _note="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">
-            <outline text="Couples apps" _note="e.g. Paired, Lasting (part of Talkspace)."/>
-            <outline text="AI relationship coaching #ai-native"/>
-            <outline text="Relationship check-in tools"/>
-            <outline text="Couples coaching"/>
-            <outline text="Relationship courses"/>
+            <outline text="Couples apps #no-code-friendly" _note="e.g. Paired, Lasting (part of Talkspace)."/>
+            <outline text="AI relationship coaching #ai-native #no-code-friendly"/>
+            <outline text="Relationship check-in tools #no-code-friendly"/>
+            <outline text="Couples coaching #service-business"/>
+            <outline text="Relationship courses #content"/>
           </outline>
           <outline text="Marriage enrichment">
-            <outline text="Date-night services"/>
-            <outline text="Couples activities"/>
-            <outline text="Relationship retreats"/>
+            <outline text="Date-night services #service-business"/>
+            <outline text="Couples activities #content"/>
+            <outline text="Relationship retreats #service-business"/>
           </outline>
           <outline text="Long-distance relationships">
-            <outline text="LDR apps"/>
-            <outline text="Shared-experience tools"/>
-            <outline text="Military couples #underserved"/>
+            <outline text="LDR apps #no-code-friendly"/>
+            <outline text="Shared-experience tools #no-code-friendly"/>
+            <outline text="Military couples #underserved #content"/>
           </outline>
           <outline text="Relationship repair" _note="Covers jealousy, insecurity, resentment and recurring conflict.">
-            <outline text="Infidelity recovery"/>
+            <outline text="Infidelity recovery #service-business #content"/>
             <outline text="Marriage intensives"/>
             <outline text="Couples programs in recovery" _note="For couples where one partner is in addiction recovery."/>
             <outline text="Discernment counseling"/>
           </outline>
           <outline text="Shared household" _note="See also: Wealth &gt; Money Management &gt; Life-event finance &gt; Couples' finances">
-            <outline text="Household-task apps"/>
-            <outline text="Shared calendars"/>
-            <outline text="Mental-load tools"/>
-            <outline text="Household managers"/>
+            <outline text="Household-task apps #no-code-friendly"/>
+            <outline text="Shared calendars #no-code-friendly"/>
+            <outline text="Mental-load tools #no-code-friendly"/>
+            <outline text="Household managers #service-business #marketplace"/>
           </outline>
         </outline>
         <outline text="Intimacy &amp; Sexuality" _note="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">
           <outline text="Therapy &amp; coaching">
             <outline text="Sex therapists"/>
             <outline text="Sex-therapy telehealth"/>
-            <outline text="Intimacy coaches"/>
+            <outline text="Intimacy coaches #service-business"/>
             <outline text="Sexual performance anxiety"/>
           </outline>
           <outline text="Couples intimacy">
-            <outline text="Guided intimacy courses"/>
-            <outline text="Intimacy apps"/>
-            <outline text="Conversation card games"/>
+            <outline text="Guided intimacy courses #content"/>
+            <outline text="Intimacy apps #no-code-friendly"/>
+            <outline text="Conversation card games #content"/>
           </outline>
           <outline text="Life-stage intimacy">
-            <outline text="Postpartum intimacy"/>
-            <outline text="Midlife intimacy" _note="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women's health &gt; Menopause &amp; perimenopause"/>
+            <outline text="Postpartum intimacy #content"/>
+            <outline text="Midlife intimacy #content" _note="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women's health &gt; Menopause &amp; perimenopause"/>
             <outline text="Intimacy after cancer"/>
             <outline text="Intimacy with illness &amp; disability #underserved"/>
           </outline>
           <outline text="Desire &amp; communication">
             <outline text="Desire-mismatch programs"/>
-            <outline text="Consent education"/>
+            <outline text="Consent education #service-business #content"/>
             <outline text="Trauma-informed intimacy programs #underserved" _note="For survivors of sexual trauma and their partners."/>
           </outline>
         </outline>
         <outline text="Breakups &amp; Divorce">
           <outline text="Divorce process">
-            <outline text="Divorce preparation"/>
-            <outline text="Divorce coaching"/>
-            <outline text="Divorce mediation"/>
+            <outline text="Divorce preparation #service-business #content"/>
+            <outline text="Divorce coaching #service-business"/>
+            <outline text="Divorce mediation #service-business"/>
             <outline text="Collaborative divorce"/>
             <outline text="Online divorce #regulated"/>
             <outline text="Divorce attorney matching #regulated"/>
@@ -927,89 +927,89 @@
           <outline text="Divorce finance">
             <outline text="Asset-splitting tools"/>
             <outline text="Financial transition planning"/>
-            <outline text="Divorce financial analysts"/>
+            <outline text="Divorce financial analysts #service-business"/>
             <outline text="Retirement-account division" _note="QDROs."/>
             <outline text="Marital home buyouts"/>
           </outline>
           <outline text="Co-parenting">
-            <outline text="Co-parenting apps"/>
-            <outline text="Custody scheduling"/>
-            <outline text="Co-parent expense sharing"/>
-            <outline text="Children's divorce support"/>
+            <outline text="Co-parenting apps #no-code-friendly"/>
+            <outline text="Custody scheduling #no-code-friendly"/>
+            <outline text="Co-parent expense sharing #no-code-friendly"/>
+            <outline text="Children's divorce support #content"/>
           </outline>
           <outline text="Safe separation #underserved" _note="Leaving an abusive relationship. Handle with trauma-informed design and strict privacy. | See also: Health &amp; Wellness &gt; Mental Health &gt; Trauma &amp; PTSD &gt; Domestic-violence support">
-            <outline text="Safety planning apps"/>
+            <outline text="Safety planning apps #no-code-friendly"/>
             <outline text="Protective-order assistance #regulated"/>
             <outline text="Stalkerware detection"/>
             <outline text="Emergency housing search"/>
           </outline>
           <outline text="Rebuilding after separation">
             <outline text="Post-divorce housing"/>
-            <outline text="Name-change services"/>
-            <outline text="Breakup coaching"/>
+            <outline text="Name-change services #service-business #no-code-friendly"/>
+            <outline text="Breakup coaching #service-business #content"/>
           </outline>
         </outline>
         <outline text="Parenting &amp; Family" _note="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">
-          <outline text="Parenting stages">
+          <outline text="Parenting stages #content">
             <outline text="Newborns"/>
             <outline text="Teens"/>
           </outline>
           <outline text="Parenting support" _note="Covers parent-child communication, discipline and emotional connection.">
-            <outline text="Parent coaching"/>
-            <outline text="Parenting courses"/>
-            <outline text="Parenting communities"/>
-            <outline text="Family organizers"/>
-            <outline text="Chore &amp; allowance apps"/>
+            <outline text="Parent coaching #service-business"/>
+            <outline text="Parenting courses #content"/>
+            <outline text="Parenting communities #content"/>
+            <outline text="Family organizers #no-code-friendly"/>
+            <outline text="Chore &amp; allowance apps #no-code-friendly"/>
           </outline>
           <outline text="Child online safety #regulated" _note="COPPA and age-appropriate-design laws.">
             <outline text="Parental controls"/>
             <outline text="Kids' phones"/>
             <outline text="Age verification #trending" _note="Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia's under-16 social-media ban."/>
-            <outline text="Online-safety education"/>
+            <outline text="Online-safety education #content"/>
           </outline>
           <outline text="Childcare #underserved" _note="Acute 'care desert' shortage.">
-            <outline text="Childcare marketplaces"/>
-            <outline text="Nannies &amp; babysitters"/>
-            <outline text="Nanny shares"/>
+            <outline text="Childcare marketplaces #marketplace"/>
+            <outline text="Nannies &amp; babysitters #marketplace"/>
+            <outline text="Nanny shares #marketplace #no-code-friendly"/>
             <outline text="Employer childcare #b2b"/>
           </outline>
           <outline text="Baby &amp; kids products">
             <outline text="Baby tech" _note="Monitors and smart nursery devices."/>
             <outline text="STEM toys"/>
-            <outline text="Kids' activity booking"/>
+            <outline text="Kids' activity booking #marketplace #no-code-friendly"/>
             <outline text="Kids' clothing"/>
           </outline>
           <outline text="Family structures">
-            <outline text="Single parents"/>
-            <outline text="Adoption &amp; foster care #underserved"/>
+            <outline text="Single parents #content"/>
+            <outline text="Adoption &amp; foster care #underserved #content"/>
             <outline text="Kinship care"/>
-            <outline text="Genealogy &amp; family history"/>
+            <outline text="Genealogy &amp; family history #service-business #content"/>
           </outline>
           <outline text="Special-needs parenting #underserved">
-            <outline text="IEP &amp; school advocacy"/>
+            <outline text="IEP &amp; school advocacy #service-business #content"/>
             <outline text="Therapy coordination"/>
-            <outline text="Special-needs parent communities"/>
+            <outline text="Special-needs parent communities #content"/>
           </outline>
         </outline>
         <outline text="Friendship &amp; Community" _note="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">
           <outline text="Making friends" _note="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">
-            <outline text="Friendship apps" _note="e.g. BFF by Bumble (relaunched as a standalone app in 2025)."/>
+            <outline text="Friendship apps #no-code-friendly" _note="e.g. BFF by Bumble (relaunched as a standalone app in 2025)."/>
             <outline text="Parent friendship apps" _note="e.g. Peanut."/>
-            <outline text="Activity-partner apps"/>
-            <outline text="Friend-matching dinners"/>
-            <outline text="Newcomer networks"/>
+            <outline text="Activity-partner apps #no-code-friendly"/>
+            <outline text="Friend-matching dinners #service-business"/>
+            <outline text="Newcomer networks #service-business #content"/>
           </outline>
           <outline text="Loneliness &amp; connection #underserved" _note="US Surgeon General advisory on loneliness, 2023.">
             <outline text="Third places"/>
-            <outline text="Community dinners"/>
+            <outline text="Community dinners #service-business"/>
             <outline text="Social prescribing"/>
-            <outline text="Intergenerational programs"/>
-            <outline text="Friendly-visitor services"/>
+            <outline text="Intergenerational programs #service-business"/>
+            <outline text="Friendly-visitor services #service-business #marketplace"/>
           </outline>
           <outline text="Clubs &amp; groups">
-            <outline text="Social clubs"/>
+            <outline text="Social clubs #service-business #content"/>
             <outline text="Alumni networks"/>
-            <outline text="Expat &amp; immigrant communities"/>
+            <outline text="Expat &amp; immigrant communities #content"/>
           </outline>
           <outline text="AI companions #trending #regulated #ai-native" _note="Open ethical and regulatory questions, especially for minors.">
             <outline text="Companion apps"/>
@@ -1021,68 +1021,68 @@
           <outline text="Community platforms">
             <outline text="Community software #b2b"/>
             <outline text="Club membership management #b2b"/>
-            <outline text="Social event apps"/>
+            <outline text="Social event apps #no-code-friendly"/>
           </outline>
         </outline>
         <outline text="Social Skills" _note="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">
           <outline text="Communication training">
-            <outline text="Communication coaching" _note="Active listening, assertiveness and conversation skills."/>
-            <outline text="AI conversation roleplay #trending #ai-native" _note="Practice difficult conversations with an AI partner."/>
-            <outline text="Workplace communication programs #b2b"/>
+            <outline text="Communication coaching #service-business" _note="Active listening, assertiveness and conversation skills."/>
+            <outline text="AI conversation roleplay #trending #ai-native #no-code-friendly" _note="Practice difficult conversations with an AI partner."/>
+            <outline text="Workplace communication programs #b2b #service-business"/>
           </outline>
           <outline text="Public speaking &amp; presence">
-            <outline text="Public speaking coaching"/>
-            <outline text="Speech feedback AI #ai-native" _note="e.g. Yoodli."/>
-            <outline text="Executive presence coaching"/>
+            <outline text="Public speaking coaching #service-business"/>
+            <outline text="Speech feedback AI #ai-native #no-code-friendly" _note="e.g. Yoodli."/>
+            <outline text="Executive presence coaching #service-business"/>
           </outline>
           <outline text="Emotional intelligence">
-            <outline text="EQ assessments"/>
-            <outline text="EQ training #b2b"/>
-            <outline text="Conflict-resolution training"/>
-            <outline text="Empathy programs for kids" _note="Social-emotional learning (SEL) curricula."/>
+            <outline text="EQ assessments #content #no-code-friendly"/>
+            <outline text="EQ training #b2b #service-business"/>
+            <outline text="Conflict-resolution training #service-business"/>
+            <outline text="Empathy programs for kids #content" _note="Social-emotional learning (SEL) curricula."/>
           </outline>
           <outline text="Neurodivergent social skills #underserved">
-            <outline text="Social-skills groups"/>
-            <outline text="Workplace social coaching"/>
-            <outline text="Social-skills apps"/>
+            <outline text="Social-skills groups #service-business"/>
+            <outline text="Workplace social coaching #service-business"/>
+            <outline text="Social-skills apps #no-code-friendly"/>
           </outline>
         </outline>
         <outline text="Death, Grief &amp; Legacy #underserved" _note="'Death tech.' | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">
           <outline text="End-of-life planning">
-            <outline text="Advance directives"/>
-            <outline text="End-of-life planning apps"/>
+            <outline text="Advance directives #no-code-friendly"/>
+            <outline text="End-of-life planning apps #no-code-friendly"/>
             <outline text="Funeral pre-planning"/>
-            <outline text="Death doulas"/>
+            <outline text="Death doulas #service-business"/>
             <outline text="Hospice &amp; palliative care"/>
           </outline>
           <outline text="Funeral services #regulated" _note="State funeral law and the FTC Funeral Rule.">
             <outline text="Direct cremation"/>
             <outline text="Green burial"/>
             <outline text="Alternative dispositions" _note="Water cremation and human composting; legal only in some jurisdictions."/>
-            <outline text="Funeral price comparison"/>
+            <outline text="Funeral price comparison #content"/>
             <outline text="Funeral home software #b2b"/>
           </outline>
           <outline text="Memorialization">
-            <outline text="Online memorials"/>
+            <outline text="Online memorials #no-code-friendly"/>
             <outline text="Memorial keepsakes" _note="e.g. cremation jewelry."/>
             <outline text="AI memorial avatars #ai-native" _note="'Griefbots'. Open ethical questions about consent and the effect on grief."/>
           </outline>
           <outline text="Grief support" _note="See also: Lifestyle, Home &amp; Experiences &gt; Pets &amp; Animal Care &gt; Pet lifestyle &gt; Pet loss &amp; grief">
             <outline text="Grief counseling"/>
-            <outline text="Grief apps"/>
+            <outline text="Grief apps #no-code-friendly"/>
             <outline text="Child grief programs"/>
             <outline text="Workplace bereavement support #b2b"/>
           </outline>
           <outline text="Digital legacy" _note="e.g. Empathy.">
-            <outline text="Account closure"/>
-            <outline text="Digital estate vaults"/>
+            <outline text="Account closure #service-business #no-code-friendly"/>
+            <outline text="Digital estate vaults #no-code-friendly"/>
             <outline text="Crypto inheritance"/>
-            <outline text="Legacy memoirs"/>
+            <outline text="Legacy memoirs #service-business"/>
           </outline>
-          <outline text="After-death logistics">
+          <outline text="After-death logistics #service-business">
             <outline text="Death admin concierge"/>
             <outline text="Survivor benefits claims"/>
-            <outline text="Probate navigation"/>
+            <outline text="Probate navigation #content"/>
             <outline text="Estate cleanout"/>
             <outline text="Downsizing services"/>
           </outline>
@@ -1092,60 +1092,60 @@
         <outline text="Contemplative Practice" _note="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">
           <outline text="Meditation">
             <outline text="Meditation studios"/>
-            <outline text="Meditation retreats"/>
-            <outline text="Workplace mindfulness #b2b"/>
+            <outline text="Meditation retreats #service-business"/>
+            <outline text="Workplace mindfulness #b2b #service-business"/>
           </outline>
           <outline text="Breathwork">
-            <outline text="Breathwork apps"/>
+            <outline text="Breathwork apps #content #no-code-friendly"/>
             <outline text="Breath-training devices"/>
           </outline>
-          <outline text="Journaling &amp; reflection">
+          <outline text="Journaling &amp; reflection #no-code-friendly">
             <outline text="Journaling apps" _note="e.g. Day One."/>
             <outline text="AI journaling #ai-native"/>
           </outline>
           <outline text="Somatics &amp; embodiment">
-            <outline text="Somatic practitioner training"/>
-            <outline text="Nervous-system regulation apps"/>
+            <outline text="Somatic practitioner training #content"/>
+            <outline text="Nervous-system regulation apps #no-code-friendly"/>
           </outline>
           <outline text="Digital wellness">
-            <outline text="Screen-time apps"/>
+            <outline text="Screen-time apps #no-code-friendly"/>
             <outline text="Minimalist phones"/>
             <outline text="Phone lockers &amp; pouches" _note="e.g. Yondr."/>
-            <outline text="Phone-free social events"/>
+            <outline text="Phone-free social events #service-business"/>
           </outline>
         </outline>
         <outline text="Spirituality &amp; Faith" _note="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">
           <outline text="Faith tech #b2b" _note="Faith communities: giving, streaming and church management.">
-            <outline text="Church management"/>
+            <outline text="Church management #no-code-friendly"/>
             <outline text="Giving platforms"/>
             <outline text="Service streaming"/>
-            <outline text="Congregant engagement apps"/>
+            <outline text="Congregant engagement apps #no-code-friendly"/>
             <outline text="Faith-based school software"/>
           </outline>
           <outline text="Prayer &amp; scripture" _note="e.g. Hallow.">
-            <outline text="Prayer apps"/>
-            <outline text="Scripture study"/>
-            <outline text="AI scripture study #ai-native"/>
-            <outline text="Faith-based meditation"/>
+            <outline text="Prayer apps #content #no-code-friendly"/>
+            <outline text="Scripture study #content"/>
+            <outline text="AI scripture study #ai-native #no-code-friendly"/>
+            <outline text="Faith-based meditation #content"/>
           </outline>
           <outline text="Spiritual guidance">
-            <outline text="Chaplaincy services" _note="Hospitals, workplaces, universities."/>
-            <outline text="Online religious education"/>
-            <outline text="Astrology apps" _note="e.g. Co-Star."/>
+            <outline text="Chaplaincy services #service-business" _note="Hospitals, workplaces, universities."/>
+            <outline text="Online religious education #content"/>
+            <outline text="Astrology apps #content #no-code-friendly" _note="e.g. Co-Star."/>
           </outline>
         </outline>
         <outline text="Purpose &amp; Life Transitions" _note="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">
           <outline text="Life coaching">
-            <outline text="Coach certification"/>
-            <outline text="Coaching marketplaces"/>
-            <outline text="AI life coaches #ai-native"/>
-            <outline text="Coaching practice software #b2b"/>
+            <outline text="Coach certification #content"/>
+            <outline text="Coaching marketplaces #marketplace"/>
+            <outline text="AI life coaches #ai-native #no-code-friendly"/>
+            <outline text="Coaching practice software #b2b #no-code-friendly"/>
           </outline>
-          <outline text="Self-discovery">
+          <outline text="Self-discovery #content #no-code-friendly">
             <outline text="Strengths &amp; values assessments"/>
             <outline text="Personality assessments"/>
           </outline>
-          <outline text="Life-stage transitions">
+          <outline text="Life-stage transitions #service-business #content">
             <outline text="Midlife reinvention"/>
             <outline text="Encore careers" _note="Un-retirement and second careers after 60."/>
             <outline text="Sabbatical planning"/>
@@ -1153,200 +1153,200 @@
         </outline>
         <outline text="Personal Development" _note="Self-directed growth products: content, programs, experiences and peer groups.">
           <outline text="Self-help content">
-            <outline text="Book summaries &amp; audio"/>
-            <outline text="Personal development apps"/>
-            <outline text="Challenge programs" _note="e.g. 30-day and 75-day challenges."/>
+            <outline text="Book summaries &amp; audio #content"/>
+            <outline text="Personal development apps #no-code-friendly"/>
+            <outline text="Challenge programs #content #no-code-friendly" _note="e.g. 30-day and 75-day challenges."/>
           </outline>
           <outline text="Inner-work programs" _note="Non-clinical. Clinical care lives in Mental Health.">
-            <outline text="Body-image programs"/>
-            <outline text="Resilience training"/>
+            <outline text="Body-image programs #content"/>
+            <outline text="Resilience training #service-business"/>
             <outline text="Wilderness programs"/>
           </outline>
-          <outline text="Performance &amp; mindset">
+          <outline text="Performance &amp; mindset #service-business">
             <outline text="Peak-performance coaching"/>
             <outline text="Mental-skills coaching" _note="For athletes, performers and executives."/>
-            <outline text="Habit coaching"/>
+            <outline text="Habit coaching #no-code-friendly"/>
           </outline>
-          <outline text="Growth communities">
-            <outline text="Men's circles"/>
-            <outline text="Women's circles"/>
-            <outline text="Mastermind groups"/>
-            <outline text="Peer coaching networks"/>
+          <outline text="Growth communities #content">
+            <outline text="Men's circles #service-business"/>
+            <outline text="Women's circles #service-business"/>
+            <outline text="Mastermind groups #service-business"/>
+            <outline text="Peer coaching networks #marketplace"/>
           </outline>
         </outline>
         <outline text="Productivity">
-          <outline text="Tasks &amp; habits">
+          <outline text="Tasks &amp; habits #no-code-friendly">
             <outline text="Gamified productivity"/>
-            <outline text="Goal-setting &amp; accountability"/>
+            <outline text="Goal-setting &amp; accountability #service-business"/>
           </outline>
-          <outline text="Time management">
+          <outline text="Time management #no-code-friendly">
             <outline text="AI calendars #ai-native" _note="e.g. Motion."/>
             <outline text="Time tracking"/>
           </outline>
           <outline text="Knowledge management" _note="Second brain / PKM.">
-            <outline text="Note-taking apps" _note="e.g. Notion, Obsidian."/>
-            <outline text="AI knowledge assistants #ai-native"/>
+            <outline text="Note-taking apps #content" _note="e.g. Notion, Obsidian."/>
+            <outline text="AI knowledge assistants #ai-native #no-code-friendly"/>
           </outline>
           <outline text="ADHD-friendly productivity" _note="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">
-            <outline text="Body doubling" _note="e.g. Flow Club, Focusmate."/>
-            <outline text="ADHD planners"/>
-            <outline text="AI task breakdown #ai-native"/>
+            <outline text="Body doubling #service-business #marketplace #no-code-friendly" _note="e.g. Flow Club, Focusmate."/>
+            <outline text="ADHD planners #content"/>
+            <outline text="AI task breakdown #ai-native #no-code-friendly"/>
           </outline>
           <outline text="AI personal assistants #trending #ai-native">
             <outline text="Personal AI agents"/>
             <outline text="AI browser agents"/>
-            <outline text="Inbox &amp; email AI"/>
+            <outline text="Inbox &amp; email AI #no-code-friendly"/>
             <outline text="AI answer engines"/>
             <outline text="AI glasses &amp; wearables" _note="AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta."/>
           </outline>
         </outline>
         <outline text="Learning &amp; Education" _note="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">
           <outline text="Online learning">
-            <outline text="Cohort-based courses"/>
+            <outline text="Cohort-based courses #content"/>
             <outline text="Masterclass platforms"/>
-            <outline text="Microlearning apps"/>
+            <outline text="Microlearning apps #content #no-code-friendly"/>
           </outline>
-          <outline text="AI tutoring #trending #ai-native">
+          <outline text="AI tutoring #trending #ai-native #no-code-friendly">
             <outline text="AI tutors" _note="e.g. Khanmigo."/>
             <outline text="AI reading coaches"/>
             <outline text="Homework help apps"/>
             <outline text="AI study tools"/>
           </outline>
           <outline text="Test prep &amp; credentials">
-            <outline text="Test prep"/>
-            <outline text="Professional certifications"/>
-            <outline text="Micro-credentials"/>
+            <outline text="Test prep #service-business #content"/>
+            <outline text="Professional certifications #content"/>
+            <outline text="Micro-credentials #content"/>
             <outline text="Credential verification #b2b"/>
             <outline text="Online proctoring #b2b"/>
           </outline>
           <outline text="Language learning">
-            <outline text="AI language tutors #ai-native"/>
-            <outline text="Conversation practice"/>
-            <outline text="Workplace English"/>
-            <outline text="Heritage-language programs"/>
+            <outline text="AI language tutors #ai-native #no-code-friendly"/>
+            <outline text="Conversation practice #service-business #marketplace"/>
+            <outline text="Workplace English #service-business"/>
+            <outline text="Heritage-language programs #service-business #content"/>
           </outline>
           <outline text="K-12 &amp; alternatives">
-            <outline text="Homeschooling"/>
-            <outline text="Learning pods"/>
-            <outline text="Tutoring"/>
+            <outline text="Homeschooling #content"/>
+            <outline text="Learning pods #service-business #marketplace"/>
+            <outline text="Tutoring #service-business #marketplace"/>
             <outline text="Microschools"/>
             <outline text="Special education #underserved"/>
           </outline>
           <outline text="Early &amp; enrichment learning">
-            <outline text="Early-learning apps"/>
+            <outline text="Early-learning apps #no-code-friendly"/>
             <outline text="Preschools"/>
-            <outline text="Kids' coding classes"/>
-            <outline text="Music lessons"/>
-            <outline text="After-school programs"/>
+            <outline text="Kids' coding classes #service-business"/>
+            <outline text="Music lessons #service-business #marketplace"/>
+            <outline text="After-school programs #service-business"/>
           </outline>
           <outline text="Higher education">
-            <outline text="College admissions"/>
-            <outline text="Financial-aid navigation"/>
+            <outline text="College admissions #service-business #content"/>
+            <outline text="Financial-aid navigation #service-business #content"/>
             <outline text="Online degrees"/>
-            <outline text="Transfer &amp; credit mapping"/>
+            <outline text="Transfer &amp; credit mapping #content"/>
             <outline text="Student services"/>
             <outline text="Campus mental health"/>
           </outline>
           <outline text="School EdTech #b2b">
-            <outline text="Teacher tools"/>
-            <outline text="Lesson-planning AI #ai-native"/>
-            <outline text="AI grading &amp; assessment #ai-native"/>
-            <outline text="Curriculum marketplaces"/>
+            <outline text="Teacher tools #no-code-friendly"/>
+            <outline text="Lesson-planning AI #ai-native #no-code-friendly"/>
+            <outline text="AI grading &amp; assessment #ai-native #no-code-friendly"/>
+            <outline text="Curriculum marketplaces #content #marketplace"/>
             <outline text="School management"/>
-            <outline text="Parent-school communication"/>
+            <outline text="Parent-school communication #no-code-friendly"/>
             <outline text="Academic-integrity tools"/>
           </outline>
         </outline>
         <outline text="Creativity &amp; Craft">
           <outline text="Writing">
-            <outline text="Writing tools"/>
-            <outline text="AI writing assistants #ai-native"/>
+            <outline text="Writing tools #no-code-friendly"/>
+            <outline text="AI writing assistants #ai-native #no-code-friendly"/>
             <outline text="Screenwriting software"/>
-            <outline text="Self-publishing"/>
+            <outline text="Self-publishing #service-business #content"/>
           </outline>
           <outline text="Music creation">
-            <outline text="Music production" _note="DAWs and plugins."/>
-            <outline text="Sample marketplaces" _note="e.g. Splice."/>
-            <outline text="Instrument learning"/>
+            <outline text="Music production #service-business #content" _note="DAWs and plugins."/>
+            <outline text="Sample marketplaces #content #marketplace" _note="e.g. Splice."/>
+            <outline text="Instrument learning #service-business #content"/>
             <outline text="AI music tools #ai-native"/>
             <outline text="Music distribution" _note="e.g. DistroKid."/>
           </outline>
           <outline text="Visual arts &amp; craft" _note="Artisan revival.">
             <outline text="Pottery studios"/>
             <outline text="Digital art tools" _note="e.g. Procreate."/>
-            <outline text="Craft kits"/>
-            <outline text="Artist marketplaces"/>
+            <outline text="Craft kits #content"/>
+            <outline text="Artist marketplaces #marketplace"/>
           </outline>
           <outline text="Fiber arts">
-            <outline text="Pattern marketplaces"/>
+            <outline text="Pattern marketplaces #content #marketplace"/>
             <outline text="Yarn &amp; fabric DTC"/>
           </outline>
           <outline text="Photo &amp; video">
-            <outline text="Film photography" _note="Part of the Gen Z analog revival."/>
+            <outline text="Film photography #content" _note="Part of the Gen Z analog revival."/>
             <outline text="Editing tools"/>
             <outline text="AI video generation #trending #ai-native"/>
-            <outline text="Stock media marketplaces"/>
+            <outline text="Stock media marketplaces #content #marketplace"/>
           </outline>
           <outline text="Maker culture">
-            <outline text="3D printing"/>
+            <outline text="3D printing #service-business #content"/>
             <outline text="Electronics kits"/>
             <outline text="CNC &amp; laser cutters"/>
           </outline>
-          <outline text="Performing arts" _note="Taking part yourself, as opposed to attending.">
+          <outline text="Performing arts #service-business" _note="Taking part yourself, as opposed to attending.">
             <outline text="Dance classes"/>
-            <outline text="Voice &amp; singing lessons"/>
+            <outline text="Voice &amp; singing lessons #marketplace"/>
           </outline>
         </outline>
         <outline text="Career Development">
           <outline text="Job search">
-            <outline text="Resume tools"/>
-            <outline text="AI job-application tools #ai-native"/>
-            <outline text="Interview preparation"/>
-            <outline text="Salary negotiation tools"/>
+            <outline text="Resume tools #service-business #no-code-friendly"/>
+            <outline text="AI job-application tools #ai-native #no-code-friendly"/>
+            <outline text="Interview preparation #service-business #no-code-friendly"/>
+            <outline text="Salary negotiation tools #service-business #content"/>
           </outline>
           <outline text="Upskilling" _note="Covers communication, project management, data, software, sales, cybersecurity and AI skills.">
-            <outline text="AI upskilling #trending"/>
-            <outline text="Leadership development"/>
-            <outline text="Manager training"/>
-            <outline text="Technical upskilling"/>
-            <outline text="Sales training"/>
+            <outline text="AI upskilling #trending #service-business #content"/>
+            <outline text="Leadership development #service-business"/>
+            <outline text="Manager training #service-business #content"/>
+            <outline text="Technical upskilling #content"/>
+            <outline text="Sales training #service-business #content"/>
             <outline text="Education-benefit platforms #b2b" _note="Employer-paid tuition, e.g. Guild."/>
           </outline>
           <outline text="Career transitions">
-            <outline text="Career coaching"/>
-            <outline text="Career switching"/>
+            <outline text="Career coaching #service-business"/>
+            <outline text="Career switching #service-business #content"/>
             <outline text="Returnships #underserved" _note="Career re-entry, e.g. for caregivers."/>
-            <outline text="Veterans' transition #underserved"/>
-            <outline text="Outplacement"/>
+            <outline text="Veterans' transition #underserved #service-business #content"/>
+            <outline text="Outplacement #service-business"/>
           </outline>
           <outline text="Inclusive employment #underserved">
-            <outline text="Neurodivergent hiring" _note="e.g. autism-hiring programs."/>
+            <outline text="Neurodivergent hiring #service-business" _note="e.g. autism-hiring programs."/>
             <outline text="Disability employment"/>
-            <outline text="Workplace accommodations tools"/>
-            <outline text="Older-worker hiring"/>
+            <outline text="Workplace accommodations tools #no-code-friendly"/>
+            <outline text="Older-worker hiring #marketplace"/>
             <outline text="Refugee &amp; immigrant employment"/>
-            <outline text="Second-chance hiring"/>
+            <outline text="Second-chance hiring #marketplace"/>
           </outline>
           <outline text="Skilled trades careers" _note="See also: Wealth &gt; Entrepreneurship &gt; Small business &gt; Skilled-trades businesses">
             <outline text="Trade schools"/>
-            <outline text="Apprenticeship marketplaces"/>
-            <outline text="Licensing exam prep"/>
-            <outline text="Trade job boards"/>
-            <outline text="Trades continuing education"/>
+            <outline text="Apprenticeship marketplaces #marketplace"/>
+            <outline text="Licensing exam prep #content"/>
+            <outline text="Trade job boards #marketplace"/>
+            <outline text="Trades continuing education #content"/>
           </outline>
-          <outline text="Work arrangements" _note="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">
+          <outline text="Work arrangements #marketplace" _note="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">
             <outline text="Flexible &amp; part-time jobs"/>
-            <outline text="Interim management"/>
+            <outline text="Interim management #service-business"/>
           </outline>
           <outline text="Professional networking">
-            <outline text="Professional communities"/>
-            <outline text="Mentorship platforms"/>
-            <outline text="Personal branding tools"/>
-            <outline text="Warm-intro tools"/>
+            <outline text="Professional communities #content"/>
+            <outline text="Mentorship platforms #marketplace"/>
+            <outline text="Personal branding tools #service-business #no-code-friendly"/>
+            <outline text="Warm-intro tools #no-code-friendly"/>
           </outline>
           <outline text="Workplace navigation">
-            <outline text="Salary data platforms"/>
-            <outline text="Leave navigation" _note="Parental, medical and caregiving leave."/>
+            <outline text="Salary data platforms #content"/>
+            <outline text="Leave navigation #service-business #content" _note="Parental, medical and caregiving leave."/>
             <outline text="Employment-law help #regulated"/>
           </outline>
         </outline>
@@ -1354,34 +1354,34 @@
       <outline text="Lifestyle, Home &amp; Experiences" _note="Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around.">
         <outline text="Travel &amp; Adventure">
           <outline text="Trip planning">
-            <outline text="AI trip planners #ai-native" _note="e.g. Mindtrip."/>
-            <outline text="Itinerary apps"/>
-            <outline text="Group trip planning"/>
-            <outline text="Creator travel guides"/>
-            <outline text="Travel rewards"/>
+            <outline text="AI trip planners #ai-native #no-code-friendly" _note="e.g. Mindtrip."/>
+            <outline text="Itinerary apps #no-code-friendly"/>
+            <outline text="Group trip planning #service-business #no-code-friendly"/>
+            <outline text="Creator travel guides #content"/>
+            <outline text="Travel rewards #content"/>
           </outline>
           <outline text="Experiential travel">
-            <outline text="Adventure tours"/>
-            <outline text="Culinary travel"/>
-            <outline text="Sports &amp; event travel"/>
-            <outline text="Experiences marketplaces"/>
+            <outline text="Adventure tours #service-business"/>
+            <outline text="Culinary travel #service-business"/>
+            <outline text="Sports &amp; event travel #service-business"/>
+            <outline text="Experiences marketplaces #marketplace"/>
           </outline>
           <outline text="Digital nomadism" _note="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Living arrangements &gt; Coliving | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; International &amp; expat tax">
-            <outline text="Nomad communities" _note="e.g. Nomad List."/>
+            <outline text="Nomad communities #content" _note="e.g. Nomad List."/>
             <outline text="Coworking passes"/>
-            <outline text="Remote-work retreats"/>
+            <outline text="Remote-work retreats #service-business"/>
             <outline text="Nomad insurance"/>
           </outline>
           <outline text="Wellness travel">
-            <outline text="Wellness retreats"/>
-            <outline text="Fitness retreats"/>
+            <outline text="Wellness retreats #service-business"/>
+            <outline text="Fitness retreats #service-business"/>
             <outline text="Longevity retreats"/>
           </outline>
-          <outline text="Traveler segments">
-            <outline text="Solo travel"/>
+          <outline text="Traveler segments #content">
+            <outline text="Solo travel #service-business"/>
             <outline text="Family travel"/>
-            <outline text="Senior travel"/>
-            <outline text="Accessible travel #underserved"/>
+            <outline text="Senior travel #service-business"/>
+            <outline text="Accessible travel #underserved #service-business"/>
           </outline>
           <outline text="Road &amp; outdoor travel">
             <outline text="RV rentals" _note="Peer-to-peer, e.g. Outdoorsy."/>
@@ -1391,19 +1391,19 @@
           <outline text="Hospitality tech #b2b" _note="See also: Planet &amp; Frontier &gt; Built Environment &gt; Property management &gt; Short-term rental operations">
             <outline text="Hotel property management"/>
             <outline text="Hotel revenue management"/>
-            <outline text="Guest messaging"/>
-            <outline text="Direct booking engines"/>
-            <outline text="Tour-operator software"/>
+            <outline text="Guest messaging #no-code-friendly"/>
+            <outline text="Direct booking engines #no-code-friendly"/>
+            <outline text="Tour-operator software #no-code-friendly"/>
             <outline text="Overtourism management"/>
           </outline>
         </outline>
         <outline text="Food &amp; Beverage">
           <outline text="Meal solutions" _note="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods">
             <outline text="Prepared meals"/>
-            <outline text="Personal chefs"/>
+            <outline text="Personal chefs #service-business #marketplace"/>
             <outline text="Kids' &amp; school meals"/>
             <outline text="Corporate catering #b2b"/>
-            <outline text="Meal-planning apps"/>
+            <outline text="Meal-planning apps #no-code-friendly"/>
             <outline text="Senior meal delivery #underserved"/>
           </outline>
           <outline text="Better-for-you foods">
@@ -1420,78 +1420,78 @@
           <outline text="Restaurant tech #b2b">
             <outline text="Restaurant ops software"/>
             <outline text="Restaurant POS" _note="e.g. Toast."/>
-            <outline text="Online ordering &amp; loyalty"/>
-            <outline text="Reservations &amp; waitlists"/>
+            <outline text="Online ordering &amp; loyalty #no-code-friendly"/>
+            <outline text="Reservations &amp; waitlists #no-code-friendly"/>
             <outline text="Kitchen automation"/>
-            <outline text="Restaurant supplier marketplaces"/>
+            <outline text="Restaurant supplier marketplaces #marketplace"/>
           </outline>
           <outline text="Artisanal &amp; local food">
             <outline text="Specialty food DTC"/>
-            <outline text="Cottage-food businesses #regulated" _note="Home food businesses under state cottage-food laws."/>
+            <outline text="Cottage-food businesses #regulated #content" _note="Home food businesses under state cottage-food laws."/>
             <outline text="Food incubators &amp; commissaries #b2b"/>
           </outline>
           <outline text="Food waste" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Circular economy">
-            <outline text="Surplus-food apps" _note="e.g. Too Good To Go."/>
+            <outline text="Surplus-food apps #marketplace #no-code-friendly" _note="e.g. Too Good To Go."/>
             <outline text="Food donation logistics #b2b"/>
             <outline text="Food-freshness tracking"/>
             <outline text="Home composting"/>
             <outline text="Upcycled foods"/>
           </outline>
           <outline text="Cooking &amp; groceries">
-            <outline text="AI cooking assistants #ai-native"/>
+            <outline text="AI cooking assistants #ai-native #no-code-friendly"/>
             <outline text="Smart cooking appliances"/>
-            <outline text="Grocery price comparison"/>
+            <outline text="Grocery price comparison #no-code-friendly"/>
           </outline>
         </outline>
         <outline text="Home &amp; Living">
           <outline text="Smart home">
-            <outline text="Smart-home installation"/>
+            <outline text="Smart-home installation #service-business"/>
             <outline text="Home security"/>
             <outline text="Home robots" _note="Robot vacuums, mowers and pool cleaners."/>
             <outline text="Home energy monitors"/>
             <outline text="Water-leak sensors"/>
           </outline>
           <outline text="Design &amp; decor">
-            <outline text="E-design" _note="e.g. Havenly."/>
-            <outline text="AI interior design #ai-native"/>
+            <outline text="E-design #service-business" _note="e.g. Havenly."/>
+            <outline text="AI interior design #ai-native #no-code-friendly"/>
           </outline>
           <outline text="Organizing &amp; moving">
-            <outline text="Decluttering services"/>
-            <outline text="Home inventory apps"/>
+            <outline text="Decluttering services #service-business"/>
+            <outline text="Home inventory apps #no-code-friendly"/>
             <outline text="Moving services"/>
-            <outline text="Move admin" _note="Utilities, address changes and service setup."/>
-            <outline text="Senior move management"/>
+            <outline text="Move admin #service-business #no-code-friendly" _note="Utilities, address changes and service setup."/>
+            <outline text="Senior move management #service-business"/>
           </outline>
           <outline text="Home improvement">
-            <outline text="Renovation platforms"/>
+            <outline text="Renovation platforms #marketplace"/>
             <outline text="Renovation financing #regulated"/>
             <outline text="Home accessibility retrofits"/>
-            <outline text="Home maintenance apps"/>
+            <outline text="Home maintenance apps #no-code-friendly"/>
             <outline text="Home inspection"/>
           </outline>
           <outline text="Home services" _note="e.g. Thumbtack, TaskRabbit.">
-            <outline text="Handyman marketplaces"/>
-            <outline text="Cleaning services"/>
-            <outline text="Lawn &amp; pest services"/>
-            <outline text="Field-service software #b2b" _note="Scheduling, dispatch and invoicing for trades, e.g. Jobber."/>
+            <outline text="Handyman marketplaces #marketplace"/>
+            <outline text="Cleaning services #service-business"/>
+            <outline text="Lawn &amp; pest services #service-business"/>
+            <outline text="Field-service software #b2b #no-code-friendly" _note="Scheduling, dispatch and invoicing for trades, e.g. Jobber."/>
           </outline>
           <outline text="Gardening &amp; plants">
             <outline text="Seed &amp; plant DTC"/>
-            <outline text="Landscape design"/>
-            <outline text="Native &amp; drought-tolerant landscaping"/>
+            <outline text="Landscape design #service-business"/>
+            <outline text="Native &amp; drought-tolerant landscaping #service-business #content"/>
           </outline>
           <outline text="Living arrangements">
             <outline text="Coliving" _note="e.g. Habyt, Tripalink. Early leader Common shut down in 2024."/>
             <outline text="ADUs &amp; tiny homes"/>
-            <outline text="Roommate matching"/>
+            <outline text="Roommate matching #marketplace #no-code-friendly"/>
           </outline>
           <outline text="Home electrification" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Clean power">
             <outline text="Heat pumps"/>
             <outline text="Rooftop solar"/>
             <outline text="Home batteries"/>
             <outline text="Induction cooking"/>
-            <outline text="Energy audits"/>
-            <outline text="Rebate navigation" _note="Finding and claiming electrification incentives."/>
+            <outline text="Energy audits #service-business"/>
+            <outline text="Rebate navigation #service-business #content #no-code-friendly" _note="Finding and claiming electrification incentives."/>
           </outline>
         </outline>
         <outline text="Fashion &amp; Beauty" _note="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">
@@ -1499,7 +1499,7 @@
             <outline text="Resale marketplaces"/>
             <outline text="Luxury resale"/>
             <outline text="Resale-as-a-service #b2b" _note="Brand take-back and resale programs."/>
-            <outline text="Repair &amp; upcycling"/>
+            <outline text="Repair &amp; upcycling #service-business"/>
           </outline>
           <outline text="Inclusive fashion #underserved">
             <outline text="Plus-size fashion"/>
@@ -1511,26 +1511,26 @@
           <outline text="Beauty &amp; skincare">
             <outline text="K-beauty #trending"/>
             <outline text="Inclusive beauty" _note="Diverse shade ranges (the 'Fenty effect')."/>
-            <outline text="Textured hair care"/>
-            <outline text="Nail care"/>
+            <outline text="Textured hair care #service-business #content"/>
+            <outline text="Nail care #service-business"/>
             <outline text="Fragrance"/>
           </outline>
           <outline text="Fashion &amp; beauty tech">
             <outline text="Virtual try-on"/>
-            <outline text="AI styling assistants #ai-native"/>
+            <outline text="AI styling assistants #ai-native #no-code-friendly"/>
             <outline text="Size &amp; fit tech"/>
             <outline text="AI skin analysis #ai-native"/>
             <outline text="On-demand apparel manufacturing #b2b"/>
           </outline>
           <outline text="Men's grooming">
             <outline text="Men's skincare"/>
-            <outline text="Barbershop booking"/>
+            <outline text="Barbershop booking #no-code-friendly"/>
           </outline>
           <outline text="Salon &amp; spa tech #b2b">
-            <outline text="Salon booking software"/>
+            <outline text="Salon booking software #no-code-friendly"/>
             <outline text="Salon management"/>
-            <outline text="Salon-suite rental platforms"/>
-            <outline text="Beauty-pro marketplaces"/>
+            <outline text="Salon-suite rental platforms #marketplace"/>
+            <outline text="Beauty-pro marketplaces #marketplace"/>
             <outline text="Beauty-pro payments"/>
           </outline>
         </outline>
@@ -1556,59 +1556,59 @@
             <outline text="Smart litter boxes"/>
           </outline>
           <outline text="Pet services" _note="e.g. Rover.">
-            <outline text="Pet grooming"/>
-            <outline text="Mobile grooming"/>
+            <outline text="Pet grooming #service-business"/>
+            <outline text="Mobile grooming #service-business"/>
             <outline text="Boarding &amp; daycare"/>
-            <outline text="Pet sitting"/>
-            <outline text="Training &amp; behavior"/>
+            <outline text="Pet sitting #service-business #marketplace"/>
+            <outline text="Training &amp; behavior #service-business #content"/>
           </outline>
           <outline text="Pet lifestyle">
             <outline text="Pet adoption"/>
-            <outline text="Pet-friendly travel"/>
+            <outline text="Pet-friendly travel #content"/>
             <outline text="Pet aftercare"/>
-            <outline text="Pet loss &amp; grief"/>
+            <outline text="Pet loss &amp; grief #content"/>
           </outline>
         </outline>
         <outline text="Sports &amp; Hobbies" _note="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">
           <outline text="Racquet sports #trending">
-            <outline text="Pickleball" _note="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026)."/>
-            <outline text="Padel"/>
+            <outline text="Pickleball #service-business #content" _note="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026)."/>
+            <outline text="Padel #content"/>
             <outline text="Indoor pickleball venues"/>
-            <outline text="Court booking"/>
-            <outline text="Racquet coaching apps"/>
+            <outline text="Court booking #no-code-friendly"/>
+            <outline text="Racquet coaching apps #no-code-friendly"/>
           </outline>
           <outline text="Social sports">
-            <outline text="Run clubs #trending"/>
-            <outline text="Fitness racing #trending" _note="e.g. Hyrox."/>
-            <outline text="Adult rec leagues"/>
-            <outline text="Pickup-game apps"/>
+            <outline text="Run clubs #trending #service-business #content"/>
+            <outline text="Fitness racing #trending #content" _note="e.g. Hyrox."/>
+            <outline text="Adult rec leagues #service-business"/>
+            <outline text="Pickup-game apps #no-code-friendly"/>
             <outline text="Golf entertainment" _note="e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators."/>
           </outline>
           <outline text="Women's sports #trending">
             <outline text="Pro leagues &amp; fandom"/>
-            <outline text="Women's sports media"/>
+            <outline text="Women's sports media #content"/>
             <outline text="Women's sports gear"/>
-            <outline text="Girls' sports participation"/>
+            <outline text="Girls' sports participation #service-business"/>
           </outline>
           <outline text="Fandom &amp; spectating">
-            <outline text="Fan engagement apps"/>
+            <outline text="Fan engagement apps #no-code-friendly"/>
             <outline text="Watch-party venues"/>
             <outline text="Amateur sports streaming"/>
             <outline text="Stadium tech #b2b"/>
           </outline>
           <outline text="Games &amp; puzzles">
-            <outline text="Chess"/>
-            <outline text="Tabletop RPGs"/>
-            <outline text="Word games"/>
+            <outline text="Chess #service-business #content"/>
+            <outline text="Tabletop RPGs #service-business #content"/>
+            <outline text="Word games #no-code-friendly"/>
           </outline>
           <outline text="Collecting" _note="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">
-            <outline text="Trading cards"/>
+            <outline text="Trading cards #content"/>
             <outline text="Designer toys &amp; blind boxes" _note="e.g. Pop Mart's Labubu."/>
-            <outline text="Live collectible auctions #trending" _note="Live-stream breaks and auctions, e.g. Whatnot."/>
+            <outline text="Live collectible auctions #trending #content" _note="Live-stream breaks and auctions, e.g. Whatnot."/>
             <outline text="Grading &amp; authentication"/>
           </outline>
-          <outline text="Reading">
-            <outline text="Book discovery" _note="BookTok."/>
+          <outline text="Reading #no-code-friendly">
+            <outline text="Book discovery #content" _note="BookTok."/>
             <outline text="Reading trackers"/>
           </outline>
         </outline>
@@ -1617,11 +1617,11 @@
             <outline text="FAST channels" _note="Free ad-supported streaming TV."/>
             <outline text="International content streaming"/>
             <outline text="Microdramas #trending"/>
-            <outline text="Creator-led media"/>
+            <outline text="Creator-led media #content"/>
           </outline>
           <outline text="Podcasts &amp; audio">
-            <outline text="Audio dramas &amp; fiction"/>
-            <outline text="Audio creator tools"/>
+            <outline text="Audio dramas &amp; fiction #content"/>
+            <outline text="Audio creator tools #no-code-friendly"/>
             <outline text="Podcast advertising #b2b"/>
           </outline>
           <outline text="Gaming">
@@ -1631,37 +1631,37 @@
             <outline text="AI game-dev tools #ai-native"/>
           </outline>
           <outline text="Live events">
-            <outline text="Local event discovery"/>
+            <outline text="Local event discovery #content #no-code-friendly"/>
             <outline text="Ticketing"/>
             <outline text="Ticket resale #regulated"/>
           </outline>
           <outline text="Nightlife &amp; venues">
             <outline text="Eatertainment venues"/>
-            <outline text="Sober nightlife"/>
-            <outline text="Table &amp; guest-list apps"/>
+            <outline text="Sober nightlife #service-business"/>
+            <outline text="Table &amp; guest-list apps #no-code-friendly"/>
             <outline text="Venue management software #b2b"/>
           </outline>
           <outline text="Immersive experiences">
             <outline text="Immersive theater"/>
             <outline text="Interactive art"/>
-            <outline text="Themed pop-ups"/>
+            <outline text="Themed pop-ups #service-business"/>
             <outline text="Location-based AR"/>
           </outline>
           <outline text="Weddings">
-            <outline text="Wedding planning platforms"/>
+            <outline text="Wedding planning platforms #no-code-friendly"/>
             <outline text="Registries"/>
             <outline text="Wedding attire"/>
-            <outline text="Elopements &amp; micro-weddings"/>
+            <outline text="Elopements &amp; micro-weddings #service-business #marketplace"/>
             <outline text="Wedding vendor software #b2b"/>
           </outline>
           <outline text="Celebrations &amp; gifting">
-            <outline text="Party planning"/>
-            <outline text="Kids' parties"/>
+            <outline text="Party planning #service-business"/>
+            <outline text="Kids' parties #service-business"/>
             <outline text="Gifting platforms"/>
             <outline text="Personalized gifts"/>
-            <outline text="Group gifting"/>
-            <outline text="Corporate gifting #b2b"/>
-            <outline text="Team experiences #b2b"/>
+            <outline text="Group gifting #no-code-friendly"/>
+            <outline text="Corporate gifting #b2b #service-business"/>
+            <outline text="Team experiences #b2b #service-business #marketplace"/>
           </outline>
         </outline>
         <outline text="Cars &amp; Transportation">
@@ -1669,18 +1669,18 @@
             <outline text="Online car buying" _note="e.g. Carvana."/>
             <outline text="Car marketplaces"/>
             <outline text="Trade-in valuation"/>
-            <outline text="Used-car inspections"/>
-            <outline text="Car-buying advisors"/>
+            <outline text="Used-car inspections #service-business"/>
+            <outline text="Car-buying advisors #service-business"/>
           </outline>
           <outline text="Car ownership" _note="See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance">
             <outline text="Maintenance &amp; repair"/>
-            <outline text="Mobile mechanics"/>
-            <outline text="Detailing &amp; care"/>
+            <outline text="Mobile mechanics #service-business"/>
+            <outline text="Detailing &amp; care #service-business"/>
             <outline text="Connected-car apps"/>
             <outline text="Parking apps"/>
             <outline text="Tolls &amp; tickets"/>
           </outline>
-          <outline text="Car enthusiasts">
+          <outline text="Car enthusiasts #content">
             <outline text="Collector cars"/>
             <outline text="Parts &amp; modification"/>
           </outline>
@@ -1688,7 +1688,7 @@
             <outline text="Home charging"/>
             <outline text="Charger installation"/>
             <outline text="Charging apps"/>
-            <outline text="Used EVs &amp; battery health"/>
+            <outline text="Used EVs &amp; battery health #content"/>
           </outline>
           <outline text="Micromobility">
             <outline text="E-bikes"/>
@@ -1712,10 +1712,10 @@
             <outline text="Model gateways &amp; routing"/>
           </outline>
           <outline text="AI agents" _note="See also: Enterprise &amp; AI &gt; Cybersecurity &amp; Trust &gt; Security for AI &gt; AI agent security">
-            <outline text="Vertical agents" _note="Legal, sales, healthcare and other industry agents."/>
+            <outline text="Vertical agents #no-code-friendly" _note="Legal, sales, healthcare and other industry agents."/>
             <outline text="Coding agents"/>
             <outline text="Computer-use agents"/>
-            <outline text="Workflow automation"/>
+            <outline text="Workflow automation #service-business #no-code-friendly"/>
             <outline text="Agent orchestration"/>
             <outline text="Agent memory &amp; context"/>
             <outline text="Agent tool protocols" _note="e.g. MCP servers and tool registries."/>
@@ -1742,7 +1742,7 @@
             <outline text="Edge AI"/>
           </outline>
           <outline text="Data infrastructure">
-            <outline text="Data labeling"/>
+            <outline text="Data labeling #service-business"/>
             <outline text="Synthetic data"/>
             <outline text="Web data APIs"/>
             <outline text="Training-data licensing"/>
@@ -1763,11 +1763,11 @@
             <outline text="Code modernization AI"/>
           </outline>
           <outline text="No-code &amp; low-code">
-            <outline text="App builders"/>
-            <outline text="Internal-tool builders"/>
+            <outline text="App builders #service-business #content"/>
+            <outline text="Internal-tool builders #service-business"/>
             <outline text="Spreadsheet-database builders" _note="e.g. Airtable."/>
             <outline text="AI app generators #trending #ai-native" _note="'Vibe coding.'"/>
-            <outline text="Workflow builders"/>
+            <outline text="Workflow builders #service-business #no-code-friendly"/>
           </outline>
           <outline text="Testing &amp; quality">
             <outline text="Test automation"/>
@@ -1798,7 +1798,7 @@
             <outline text="API management"/>
             <outline text="SDK generation"/>
             <outline text="Webhook infrastructure"/>
-            <outline text="Integration platforms"/>
+            <outline text="Integration platforms #service-business #no-code-friendly"/>
           </outline>
         </outline>
         <outline text="Cybersecurity &amp; Trust">
@@ -1832,7 +1832,7 @@
             <outline text="Backup &amp; ransomware recovery"/>
           </outline>
           <outline text="Human risk">
-            <outline text="Security awareness training"/>
+            <outline text="Security awareness training #service-business #content"/>
             <outline text="Phishing simulation"/>
             <outline text="Insider-risk management"/>
           </outline>
@@ -1853,8 +1853,8 @@
           </outline>
           <outline text="Consumer security #consumer" _note="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Cyber insurance">
             <outline text="Identity-theft protection"/>
-            <outline text="Data-broker removal"/>
-            <outline text="Scam protection" _note="Includes elder-fraud protection."/>
+            <outline text="Data-broker removal #service-business #no-code-friendly"/>
+            <outline text="Scam protection #content" _note="Includes elder-fraud protection."/>
             <outline text="Privacy tools"/>
           </outline>
         </outline>
@@ -1870,13 +1870,13 @@
           <outline text="HRIS &amp; people analytics">
             <outline text="HRIS"/>
             <outline text="Performance management"/>
-            <outline text="Engagement surveys"/>
+            <outline text="Engagement surveys #no-code-friendly"/>
             <outline text="People analytics"/>
             <outline text="Compensation benchmarking"/>
           </outline>
           <outline text="Collaboration">
             <outline text="Async collaboration"/>
-            <outline text="Internal communications"/>
+            <outline text="Internal communications #service-business"/>
             <outline text="Enterprise knowledge bases"/>
             <outline text="AI meeting notetakers #ai-native" _note="Now bundled into Zoom, Teams and Google Meet."/>
           </outline>
@@ -1884,13 +1884,13 @@
             <outline text="Mental-health benefits"/>
             <outline text="Caregiving benefits"/>
             <outline text="Benefits administration"/>
-            <outline text="Recognition &amp; rewards"/>
+            <outline text="Recognition &amp; rewards #no-code-friendly"/>
           </outline>
           <outline text="Learning &amp; development">
             <outline text="L&amp;D platforms"/>
-            <outline text="Coaching platforms" _note="e.g. BetterUp."/>
-            <outline text="Compliance training"/>
-            <outline text="Mentoring software"/>
+            <outline text="Coaching platforms #marketplace" _note="e.g. BetterUp."/>
+            <outline text="Compliance training #service-business #content"/>
+            <outline text="Mentoring software #no-code-friendly"/>
             <outline text="Skills intelligence"/>
             <outline text="Internal mobility"/>
           </outline>
@@ -1902,10 +1902,10 @@
             <outline text="Employee relocation"/>
           </outline>
           <outline text="Frontline workforce">
-            <outline text="Shift scheduling"/>
+            <outline text="Shift scheduling #no-code-friendly"/>
             <outline text="Shift marketplaces" _note="e.g. Instawork."/>
             <outline text="Frontline communication"/>
-            <outline text="Frontline training"/>
+            <outline text="Frontline training #content"/>
             <outline text="Workforce management"/>
           </outline>
         </outline>
@@ -1915,12 +1915,12 @@
             <outline text="Legal research AI"/>
             <outline text="eDiscovery"/>
             <outline text="Litigation analytics"/>
-            <outline text="AI for small firms"/>
+            <outline text="AI for small firms #no-code-friendly"/>
           </outline>
           <outline text="Legal operations">
             <outline text="Contract lifecycle management"/>
             <outline text="Matter management"/>
-            <outline text="Legal intake &amp; triage"/>
+            <outline text="Legal intake &amp; triage #no-code-friendly"/>
             <outline text="Legal spend management"/>
             <outline text="Entity management"/>
             <outline text="Law-firm practice management"/>
@@ -1939,18 +1939,18 @@
             <outline text="Children's privacy compliance" _note="COPPA and age-appropriate-design codes."/>
           </outline>
           <outline text="ESG &amp; sustainability reporting" _note="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon accounting">
-            <outline text="CSRD reporting"/>
+            <outline text="CSRD reporting #service-business"/>
             <outline text="Supply-chain due diligence"/>
             <outline text="ESG data platforms"/>
           </outline>
           <outline text="AI governance">
-            <outline text="AI risk management"/>
+            <outline text="AI risk management #service-business"/>
             <outline text="Model inventories"/>
-            <outline text="AI audits"/>
-            <outline text="EU AI Act compliance"/>
+            <outline text="AI audits #service-business"/>
+            <outline text="EU AI Act compliance #service-business #content"/>
           </outline>
           <outline text="Trade compliance #trending">
-            <outline text="Tariff management"/>
+            <outline text="Tariff management #service-business #content"/>
             <outline text="Customs brokerage tech"/>
             <outline text="Country-of-origin tracking"/>
             <outline text="Forced-labor compliance" _note="e.g. US UFLPA."/>
@@ -1960,29 +1960,29 @@
           <outline text="IP management">
             <outline text="Patent search AI #ai-native"/>
             <outline text="IP portfolio management"/>
-            <outline text="Trademark monitoring"/>
+            <outline text="Trademark monitoring #service-business #no-code-friendly"/>
             <outline text="Open-source license compliance"/>
           </outline>
         </outline>
         <outline text="Marketing &amp; Sales Tech">
           <outline text="Generative marketing #ai-native">
-            <outline text="AI content generation"/>
-            <outline text="Creative automation"/>
-            <outline text="AI video ads"/>
+            <outline text="AI content generation #service-business #no-code-friendly"/>
+            <outline text="Creative automation #service-business"/>
+            <outline text="AI video ads #service-business"/>
             <outline text="Personalization engines"/>
-            <outline text="Generative engine optimization #trending" _note="Getting brands surfaced in AI assistants' answers."/>
+            <outline text="Generative engine optimization #trending #service-business #content" _note="Getting brands surfaced in AI assistants' answers."/>
           </outline>
           <outline text="Lifecycle marketing">
-            <outline text="Email &amp; SMS marketing"/>
+            <outline text="Email &amp; SMS marketing #service-business"/>
             <outline text="Push &amp; in-app messaging"/>
-            <outline text="Referral programs"/>
+            <outline text="Referral programs #no-code-friendly"/>
             <outline text="Community-led growth tools"/>
           </outline>
           <outline text="Creator platforms">
-            <outline text="Influencer marketplaces"/>
-            <outline text="UGC marketplaces"/>
+            <outline text="Influencer marketplaces #marketplace"/>
+            <outline text="UGC marketplaces #marketplace"/>
             <outline text="Affiliate networks"/>
-            <outline text="Creator analytics"/>
+            <outline text="Creator analytics #no-code-friendly"/>
             <outline text="Creator payments"/>
           </outline>
           <outline text="Retail media &amp; ads #trending">
@@ -1995,41 +1995,41 @@
             <outline text="Marketing mix modeling"/>
             <outline text="Incrementality testing"/>
             <outline text="Product analytics"/>
-            <outline text="Server-side tracking"/>
+            <outline text="Server-side tracking #service-business"/>
             <outline text="Customer data platforms"/>
           </outline>
           <outline text="Customer support #trending">
-            <outline text="AI support agents #ai-native"/>
+            <outline text="AI support agents #ai-native #service-business #no-code-friendly"/>
             <outline text="Voice AI contact centers #ai-native"/>
             <outline text="Help desks"/>
-            <outline text="Support QA &amp; analytics"/>
+            <outline text="Support QA &amp; analytics #no-code-friendly"/>
           </outline>
           <outline text="Event marketing">
             <outline text="Event management platforms"/>
             <outline text="Trade-show tech"/>
-            <outline text="Direct-mail automation"/>
+            <outline text="Direct-mail automation #no-code-friendly"/>
           </outline>
           <outline text="Sales tech">
-            <outline text="CRM"/>
+            <outline text="CRM #service-business"/>
             <outline text="AI SDRs #ai-native" _note="First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026."/>
             <outline text="Sales engagement"/>
-            <outline text="Sales data &amp; enrichment"/>
-            <outline text="Sales enablement"/>
+            <outline text="Sales data &amp; enrichment #service-business #no-code-friendly"/>
+            <outline text="Sales enablement #service-business #content"/>
             <outline text="Revenue intelligence"/>
             <outline text="CPQ" _note="Configure-price-quote."/>
           </outline>
         </outline>
         <outline text="Commerce &amp; Retail Tech" _note="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">
           <outline text="E-commerce enablement">
-            <outline text="Shopify-app ecosystem"/>
-            <outline text="Checkout &amp; conversion"/>
+            <outline text="Shopify-app ecosystem #no-code-friendly"/>
+            <outline text="Checkout &amp; conversion #service-business"/>
             <outline text="Product information management"/>
             <outline text="Agentic commerce #trending #ai-native" _note="AI shopping agents and the tools merchants need to sell to them."/>
-            <outline text="Loyalty &amp; gift cards"/>
+            <outline text="Loyalty &amp; gift cards #no-code-friendly"/>
           </outline>
           <outline text="Marketplace selling">
-            <outline text="Marketplace seller tools" _note="e.g. Amazon seller software."/>
-            <outline text="Social-commerce seller tools" _note="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal)."/>
+            <outline text="Marketplace seller tools #service-business #no-code-friendly" _note="e.g. Amazon seller software."/>
+            <outline text="Social-commerce seller tools #service-business #no-code-friendly" _note="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal)."/>
             <outline text="Wholesale marketplaces" _note="e.g. Faire."/>
             <outline text="Cross-border e-commerce"/>
           </outline>
@@ -2042,19 +2042,19 @@
           <outline text="Fulfillment &amp; post-purchase" _note="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics">
             <outline text="Order management"/>
             <outline text="Shipping software"/>
-            <outline text="Post-purchase experience"/>
+            <outline text="Post-purchase experience #no-code-friendly"/>
           </outline>
-          <outline text="SMB operations" _note="e.g. Jobber.">
+          <outline text="SMB operations #no-code-friendly" _note="e.g. Jobber.">
             <outline text="Booking &amp; scheduling"/>
             <outline text="Invoicing &amp; quotes"/>
-            <outline text="Reviews &amp; reputation"/>
-            <outline text="AI receptionists #trending #ai-native" _note="Voice agents that answer calls and book jobs for small businesses."/>
+            <outline text="Reviews &amp; reputation #service-business"/>
+            <outline text="AI receptionists #trending #ai-native #service-business" _note="Voice agents that answer calls and book jobs for small businesses."/>
           </outline>
         </outline>
         <outline text="Business Finance Tech">
           <outline text="Accounting">
-            <outline text="Bookkeeping #trending #ai-native" _note="AI-native bookkeeping is the growth wedge."/>
-            <outline text="Financial reporting"/>
+            <outline text="Bookkeeping #trending #ai-native #service-business" _note="AI-native bookkeeping is the growth wedge."/>
+            <outline text="Financial reporting #service-business"/>
             <outline text="Close automation"/>
             <outline text="Sales-tax compliance"/>
             <outline text="AR automation"/>
@@ -2073,7 +2073,7 @@
           </outline>
           <outline text="Corporate finance">
             <outline text="Fundraising tools"/>
-            <outline text="FP&amp;A"/>
+            <outline text="FP&amp;A #service-business"/>
             <outline text="Treasury management"/>
             <outline text="M&amp;A tools"/>
           </outline>
@@ -2116,7 +2116,7 @@
             <outline text="Low-carbon chemicals"/>
           </outline>
           <outline text="Carbon">
-            <outline text="Carbon accounting"/>
+            <outline text="Carbon accounting #service-business #no-code-friendly"/>
             <outline text="Carbon capture"/>
             <outline text="Carbon removal" _note="Direct air capture, enhanced weathering, biochar."/>
             <outline text="MRV platforms" _note="Measurement, reporting and verification."/>
@@ -2189,18 +2189,18 @@
             <outline text="Food traceability"/>
             <outline text="Cold chain"/>
             <outline text="Food-safety testing"/>
-            <outline text="Farm-to-business marketplaces"/>
+            <outline text="Farm-to-business marketplaces #marketplace"/>
           </outline>
           <outline text="Farm operations &amp; finance" _note="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Crop insurance">
             <outline text="Farm management software"/>
             <outline text="Ag lending #regulated"/>
-            <outline text="Farm labor marketplaces"/>
+            <outline text="Farm labor marketplaces #marketplace"/>
           </outline>
         </outline>
         <outline text="Industry &amp; Supply Chain">
           <outline text="Smart manufacturing #trending" _note="Reshoring and smart factories.">
             <outline text="Reshoring platforms"/>
-            <outline text="Contract-manufacturing marketplaces"/>
+            <outline text="Contract-manufacturing marketplaces #marketplace"/>
             <outline text="Factory automation"/>
             <outline text="Cobots"/>
             <outline text="Manufacturing execution systems"/>
@@ -2231,7 +2231,7 @@
             <outline text="Warehouse robotics"/>
             <outline text="Warehouse management systems"/>
             <outline text="On-demand warehousing"/>
-            <outline text="3PL marketplaces"/>
+            <outline text="3PL marketplaces #marketplace"/>
           </outline>
           <outline text="Last-mile delivery">
             <outline text="Route optimization"/>
@@ -2242,8 +2242,8 @@
             <outline text="Returns management"/>
             <outline text="B2B recommerce"/>
             <outline text="Liquidation marketplaces"/>
-            <outline text="Refurbishment"/>
-            <outline text="Repair networks"/>
+            <outline text="Refurbishment #service-business"/>
+            <outline text="Repair networks #service-business #marketplace"/>
           </outline>
           <outline text="Critical minerals #trending">
             <outline text="AI mineral exploration"/>
@@ -2259,8 +2259,8 @@
             <outline text="Property-management software"/>
             <outline text="Resident screening #regulated" _note="FCRA and fair-housing rules apply."/>
             <outline text="Rent collection"/>
-            <outline text="Maintenance coordination"/>
-            <outline text="Short-term rental operations"/>
+            <outline text="Maintenance coordination #service-business #no-code-friendly"/>
+            <outline text="Short-term rental operations #service-business"/>
           </outline>
           <outline text="Commercial real estate tech">
             <outline text="Lease management"/>
@@ -2270,15 +2270,15 @@
           <outline text="Construction tech">
             <outline text="Construction project management"/>
             <outline text="BIM software"/>
-            <outline text="Takeoff &amp; estimating AI #ai-native"/>
+            <outline text="Takeoff &amp; estimating AI #ai-native #service-business"/>
             <outline text="Jobsite safety monitoring"/>
             <outline text="Prefab &amp; modular"/>
             <outline text="Construction robotics"/>
-            <outline text="Permitting automation"/>
+            <outline text="Permitting automation #service-business #no-code-friendly"/>
           </outline>
           <outline text="Construction supply chain">
             <outline text="Materials procurement"/>
-            <outline text="Subcontractor marketplaces"/>
+            <outline text="Subcontractor marketplaces #marketplace"/>
             <outline text="Construction payments &amp; lien waivers"/>
             <outline text="Equipment rental"/>
           </outline>
@@ -2291,7 +2291,7 @@
           </outline>
           <outline text="Real estate transactions">
             <outline text="Brokerage tech"/>
-            <outline text="Transaction management"/>
+            <outline text="Transaction management #service-business"/>
             <outline text="Home valuation" _note="Automated valuation models."/>
             <outline text="Mortgage tech"/>
             <outline text="Title &amp; escrow"/>
@@ -2437,7 +2437,7 @@
         <outline text="Public Interest &amp; Impact" _note="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">
           <outline text="GovTech">
             <outline text="Permitting software"/>
-            <outline text="Benefits access"/>
+            <outline text="Benefits access #content #no-code-friendly"/>
             <outline text="Government procurement"/>
             <outline text="Legacy-system modernization"/>
             <outline text="Government AI assistants #ai-native"/>
@@ -2459,19 +2459,19 @@
           </outline>
           <outline text="Accessibility tech #underserved">
             <outline text="AAC devices"/>
-            <outline text="Live captioning"/>
+            <outline text="Live captioning #service-business"/>
             <outline text="Sign-language AI #ai-native"/>
             <outline text="Cognitive-accessibility tools"/>
             <outline text="Prosthetics &amp; mobility aids #regulated"/>
-            <outline text="Accessibility compliance #trending" _note="Web and app compliance as a service."/>
+            <outline text="Accessibility compliance #trending #service-business" _note="Web and app compliance as a service."/>
           </outline>
           <outline text="Nonprofit tech" _note="e.g. Givebutter. | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Wealth management &gt; Philanthropy &amp; DAFs">
             <outline text="Fundraising platforms"/>
             <outline text="Nonprofit CRM"/>
-            <outline text="Volunteer management"/>
-            <outline text="Grant-seeking tools"/>
+            <outline text="Volunteer management #no-code-friendly"/>
+            <outline text="Grant-seeking tools #service-business #no-code-friendly"/>
             <outline text="Grantmaking software"/>
-            <outline text="Impact measurement"/>
+            <outline text="Impact measurement #service-business"/>
           </outline>
           <outline text="Global development">
             <outline text="Emerging-market edtech"/>
@@ -2481,7 +2481,7 @@
             <outline text="Financial-inclusion infrastructure"/>
           </outline>
           <outline text="Civic participation &amp; justice">
-            <outline text="Access to justice"/>
+            <outline text="Access to justice #content"/>
             <outline text="Court modernization"/>
             <outline text="Reentry services"/>
           </outline>

@@ -16,6 +16,7 @@ Errors (must fix):
     with fewer than 2 (MIN_LEAVES) or more than 8 leaves
   - tags outside the vocabulary, repeated tags, a tag repeating an ancestor's tag,
     b2b and consumer on the same node
+  - a solo-founder model other than `content` inside a `regulated` subtree
   - cross-references (see:) that don't resolve to exactly one node, or that point
     at the node itself or one of its ancestors
 Warnings:
@@ -31,7 +32,7 @@ from collections import defaultdict
 import yaml
 
 from taxonomy_lib import (ALLOWED_KEYS, LEVELS, MAX_CHILDREN, MAX_DEPTH, MAX_NAME_WORDS,
-                          MIN_CHILDREN, MIN_LEAVES, TAG_VOCAB, TAXONOMY_PATH, children, index_paths,
+                          MIN_CHILDREN, MIN_LEAVES, REGULATED_ONLY, SOLO_MODELS, TAG_VOCAB, TAXONOMY_PATH, children, index_paths,
                           name_words, norm, path_str, walk)
 
 NAME_BAD_CHARS = re.compile(r"[\[\]{}#🔥⭐*!]")
@@ -119,6 +120,9 @@ def validate(root, min_leaves=MIN_LEAVES):
         own = set(node.get("tags") or [])
         for t in sorted(own & inherited):
             err(path, f"tag '{t}' repeats an ancestor's tag")
+        if "regulated" in own | inherited:
+            for t in sorted((own & set(SOLO_MODELS)) - REGULATED_ONLY):
+                err(path, f"tag '{t}' is not allowed under 'regulated' (only {', '.join(sorted(REGULATED_ONLY))})")
         for c in children(node):
             check_tags(c, inherited | own, path + (c["name"],))
     check_tags(root, set(), ())

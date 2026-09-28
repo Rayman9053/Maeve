@@ -4,7 +4,6 @@ all: validate build
 
 validate:
 	python3 scripts/validate.py --strict
-	python3 scripts/solofounder.py --check
 
 build:
 	python3 scripts/build.py

@@ -1,5 +1,52 @@
 # Changelog
 
+## v13: solo-founder models become tags
+
+Input: `source/taxonomy-v12.yaml`. The solo-founder labels that were kept in `data/solo-founder.csv` are now tags in
+`taxonomy.yaml`, and the CSV is deleted. No node was added, removed, renamed or moved.
+
+- Tag vocabulary extended with `service-business`, `content`, `marketplace` and `no-code-friendly`. The rubric is in
+  `scripts/solofounder.py` and the README.
+- New validator rule: inside a `regulated` subtree, only `content` is allowed. This was the CSV's `--check` rule.
+- The labels moved over one for one. The view still has 543 leaves: 237 service-business, 220 content,
+  57 marketplace and 177 no-code-friendly.
+- Where every leaf of a subcategory shared a model, the tag moved up to the subcategory (29 cases), as
+  the "a tag covers its subtree" rule requires:
+
+| Subcategory | Tag | Leaves covered |
+|---|---|---|
+| `Special diets` (Health & Wellness › Nutrition & Metabolic Health) | `content` | 3 |
+| `Cardio & endurance` (Health & Wellness › Fitness & Recovery) | `content` | 3 |
+| `Mobility & flexibility` (Health & Wellness › Fitness & Recovery) | `content` | 3 |
+| `Adaptive & inclusive fitness` (Health & Wellness › Fitness & Recovery) | `service-business` | 4 |
+| `Stress & burnout` (Health & Wellness › Mental Health) | `service-business` | 2 |
+| `Budgeting` (Wealth › Money Management) | `no-code-friendly` | 3 |
+| `Life-event finance` (Wealth › Money Management) | `content` | 4 |
+| `Freelancing & fractional` (Wealth › Entrepreneurship) | `service-business` | 5 |
+| `Agencies` (Wealth › Entrepreneurship) | `service-business` | 3 |
+| `AI dating tools` (Relationships › Dating) | `no-code-friendly` | 3 |
+| `Matchmaking, coaching & events` (Relationships › Dating) | `service-business` | 5 |
+| `Parenting stages` (Relationships › Parenting & Family) | `content` | 2 |
+| `After-death logistics` (Relationships › Death, Grief & Legacy) | `service-business` | 5 |
+| `Journaling & reflection` (Mind, Meaning & Growth › Contemplative Practice) | `no-code-friendly` | 2 |
+| `Self-discovery` (Mind, Meaning & Growth › Purpose & Life Transitions) | `content` | 2 |
+| `Self-discovery` (Mind, Meaning & Growth › Purpose & Life Transitions) | `no-code-friendly` | 2 |
+| `Life-stage transitions` (Mind, Meaning & Growth › Purpose & Life Transitions) | `service-business` | 3 |
+| `Life-stage transitions` (Mind, Meaning & Growth › Purpose & Life Transitions) | `content` | 3 |
+| `Performance & mindset` (Mind, Meaning & Growth › Personal Development) | `service-business` | 3 |
+| `Growth communities` (Mind, Meaning & Growth › Personal Development) | `content` | 4 |
+| `Tasks & habits` (Mind, Meaning & Growth › Productivity) | `no-code-friendly` | 2 |
+| `Time management` (Mind, Meaning & Growth › Productivity) | `no-code-friendly` | 2 |
+| `AI tutoring` (Mind, Meaning & Growth › Learning & Education) | `no-code-friendly` | 4 |
+| `Performing arts` (Mind, Meaning & Growth › Creativity & Craft) | `service-business` | 2 |
+| `Work arrangements` (Mind, Meaning & Growth › Career Development) | `marketplace` | 2 |
+| `Traveler segments` (Lifestyle, Home & Experiences › Travel & Adventure) | `content` | 4 |
+| `Reading` (Lifestyle, Home & Experiences › Sports & Hobbies) | `no-code-friendly` | 2 |
+| `Car enthusiasts` (Lifestyle, Home & Experiences › Cars & Transportation) | `content` | 2 |
+| `SMB operations` (Enterprise & AI › Commerce & Retail Tech) | `no-code-friendly` | 4 |
+
+Tag counts on nodes after the move up: `service-business` 214, `content` 200, `marketplace` 56, `no-code-friendly` 162.
+
 ## v12: actionability prune
 
 Input: `source/taxonomy-v11.yaml`. Every leaf was scored 1–5 on startup-actionability (rubric in

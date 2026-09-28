@@ -32,7 +32,7 @@ markmap:
   - Pharmacogenomics
   - Hereditary risk panels
 - Environmental health
-  - Indoor air quality
+  - <span title="Tags: service-business, content">Indoor air quality</span>
   - Water testing &amp; filtration
   - Mold &amp; toxin testing
   - Microplastics testing
@@ -40,22 +40,22 @@ markmap:
 - <span title="The &#x27;Ozempic economy&#x27;. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026. | Tags: regulated">GLP-1 economy 🔥</span>
   - GLP-1 telehealth
   - <span title="Wegovy pill launched in the US in January 2026.">Oral GLP-1s</span>
-  - Muscle preservation
-  - GLP-1 companion foods
-  - Maintenance &amp; off-ramp
+  - <span title="Tags: content">Muscle preservation</span>
+  - <span title="Tags: content">GLP-1 companion foods</span>
+  - <span title="Tags: content">Maintenance &amp; off-ramp</span>
 - Personalized nutrition
   - <span title="e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated.">Microbiome testing</span>
   - <span title="e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven.">CGM programs</span>
-  - <span title="Tags: ai-native">AI meal planning</span>
-  - Metabolic health
+  - <span title="Tags: ai-native, no-code-friendly">AI meal planning</span>
+  - <span title="Tags: content">Metabolic health</span>
 - Sports nutrition
-  - Endurance fueling
-  - Strength &amp; protein
+  - <span title="Tags: content">Endurance fueling</span>
+  - <span title="Tags: content">Strength &amp; protein</span>
   - Hydration &amp; electrolytes
-- Special diets
+- <span title="Tags: content">Special diets</span>
   - Plant-based
   - Gluten-free
-  - <span title="Halal, kosher, Ayurvedic.">Culturally tailored diets</span>
+  - <span title="Halal, kosher, Ayurvedic. | Tags: no-code-friendly">Culturally tailored diets</span>
 - <span title="US claims are governed by DSHEA and FTC rules. | Tags: regulated">Supplements</span>
   - Vitamins &amp; minerals
   - Protein powders
@@ -67,20 +67,20 @@ markmap:
   - Medical nutrition therapy
   - <span title="Tags: regulated">Eating-disorder treatment</span>
 ### Fitness &amp; Recovery
-- Cardio &amp; endurance
+- <span title="Tags: content">Cardio &amp; endurance</span>
   - Running
   - Cycling
   - Zone-2 &amp; VO2max training
-- Mobility &amp; flexibility
+- <span title="Tags: content">Mobility &amp; flexibility</span>
   - Stretching
-  - Yoga
+  - <span title="Tags: service-business">Yoga</span>
   - Pilates 🔥
 - Connected fitness
   - Home gyms
   - Fitness equipment
-  - Workout apps
-  - Virtual coaching
-  - <span title="Tags: ai-native">AI personal trainers</span>
+  - <span title="Tags: no-code-friendly">Workout apps</span>
+  - <span title="Tags: service-business, no-code-friendly">Virtual coaching</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI personal trainers</span>
 - <span title="Evidence for therapeutic claims varies by modality.">Athletic recovery</span>
   - Sauna &amp; heat
   - Cold plunge
@@ -91,32 +91,32 @@ markmap:
   - <span title="e.g. F45, Orangetheory.">Boutique franchises</span>
   - Budget gyms
   - Climbing gyms
-  - <span title="Tags: b2b">Gym management software</span>
-- Adaptive &amp; inclusive fitness
-  - Senior fitness
-  - Plus-size fitness
+  - <span title="Tags: b2b, no-code-friendly">Gym management software</span>
+- <span title="Tags: service-business">Adaptive &amp; inclusive fitness</span>
+  - <span title="Tags: content">Senior fitness</span>
+  - <span title="Tags: content">Plus-size fitness</span>
   - <span title="Fitness for people with disabilities.">Adaptive training</span>
-  - Prenatal &amp; postnatal fitness
+  - <span title="Tags: content">Prenatal &amp; postnatal fitness</span>
 - Youth sports
-  - Skills training
-  - College recruiting
-  - <span title="Tags: b2b">League &amp; club software</span>
+  - <span title="Tags: service-business">Skills training</span>
+  - <span title="Tags: service-business, content">College recruiting</span>
+  - <span title="Tags: b2b, no-code-friendly">League &amp; club software</span>
 ### Sleep
 - Sleep optimization
   - Sleep trackers
-  - Routines &amp; coaching
+  - <span title="Tags: service-business, content">Routines &amp; coaching</span>
   - Cooling &amp; smart beds
   - Circadian lighting
 - <span title="Tags: regulated">Sleep disorders</span>
-  - Insomnia &amp; CBT-I
+  - <span title="Tags: content">Insomnia &amp; CBT-I</span>
   - Sleep apnea
 - Infant &amp; child sleep
-  - Sleep consultants
+  - <span title="Tags: service-business, content">Sleep consultants</span>
   - Smart bassinets
-  - Sleep-training apps
+  - <span title="Tags: no-code-friendly">Sleep-training apps</span>
 - Sleep products
   - Mattresses &amp; bedding
-  - Sleep audio apps
+  - <span title="Tags: content, no-code-friendly">Sleep audio apps</span>
   - Snoring solutions
 ### <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence | See also: Mind, Meaning &amp; Growth &gt; Contemplative Practice &gt; Meditation | See also: Relationships &gt; Death, Grief &amp; Legacy &gt; Grief support">Mental Health ↗</span>
 - Anxiety &amp; mood
@@ -126,38 +126,38 @@ markmap:
   - OCD
   - Major depression
   - <span title="Includes paternal perinatal depression.">Perinatal depression</span>
-- Stress &amp; burnout
-  - Burnout
+- <span title="Tags: service-business">Stress &amp; burnout</span>
+  - <span title="Tags: content">Burnout</span>
   - Workplace stress
 - Therapy access
   - Individual therapy
   - Couples therapy
   - Family therapy
   - Online therapy
-  - Therapist matching
+  - <span title="Tags: marketplace">Therapist matching</span>
 - Trauma &amp; PTSD
   - PTSD
   - Complex trauma
   - Abuse recovery
   - <span title="Tags: underserved">Domestic-violence support</span>
 - Addiction recovery
-  - <span title="e.g. Sunnyside.">Alcohol moderation</span>
+  - <span title="e.g. Sunnyside. | Tags: content">Alcohol moderation</span>
   - <span title="Demand rose with legal sports betting.">Gambling addiction</span>
   - <span title="Medication-assisted treatment is regulated. | Tags: regulated">Opioid recovery</span>
   - Vaping cessation
-  - <span title="12-step and non-12-step.">Recovery communities</span>
+  - <span title="12-step and non-12-step. | Tags: content">Recovery communities</span>
 - Digital mental health
   - Mental-health apps
   - <span title="Tags: regulated">Digital therapeutics</span>
   - <span title="e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it. | Tags: regulated, ai-native">AI mental-health companions</span>
-  - Peer-support communities
+  - <span title="Tags: content">Peer-support communities</span>
 - <span title="Tags: regulated">Acute &amp; advanced care</span>
   - Crisis &amp; suicide prevention
   - Serious mental illness
   - <span title="Psilocybin and MDMA are federally Schedule I in the US. State programs: Oregon, Colorado, New Mexico (medical, rolling out 2026).">Psychedelic-assisted therapy</span>
   - Ketamine &amp; TMS clinics
 - Population-focused care
-  - <span title="Includes fatherhood and men&#x27;s groups.">Men's mental health</span>
+  - <span title="Includes fatherhood and men&#x27;s groups. | Tags: content">Men's mental health</span>
   - Youth mental health
   - LGBTQ+ affirmative therapy
   - <span title="Includes bilingual therapy.">Culturally responsive therapy</span>
@@ -171,10 +171,10 @@ markmap:
   - <span title="e.g. Carrot, Progyny. | Tags: b2b">Fertility benefits</span>
 - Pregnancy &amp; postpartum
   - Prenatal care
-  - Doulas &amp; birth support
-  - Postpartum recovery
-  - Pregnancy-loss support
-  - Lactation support
+  - <span title="Tags: service-business, marketplace">Doulas &amp; birth support</span>
+  - <span title="Tags: content">Postpartum recovery</span>
+  - <span title="Tags: content">Pregnancy-loss support</span>
+  - <span title="Tags: service-business, content">Lactation support</span>
 - Contraception
   - Birth-control telehealth
   - Vasectomy
@@ -186,14 +186,14 @@ markmap:
   - Low libido
 - <span title="Individual-focused products and education. Couples programs live in Relationships &gt; Intimacy &amp; Sexuality. | See also: Relationships &gt; Intimacy &amp; Sexuality &gt; Couples intimacy">Sexual wellness ↗</span>
   - <span title="Payment-processor limits; 2024-25 US age-verification laws.">Sex tech &amp; devices</span>
-  - Sex education platforms
+  - <span title="Tags: content">Sex education platforms</span>
   - Sexual wellness apps
 ### Aging &amp; Longevity
 - Healthy aging
   - Senior mobility
   - Cognitive fitness
   - <span title="Preventing age-related muscle loss.">Sarcopenia programs</span>
-  - Healthy-aging coaching
+  - <span title="Tags: service-business, content">Healthy-aging coaching</span>
 - Longevity medicine 🔥
   - <span title="e.g. Fountain Life.">Longevity clinics</span>
   - Longevity telehealth
@@ -205,28 +205,28 @@ markmap:
 - Age tech
   - Fall detection
   - Passive home monitoring
-  - Aging in place
+  - <span title="Tags: service-business">Aging in place</span>
   - Senior-friendly devices
-  - Senior tech support
-  - Solo aging
-  - Senior social connection
+  - <span title="Tags: service-business">Senior tech support</span>
+  - <span title="Tags: content">Solo aging</span>
+  - <span title="Tags: content">Senior social connection</span>
 - <span title="The sandwich generation: people caring for both children and parents. | Tags: underserved">Caregiving 🔥</span>
-  - Care coordination
+  - <span title="Tags: service-business">Care coordination</span>
   - Respite care
-  - Family caregiver support
+  - <span title="Tags: service-business, content">Family caregiver support</span>
   - <span title="Medicaid and state programs that pay family caregivers. | Tags: regulated">Paid family caregiving</span>
-  - Caregiver marketplaces
+  - <span title="Tags: marketplace">Caregiver marketplaces</span>
   - Home care agencies
 - Senior living
-  - Senior living search
-  - Senior home-sharing
+  - <span title="Tags: content, marketplace">Senior living search</span>
+  - <span title="Tags: marketplace">Senior home-sharing</span>
   - <span title="Tags: b2b">Senior-living operator software</span>
 ## <span title="Clinical conditions, specialty and population-specific care, care delivery and health-system technology.">Care &amp; Conditions</span>
 ### Chronic Conditions
 - Diabetes
   - Type 1
   - Type 2
-  - Prediabetes
+  - <span title="Tags: content">Prediabetes</span>
   - Glucose management
 - Cardiometabolic disease
   - Hypertension
@@ -238,24 +238,24 @@ markmap:
   - Rheumatoid arthritis
   - Hashimoto's
 - <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; Personalized nutrition &gt; Microbiome testing">Digestive health ↗</span>
-  - IBS
+  - <span title="Tags: content">IBS</span>
   - IBD
-  - Food intolerances
+  - <span title="Tags: content">Food intolerances</span>
 - Respiratory &amp; allergy
   - Asthma
   - COPD
-  - Food allergies
+  - <span title="Tags: content">Food allergies</span>
 - <span title="See also: Planet &amp; Frontier &gt; Biotech &amp; Life Sciences &gt; Clinical trials &gt; Patient recruitment">Oncology ↗</span>
-  - Cancer navigation
-  - Survivorship support
+  - <span title="Tags: service-business">Cancer navigation</span>
+  - <span title="Tags: content">Survivorship support</span>
   - Breast cancer support
   - Prostate cancer support
 - <span title="Tags: underserved">Complex &amp; rare illness</span>
-  - Long COVID
-  - <span title="A distinct diagnosis, not generic &#x27;chronic fatigue&#x27;.">ME/CFS</span>
-  - POTS &amp; dysautonomia
+  - <span title="Tags: content">Long COVID</span>
+  - <span title="A distinct diagnosis, not generic &#x27;chronic fatigue&#x27;. | Tags: content">ME/CFS</span>
+  - <span title="Tags: content">POTS &amp; dysautonomia</span>
   - Rare-disease diagnostics
-  - Rare-disease communities
+  - <span title="Tags: content">Rare-disease communities</span>
 ### Pain &amp; Musculoskeletal
 - Joint &amp; bone health
   - Osteoarthritis
@@ -282,26 +282,26 @@ markmap:
   - Fibromyalgia care
   - Interventional pain clinics
   - <span title="Tags: regulated">Neuromodulation devices</span>
-  - Lower back pain
+  - <span title="Tags: content">Lower back pain</span>
 - Ergonomics
   - <span title="Tags: b2b">Workplace injury prevention</span>
-  - Ergonomic assessments
+  - <span title="Tags: service-business">Ergonomic assessments</span>
   - Ergonomic equipment
   - <span title="Tags: b2b">Industrial exoskeletons</span>
 ### Brain &amp; Neurological Health
 - <span title="Framed as neurodevelopmental difference, not mental illness. | See also: Mind, Meaning &amp; Growth &gt; Career Development &gt; Inclusive employment &gt; Neurodivergent hiring | See also: Relationships &gt; Social Skills &gt; Neurodivergent social skills | See also: Mind, Meaning &amp; Growth &gt; Productivity &gt; ADHD-friendly productivity">Neurodivergence ↗</span>
-  - ADHD
-  - Autism
-  - Dyslexia &amp; learning differences
-  - <span title="Adult ADHD and autism diagnosis.">Late diagnosis</span>
+  - <span title="Tags: content">ADHD</span>
+  - <span title="Tags: content">Autism</span>
+  - <span title="Tags: service-business, content">Dyslexia &amp; learning differences</span>
+  - <span title="Adult ADHD and autism diagnosis. | Tags: content">Late diagnosis</span>
   - <span title="DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending. | Tags: regulated">ADHD medication access</span>
-  - Executive-function coaching
+  - <span title="Tags: service-business, content">Executive-function coaching</span>
 - <span title="Tags: underserved">Dementia &amp; cognitive decline</span>
   - Cognitive assessments
   - <span title="FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025). | Tags: regulated">Blood-based Alzheimer's tests</span>
   - Anti-amyloid therapy navigation
-  - Dementia care navigation
-  - Dementia caregiver training
+  - <span title="Tags: service-business">Dementia care navigation</span>
+  - <span title="Tags: service-business, content">Dementia caregiver training</span>
   - Memory care
   - Brain-health clinics
 - Neurological conditions
@@ -328,7 +328,7 @@ markmap:
 - Hearing
   - <span title="The 2022 FDA rule opened the market.">OTC hearing aids</span>
   - Online hearing tests
-  - Tinnitus management
+  - <span title="Tags: content">Tinnitus management</span>
 - Dermatology
   - Teledermatology
   - <span title="e.g. Curology.">Acne &amp; eczema care</span>
@@ -340,9 +340,9 @@ markmap:
   - Laser &amp; energy devices
 ### Population-Specific Care
 - <span title="Femtech. Menstrual care serves everyone who menstruates.">Women's health</span>
-  - <span title="Includes menopause and sexuality. | Tags: underserved">Menopause &amp; perimenopause 🔥</span>
-  - PCOS
-  - Endometriosis
+  - <span title="Includes menopause and sexuality. | Tags: underserved, content">Menopause &amp; perimenopause 🔥</span>
+  - <span title="Tags: content">PCOS</span>
+  - <span title="Tags: content">Endometriosis</span>
   - PMS &amp; PMDD
   - Pelvic floor &amp; incontinence
   - Pelvic pain
@@ -370,13 +370,13 @@ markmap:
   - VA care navigation
   - Disability claims support
   - Veteran PTSD programs
-  - Veteran peer support
+  - <span title="Tags: content">Veteran peer support</span>
   - Military-family care
 - <span title="Tags: underserved">Rural &amp; underserved care</span>
   - Rural telehealth
   - Mobile clinics
   - Community health workers
-  - Medical interpretation
+  - <span title="Tags: service-business, marketplace">Medical interpretation</span>
   - <span title="Tags: b2b">Rural hospital operations</span>
 ### <span title="See also: Wealth &gt; Insurance &gt; Health &amp; benefits">Care Delivery ↗</span>
 - Primary &amp; urgent care
@@ -399,10 +399,10 @@ markmap:
   - <span title="e.g. pre-sorted pill packs.">Medication adherence</span>
   - <span title="Test-and-treat, vaccines, prescribing where allowed.">Pharmacist clinical services</span>
 - Patient navigation
-  - Patient advocacy
+  - <span title="Tags: service-business">Patient advocacy</span>
   - <span title="Tags: b2b">Employer health navigation</span>
-  - Price comparison tools
-  - Medical bill negotiation
+  - <span title="Tags: no-code-friendly">Price comparison tools</span>
+  - <span title="Tags: service-business">Medical bill negotiation</span>
   - Second opinions
   - <span title="Price-transparent surgery centers.">Cash-pay surgery</span>
 ### <span title="Software and devices sold to providers, payers and life-science companies. | Tags: b2b">Health Technology</span>
@@ -413,7 +413,7 @@ markmap:
   - AI pathology
   - Patient-message triage AI
 - Care operations
-  - Patient intake &amp; scheduling
+  - <span title="Tags: no-code-friendly">Patient intake &amp; scheduling</span>
   - Patient engagement
   - <span title="White-label virtual-care platforms for providers.">Telehealth infrastructure</span>
   - <span title="Bed management and command centers.">Hospital operations</span>
@@ -444,7 +444,7 @@ markmap:
   - Staffing marketplaces
   - Nurse scheduling
   - Clinician credentialing
-  - Continuing medical education
+  - <span title="Tags: content">Continuing medical education</span>
 - Life-science commercial tech
   - Pharma CRM
   - HCP engagement
@@ -459,45 +459,45 @@ markmap:
   - <span title="&#x27;Root-cause&#x27; clinic model; contested evidence for some protocols.">Functional medicine</span>
   - Integrative primary care
   - <span title="Evidence-informed supportive care alongside standard treatment.">Integrative oncology</span>
-  - Integrative health coaching
-  - Yoga therapy
+  - <span title="Tags: service-business, content">Integrative health coaching</span>
+  - <span title="Tags: service-business">Yoga therapy</span>
 - <span title="Tags: b2b">Practitioner tools</span>
-  - Practice-management software
-  - Practitioner certification
-  - Practitioner marketplaces
+  - <span title="Tags: no-code-friendly">Practice-management software</span>
+  - <span title="Tags: content">Practitioner certification</span>
+  - <span title="Tags: marketplace">Practitioner marketplaces</span>
   - <span title="Dispensaries, e.g. Fullscript.">Practitioner-grade supplements</span>
 ## <span title="Consumer money, investing, housing finance, insurance and founder paths. B2B finance software lives in Enterprise &amp; AI.">Wealth</span>
 ### <span title="Tags: consumer">Money Management</span>
-- Budgeting
-  - Household budgeting
+- <span title="Tags: no-code-friendly">Budgeting</span>
+  - <span title="Tags: content">Household budgeting</span>
   - Expense tracking
   - <span title="Tags: ai-native">AI money coaches</span>
 - Saving
   - High-yield savings
   - Kids' savings
   - <span title="US &#x27;Trump Accounts&#x27; launched July 2026, with a $1,000 federal seed for children born 2025-28.">Child investment accounts</span>
-  - College savings
+  - <span title="Tags: content">College savings</span>
 - <span title="Tags: regulated">Debt management</span>
   - Credit-card debt
-  - Student loans
+  - <span title="Tags: content">Student loans</span>
   - Personal loans
   - Debt consolidation
 - Credit
-  - <span title="Includes credit building for people without banks.">Credit building</span>
+  - <span title="Includes credit building for people without banks. | Tags: content">Credit building</span>
   - Credit cards
-  - Rewards optimization
+  - <span title="Tags: content, no-code-friendly">Rewards optimization</span>
 - Financial wellness
-  - Youth financial education
-  - First-generation guidance
-  - <span title="Tags: b2b">Workplace financial wellness</span>
-  - <span title="Money psychology.">Financial therapy</span>
-- <span title="Tags: underserved | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">Life-event finance ↗</span>
+  - <span title="Tags: service-business, content">Youth financial education</span>
+  - <span title="Tags: content">First-generation guidance</span>
+  - <span title="Tags: b2b, service-business">Workplace financial wellness</span>
+  - <span title="Money psychology. | Tags: service-business">Financial therapy</span>
+- <span title="Tags: underserved, content | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce finance">Life-event finance ↗</span>
   - Widowhood finance
   - <span title="Receiving an inheritance; &#x27;women&#x27;s wealth&#x27; transfer.">Windfall management</span>
   - Couples' finances
   - New-parent finances
 - <span title="e.g. Catch. | Tags: underserved">Gig &amp; creator finance</span>
-  - Tax withholding tools
+  - <span title="Tags: no-code-friendly">Tax withholding tools</span>
   - Portable benefits
   - Income smoothing
   - Gig-worker retirement
@@ -511,7 +511,7 @@ markmap:
 - Consumer payments
   - <span title="Open-banking payments.">Pay by bank 🔥</span>
   - Bill pay
-  - <span title="Tracking and cancelling subscriptions.">Subscription management</span>
+  - <span title="Tracking and cancelling subscriptions. | Tags: no-code-friendly">Subscription management</span>
   - <span title="Tags: regulated">Stablecoin payments 🔥</span>
 - <span title="Core to immigrant economies.">Cross-border money</span>
   - <span title="e.g. Wise.">Remittances</span>
@@ -527,7 +527,7 @@ markmap:
   - Medical financing
 - <span title="e.g. Wahed.">Islamic finance</span>
   - Sharia-compliant banking
-  - Halal investing
+  - <span title="Tags: content">Halal investing</span>
   - Islamic home finance
   - Sharia-compliant BNPL
   - Zakat &amp; sadaqah apps
@@ -543,7 +543,7 @@ markmap:
   - <span title="Tags: ai-native">AI trading tools</span>
 - <span title="Retail access is governed by securities law (Reg A/CF, accreditation). | Tags: regulated">Alternative investments</span>
   - Private credit
-  - <span title="Art, wine &amp; spirits, trading cards as investments.">Collectible assets</span>
+  - <span title="Art, wine &amp; spirits, trading cards as investments. | Tags: content">Collectible assets</span>
   - <span title="Secondaries; Fundrise model.">Private-market access 🔥</span>
 - <span title="Tags: regulated | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; Crypto tax">Digital assets ↗</span>
   - <span title="Bitcoin, Ethereum and other cryptocurrencies.">Crypto exchanges &amp; wallets</span>
@@ -553,16 +553,16 @@ markmap:
 ### Housing &amp; Real Estate
 - Homebuying
   - <span title="Tags: regulated">Mortgages</span>
-  - First-time buyer programs
-  - Down-payment assistance
+  - <span title="Tags: content">First-time buyer programs</span>
+  - <span title="Tags: content">Down-payment assistance</span>
   - Rent-to-own
 - Renting
   - Rent reporting
   - <span title="Tags: regulated">Landlord-tenant disputes</span>
   - Renter services
 - Real estate investing
-  - Rental properties
-  - Short-term rentals
+  - <span title="Tags: content">Rental properties</span>
+  - <span title="Tags: service-business, content">Short-term rentals</span>
   - <span title="Tags: regulated">Fractional ownership</span>
 - <span title="Tags: regulated">Home equity</span>
   - <span title="Reverse mortgages.">Equity release</span>
@@ -570,7 +570,7 @@ markmap:
 ### Retirement &amp; Wealth Planning
 - Retirement planning
   - Retirement income
-  - Social Security planning
+  - <span title="Tags: content">Social Security planning</span>
 - Retirement accounts
   - IRAs &amp; 401(k)s
   - <span title="Tags: b2b">Small-business retirement plans</span>
@@ -611,11 +611,11 @@ markmap:
   - Individual tax
   - Small-business tax
   - Tax-loss harvesting
-  - International &amp; expat tax
+  - <span title="Tags: content">International &amp; expat tax</span>
   - Crypto tax
 - Tax preparation
   - <span title="Tags: ai-native">AI tax prep 🔥</span>
-  - Tax-pro marketplaces
+  - <span title="Tags: marketplace">Tax-pro marketplaces</span>
   - Tax-credit finders
   - <span title="Tags: regulated">Tax resolution</span>
 - <span title="Unauthorized-practice-of-law rules apply. | Tags: regulated | See also: Relationships &gt; Breakups &amp; Divorce &gt; Divorce process &gt; Online divorce">Consumer legal services ↗</span>
@@ -636,202 +636,202 @@ markmap:
   - <span title="Tags: b2b">Employer immigration</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Software &amp; Developer Tools &gt; No-code &amp; low-code">Entrepreneurship ↗</span>
 - Starting a business
-  - Idea validation
-  - Market research
-  - <span title="Entity structures and compliance; e.g. Stripe Atlas.">Business formation</span>
+  - <span title="Tags: service-business, content, no-code-friendly">Idea validation</span>
+  - <span title="Tags: service-business">Market research</span>
+  - <span title="Entity structures and compliance; e.g. Stripe Atlas. | Tags: no-code-friendly">Business formation</span>
 - <span title="Buying a business (ETA, micro-PE).">Acquisition entrepreneurship</span>
-  - Search funds
-  - Business-for-sale marketplaces
+  - <span title="Tags: content">Search funds</span>
+  - <span title="Tags: marketplace">Business-for-sale marketplaces</span>
   - <span title="Tags: regulated">SBA acquisition loans</span>
   - Small-business roll-ups
 - Small business
-  - Local services
+  - <span title="Tags: service-business">Local services</span>
   - Franchises
-  - <span title="HVAC, electrical, plumbing; acute labor shortage.">Skilled-trades businesses 🔥</span>
+  - <span title="HVAC, electrical, plumbing; acute labor shortage. | Tags: service-business">Skilled-trades businesses 🔥</span>
 - Online business
-  - E-commerce
-  - SaaS
-  - Digital products
-  - Memberships
-  - Online courses
+  - <span title="Tags: no-code-friendly">E-commerce</span>
+  - <span title="Tags: no-code-friendly">SaaS</span>
+  - <span title="Tags: content, no-code-friendly">Digital products</span>
+  - <span title="Tags: content, no-code-friendly">Memberships</span>
+  - <span title="Tags: content">Online courses</span>
 - <span title="See also: Enterprise &amp; AI &gt; Marketing &amp; Sales Tech &gt; Creator platforms &gt; UGC marketplaces">Creator economy ↗</span>
-  - Podcasting
-  - Newsletters
-  - <span title="Includes personal brands.">Influencer brands</span>
+  - <span title="Tags: content">Podcasting</span>
+  - <span title="Tags: content">Newsletters</span>
+  - <span title="Includes personal brands. | Tags: content">Influencer brands</span>
   - <span title="Tags: ai-native">AI virtual creators</span>
-  - Live &amp; social commerce 🔥
-  - <span title="e.g. Patreon.">Fan memberships</span>
-- Freelancing &amp; fractional
+  - <span title="Tags: content">Live &amp; social commerce 🔥</span>
+  - <span title="e.g. Patreon. | Tags: content, no-code-friendly">Fan memberships</span>
+- <span title="Tags: service-business">Freelancing &amp; fractional</span>
   - Consulting
   - Design
   - Programming
   - Marketing services
   - <span title="Fractional CFO/CMO/CTO.">Fractional executives</span>
-- Agencies
+- <span title="Tags: service-business">Agencies</span>
   - Digital marketing
   - Web development
-  - AI automation agencies
+  - <span title="Tags: no-code-friendly">AI automation agencies</span>
 - Solopreneurship 🔥
-  - <span title="Tags: ai-native">AI-leveraged solo businesses</span>
-  - Micro-SaaS
-  - Productized services
-  - Solo operator tools
+  - <span title="Tags: ai-native, service-business, no-code-friendly">AI-leveraged solo businesses</span>
+  - <span title="Tags: no-code-friendly">Micro-SaaS</span>
+  - <span title="Tags: service-business">Productized services</span>
+  - <span title="Tags: content, no-code-friendly">Solo operator tools</span>
 ## <span title="Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health &amp; Wellness.">Relationships</span>
 ### Dating
 - Dating platforms
   - Curated apps
-  - Profile optimization
-- <span title="Tags: ai-native">AI dating tools</span>
+  - <span title="Tags: service-business, no-code-friendly">Profile optimization</span>
+- <span title="Tags: ai-native, no-code-friendly">AI dating tools</span>
   - AI profile writing
   - AI message coaching
   - AI matchmaking
-- Matchmaking, coaching &amp; events
+- <span title="Tags: service-business">Matchmaking, coaching &amp; events</span>
   - Professional matchmaking
-  - Niche matchmaking
+  - <span title="Tags: marketplace">Niche matchmaking</span>
   - Speed dating
   - Singles events
-  - Dating coaches
+  - <span title="Tags: content">Dating coaches</span>
 - Niche dating
-  - Senior dating
+  - <span title="Tags: service-business">Senior dating</span>
   - LGBTQ+ dating
   - Single-parent dating
-  - Sober dating
+  - <span title="Tags: service-business, content">Sober dating</span>
   - Dating with disability
   - Faith-based dating
 - <span title="Tags: underserved">Dating safety</span>
   - Identity verification
   - <span title="FCRA applies. | Tags: regulated">Background checks</span>
-  - Date check-in apps
+  - <span title="Tags: no-code-friendly">Date check-in apps</span>
   - Romance-scam protection
 ### <span title="See also: Lifestyle, Home &amp; Experiences &gt; Entertainment &amp; Events &gt; Weddings">Couples &amp; Marriage ↗</span>
 - Premarital
-  - Premarital counseling
-  - Premarital courses
-  - Faith-based marriage prep
+  - <span title="Tags: service-business">Premarital counseling</span>
+  - <span title="Tags: content">Premarital courses</span>
+  - <span title="Tags: service-business, content">Faith-based marriage prep</span>
   - <span title="Tags: regulated">Prenups</span>
   - <span title="Tags: regulated">Cohabitation agreements</span>
 - <span title="Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns. | See also: Health &amp; Wellness &gt; Mental Health &gt; Therapy access &gt; Couples therapy">Relationship coaching ↗</span>
-  - <span title="e.g. Paired, Lasting (part of Talkspace).">Couples apps</span>
-  - <span title="Tags: ai-native">AI relationship coaching</span>
-  - Relationship check-in tools
-  - Couples coaching
-  - Relationship courses
+  - <span title="e.g. Paired, Lasting (part of Talkspace). | Tags: no-code-friendly">Couples apps</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI relationship coaching</span>
+  - <span title="Tags: no-code-friendly">Relationship check-in tools</span>
+  - <span title="Tags: service-business">Couples coaching</span>
+  - <span title="Tags: content">Relationship courses</span>
 - Marriage enrichment
-  - Date-night services
-  - Couples activities
-  - Relationship retreats
+  - <span title="Tags: service-business">Date-night services</span>
+  - <span title="Tags: content">Couples activities</span>
+  - <span title="Tags: service-business">Relationship retreats</span>
 - Long-distance relationships
-  - LDR apps
-  - Shared-experience tools
-  - <span title="Tags: underserved">Military couples</span>
+  - <span title="Tags: no-code-friendly">LDR apps</span>
+  - <span title="Tags: no-code-friendly">Shared-experience tools</span>
+  - <span title="Tags: underserved, content">Military couples</span>
 - <span title="Covers jealousy, insecurity, resentment and recurring conflict.">Relationship repair</span>
-  - Infidelity recovery
+  - <span title="Tags: service-business, content">Infidelity recovery</span>
   - Marriage intensives
   - <span title="For couples where one partner is in addiction recovery.">Couples programs in recovery</span>
   - Discernment counseling
 - <span title="See also: Wealth &gt; Money Management &gt; Life-event finance &gt; Couples&#x27; finances">Shared household ↗</span>
-  - Household-task apps
-  - Shared calendars
-  - Mental-load tools
-  - Household managers
+  - <span title="Tags: no-code-friendly">Household-task apps</span>
+  - <span title="Tags: no-code-friendly">Shared calendars</span>
+  - <span title="Tags: no-code-friendly">Mental-load tools</span>
+  - <span title="Tags: service-business, marketplace">Household managers</span>
 ### <span title="Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health &amp; Wellness &gt; Sexual &amp; Reproductive Health. | See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Sexual wellness">Intimacy &amp; Sexuality ↗</span>
 - Therapy &amp; coaching
   - Sex therapists
   - Sex-therapy telehealth
-  - Intimacy coaches
+  - <span title="Tags: service-business">Intimacy coaches</span>
   - Sexual performance anxiety
 - Couples intimacy
-  - Guided intimacy courses
-  - Intimacy apps
-  - Conversation card games
+  - <span title="Tags: content">Guided intimacy courses</span>
+  - <span title="Tags: no-code-friendly">Intimacy apps</span>
+  - <span title="Tags: content">Conversation card games</span>
 - Life-stage intimacy
-  - Postpartum intimacy
-  - <span title="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women&#x27;s health &gt; Menopause &amp; perimenopause">Midlife intimacy ↗</span>
+  - <span title="Tags: content">Postpartum intimacy</span>
+  - <span title="Tags: content | See also: Care &amp; Conditions &gt; Population-Specific Care &gt; Women&#x27;s health &gt; Menopause &amp; perimenopause">Midlife intimacy ↗</span>
   - Intimacy after cancer
   - <span title="Tags: underserved">Intimacy with illness &amp; disability</span>
 - Desire &amp; communication
   - Desire-mismatch programs
-  - Consent education
+  - <span title="Tags: service-business, content">Consent education</span>
   - <span title="For survivors of sexual trauma and their partners. | Tags: underserved">Trauma-informed intimacy programs</span>
 ### Breakups &amp; Divorce
 - Divorce process
-  - Divorce preparation
-  - Divorce coaching
-  - Divorce mediation
+  - <span title="Tags: service-business, content">Divorce preparation</span>
+  - <span title="Tags: service-business">Divorce coaching</span>
+  - <span title="Tags: service-business">Divorce mediation</span>
   - Collaborative divorce
   - <span title="Tags: regulated">Online divorce</span>
   - <span title="Tags: regulated">Divorce attorney matching</span>
 - Divorce finance
   - Asset-splitting tools
   - Financial transition planning
-  - Divorce financial analysts
+  - <span title="Tags: service-business">Divorce financial analysts</span>
   - <span title="QDROs.">Retirement-account division</span>
   - Marital home buyouts
 - Co-parenting
-  - Co-parenting apps
-  - Custody scheduling
-  - Co-parent expense sharing
-  - Children's divorce support
+  - <span title="Tags: no-code-friendly">Co-parenting apps</span>
+  - <span title="Tags: no-code-friendly">Custody scheduling</span>
+  - <span title="Tags: no-code-friendly">Co-parent expense sharing</span>
+  - <span title="Tags: content">Children's divorce support</span>
 - <span title="Leaving an abusive relationship. Handle with trauma-informed design and strict privacy. | Tags: underserved | See also: Health &amp; Wellness &gt; Mental Health &gt; Trauma &amp; PTSD &gt; Domestic-violence support">Safe separation ↗</span>
-  - Safety planning apps
+  - <span title="Tags: no-code-friendly">Safety planning apps</span>
   - <span title="Tags: regulated">Protective-order assistance</span>
   - Stalkerware detection
   - Emergency housing search
 - Rebuilding after separation
   - Post-divorce housing
-  - Name-change services
-  - Breakup coaching
+  - <span title="Tags: service-business, no-code-friendly">Name-change services</span>
+  - <span title="Tags: service-business, content">Breakup coaching</span>
 ### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
-- Parenting stages
+- <span title="Tags: content">Parenting stages</span>
   - Newborns
   - Teens
 - <span title="Covers parent-child communication, discipline and emotional connection.">Parenting support</span>
-  - Parent coaching
-  - Parenting courses
-  - Parenting communities
-  - Family organizers
-  - Chore &amp; allowance apps
+  - <span title="Tags: service-business">Parent coaching</span>
+  - <span title="Tags: content">Parenting courses</span>
+  - <span title="Tags: content">Parenting communities</span>
+  - <span title="Tags: no-code-friendly">Family organizers</span>
+  - <span title="Tags: no-code-friendly">Chore &amp; allowance apps</span>
 - <span title="COPPA and age-appropriate-design laws. | Tags: regulated">Child online safety</span>
   - Parental controls
   - Kids' phones
   - <span title="Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia&#x27;s under-16 social-media ban.">Age verification 🔥</span>
-  - Online-safety education
+  - <span title="Tags: content">Online-safety education</span>
 - <span title="Acute &#x27;care desert&#x27; shortage. | Tags: underserved">Childcare</span>
-  - Childcare marketplaces
-  - Nannies &amp; babysitters
-  - Nanny shares
+  - <span title="Tags: marketplace">Childcare marketplaces</span>
+  - <span title="Tags: marketplace">Nannies &amp; babysitters</span>
+  - <span title="Tags: marketplace, no-code-friendly">Nanny shares</span>
   - <span title="Tags: b2b">Employer childcare</span>
 - Baby &amp; kids products
   - <span title="Monitors and smart nursery devices.">Baby tech</span>
   - STEM toys
-  - Kids' activity booking
+  - <span title="Tags: marketplace, no-code-friendly">Kids' activity booking</span>
   - Kids' clothing
 - Family structures
-  - Single parents
-  - <span title="Tags: underserved">Adoption &amp; foster care</span>
+  - <span title="Tags: content">Single parents</span>
+  - <span title="Tags: underserved, content">Adoption &amp; foster care</span>
   - Kinship care
-  - Genealogy &amp; family history
+  - <span title="Tags: service-business, content">Genealogy &amp; family history</span>
 - <span title="Tags: underserved">Special-needs parenting</span>
-  - IEP &amp; school advocacy
+  - <span title="Tags: service-business, content">IEP &amp; school advocacy</span>
   - Therapy coordination
-  - Special-needs parent communities
+  - <span title="Tags: content">Special-needs parent communities</span>
 ### <span title="See also: Mind, Meaning &amp; Growth &gt; Spirituality &amp; Faith &gt; Faith tech">Friendship &amp; Community ↗</span>
 - <span title="Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.">Making friends</span>
-  - <span title="e.g. BFF by Bumble (relaunched as a standalone app in 2025).">Friendship apps</span>
+  - <span title="e.g. BFF by Bumble (relaunched as a standalone app in 2025). | Tags: no-code-friendly">Friendship apps</span>
   - <span title="e.g. Peanut.">Parent friendship apps</span>
-  - Activity-partner apps
-  - Friend-matching dinners
-  - Newcomer networks
+  - <span title="Tags: no-code-friendly">Activity-partner apps</span>
+  - <span title="Tags: service-business">Friend-matching dinners</span>
+  - <span title="Tags: service-business, content">Newcomer networks</span>
 - <span title="US Surgeon General advisory on loneliness, 2023. | Tags: underserved">Loneliness &amp; connection</span>
   - Third places
-  - Community dinners
+  - <span title="Tags: service-business">Community dinners</span>
   - Social prescribing
-  - Intergenerational programs
-  - Friendly-visitor services
+  - <span title="Tags: service-business">Intergenerational programs</span>
+  - <span title="Tags: service-business, marketplace">Friendly-visitor services</span>
 - Clubs &amp; groups
-  - Social clubs
+  - <span title="Tags: service-business, content">Social clubs</span>
   - Alumni networks
-  - Expat &amp; immigrant communities
+  - <span title="Tags: content">Expat &amp; immigrant communities</span>
 - <span title="Open ethical and regulatory questions, especially for minors. | Tags: regulated, ai-native">AI companions 🔥</span>
   - Companion apps
   - Voice companions
@@ -841,296 +841,296 @@ markmap:
 - Community platforms
   - <span title="Tags: b2b">Community software</span>
   - <span title="Tags: b2b">Club membership management</span>
-  - Social event apps
+  - <span title="Tags: no-code-friendly">Social event apps</span>
 ### <span title="Interpersonal skills training sold as coaching, courses, apps and corporate programs.">Social Skills</span>
 - Communication training
-  - <span title="Active listening, assertiveness and conversation skills.">Communication coaching</span>
-  - <span title="Practice difficult conversations with an AI partner. | Tags: ai-native">AI conversation roleplay 🔥</span>
-  - <span title="Tags: b2b">Workplace communication programs</span>
+  - <span title="Active listening, assertiveness and conversation skills. | Tags: service-business">Communication coaching</span>
+  - <span title="Practice difficult conversations with an AI partner. | Tags: ai-native, no-code-friendly">AI conversation roleplay 🔥</span>
+  - <span title="Tags: b2b, service-business">Workplace communication programs</span>
 - Public speaking &amp; presence
-  - Public speaking coaching
-  - <span title="e.g. Yoodli. | Tags: ai-native">Speech feedback AI</span>
-  - Executive presence coaching
+  - <span title="Tags: service-business">Public speaking coaching</span>
+  - <span title="e.g. Yoodli. | Tags: ai-native, no-code-friendly">Speech feedback AI</span>
+  - <span title="Tags: service-business">Executive presence coaching</span>
 - Emotional intelligence
-  - EQ assessments
-  - <span title="Tags: b2b">EQ training</span>
-  - Conflict-resolution training
-  - <span title="Social-emotional learning (SEL) curricula.">Empathy programs for kids</span>
+  - <span title="Tags: content, no-code-friendly">EQ assessments</span>
+  - <span title="Tags: b2b, service-business">EQ training</span>
+  - <span title="Tags: service-business">Conflict-resolution training</span>
+  - <span title="Social-emotional learning (SEL) curricula. | Tags: content">Empathy programs for kids</span>
 - <span title="Tags: underserved">Neurodivergent social skills</span>
-  - Social-skills groups
-  - Workplace social coaching
-  - Social-skills apps
+  - <span title="Tags: service-business">Social-skills groups</span>
+  - <span title="Tags: service-business">Workplace social coaching</span>
+  - <span title="Tags: no-code-friendly">Social-skills apps</span>
 ### <span title="&#x27;Death tech.&#x27; | Tags: underserved | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Estate planning">Death, Grief &amp; Legacy ↗</span>
 - End-of-life planning
-  - Advance directives
-  - End-of-life planning apps
+  - <span title="Tags: no-code-friendly">Advance directives</span>
+  - <span title="Tags: no-code-friendly">End-of-life planning apps</span>
   - Funeral pre-planning
-  - Death doulas
+  - <span title="Tags: service-business">Death doulas</span>
   - Hospice &amp; palliative care
 - <span title="State funeral law and the FTC Funeral Rule. | Tags: regulated">Funeral services</span>
   - Direct cremation
   - Green burial
   - <span title="Water cremation and human composting; legal only in some jurisdictions.">Alternative dispositions</span>
-  - Funeral price comparison
+  - <span title="Tags: content">Funeral price comparison</span>
   - <span title="Tags: b2b">Funeral home software</span>
 - Memorialization
-  - Online memorials
+  - <span title="Tags: no-code-friendly">Online memorials</span>
   - <span title="e.g. cremation jewelry.">Memorial keepsakes</span>
   - <span title="&#x27;Griefbots&#x27;. Open ethical questions about consent and the effect on grief. | Tags: ai-native">AI memorial avatars</span>
 - <span title="See also: Lifestyle, Home &amp; Experiences &gt; Pets &amp; Animal Care &gt; Pet lifestyle &gt; Pet loss &amp; grief">Grief support ↗</span>
   - Grief counseling
-  - Grief apps
+  - <span title="Tags: no-code-friendly">Grief apps</span>
   - Child grief programs
   - <span title="Tags: b2b">Workplace bereavement support</span>
 - <span title="e.g. Empathy.">Digital legacy</span>
-  - Account closure
-  - Digital estate vaults
+  - <span title="Tags: service-business, no-code-friendly">Account closure</span>
+  - <span title="Tags: no-code-friendly">Digital estate vaults</span>
   - Crypto inheritance
-  - Legacy memoirs
-- After-death logistics
+  - <span title="Tags: service-business">Legacy memoirs</span>
+- <span title="Tags: service-business">After-death logistics</span>
   - Death admin concierge
   - Survivor benefits claims
-  - Probate navigation
+  - <span title="Tags: content">Probate navigation</span>
   - Estate cleanout
   - Downsizing services
 ## <span title="Contemplative practice, meaning, personal development, learning, creativity and career growth.">Mind, Meaning &amp; Growth</span>
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Mobility &amp; flexibility &gt; Yoga">Contemplative Practice ↗</span>
 - Meditation
   - Meditation studios
-  - Meditation retreats
-  - <span title="Tags: b2b">Workplace mindfulness</span>
+  - <span title="Tags: service-business">Meditation retreats</span>
+  - <span title="Tags: b2b, service-business">Workplace mindfulness</span>
 - Breathwork
-  - Breathwork apps
+  - <span title="Tags: content, no-code-friendly">Breathwork apps</span>
   - Breath-training devices
-- Journaling &amp; reflection
+- <span title="Tags: no-code-friendly">Journaling &amp; reflection</span>
   - <span title="e.g. Day One.">Journaling apps</span>
   - <span title="Tags: ai-native">AI journaling</span>
 - Somatics &amp; embodiment
-  - Somatic practitioner training
-  - Nervous-system regulation apps
+  - <span title="Tags: content">Somatic practitioner training</span>
+  - <span title="Tags: no-code-friendly">Nervous-system regulation apps</span>
 - Digital wellness
-  - Screen-time apps
+  - <span title="Tags: no-code-friendly">Screen-time apps</span>
   - Minimalist phones
   - <span title="e.g. Yondr.">Phone lockers &amp; pouches</span>
-  - Phone-free social events
+  - <span title="Tags: service-business">Phone-free social events</span>
 ### <span title="Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.">Spirituality &amp; Faith</span>
 - <span title="Faith communities: giving, streaming and church management. | Tags: b2b">Faith tech</span>
-  - Church management
+  - <span title="Tags: no-code-friendly">Church management</span>
   - Giving platforms
   - Service streaming
-  - Congregant engagement apps
+  - <span title="Tags: no-code-friendly">Congregant engagement apps</span>
   - Faith-based school software
 - <span title="e.g. Hallow.">Prayer &amp; scripture</span>
-  - Prayer apps
-  - Scripture study
-  - <span title="Tags: ai-native">AI scripture study</span>
-  - Faith-based meditation
+  - <span title="Tags: content, no-code-friendly">Prayer apps</span>
+  - <span title="Tags: content">Scripture study</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI scripture study</span>
+  - <span title="Tags: content">Faith-based meditation</span>
 - Spiritual guidance
-  - <span title="Hospitals, workplaces, universities.">Chaplaincy services</span>
-  - Online religious education
-  - <span title="e.g. Co-Star.">Astrology apps</span>
+  - <span title="Hospitals, workplaces, universities. | Tags: service-business">Chaplaincy services</span>
+  - <span title="Tags: content">Online religious education</span>
+  - <span title="e.g. Co-Star. | Tags: content, no-code-friendly">Astrology apps</span>
 ### <span title="Guidance on direction and life stages. Self-directed growth products live in Personal Development.">Purpose &amp; Life Transitions</span>
 - Life coaching
-  - Coach certification
-  - Coaching marketplaces
-  - <span title="Tags: ai-native">AI life coaches</span>
-  - <span title="Tags: b2b">Coaching practice software</span>
-- Self-discovery
+  - <span title="Tags: content">Coach certification</span>
+  - <span title="Tags: marketplace">Coaching marketplaces</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI life coaches</span>
+  - <span title="Tags: b2b, no-code-friendly">Coaching practice software</span>
+- <span title="Tags: content, no-code-friendly">Self-discovery</span>
   - Strengths &amp; values assessments
   - Personality assessments
-- Life-stage transitions
+- <span title="Tags: service-business, content">Life-stage transitions</span>
   - Midlife reinvention
   - <span title="Un-retirement and second careers after 60.">Encore careers</span>
   - Sabbatical planning
 ### <span title="Self-directed growth products: content, programs, experiences and peer groups.">Personal Development</span>
 - Self-help content
-  - Book summaries &amp; audio
-  - Personal development apps
-  - <span title="e.g. 30-day and 75-day challenges.">Challenge programs</span>
+  - <span title="Tags: content">Book summaries &amp; audio</span>
+  - <span title="Tags: no-code-friendly">Personal development apps</span>
+  - <span title="e.g. 30-day and 75-day challenges. | Tags: content, no-code-friendly">Challenge programs</span>
 - <span title="Non-clinical. Clinical care lives in Mental Health.">Inner-work programs</span>
-  - Body-image programs
-  - Resilience training
+  - <span title="Tags: content">Body-image programs</span>
+  - <span title="Tags: service-business">Resilience training</span>
   - Wilderness programs
-- Performance &amp; mindset
+- <span title="Tags: service-business">Performance &amp; mindset</span>
   - Peak-performance coaching
   - <span title="For athletes, performers and executives.">Mental-skills coaching</span>
-  - Habit coaching
-- Growth communities
-  - Men's circles
-  - Women's circles
-  - Mastermind groups
-  - Peer coaching networks
+  - <span title="Tags: no-code-friendly">Habit coaching</span>
+- <span title="Tags: content">Growth communities</span>
+  - <span title="Tags: service-business">Men's circles</span>
+  - <span title="Tags: service-business">Women's circles</span>
+  - <span title="Tags: service-business">Mastermind groups</span>
+  - <span title="Tags: marketplace">Peer coaching networks</span>
 ### Productivity
-- Tasks &amp; habits
+- <span title="Tags: no-code-friendly">Tasks &amp; habits</span>
   - Gamified productivity
-  - Goal-setting &amp; accountability
-- Time management
+  - <span title="Tags: service-business">Goal-setting &amp; accountability</span>
+- <span title="Tags: no-code-friendly">Time management</span>
   - <span title="e.g. Motion. | Tags: ai-native">AI calendars</span>
   - Time tracking
 - <span title="Second brain / PKM.">Knowledge management</span>
-  - <span title="e.g. Notion, Obsidian.">Note-taking apps</span>
-  - <span title="Tags: ai-native">AI knowledge assistants</span>
+  - <span title="e.g. Notion, Obsidian. | Tags: content">Note-taking apps</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI knowledge assistants</span>
 - <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">ADHD-friendly productivity ↗</span>
-  - <span title="e.g. Flow Club, Focusmate.">Body doubling</span>
-  - ADHD planners
-  - <span title="Tags: ai-native">AI task breakdown</span>
+  - <span title="e.g. Flow Club, Focusmate. | Tags: service-business, marketplace, no-code-friendly">Body doubling</span>
+  - <span title="Tags: content">ADHD planners</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI task breakdown</span>
 - <span title="Tags: ai-native">AI personal assistants 🔥</span>
   - Personal AI agents
   - AI browser agents
-  - Inbox &amp; email AI
+  - <span title="Tags: no-code-friendly">Inbox &amp; email AI</span>
   - AI answer engines
   - <span title="AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta.">AI glasses &amp; wearables</span>
 ### <span title="See also: Enterprise &amp; AI &gt; Work &amp; HR Tech &gt; Learning &amp; development">Learning &amp; Education ↗</span>
 - Online learning
-  - Cohort-based courses
+  - <span title="Tags: content">Cohort-based courses</span>
   - Masterclass platforms
-  - Microlearning apps
-- <span title="Tags: ai-native">AI tutoring 🔥</span>
+  - <span title="Tags: content, no-code-friendly">Microlearning apps</span>
+- <span title="Tags: ai-native, no-code-friendly">AI tutoring 🔥</span>
   - <span title="e.g. Khanmigo.">AI tutors</span>
   - AI reading coaches
   - Homework help apps
   - AI study tools
 - Test prep &amp; credentials
-  - Test prep
-  - Professional certifications
-  - Micro-credentials
+  - <span title="Tags: service-business, content">Test prep</span>
+  - <span title="Tags: content">Professional certifications</span>
+  - <span title="Tags: content">Micro-credentials</span>
   - <span title="Tags: b2b">Credential verification</span>
   - <span title="Tags: b2b">Online proctoring</span>
 - Language learning
-  - <span title="Tags: ai-native">AI language tutors</span>
-  - Conversation practice
-  - Workplace English
-  - Heritage-language programs
+  - <span title="Tags: ai-native, no-code-friendly">AI language tutors</span>
+  - <span title="Tags: service-business, marketplace">Conversation practice</span>
+  - <span title="Tags: service-business">Workplace English</span>
+  - <span title="Tags: service-business, content">Heritage-language programs</span>
 - K-12 &amp; alternatives
-  - Homeschooling
-  - Learning pods
-  - Tutoring
+  - <span title="Tags: content">Homeschooling</span>
+  - <span title="Tags: service-business, marketplace">Learning pods</span>
+  - <span title="Tags: service-business, marketplace">Tutoring</span>
   - Microschools
   - <span title="Tags: underserved">Special education</span>
 - Early &amp; enrichment learning
-  - Early-learning apps
+  - <span title="Tags: no-code-friendly">Early-learning apps</span>
   - Preschools
-  - Kids' coding classes
-  - Music lessons
-  - After-school programs
+  - <span title="Tags: service-business">Kids' coding classes</span>
+  - <span title="Tags: service-business, marketplace">Music lessons</span>
+  - <span title="Tags: service-business">After-school programs</span>
 - Higher education
-  - College admissions
-  - Financial-aid navigation
+  - <span title="Tags: service-business, content">College admissions</span>
+  - <span title="Tags: service-business, content">Financial-aid navigation</span>
   - Online degrees
-  - Transfer &amp; credit mapping
+  - <span title="Tags: content">Transfer &amp; credit mapping</span>
   - Student services
   - Campus mental health
 - <span title="Tags: b2b">School EdTech</span>
-  - Teacher tools
-  - <span title="Tags: ai-native">Lesson-planning AI</span>
-  - <span title="Tags: ai-native">AI grading &amp; assessment</span>
-  - Curriculum marketplaces
+  - <span title="Tags: no-code-friendly">Teacher tools</span>
+  - <span title="Tags: ai-native, no-code-friendly">Lesson-planning AI</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI grading &amp; assessment</span>
+  - <span title="Tags: content, marketplace">Curriculum marketplaces</span>
   - School management
-  - Parent-school communication
+  - <span title="Tags: no-code-friendly">Parent-school communication</span>
   - Academic-integrity tools
 ### Creativity &amp; Craft
 - Writing
-  - Writing tools
-  - <span title="Tags: ai-native">AI writing assistants</span>
+  - <span title="Tags: no-code-friendly">Writing tools</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI writing assistants</span>
   - Screenwriting software
-  - Self-publishing
+  - <span title="Tags: service-business, content">Self-publishing</span>
 - Music creation
-  - <span title="DAWs and plugins.">Music production</span>
-  - <span title="e.g. Splice.">Sample marketplaces</span>
-  - Instrument learning
+  - <span title="DAWs and plugins. | Tags: service-business, content">Music production</span>
+  - <span title="e.g. Splice. | Tags: content, marketplace">Sample marketplaces</span>
+  - <span title="Tags: service-business, content">Instrument learning</span>
   - <span title="Tags: ai-native">AI music tools</span>
   - <span title="e.g. DistroKid.">Music distribution</span>
 - <span title="Artisan revival.">Visual arts &amp; craft</span>
   - Pottery studios
   - <span title="e.g. Procreate.">Digital art tools</span>
-  - Craft kits
-  - Artist marketplaces
+  - <span title="Tags: content">Craft kits</span>
+  - <span title="Tags: marketplace">Artist marketplaces</span>
 - Fiber arts
-  - Pattern marketplaces
+  - <span title="Tags: content, marketplace">Pattern marketplaces</span>
   - Yarn &amp; fabric DTC
 - Photo &amp; video
-  - <span title="Part of the Gen Z analog revival.">Film photography</span>
+  - <span title="Part of the Gen Z analog revival. | Tags: content">Film photography</span>
   - Editing tools
   - <span title="Tags: ai-native">AI video generation 🔥</span>
-  - Stock media marketplaces
+  - <span title="Tags: content, marketplace">Stock media marketplaces</span>
 - Maker culture
-  - 3D printing
+  - <span title="Tags: service-business, content">3D printing</span>
   - Electronics kits
   - CNC &amp; laser cutters
-- <span title="Taking part yourself, as opposed to attending.">Performing arts</span>
+- <span title="Taking part yourself, as opposed to attending. | Tags: service-business">Performing arts</span>
   - Dance classes
-  - Voice &amp; singing lessons
+  - <span title="Tags: marketplace">Voice &amp; singing lessons</span>
 ### Career Development
 - Job search
-  - Resume tools
-  - <span title="Tags: ai-native">AI job-application tools</span>
-  - Interview preparation
-  - Salary negotiation tools
+  - <span title="Tags: service-business, no-code-friendly">Resume tools</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI job-application tools</span>
+  - <span title="Tags: service-business, no-code-friendly">Interview preparation</span>
+  - <span title="Tags: service-business, content">Salary negotiation tools</span>
 - <span title="Covers communication, project management, data, software, sales, cybersecurity and AI skills.">Upskilling</span>
-  - AI upskilling 🔥
-  - Leadership development
-  - Manager training
-  - Technical upskilling
-  - Sales training
+  - <span title="Tags: service-business, content">AI upskilling 🔥</span>
+  - <span title="Tags: service-business">Leadership development</span>
+  - <span title="Tags: service-business, content">Manager training</span>
+  - <span title="Tags: content">Technical upskilling</span>
+  - <span title="Tags: service-business, content">Sales training</span>
   - <span title="Employer-paid tuition, e.g. Guild. | Tags: b2b">Education-benefit platforms</span>
 - Career transitions
-  - Career coaching
-  - Career switching
+  - <span title="Tags: service-business">Career coaching</span>
+  - <span title="Tags: service-business, content">Career switching</span>
   - <span title="Career re-entry, e.g. for caregivers. | Tags: underserved">Returnships</span>
-  - <span title="Tags: underserved">Veterans' transition</span>
-  - Outplacement
+  - <span title="Tags: underserved, service-business, content">Veterans' transition</span>
+  - <span title="Tags: service-business">Outplacement</span>
 - <span title="Tags: underserved">Inclusive employment</span>
-  - <span title="e.g. autism-hiring programs.">Neurodivergent hiring</span>
+  - <span title="e.g. autism-hiring programs. | Tags: service-business">Neurodivergent hiring</span>
   - Disability employment
-  - Workplace accommodations tools
-  - Older-worker hiring
+  - <span title="Tags: no-code-friendly">Workplace accommodations tools</span>
+  - <span title="Tags: marketplace">Older-worker hiring</span>
   - Refugee &amp; immigrant employment
-  - Second-chance hiring
+  - <span title="Tags: marketplace">Second-chance hiring</span>
 - <span title="See also: Wealth &gt; Entrepreneurship &gt; Small business &gt; Skilled-trades businesses">Skilled trades careers ↗</span>
   - Trade schools
-  - Apprenticeship marketplaces
-  - Licensing exam prep
-  - Trade job boards
-  - Trades continuing education
-- <span title="See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
+  - <span title="Tags: marketplace">Apprenticeship marketplaces</span>
+  - <span title="Tags: content">Licensing exam prep</span>
+  - <span title="Tags: marketplace">Trade job boards</span>
+  - <span title="Tags: content">Trades continuing education</span>
+- <span title="Tags: marketplace | See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
   - Flexible &amp; part-time jobs
-  - Interim management
+  - <span title="Tags: service-business">Interim management</span>
 - Professional networking
-  - Professional communities
-  - Mentorship platforms
-  - Personal branding tools
-  - Warm-intro tools
+  - <span title="Tags: content">Professional communities</span>
+  - <span title="Tags: marketplace">Mentorship platforms</span>
+  - <span title="Tags: service-business, no-code-friendly">Personal branding tools</span>
+  - <span title="Tags: no-code-friendly">Warm-intro tools</span>
 - Workplace navigation
-  - Salary data platforms
-  - <span title="Parental, medical and caregiving leave.">Leave navigation</span>
+  - <span title="Tags: content">Salary data platforms</span>
+  - <span title="Parental, medical and caregiving leave. | Tags: service-business, content">Leave navigation</span>
   - <span title="Tags: regulated">Employment-law help</span>
 ## <span title="Consumer spending on travel, food, home, style, pets, leisure, entertainment and getting around.">Lifestyle, Home &amp; Experiences</span>
 ### Travel &amp; Adventure
 - Trip planning
-  - <span title="e.g. Mindtrip. | Tags: ai-native">AI trip planners</span>
-  - Itinerary apps
-  - Group trip planning
-  - Creator travel guides
-  - Travel rewards
+  - <span title="e.g. Mindtrip. | Tags: ai-native, no-code-friendly">AI trip planners</span>
+  - <span title="Tags: no-code-friendly">Itinerary apps</span>
+  - <span title="Tags: service-business, no-code-friendly">Group trip planning</span>
+  - <span title="Tags: content">Creator travel guides</span>
+  - <span title="Tags: content">Travel rewards</span>
 - Experiential travel
-  - Adventure tours
-  - Culinary travel
-  - Sports &amp; event travel
-  - Experiences marketplaces
+  - <span title="Tags: service-business">Adventure tours</span>
+  - <span title="Tags: service-business">Culinary travel</span>
+  - <span title="Tags: service-business">Sports &amp; event travel</span>
+  - <span title="Tags: marketplace">Experiences marketplaces</span>
 - <span title="See also: Lifestyle, Home &amp; Experiences &gt; Home &amp; Living &gt; Living arrangements &gt; Coliving | See also: Wealth &gt; Tax &amp; Legal &gt; Tax planning &gt; International &amp; expat tax">Digital nomadism ↗</span>
-  - <span title="e.g. Nomad List.">Nomad communities</span>
+  - <span title="e.g. Nomad List. | Tags: content">Nomad communities</span>
   - Coworking passes
-  - Remote-work retreats
+  - <span title="Tags: service-business">Remote-work retreats</span>
   - Nomad insurance
 - Wellness travel
-  - Wellness retreats
-  - Fitness retreats
+  - <span title="Tags: service-business">Wellness retreats</span>
+  - <span title="Tags: service-business">Fitness retreats</span>
   - Longevity retreats
-- Traveler segments
-  - Solo travel
+- <span title="Tags: content">Traveler segments</span>
+  - <span title="Tags: service-business">Solo travel</span>
   - Family travel
-  - Senior travel
-  - <span title="Tags: underserved">Accessible travel</span>
+  - <span title="Tags: service-business">Senior travel</span>
+  - <span title="Tags: underserved, service-business">Accessible travel</span>
 - Road &amp; outdoor travel
   - <span title="Peer-to-peer, e.g. Outdoorsy.">RV rentals</span>
   - Glamping
@@ -1138,17 +1138,17 @@ markmap:
 - <span title="Tags: b2b | See also: Planet &amp; Frontier &gt; Built Environment &gt; Property management &gt; Short-term rental operations">Hospitality tech ↗</span>
   - Hotel property management
   - Hotel revenue management
-  - Guest messaging
-  - Direct booking engines
-  - Tour-operator software
+  - <span title="Tags: no-code-friendly">Guest messaging</span>
+  - <span title="Tags: no-code-friendly">Direct booking engines</span>
+  - <span title="Tags: no-code-friendly">Tour-operator software</span>
   - Overtourism management
 ### Food &amp; Beverage
 - <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; GLP-1 economy &gt; GLP-1 companion foods">Meal solutions ↗</span>
   - Prepared meals
-  - Personal chefs
+  - <span title="Tags: service-business, marketplace">Personal chefs</span>
   - Kids' &amp; school meals
   - <span title="Tags: b2b">Corporate catering</span>
-  - Meal-planning apps
+  - <span title="Tags: no-code-friendly">Meal-planning apps</span>
   - <span title="Tags: underserved">Senior meal delivery</span>
 - Better-for-you foods
   - <span title="Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025).">Functional beverages 🔥</span>
@@ -1162,72 +1162,72 @@ markmap:
 - <span title="Tags: b2b">Restaurant tech</span>
   - Restaurant ops software
   - <span title="e.g. Toast.">Restaurant POS</span>
-  - Online ordering &amp; loyalty
-  - Reservations &amp; waitlists
+  - <span title="Tags: no-code-friendly">Online ordering &amp; loyalty</span>
+  - <span title="Tags: no-code-friendly">Reservations &amp; waitlists</span>
   - Kitchen automation
-  - Restaurant supplier marketplaces
+  - <span title="Tags: marketplace">Restaurant supplier marketplaces</span>
 - Artisanal &amp; local food
   - Specialty food DTC
-  - <span title="Home food businesses under state cottage-food laws. | Tags: regulated">Cottage-food businesses</span>
+  - <span title="Home food businesses under state cottage-food laws. | Tags: regulated, content">Cottage-food businesses</span>
   - <span title="Tags: b2b">Food incubators &amp; commissaries</span>
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Circular economy">Food waste ↗</span>
-  - <span title="e.g. Too Good To Go.">Surplus-food apps</span>
+  - <span title="e.g. Too Good To Go. | Tags: marketplace, no-code-friendly">Surplus-food apps</span>
   - <span title="Tags: b2b">Food donation logistics</span>
   - Food-freshness tracking
   - Home composting
   - Upcycled foods
 - Cooking &amp; groceries
-  - <span title="Tags: ai-native">AI cooking assistants</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI cooking assistants</span>
   - Smart cooking appliances
-  - Grocery price comparison
+  - <span title="Tags: no-code-friendly">Grocery price comparison</span>
 ### Home &amp; Living
 - Smart home
-  - Smart-home installation
+  - <span title="Tags: service-business">Smart-home installation</span>
   - Home security
   - <span title="Robot vacuums, mowers and pool cleaners.">Home robots</span>
   - Home energy monitors
   - Water-leak sensors
 - Design &amp; decor
-  - <span title="e.g. Havenly.">E-design</span>
-  - <span title="Tags: ai-native">AI interior design</span>
+  - <span title="e.g. Havenly. | Tags: service-business">E-design</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI interior design</span>
 - Organizing &amp; moving
-  - Decluttering services
-  - Home inventory apps
+  - <span title="Tags: service-business">Decluttering services</span>
+  - <span title="Tags: no-code-friendly">Home inventory apps</span>
   - Moving services
-  - <span title="Utilities, address changes and service setup.">Move admin</span>
-  - Senior move management
+  - <span title="Utilities, address changes and service setup. | Tags: service-business, no-code-friendly">Move admin</span>
+  - <span title="Tags: service-business">Senior move management</span>
 - Home improvement
-  - Renovation platforms
+  - <span title="Tags: marketplace">Renovation platforms</span>
   - <span title="Tags: regulated">Renovation financing</span>
   - Home accessibility retrofits
-  - Home maintenance apps
+  - <span title="Tags: no-code-friendly">Home maintenance apps</span>
   - Home inspection
 - <span title="e.g. Thumbtack, TaskRabbit.">Home services</span>
-  - Handyman marketplaces
-  - Cleaning services
-  - Lawn &amp; pest services
-  - <span title="Scheduling, dispatch and invoicing for trades, e.g. Jobber. | Tags: b2b">Field-service software</span>
+  - <span title="Tags: marketplace">Handyman marketplaces</span>
+  - <span title="Tags: service-business">Cleaning services</span>
+  - <span title="Tags: service-business">Lawn &amp; pest services</span>
+  - <span title="Scheduling, dispatch and invoicing for trades, e.g. Jobber. | Tags: b2b, no-code-friendly">Field-service software</span>
 - Gardening &amp; plants
   - Seed &amp; plant DTC
-  - Landscape design
-  - Native &amp; drought-tolerant landscaping
+  - <span title="Tags: service-business">Landscape design</span>
+  - <span title="Tags: service-business, content">Native &amp; drought-tolerant landscaping</span>
 - Living arrangements
   - <span title="e.g. Habyt, Tripalink. Early leader Common shut down in 2024.">Coliving</span>
   - ADUs &amp; tiny homes
-  - Roommate matching
+  - <span title="Tags: marketplace, no-code-friendly">Roommate matching</span>
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Clean power">Home electrification ↗</span>
   - Heat pumps
   - Rooftop solar
   - Home batteries
   - Induction cooking
-  - Energy audits
-  - <span title="Finding and claiming electrification incentives.">Rebate navigation</span>
+  - <span title="Tags: service-business">Energy audits</span>
+  - <span title="Finding and claiming electrification incentives. | Tags: service-business, content, no-code-friendly">Rebate navigation</span>
 ### <span title="See also: Care &amp; Conditions &gt; Specialty Care &gt; Dermatology">Fashion &amp; Beauty ↗</span>
 - <span title="e.g. Depop (sold to eBay in 2026), ThredUp, Vinted.">Resale &amp; circular fashion 🔥</span>
   - Resale marketplaces
   - Luxury resale
   - <span title="Brand take-back and resale programs. | Tags: b2b">Resale-as-a-service</span>
-  - Repair &amp; upcycling
+  - <span title="Tags: service-business">Repair &amp; upcycling</span>
 - <span title="Tags: underserved">Inclusive fashion</span>
   - Plus-size fashion
   - Petite &amp; tall sizing
@@ -1237,23 +1237,23 @@ markmap:
 - Beauty &amp; skincare
   - K-beauty 🔥
   - <span title="Diverse shade ranges (the &#x27;Fenty effect&#x27;).">Inclusive beauty</span>
-  - Textured hair care
-  - Nail care
+  - <span title="Tags: service-business, content">Textured hair care</span>
+  - <span title="Tags: service-business">Nail care</span>
   - Fragrance
 - Fashion &amp; beauty tech
   - Virtual try-on
-  - <span title="Tags: ai-native">AI styling assistants</span>
+  - <span title="Tags: ai-native, no-code-friendly">AI styling assistants</span>
   - Size &amp; fit tech
   - <span title="Tags: ai-native">AI skin analysis</span>
   - <span title="Tags: b2b">On-demand apparel manufacturing</span>
 - Men's grooming
   - Men's skincare
-  - Barbershop booking
+  - <span title="Tags: no-code-friendly">Barbershop booking</span>
 - <span title="Tags: b2b">Salon &amp; spa tech</span>
-  - Salon booking software
+  - <span title="Tags: no-code-friendly">Salon booking software</span>
   - Salon management
-  - Salon-suite rental platforms
-  - Beauty-pro marketplaces
+  - <span title="Tags: marketplace">Salon-suite rental platforms</span>
+  - <span title="Tags: marketplace">Beauty-pro marketplaces</span>
   - Beauty-pro payments
 ### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
 - Pet food
@@ -1274,60 +1274,60 @@ markmap:
   - Pet health wearables
   - Smart litter boxes
 - <span title="e.g. Rover.">Pet services</span>
-  - Pet grooming
-  - Mobile grooming
+  - <span title="Tags: service-business">Pet grooming</span>
+  - <span title="Tags: service-business">Mobile grooming</span>
   - Boarding &amp; daycare
-  - Pet sitting
-  - Training &amp; behavior
+  - <span title="Tags: service-business, marketplace">Pet sitting</span>
+  - <span title="Tags: service-business, content">Training &amp; behavior</span>
 - Pet lifestyle
   - Pet adoption
-  - Pet-friendly travel
+  - <span title="Tags: content">Pet-friendly travel</span>
   - Pet aftercare
-  - Pet loss &amp; grief
+  - <span title="Tags: content">Pet loss &amp; grief</span>
 ### <span title="See also: Health &amp; Wellness &gt; Fitness &amp; Recovery &gt; Youth sports">Sports &amp; Hobbies ↗</span>
 - Racquet sports 🔥
-  - <span title="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026).">Pickleball</span>
-  - Padel
+  - <span title="Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026). | Tags: service-business, content">Pickleball</span>
+  - <span title="Tags: content">Padel</span>
   - Indoor pickleball venues
-  - Court booking
-  - Racquet coaching apps
+  - <span title="Tags: no-code-friendly">Court booking</span>
+  - <span title="Tags: no-code-friendly">Racquet coaching apps</span>
 - Social sports
-  - Run clubs 🔥
-  - <span title="e.g. Hyrox.">Fitness racing 🔥</span>
-  - Adult rec leagues
-  - Pickup-game apps
+  - <span title="Tags: service-business, content">Run clubs 🔥</span>
+  - <span title="e.g. Hyrox. | Tags: content">Fitness racing 🔥</span>
+  - <span title="Tags: service-business">Adult rec leagues</span>
+  - <span title="Tags: no-code-friendly">Pickup-game apps</span>
   - <span title="e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators.">Golf entertainment</span>
 - Women's sports 🔥
   - Pro leagues &amp; fandom
-  - Women's sports media
+  - <span title="Tags: content">Women's sports media</span>
   - Women's sports gear
-  - Girls' sports participation
+  - <span title="Tags: service-business">Girls' sports participation</span>
 - Fandom &amp; spectating
-  - Fan engagement apps
+  - <span title="Tags: no-code-friendly">Fan engagement apps</span>
   - Watch-party venues
   - Amateur sports streaming
   - <span title="Tags: b2b">Stadium tech</span>
 - Games &amp; puzzles
-  - Chess
-  - Tabletop RPGs
-  - Word games
+  - <span title="Tags: service-business, content">Chess</span>
+  - <span title="Tags: service-business, content">Tabletop RPGs</span>
+  - <span title="Tags: no-code-friendly">Word games</span>
 - <span title="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">Collecting ↗</span>
-  - Trading cards
+  - <span title="Tags: content">Trading cards</span>
   - <span title="e.g. Pop Mart&#x27;s Labubu.">Designer toys &amp; blind boxes</span>
-  - <span title="Live-stream breaks and auctions, e.g. Whatnot.">Live collectible auctions 🔥</span>
+  - <span title="Live-stream breaks and auctions, e.g. Whatnot. | Tags: content">Live collectible auctions 🔥</span>
   - Grading &amp; authentication
-- Reading
-  - <span title="BookTok.">Book discovery</span>
+- <span title="Tags: no-code-friendly">Reading</span>
+  - <span title="BookTok. | Tags: content">Book discovery</span>
   - Reading trackers
 ### Entertainment &amp; Events
 - Streaming &amp; video
   - <span title="Free ad-supported streaming TV.">FAST channels</span>
   - International content streaming
   - Microdramas 🔥
-  - Creator-led media
+  - <span title="Tags: content">Creator-led media</span>
 - Podcasts &amp; audio
-  - Audio dramas &amp; fiction
-  - Audio creator tools
+  - <span title="Tags: content">Audio dramas &amp; fiction</span>
+  - <span title="Tags: no-code-friendly">Audio creator tools</span>
   - <span title="Tags: b2b">Podcast advertising</span>
 - Gaming
   - Mobile games
@@ -1335,55 +1335,55 @@ markmap:
   - Indie game publishing
   - <span title="Tags: ai-native">AI game-dev tools</span>
 - Live events
-  - Local event discovery
+  - <span title="Tags: content, no-code-friendly">Local event discovery</span>
   - Ticketing
   - <span title="Tags: regulated">Ticket resale</span>
 - Nightlife &amp; venues
   - Eatertainment venues
-  - Sober nightlife
-  - Table &amp; guest-list apps
+  - <span title="Tags: service-business">Sober nightlife</span>
+  - <span title="Tags: no-code-friendly">Table &amp; guest-list apps</span>
   - <span title="Tags: b2b">Venue management software</span>
 - Immersive experiences
   - Immersive theater
   - Interactive art
-  - Themed pop-ups
+  - <span title="Tags: service-business">Themed pop-ups</span>
   - Location-based AR
 - Weddings
-  - Wedding planning platforms
+  - <span title="Tags: no-code-friendly">Wedding planning platforms</span>
   - Registries
   - Wedding attire
-  - Elopements &amp; micro-weddings
+  - <span title="Tags: service-business, marketplace">Elopements &amp; micro-weddings</span>
   - <span title="Tags: b2b">Wedding vendor software</span>
 - Celebrations &amp; gifting
-  - Party planning
-  - Kids' parties
+  - <span title="Tags: service-business">Party planning</span>
+  - <span title="Tags: service-business">Kids' parties</span>
   - Gifting platforms
   - Personalized gifts
-  - Group gifting
-  - <span title="Tags: b2b">Corporate gifting</span>
-  - <span title="Tags: b2b">Team experiences</span>
+  - <span title="Tags: no-code-friendly">Group gifting</span>
+  - <span title="Tags: b2b, service-business">Corporate gifting</span>
+  - <span title="Tags: b2b, service-business, marketplace">Team experiences</span>
 ### Cars &amp; Transportation
 - Car buying
   - <span title="e.g. Carvana.">Online car buying</span>
   - Car marketplaces
   - Trade-in valuation
-  - Used-car inspections
-  - Car-buying advisors
+  - <span title="Tags: service-business">Used-car inspections</span>
+  - <span title="Tags: service-business">Car-buying advisors</span>
 - <span title="See also: Wealth &gt; Insurance &gt; Property &amp; casualty &gt; Auto insurance">Car ownership ↗</span>
   - Maintenance &amp; repair
-  - Mobile mechanics
-  - Detailing &amp; care
+  - <span title="Tags: service-business">Mobile mechanics</span>
+  - <span title="Tags: service-business">Detailing &amp; care</span>
   - Connected-car apps
   - Parking apps
   - Tolls &amp; tickets
-- Car enthusiasts
+- <span title="Tags: content">Car enthusiasts</span>
   - Collector cars
   - Parts &amp; modification
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">EV ownership ↗</span>
   - Home charging
   - Charger installation
   - Charging apps
-  - Used EVs &amp; battery health
+  - <span title="Tags: content">Used EVs &amp; battery health</span>
 - Micromobility
   - E-bikes
   - Cargo bikes
@@ -1401,10 +1401,10 @@ markmap:
   - Voice &amp; multimodal models
   - Model gateways &amp; routing
 - <span title="See also: Enterprise &amp; AI &gt; Cybersecurity &amp; Trust &gt; Security for AI &gt; AI agent security">AI agents ↗</span>
-  - <span title="Legal, sales, healthcare and other industry agents.">Vertical agents</span>
+  - <span title="Legal, sales, healthcare and other industry agents. | Tags: no-code-friendly">Vertical agents</span>
   - Coding agents
   - Computer-use agents
-  - Workflow automation
+  - <span title="Tags: service-business, no-code-friendly">Workflow automation</span>
   - Agent orchestration
   - Agent memory &amp; context
   - <span title="e.g. MCP servers and tool registries.">Agent tool protocols</span>
@@ -1427,7 +1427,7 @@ markmap:
   - Sovereign AI clouds
   - Edge AI
 - Data infrastructure
-  - Data labeling
+  - <span title="Tags: service-business">Data labeling</span>
   - Synthetic data
   - Web data APIs
   - Training-data licensing
@@ -1444,11 +1444,11 @@ markmap:
   - AI test generation
   - Code modernization AI
 - No-code &amp; low-code
-  - App builders
-  - Internal-tool builders
+  - <span title="Tags: service-business, content">App builders</span>
+  - <span title="Tags: service-business">Internal-tool builders</span>
   - <span title="e.g. Airtable.">Spreadsheet-database builders</span>
   - <span title="&#x27;Vibe coding.&#x27; | Tags: ai-native">AI app generators 🔥</span>
-  - Workflow builders
+  - <span title="Tags: service-business, no-code-friendly">Workflow builders</span>
 - Testing &amp; quality
   - Test automation
   - Mobile app testing
@@ -1474,7 +1474,7 @@ markmap:
   - API management
   - SDK generation
   - Webhook infrastructure
-  - Integration platforms
+  - <span title="Tags: service-business, no-code-friendly">Integration platforms</span>
 ### Cybersecurity &amp; Trust
 - Identity &amp; zero trust
   - Identity management
@@ -1502,7 +1502,7 @@ markmap:
   - Email security
   - Backup &amp; ransomware recovery
 - Human risk
-  - Security awareness training
+  - <span title="Tags: service-business, content">Security awareness training</span>
   - Phishing simulation
   - Insider-risk management
 - <span title="A new category.">Security for AI 🔥</span>
@@ -1520,8 +1520,8 @@ markmap:
   - Account takeover prevention
 - <span title="Tags: consumer | See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Cyber insurance">Consumer security ↗</span>
   - Identity-theft protection
-  - Data-broker removal
-  - <span title="Includes elder-fraud protection.">Scam protection</span>
+  - <span title="Tags: service-business, no-code-friendly">Data-broker removal</span>
+  - <span title="Includes elder-fraud protection. | Tags: content">Scam protection</span>
   - Privacy tools
 ### Work &amp; HR Tech
 - <span title="Watch for bias and compliance issues: NYC Local Law 144, EU AI Act (high-risk). | Tags: regulated">Recruiting</span>
@@ -1534,24 +1534,24 @@ markmap:
 - HRIS &amp; people analytics
   - HRIS
   - Performance management
-  - Engagement surveys
+  - <span title="Tags: no-code-friendly">Engagement surveys</span>
   - People analytics
   - Compensation benchmarking
 - Collaboration
   - Async collaboration
-  - Internal communications
+  - <span title="Tags: service-business">Internal communications</span>
   - Enterprise knowledge bases
   - <span title="Now bundled into Zoom, Teams and Google Meet. | Tags: ai-native">AI meeting notetakers</span>
 - <span title="See also: Health &amp; Wellness &gt; Sexual &amp; Reproductive Health &gt; Fertility &amp; family building &gt; Fertility benefits | See also: Wealth &gt; Money Management &gt; Financial wellness &gt; Workplace financial wellness">Employee wellbeing ↗</span>
   - Mental-health benefits
   - Caregiving benefits
   - Benefits administration
-  - Recognition &amp; rewards
+  - <span title="Tags: no-code-friendly">Recognition &amp; rewards</span>
 - Learning &amp; development
   - L&amp;D platforms
-  - <span title="e.g. BetterUp.">Coaching platforms</span>
-  - Compliance training
-  - Mentoring software
+  - <span title="e.g. BetterUp. | Tags: marketplace">Coaching platforms</span>
+  - <span title="Tags: service-business, content">Compliance training</span>
+  - <span title="Tags: no-code-friendly">Mentoring software</span>
   - Skills intelligence
   - Internal mobility
 - <span title="e.g. Deel, Remote.">Global workforce</span>
@@ -1561,10 +1561,10 @@ markmap:
   - Global hiring
   - Employee relocation
 - Frontline workforce
-  - Shift scheduling
+  - <span title="Tags: no-code-friendly">Shift scheduling</span>
   - <span title="e.g. Instawork.">Shift marketplaces</span>
   - Frontline communication
-  - Frontline training
+  - <span title="Tags: content">Frontline training</span>
   - Workforce management
 ### <span title="See also: Wealth &gt; Tax &amp; Legal &gt; Consumer legal services">Legal &amp; Compliance Tech ↗</span>
 - <span title="Tags: ai-native">Legal AI 🔥</span>
@@ -1572,11 +1572,11 @@ markmap:
   - Legal research AI
   - eDiscovery
   - Litigation analytics
-  - AI for small firms
+  - <span title="Tags: no-code-friendly">AI for small firms</span>
 - Legal operations
   - Contract lifecycle management
   - Matter management
-  - Legal intake &amp; triage
+  - <span title="Tags: no-code-friendly">Legal intake &amp; triage</span>
   - Legal spend management
   - Entity management
   - Law-firm practice management
@@ -1592,16 +1592,16 @@ markmap:
   - <span title="GDPR, US state privacy laws.">Privacy program automation</span>
   - <span title="COPPA and age-appropriate-design codes.">Children's privacy compliance</span>
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; Carbon &gt; Carbon accounting">ESG &amp; sustainability reporting ↗</span>
-  - CSRD reporting
+  - <span title="Tags: service-business">CSRD reporting</span>
   - Supply-chain due diligence
   - ESG data platforms
 - AI governance
-  - AI risk management
+  - <span title="Tags: service-business">AI risk management</span>
   - Model inventories
-  - AI audits
-  - EU AI Act compliance
+  - <span title="Tags: service-business">AI audits</span>
+  - <span title="Tags: service-business, content">EU AI Act compliance</span>
 - Trade compliance 🔥
-  - Tariff management
+  - <span title="Tags: service-business, content">Tariff management</span>
   - Customs brokerage tech
   - Country-of-origin tracking
   - <span title="e.g. US UFLPA.">Forced-labor compliance</span>
@@ -1610,25 +1610,25 @@ markmap:
 - IP management
   - <span title="Tags: ai-native">Patent search AI</span>
   - IP portfolio management
-  - Trademark monitoring
+  - <span title="Tags: service-business, no-code-friendly">Trademark monitoring</span>
   - Open-source license compliance
 ### Marketing &amp; Sales Tech
 - <span title="Tags: ai-native">Generative marketing</span>
-  - AI content generation
-  - Creative automation
-  - AI video ads
+  - <span title="Tags: service-business, no-code-friendly">AI content generation</span>
+  - <span title="Tags: service-business">Creative automation</span>
+  - <span title="Tags: service-business">AI video ads</span>
   - Personalization engines
-  - <span title="Getting brands surfaced in AI assistants&#x27; answers.">Generative engine optimization 🔥</span>
+  - <span title="Getting brands surfaced in AI assistants&#x27; answers. | Tags: service-business, content">Generative engine optimization 🔥</span>
 - Lifecycle marketing
-  - Email &amp; SMS marketing
+  - <span title="Tags: service-business">Email &amp; SMS marketing</span>
   - Push &amp; in-app messaging
-  - Referral programs
+  - <span title="Tags: no-code-friendly">Referral programs</span>
   - Community-led growth tools
 - Creator platforms
-  - Influencer marketplaces
-  - UGC marketplaces
+  - <span title="Tags: marketplace">Influencer marketplaces</span>
+  - <span title="Tags: marketplace">UGC marketplaces</span>
   - Affiliate networks
-  - Creator analytics
+  - <span title="Tags: no-code-friendly">Creator analytics</span>
   - Creator payments
 - Retail media &amp; ads 🔥
   - Retail media networks
@@ -1639,35 +1639,35 @@ markmap:
   - Marketing mix modeling
   - Incrementality testing
   - Product analytics
-  - Server-side tracking
+  - <span title="Tags: service-business">Server-side tracking</span>
   - Customer data platforms
 - Customer support 🔥
-  - <span title="Tags: ai-native">AI support agents</span>
+  - <span title="Tags: ai-native, service-business, no-code-friendly">AI support agents</span>
   - <span title="Tags: ai-native">Voice AI contact centers</span>
   - Help desks
-  - Support QA &amp; analytics
+  - <span title="Tags: no-code-friendly">Support QA &amp; analytics</span>
 - Event marketing
   - Event management platforms
   - Trade-show tech
-  - Direct-mail automation
+  - <span title="Tags: no-code-friendly">Direct-mail automation</span>
 - Sales tech
-  - CRM
+  - <span title="Tags: service-business">CRM</span>
   - <span title="First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026. | Tags: ai-native">AI SDRs</span>
   - Sales engagement
-  - Sales data &amp; enrichment
-  - Sales enablement
+  - <span title="Tags: service-business, no-code-friendly">Sales data &amp; enrichment</span>
+  - <span title="Tags: service-business, content">Sales enablement</span>
   - Revenue intelligence
   - <span title="Configure-price-quote.">CPQ</span>
 ### <span title="Horizontal software for selling. Vertical tools stay with their domain: Restaurant tech, Salon &amp; spa tech, field-service software. | See also: Lifestyle, Home &amp; Experiences &gt; Food &amp; Beverage &gt; Restaurant tech | See also: Lifestyle, Home &amp; Experiences &gt; Fashion &amp; Beauty &gt; Salon &amp; spa tech">Commerce &amp; Retail Tech ↗</span>
 - E-commerce enablement
-  - Shopify-app ecosystem
-  - Checkout &amp; conversion
+  - <span title="Tags: no-code-friendly">Shopify-app ecosystem</span>
+  - <span title="Tags: service-business">Checkout &amp; conversion</span>
   - Product information management
   - <span title="AI shopping agents and the tools merchants need to sell to them. | Tags: ai-native">Agentic commerce 🔥</span>
-  - Loyalty &amp; gift cards
+  - <span title="Tags: no-code-friendly">Loyalty &amp; gift cards</span>
 - Marketplace selling
-  - <span title="e.g. Amazon seller software.">Marketplace seller tools</span>
-  - <span title="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal).">Social-commerce seller tools</span>
+  - <span title="e.g. Amazon seller software. | Tags: service-business, no-code-friendly">Marketplace seller tools</span>
+  - <span title="e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal). | Tags: service-business, no-code-friendly">Social-commerce seller tools</span>
   - <span title="e.g. Faire.">Wholesale marketplaces</span>
   - Cross-border e-commerce
 - Retail operations
@@ -1678,16 +1678,16 @@ markmap:
 - <span title="See also: Planet &amp; Frontier &gt; Industry &amp; Supply Chain &gt; Reverse logistics">Fulfillment &amp; post-purchase ↗</span>
   - Order management
   - Shipping software
-  - Post-purchase experience
-- <span title="e.g. Jobber.">SMB operations</span>
+  - <span title="Tags: no-code-friendly">Post-purchase experience</span>
+- <span title="e.g. Jobber. | Tags: no-code-friendly">SMB operations</span>
   - Booking &amp; scheduling
   - Invoicing &amp; quotes
-  - Reviews &amp; reputation
-  - <span title="Voice agents that answer calls and book jobs for small businesses. | Tags: ai-native">AI receptionists 🔥</span>
+  - <span title="Tags: service-business">Reviews &amp; reputation</span>
+  - <span title="Voice agents that answer calls and book jobs for small businesses. | Tags: ai-native, service-business">AI receptionists 🔥</span>
 ### Business Finance Tech
 - Accounting
-  - <span title="AI-native bookkeeping is the growth wedge. | Tags: ai-native">Bookkeeping 🔥</span>
-  - Financial reporting
+  - <span title="AI-native bookkeeping is the growth wedge. | Tags: ai-native, service-business">Bookkeeping 🔥</span>
+  - <span title="Tags: service-business">Financial reporting</span>
   - Close automation
   - Sales-tax compliance
   - AR automation
@@ -1703,7 +1703,7 @@ markmap:
   - Revenue-based financing
 - Corporate finance
   - Fundraising tools
-  - FP&amp;A
+  - <span title="Tags: service-business">FP&amp;A</span>
   - Treasury management
   - M&amp;A tools
 - <span title="e.g. Carta.">Equity management</span>
@@ -1738,7 +1738,7 @@ markmap:
   - Thermal energy storage
   - Low-carbon chemicals
 - Carbon
-  - Carbon accounting
+  - <span title="Tags: service-business, no-code-friendly">Carbon accounting</span>
   - Carbon capture
   - <span title="Direct air capture, enhanced weathering, biochar.">Carbon removal</span>
   - <span title="Measurement, reporting and verification.">MRV platforms</span>
@@ -1800,15 +1800,15 @@ markmap:
   - Food traceability
   - Cold chain
   - Food-safety testing
-  - Farm-to-business marketplaces
+  - <span title="Tags: marketplace">Farm-to-business marketplaces</span>
 - <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Crop insurance">Farm operations &amp; finance ↗</span>
   - Farm management software
   - <span title="Tags: regulated">Ag lending</span>
-  - Farm labor marketplaces
+  - <span title="Tags: marketplace">Farm labor marketplaces</span>
 ### Industry &amp; Supply Chain
 - <span title="Reshoring and smart factories.">Smart manufacturing 🔥</span>
   - Reshoring platforms
-  - Contract-manufacturing marketplaces
+  - <span title="Tags: marketplace">Contract-manufacturing marketplaces</span>
   - Factory automation
   - Cobots
   - Manufacturing execution systems
@@ -1835,7 +1835,7 @@ markmap:
   - Warehouse robotics
   - Warehouse management systems
   - On-demand warehousing
-  - 3PL marketplaces
+  - <span title="Tags: marketplace">3PL marketplaces</span>
 - Last-mile delivery
   - Route optimization
   - Parcel lockers
@@ -1844,8 +1844,8 @@ markmap:
   - Returns management
   - B2B recommerce
   - Liquidation marketplaces
-  - Refurbishment
-  - Repair networks
+  - <span title="Tags: service-business">Refurbishment</span>
+  - <span title="Tags: service-business, marketplace">Repair networks</span>
 - Critical minerals 🔥
   - AI mineral exploration
   - Mining automation
@@ -1858,8 +1858,8 @@ markmap:
   - Property-management software
   - <span title="FCRA and fair-housing rules apply. | Tags: regulated">Resident screening</span>
   - Rent collection
-  - Maintenance coordination
-  - Short-term rental operations
+  - <span title="Tags: service-business, no-code-friendly">Maintenance coordination</span>
+  - <span title="Tags: service-business">Short-term rental operations</span>
 - Commercial real estate tech
   - Lease management
   - CRE analytics
@@ -1867,14 +1867,14 @@ markmap:
 - Construction tech
   - Construction project management
   - BIM software
-  - <span title="Tags: ai-native">Takeoff &amp; estimating AI</span>
+  - <span title="Tags: ai-native, service-business">Takeoff &amp; estimating AI</span>
   - Jobsite safety monitoring
   - Prefab &amp; modular
   - Construction robotics
-  - Permitting automation
+  - <span title="Tags: service-business, no-code-friendly">Permitting automation</span>
 - Construction supply chain
   - Materials procurement
-  - Subcontractor marketplaces
+  - <span title="Tags: marketplace">Subcontractor marketplaces</span>
   - Construction payments &amp; lien waivers
   - Equipment rental
 - Smart buildings
@@ -1885,7 +1885,7 @@ markmap:
   - Building electrification retrofits
 - Real estate transactions
   - Brokerage tech
-  - Transaction management
+  - <span title="Tags: service-business">Transaction management</span>
   - <span title="Automated valuation models.">Home valuation</span>
   - Mortgage tech
   - Title &amp; escrow
@@ -2007,7 +2007,7 @@ markmap:
 ### <span title="Markets whose main buyer is government, a nonprofit or a development funder, plus accessibility tech.">Public Interest &amp; Impact</span>
 - GovTech
   - Permitting software
-  - Benefits access
+  - <span title="Tags: content, no-code-friendly">Benefits access</span>
   - Government procurement
   - Legacy-system modernization
   - <span title="Tags: ai-native">Government AI assistants</span>
@@ -2026,18 +2026,18 @@ markmap:
   - <span title="Vision Zero programs.">Road-safety analytics</span>
 - <span title="Tags: underserved">Accessibility tech</span>
   - AAC devices
-  - Live captioning
+  - <span title="Tags: service-business">Live captioning</span>
   - <span title="Tags: ai-native">Sign-language AI</span>
   - Cognitive-accessibility tools
   - <span title="Tags: regulated">Prosthetics &amp; mobility aids</span>
-  - <span title="Web and app compliance as a service.">Accessibility compliance 🔥</span>
+  - <span title="Web and app compliance as a service. | Tags: service-business">Accessibility compliance 🔥</span>
 - <span title="e.g. Givebutter. | See also: Wealth &gt; Retirement &amp; Wealth Planning &gt; Wealth management &gt; Philanthropy &amp; DAFs">Nonprofit tech ↗</span>
   - Fundraising platforms
   - Nonprofit CRM
-  - Volunteer management
-  - Grant-seeking tools
+  - <span title="Tags: no-code-friendly">Volunteer management</span>
+  - <span title="Tags: service-business, no-code-friendly">Grant-seeking tools</span>
   - Grantmaking software
-  - Impact measurement
+  - <span title="Tags: service-business">Impact measurement</span>
 - Global development
   - Emerging-market edtech
   - Last-mile health delivery
@@ -2045,6 +2045,6 @@ markmap:
   - Smallholder agtech
   - Financial-inclusion infrastructure
 - Civic participation &amp; justice
-  - Access to justice
+  - <span title="Tags: content">Access to justice</span>
   - Court modernization
   - Reentry services

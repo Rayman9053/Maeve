@@ -48,7 +48,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Pharmacogenomics
   - Hereditary risk panels
 - **Environmental health**
-  - Indoor air quality
+  - Indoor air quality `service-business` `content`
   - Water testing & filtration
   - Mold & toxin testing
   - Microplastics testing
@@ -58,22 +58,22 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **GLP-1 economy 🔥** `regulated`: *The 'Ozempic economy'. Compounding shrank after the 2024-25 shortage listings ended; FDA warning letters over compounded GLP-1 marketing in 2025 and 2026.*
   - GLP-1 telehealth
   - Oral GLP-1s: *Wegovy pill launched in the US in January 2026.*
-  - Muscle preservation
-  - GLP-1 companion foods
-  - Maintenance & off-ramp
+  - Muscle preservation `content`
+  - GLP-1 companion foods `content`
+  - Maintenance & off-ramp `content`
 - **Personalized nutrition**
   - Microbiome testing: *e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated.*
   - CGM programs: *e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven.*
-  - AI meal planning `ai-native`
-  - Metabolic health
+  - AI meal planning `ai-native` `no-code-friendly`
+  - Metabolic health `content`
 - **Sports nutrition**
-  - Endurance fueling
-  - Strength & protein
+  - Endurance fueling `content`
+  - Strength & protein `content`
   - Hydration & electrolytes
-- **Special diets**
+- **Special diets** `content`
   - Plant-based
   - Gluten-free
-  - Culturally tailored diets: *Halal, kosher, Ayurvedic.*
+  - Culturally tailored diets `no-code-friendly`: *Halal, kosher, Ayurvedic.*
 - **Supplements** `regulated`: *US claims are governed by DSHEA and FTC rules.*
   - Vitamins & minerals
   - Protein powders
@@ -87,20 +87,20 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Fitness & Recovery
 
-- **Cardio & endurance**
+- **Cardio & endurance** `content`
   - Running
   - Cycling
   - Zone-2 & VO2max training
-- **Mobility & flexibility**
+- **Mobility & flexibility** `content`
   - Stretching
-  - Yoga
+  - Yoga `service-business`
   - Pilates 🔥
 - **Connected fitness**
   - Home gyms
   - Fitness equipment
-  - Workout apps
-  - Virtual coaching
-  - AI personal trainers `ai-native`
+  - Workout apps `no-code-friendly`
+  - Virtual coaching `service-business` `no-code-friendly`
+  - AI personal trainers `ai-native` `no-code-friendly`
 - **Athletic recovery**: *Evidence for therapeutic claims varies by modality.*
   - Sauna & heat
   - Cold plunge
@@ -111,34 +111,34 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Boutique franchises: *e.g. F45, Orangetheory.*
   - Budget gyms
   - Climbing gyms
-  - Gym management software `b2b`
-- **Adaptive & inclusive fitness**
-  - Senior fitness
-  - Plus-size fitness
+  - Gym management software `b2b` `no-code-friendly`
+- **Adaptive & inclusive fitness** `service-business`
+  - Senior fitness `content`
+  - Plus-size fitness `content`
   - Adaptive training: *Fitness for people with disabilities.*
-  - Prenatal & postnatal fitness
+  - Prenatal & postnatal fitness `content`
 - **Youth sports**
-  - Skills training
-  - College recruiting
-  - League & club software `b2b`
+  - Skills training `service-business`
+  - College recruiting `service-business` `content`
+  - League & club software `b2b` `no-code-friendly`
 
 ### Sleep
 
 - **Sleep optimization**
   - Sleep trackers
-  - Routines & coaching
+  - Routines & coaching `service-business` `content`
   - Cooling & smart beds
   - Circadian lighting
 - **Sleep disorders** `regulated`
-  - Insomnia & CBT-I
+  - Insomnia & CBT-I `content`
   - Sleep apnea
 - **Infant & child sleep**
-  - Sleep consultants
+  - Sleep consultants `service-business` `content`
   - Smart bassinets
-  - Sleep-training apps
+  - Sleep-training apps `no-code-friendly`
 - **Sleep products**
   - Mattresses & bedding
-  - Sleep audio apps
+  - Sleep audio apps `content` `no-code-friendly`
   - Snoring solutions
 
 ### Mental Health
@@ -154,38 +154,38 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - OCD
   - Major depression
   - Perinatal depression: *Includes paternal perinatal depression.*
-- **Stress & burnout**
-  - Burnout
+- **Stress & burnout** `service-business`
+  - Burnout `content`
   - Workplace stress
 - **Therapy access**
   - Individual therapy
   - Couples therapy
   - Family therapy
   - Online therapy
-  - Therapist matching
+  - Therapist matching `marketplace`
 - **Trauma & PTSD**
   - PTSD
   - Complex trauma
   - Abuse recovery
   - Domestic-violence support `underserved`
 - **Addiction recovery**
-  - Alcohol moderation: *e.g. Sunnyside.*
+  - Alcohol moderation `content`: *e.g. Sunnyside.*
   - Gambling addiction: *Demand rose with legal sports betting.*
   - Opioid recovery `regulated`: *Medication-assisted treatment is regulated.*
   - Vaping cessation
-  - Recovery communities: *12-step and non-12-step.*
+  - Recovery communities `content`: *12-step and non-12-step.*
 - **Digital mental health**
   - Mental-health apps
   - Digital therapeutics `regulated`
   - AI mental-health companions `regulated` `ai-native`: *e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it.*
-  - Peer-support communities
+  - Peer-support communities `content`
 - **Acute & advanced care** `regulated`
   - Crisis & suicide prevention
   - Serious mental illness
   - Psychedelic-assisted therapy: *Psilocybin and MDMA are federally Schedule I in the US. State programs: Oregon, Colorado, New Mexico (medical, rolling out 2026).*
   - Ketamine & TMS clinics
 - **Population-focused care**
-  - Men's mental health: *Includes fatherhood and men's groups.*
+  - Men's mental health `content`: *Includes fatherhood and men's groups.*
   - Youth mental health
   - LGBTQ+ affirmative therapy
   - Culturally responsive therapy: *Includes bilingual therapy.*
@@ -203,10 +203,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Fertility benefits `b2b`: *e.g. Carrot, Progyny.*
 - **Pregnancy & postpartum**
   - Prenatal care
-  - Doulas & birth support
-  - Postpartum recovery
-  - Pregnancy-loss support
-  - Lactation support
+  - Doulas & birth support `service-business` `marketplace`
+  - Postpartum recovery `content`
+  - Pregnancy-loss support `content`
+  - Lactation support `service-business` `content`
 - **Contraception**
   - Birth-control telehealth
   - Vasectomy
@@ -219,7 +219,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Sexual wellness**: *Individual-focused products and education. Couples programs live in Relationships > Intimacy & Sexuality.*
   - ↗ *see* Relationships > Intimacy & Sexuality > Couples intimacy
   - Sex tech & devices: *Payment-processor limits; 2024-25 US age-verification laws.*
-  - Sex education platforms
+  - Sex education platforms `content`
   - Sexual wellness apps
 
 ### Aging & Longevity
@@ -228,7 +228,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Senior mobility
   - Cognitive fitness
   - Sarcopenia programs: *Preventing age-related muscle loss.*
-  - Healthy-aging coaching
+  - Healthy-aging coaching `service-business` `content`
 - **Longevity medicine 🔥**
   - Longevity clinics: *e.g. Fountain Life.*
   - Longevity telehealth
@@ -240,21 +240,21 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Age tech**
   - Fall detection
   - Passive home monitoring
-  - Aging in place
+  - Aging in place `service-business`
   - Senior-friendly devices
-  - Senior tech support
-  - Solo aging
-  - Senior social connection
+  - Senior tech support `service-business`
+  - Solo aging `content`
+  - Senior social connection `content`
 - **Caregiving 🔥** `underserved`: *The sandwich generation: people caring for both children and parents.*
-  - Care coordination
+  - Care coordination `service-business`
   - Respite care
-  - Family caregiver support
+  - Family caregiver support `service-business` `content`
   - Paid family caregiving `regulated`: *Medicaid and state programs that pay family caregivers.*
-  - Caregiver marketplaces
+  - Caregiver marketplaces `marketplace`
   - Home care agencies
 - **Senior living**
-  - Senior living search
-  - Senior home-sharing
+  - Senior living search `content` `marketplace`
+  - Senior home-sharing `marketplace`
   - Senior-living operator software `b2b`
 ---
 
@@ -268,7 +268,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Diabetes**
   - Type 1
   - Type 2
-  - Prediabetes
+  - Prediabetes `content`
   - Glucose management
 - **Cardiometabolic disease**
   - Hypertension
@@ -281,25 +281,25 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Hashimoto's
 - **Digestive health**
   - ↗ *see* Health & Wellness > Nutrition & Metabolic Health > Personalized nutrition > Microbiome testing
-  - IBS
+  - IBS `content`
   - IBD
-  - Food intolerances
+  - Food intolerances `content`
 - **Respiratory & allergy**
   - Asthma
   - COPD
-  - Food allergies
+  - Food allergies `content`
 - **Oncology**
   - ↗ *see* Planet & Frontier > Biotech & Life Sciences > Clinical trials > Patient recruitment
-  - Cancer navigation
-  - Survivorship support
+  - Cancer navigation `service-business`
+  - Survivorship support `content`
   - Breast cancer support
   - Prostate cancer support
 - **Complex & rare illness** `underserved`
-  - Long COVID
-  - ME/CFS: *A distinct diagnosis, not generic 'chronic fatigue'.*
-  - POTS & dysautonomia
+  - Long COVID `content`
+  - ME/CFS `content`: *A distinct diagnosis, not generic 'chronic fatigue'.*
+  - POTS & dysautonomia `content`
   - Rare-disease diagnostics
-  - Rare-disease communities
+  - Rare-disease communities `content`
 
 ### Pain & Musculoskeletal
 
@@ -328,10 +328,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Fibromyalgia care
   - Interventional pain clinics
   - Neuromodulation devices `regulated`
-  - Lower back pain
+  - Lower back pain `content`
 - **Ergonomics**
   - Workplace injury prevention `b2b`
-  - Ergonomic assessments
+  - Ergonomic assessments `service-business`
   - Ergonomic equipment
   - Industrial exoskeletons `b2b`
 
@@ -341,18 +341,18 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - ↗ *see* Mind, Meaning & Growth > Career Development > Inclusive employment > Neurodivergent hiring
   - ↗ *see* Relationships > Social Skills > Neurodivergent social skills
   - ↗ *see* Mind, Meaning & Growth > Productivity > ADHD-friendly productivity
-  - ADHD
-  - Autism
-  - Dyslexia & learning differences
-  - Late diagnosis: *Adult ADHD and autism diagnosis.*
+  - ADHD `content`
+  - Autism `content`
+  - Dyslexia & learning differences `service-business` `content`
+  - Late diagnosis `content`: *Adult ADHD and autism diagnosis.*
   - ADHD medication access `regulated`: *DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending.*
-  - Executive-function coaching
+  - Executive-function coaching `service-business` `content`
 - **Dementia & cognitive decline** `underserved`
   - Cognitive assessments
   - Blood-based Alzheimer's tests `regulated`: *FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025).*
   - Anti-amyloid therapy navigation
-  - Dementia care navigation
-  - Dementia caregiver training
+  - Dementia care navigation `service-business`
+  - Dementia caregiver training `service-business` `content`
   - Memory care
   - Brain-health clinics
 - **Neurological conditions**
@@ -381,7 +381,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Hearing**
   - OTC hearing aids: *The 2022 FDA rule opened the market.*
   - Online hearing tests
-  - Tinnitus management
+  - Tinnitus management `content`
 - **Dermatology**
   - Teledermatology
   - Acne & eczema care: *e.g. Curology.*
@@ -395,9 +395,9 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ### Population-Specific Care
 
 - **Women's health**: *Femtech. Menstrual care serves everyone who menstruates.*
-  - Menopause & perimenopause 🔥 `underserved`: *Includes menopause and sexuality.*
-  - PCOS
-  - Endometriosis
+  - Menopause & perimenopause 🔥 `underserved` `content`: *Includes menopause and sexuality.*
+  - PCOS `content`
+  - Endometriosis `content`
   - PMS & PMDD
   - Pelvic floor & incontinence
   - Pelvic pain
@@ -430,13 +430,13 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - VA care navigation
   - Disability claims support
   - Veteran PTSD programs
-  - Veteran peer support
+  - Veteran peer support `content`
   - Military-family care
 - **Rural & underserved care** `underserved`
   - Rural telehealth
   - Mobile clinics
   - Community health workers
-  - Medical interpretation
+  - Medical interpretation `service-business` `marketplace`
   - Rural hospital operations `b2b`
 
 ### Care Delivery
@@ -463,10 +463,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Medication adherence: *e.g. pre-sorted pill packs.*
   - Pharmacist clinical services: *Test-and-treat, vaccines, prescribing where allowed.*
 - **Patient navigation**
-  - Patient advocacy
+  - Patient advocacy `service-business`
   - Employer health navigation `b2b`
-  - Price comparison tools
-  - Medical bill negotiation
+  - Price comparison tools `no-code-friendly`
+  - Medical bill negotiation `service-business`
   - Second opinions
   - Cash-pay surgery: *Price-transparent surgery centers.*
 
@@ -481,7 +481,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - AI pathology
   - Patient-message triage AI
 - **Care operations**
-  - Patient intake & scheduling
+  - Patient intake & scheduling `no-code-friendly`
   - Patient engagement
   - Telehealth infrastructure: *White-label virtual-care platforms for providers.*
   - Hospital operations: *Bed management and command centers.*
@@ -512,7 +512,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Staffing marketplaces
   - Nurse scheduling
   - Clinician credentialing
-  - Continuing medical education
+  - Continuing medical education `content`
 - **Life-science commercial tech**
   - Pharma CRM
   - HCP engagement
@@ -531,12 +531,12 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Functional medicine: *'Root-cause' clinic model; contested evidence for some protocols.*
   - Integrative primary care
   - Integrative oncology: *Evidence-informed supportive care alongside standard treatment.*
-  - Integrative health coaching
-  - Yoga therapy
+  - Integrative health coaching `service-business` `content`
+  - Yoga therapy `service-business`
 - **Practitioner tools** `b2b`
-  - Practice-management software
-  - Practitioner certification
-  - Practitioner marketplaces
+  - Practice-management software `no-code-friendly`
+  - Practitioner certification `content`
+  - Practitioner marketplaces `marketplace`
   - Practitioner-grade supplements: *Dispensaries, e.g. Fullscript.*
 ---
 
@@ -547,37 +547,37 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 ### Money Management `consumer`
 
-- **Budgeting**
-  - Household budgeting
+- **Budgeting** `no-code-friendly`
+  - Household budgeting `content`
   - Expense tracking
   - AI money coaches `ai-native`
 - **Saving**
   - High-yield savings
   - Kids' savings
   - Child investment accounts: *US 'Trump Accounts' launched July 2026, with a $1,000 federal seed for children born 2025-28.*
-  - College savings
+  - College savings `content`
 - **Debt management** `regulated`
   - Credit-card debt
-  - Student loans
+  - Student loans `content`
   - Personal loans
   - Debt consolidation
 - **Credit**
-  - Credit building: *Includes credit building for people without banks.*
+  - Credit building `content`: *Includes credit building for people without banks.*
   - Credit cards
-  - Rewards optimization
+  - Rewards optimization `content` `no-code-friendly`
 - **Financial wellness**
-  - Youth financial education
-  - First-generation guidance
-  - Workplace financial wellness `b2b`
-  - Financial therapy: *Money psychology.*
-- **Life-event finance** `underserved`
+  - Youth financial education `service-business` `content`
+  - First-generation guidance `content`
+  - Workplace financial wellness `b2b` `service-business`
+  - Financial therapy `service-business`: *Money psychology.*
+- **Life-event finance** `underserved` `content`
   - ↗ *see* Relationships > Breakups & Divorce > Divorce finance
   - Widowhood finance
   - Windfall management: *Receiving an inheritance; 'women's wealth' transfer.*
   - Couples' finances
   - New-parent finances
 - **Gig & creator finance** `underserved`: *e.g. Catch.*
-  - Tax withholding tools
+  - Tax withholding tools `no-code-friendly`
   - Portable benefits
   - Income smoothing
   - Gig-worker retirement
@@ -593,7 +593,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Consumer payments**
   - Pay by bank 🔥: *Open-banking payments.*
   - Bill pay
-  - Subscription management: *Tracking and cancelling subscriptions.*
+  - Subscription management `no-code-friendly`: *Tracking and cancelling subscriptions.*
   - Stablecoin payments 🔥 `regulated`
 - **Cross-border money**: *Core to immigrant economies.*
   - Remittances: *e.g. Wise.*
@@ -609,7 +609,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Medical financing
 - **Islamic finance**: *e.g. Wahed.*
   - Sharia-compliant banking
-  - Halal investing
+  - Halal investing `content`
   - Islamic home finance
   - Sharia-compliant BNPL
   - Zakat & sadaqah apps
@@ -628,7 +628,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - AI trading tools `ai-native`
 - **Alternative investments** `regulated`: *Retail access is governed by securities law (Reg A/CF, accreditation).*
   - Private credit
-  - Collectible assets: *Art, wine & spirits, trading cards as investments.*
+  - Collectible assets `content`: *Art, wine & spirits, trading cards as investments.*
   - Private-market access 🔥: *Secondaries; Fundrise model.*
 - **Digital assets** `regulated`
   - ↗ *see* Wealth > Tax & Legal > Tax planning > Crypto tax
@@ -641,16 +641,16 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Homebuying**
   - Mortgages `regulated`
-  - First-time buyer programs
-  - Down-payment assistance
+  - First-time buyer programs `content`
+  - Down-payment assistance `content`
   - Rent-to-own
 - **Renting**
   - Rent reporting
   - Landlord-tenant disputes `regulated`
   - Renter services
 - **Real estate investing**
-  - Rental properties
-  - Short-term rentals
+  - Rental properties `content`
+  - Short-term rentals `service-business` `content`
   - Fractional ownership `regulated`
 - **Home equity** `regulated`
   - Equity release: *Reverse mortgages.*
@@ -660,7 +660,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Retirement planning**
   - Retirement income
-  - Social Security planning
+  - Social Security planning `content`
 - **Retirement accounts**
   - IRAs & 401(k)s
   - Small-business retirement plans `b2b`
@@ -709,11 +709,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Individual tax
   - Small-business tax
   - Tax-loss harvesting
-  - International & expat tax
+  - International & expat tax `content`
   - Crypto tax
 - **Tax preparation**
   - AI tax prep 🔥 `ai-native`
-  - Tax-pro marketplaces
+  - Tax-pro marketplaces `marketplace`
   - Tax-credit finders
   - Tax resolution `regulated`
 - **Consumer legal services** `regulated`: *Unauthorized-practice-of-law rules apply.*
@@ -740,47 +740,47 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Enterprise & AI > Software & Developer Tools > No-code & low-code  
 
 - **Starting a business**
-  - Idea validation
-  - Market research
-  - Business formation: *Entity structures and compliance; e.g. Stripe Atlas.*
+  - Idea validation `service-business` `content` `no-code-friendly`
+  - Market research `service-business`
+  - Business formation `no-code-friendly`: *Entity structures and compliance; e.g. Stripe Atlas.*
 - **Acquisition entrepreneurship**: *Buying a business (ETA, micro-PE).*
-  - Search funds
-  - Business-for-sale marketplaces
+  - Search funds `content`
+  - Business-for-sale marketplaces `marketplace`
   - SBA acquisition loans `regulated`
   - Small-business roll-ups
 - **Small business**
-  - Local services
+  - Local services `service-business`
   - Franchises
-  - Skilled-trades businesses 🔥: *HVAC, electrical, plumbing; acute labor shortage.*
+  - Skilled-trades businesses 🔥 `service-business`: *HVAC, electrical, plumbing; acute labor shortage.*
 - **Online business**
-  - E-commerce
-  - SaaS
-  - Digital products
-  - Memberships
-  - Online courses
+  - E-commerce `no-code-friendly`
+  - SaaS `no-code-friendly`
+  - Digital products `content` `no-code-friendly`
+  - Memberships `content` `no-code-friendly`
+  - Online courses `content`
 - **Creator economy**
   - ↗ *see* Enterprise & AI > Marketing & Sales Tech > Creator platforms > UGC marketplaces
-  - Podcasting
-  - Newsletters
-  - Influencer brands: *Includes personal brands.*
+  - Podcasting `content`
+  - Newsletters `content`
+  - Influencer brands `content`: *Includes personal brands.*
   - AI virtual creators `ai-native`
-  - Live & social commerce 🔥
-  - Fan memberships: *e.g. Patreon.*
-- **Freelancing & fractional**
+  - Live & social commerce 🔥 `content`
+  - Fan memberships `content` `no-code-friendly`: *e.g. Patreon.*
+- **Freelancing & fractional** `service-business`
   - Consulting
   - Design
   - Programming
   - Marketing services
   - Fractional executives: *Fractional CFO/CMO/CTO.*
-- **Agencies**
+- **Agencies** `service-business`
   - Digital marketing
   - Web development
-  - AI automation agencies
+  - AI automation agencies `no-code-friendly`
 - **Solopreneurship 🔥**
-  - AI-leveraged solo businesses `ai-native`
-  - Micro-SaaS
-  - Productized services
-  - Solo operator tools
+  - AI-leveraged solo businesses `ai-native` `service-business` `no-code-friendly`
+  - Micro-SaaS `no-code-friendly`
+  - Productized services `service-business`
+  - Solo operator tools `content` `no-code-friendly`
 ---
 
 ## Relationships
@@ -792,28 +792,28 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Dating platforms**
   - Curated apps
-  - Profile optimization
-- **AI dating tools** `ai-native`
+  - Profile optimization `service-business` `no-code-friendly`
+- **AI dating tools** `ai-native` `no-code-friendly`
   - AI profile writing
   - AI message coaching
   - AI matchmaking
-- **Matchmaking, coaching & events**
+- **Matchmaking, coaching & events** `service-business`
   - Professional matchmaking
-  - Niche matchmaking
+  - Niche matchmaking `marketplace`
   - Speed dating
   - Singles events
-  - Dating coaches
+  - Dating coaches `content`
 - **Niche dating**
-  - Senior dating
+  - Senior dating `service-business`
   - LGBTQ+ dating
   - Single-parent dating
-  - Sober dating
+  - Sober dating `service-business` `content`
   - Dating with disability
   - Faith-based dating
 - **Dating safety** `underserved`
   - Identity verification
   - Background checks `regulated`: *FCRA applies.*
-  - Date check-in apps
+  - Date check-in apps `no-code-friendly`
   - Romance-scam protection
 
 ### Couples & Marriage
@@ -821,37 +821,37 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Lifestyle, Home & Experiences > Entertainment & Events > Weddings  
 
 - **Premarital**
-  - Premarital counseling
-  - Premarital courses
-  - Faith-based marriage prep
+  - Premarital counseling `service-business`
+  - Premarital courses `content`
+  - Faith-based marriage prep `service-business` `content`
   - Prenups `regulated`
   - Cohabitation agreements `regulated`
 - **Relationship coaching**: *Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns.*
   - ↗ *see* Health & Wellness > Mental Health > Therapy access > Couples therapy
-  - Couples apps: *e.g. Paired, Lasting (part of Talkspace).*
-  - AI relationship coaching `ai-native`
-  - Relationship check-in tools
-  - Couples coaching
-  - Relationship courses
+  - Couples apps `no-code-friendly`: *e.g. Paired, Lasting (part of Talkspace).*
+  - AI relationship coaching `ai-native` `no-code-friendly`
+  - Relationship check-in tools `no-code-friendly`
+  - Couples coaching `service-business`
+  - Relationship courses `content`
 - **Marriage enrichment**
-  - Date-night services
-  - Couples activities
-  - Relationship retreats
+  - Date-night services `service-business`
+  - Couples activities `content`
+  - Relationship retreats `service-business`
 - **Long-distance relationships**
-  - LDR apps
-  - Shared-experience tools
-  - Military couples `underserved`
+  - LDR apps `no-code-friendly`
+  - Shared-experience tools `no-code-friendly`
+  - Military couples `underserved` `content`
 - **Relationship repair**: *Covers jealousy, insecurity, resentment and recurring conflict.*
-  - Infidelity recovery
+  - Infidelity recovery `service-business` `content`
   - Marriage intensives
   - Couples programs in recovery: *For couples where one partner is in addiction recovery.*
   - Discernment counseling
 - **Shared household**
   - ↗ *see* Wealth > Money Management > Life-event finance > Couples' finances
-  - Household-task apps
-  - Shared calendars
-  - Mental-load tools
-  - Household managers
+  - Household-task apps `no-code-friendly`
+  - Shared calendars `no-code-friendly`
+  - Mental-load tools `no-code-friendly`
+  - Household managers `service-business` `marketplace`
 
 ### Intimacy & Sexuality
 
@@ -861,112 +861,112 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Therapy & coaching**
   - Sex therapists
   - Sex-therapy telehealth
-  - Intimacy coaches
+  - Intimacy coaches `service-business`
   - Sexual performance anxiety
 - **Couples intimacy**
-  - Guided intimacy courses
-  - Intimacy apps
-  - Conversation card games
+  - Guided intimacy courses `content`
+  - Intimacy apps `no-code-friendly`
+  - Conversation card games `content`
 - **Life-stage intimacy**
-  - Postpartum intimacy
-  - Midlife intimacy
+  - Postpartum intimacy `content`
+  - Midlife intimacy `content`
     - ↗ *see* Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause
   - Intimacy after cancer
   - Intimacy with illness & disability `underserved`
 - **Desire & communication**
   - Desire-mismatch programs
-  - Consent education
+  - Consent education `service-business` `content`
   - Trauma-informed intimacy programs `underserved`: *For survivors of sexual trauma and their partners.*
 
 ### Breakups & Divorce
 
 - **Divorce process**
-  - Divorce preparation
-  - Divorce coaching
-  - Divorce mediation
+  - Divorce preparation `service-business` `content`
+  - Divorce coaching `service-business`
+  - Divorce mediation `service-business`
   - Collaborative divorce
   - Online divorce `regulated`
   - Divorce attorney matching `regulated`
 - **Divorce finance**
   - Asset-splitting tools
   - Financial transition planning
-  - Divorce financial analysts
+  - Divorce financial analysts `service-business`
   - Retirement-account division: *QDROs.*
   - Marital home buyouts
 - **Co-parenting**
-  - Co-parenting apps
-  - Custody scheduling
-  - Co-parent expense sharing
-  - Children's divorce support
+  - Co-parenting apps `no-code-friendly`
+  - Custody scheduling `no-code-friendly`
+  - Co-parent expense sharing `no-code-friendly`
+  - Children's divorce support `content`
 - **Safe separation** `underserved`: *Leaving an abusive relationship. Handle with trauma-informed design and strict privacy.*
   - ↗ *see* Health & Wellness > Mental Health > Trauma & PTSD > Domestic-violence support
-  - Safety planning apps
+  - Safety planning apps `no-code-friendly`
   - Protective-order assistance `regulated`
   - Stalkerware detection
   - Emergency housing search
 - **Rebuilding after separation**
   - Post-divorce housing
-  - Name-change services
-  - Breakup coaching
+  - Name-change services `service-business` `no-code-friendly`
+  - Breakup coaching `service-business` `content`
 
 ### Parenting & Family
 
 ↗ *see* Health & Wellness > Aging & Longevity > Caregiving  
 
-- **Parenting stages**
+- **Parenting stages** `content`
   - Newborns
   - Teens
 - **Parenting support**: *Covers parent-child communication, discipline and emotional connection.*
-  - Parent coaching
-  - Parenting courses
-  - Parenting communities
-  - Family organizers
-  - Chore & allowance apps
+  - Parent coaching `service-business`
+  - Parenting courses `content`
+  - Parenting communities `content`
+  - Family organizers `no-code-friendly`
+  - Chore & allowance apps `no-code-friendly`
 - **Child online safety** `regulated`: *COPPA and age-appropriate-design laws.*
   - Parental controls
   - Kids' phones
   - Age verification 🔥: *Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia's under-16 social-media ban.*
-  - Online-safety education
+  - Online-safety education `content`
 - **Childcare** `underserved`: *Acute 'care desert' shortage.*
-  - Childcare marketplaces
-  - Nannies & babysitters
-  - Nanny shares
+  - Childcare marketplaces `marketplace`
+  - Nannies & babysitters `marketplace`
+  - Nanny shares `marketplace` `no-code-friendly`
   - Employer childcare `b2b`
 - **Baby & kids products**
   - Baby tech: *Monitors and smart nursery devices.*
   - STEM toys
-  - Kids' activity booking
+  - Kids' activity booking `marketplace` `no-code-friendly`
   - Kids' clothing
 - **Family structures**
-  - Single parents
-  - Adoption & foster care `underserved`
+  - Single parents `content`
+  - Adoption & foster care `underserved` `content`
   - Kinship care
-  - Genealogy & family history
+  - Genealogy & family history `service-business` `content`
 - **Special-needs parenting** `underserved`
-  - IEP & school advocacy
+  - IEP & school advocacy `service-business` `content`
   - Therapy coordination
-  - Special-needs parent communities
+  - Special-needs parent communities `content`
 
 ### Friendship & Community
 
 ↗ *see* Mind, Meaning & Growth > Spirituality & Faith > Faith tech  
 
 - **Making friends**: *Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups.*
-  - Friendship apps: *e.g. BFF by Bumble (relaunched as a standalone app in 2025).*
+  - Friendship apps `no-code-friendly`: *e.g. BFF by Bumble (relaunched as a standalone app in 2025).*
   - Parent friendship apps: *e.g. Peanut.*
-  - Activity-partner apps
-  - Friend-matching dinners
-  - Newcomer networks
+  - Activity-partner apps `no-code-friendly`
+  - Friend-matching dinners `service-business`
+  - Newcomer networks `service-business` `content`
 - **Loneliness & connection** `underserved`: *US Surgeon General advisory on loneliness, 2023.*
   - Third places
-  - Community dinners
+  - Community dinners `service-business`
   - Social prescribing
-  - Intergenerational programs
-  - Friendly-visitor services
+  - Intergenerational programs `service-business`
+  - Friendly-visitor services `service-business` `marketplace`
 - **Clubs & groups**
-  - Social clubs
+  - Social clubs `service-business` `content`
   - Alumni networks
-  - Expat & immigrant communities
+  - Expat & immigrant communities `content`
 - **AI companions 🔥** `regulated` `ai-native`: *Open ethical and regulatory questions, especially for minors.*
   - Companion apps
   - Voice companions
@@ -976,29 +976,29 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Community platforms**
   - Community software `b2b`
   - Club membership management `b2b`
-  - Social event apps
+  - Social event apps `no-code-friendly`
 
 ### Social Skills
 
 *Interpersonal skills training sold as coaching, courses, apps and corporate programs.*  
 
 - **Communication training**
-  - Communication coaching: *Active listening, assertiveness and conversation skills.*
-  - AI conversation roleplay 🔥 `ai-native`: *Practice difficult conversations with an AI partner.*
-  - Workplace communication programs `b2b`
+  - Communication coaching `service-business`: *Active listening, assertiveness and conversation skills.*
+  - AI conversation roleplay 🔥 `ai-native` `no-code-friendly`: *Practice difficult conversations with an AI partner.*
+  - Workplace communication programs `b2b` `service-business`
 - **Public speaking & presence**
-  - Public speaking coaching
-  - Speech feedback AI `ai-native`: *e.g. Yoodli.*
-  - Executive presence coaching
+  - Public speaking coaching `service-business`
+  - Speech feedback AI `ai-native` `no-code-friendly`: *e.g. Yoodli.*
+  - Executive presence coaching `service-business`
 - **Emotional intelligence**
-  - EQ assessments
-  - EQ training `b2b`
-  - Conflict-resolution training
-  - Empathy programs for kids: *Social-emotional learning (SEL) curricula.*
+  - EQ assessments `content` `no-code-friendly`
+  - EQ training `b2b` `service-business`
+  - Conflict-resolution training `service-business`
+  - Empathy programs for kids `content`: *Social-emotional learning (SEL) curricula.*
 - **Neurodivergent social skills** `underserved`
-  - Social-skills groups
-  - Workplace social coaching
-  - Social-skills apps
+  - Social-skills groups `service-business`
+  - Workplace social coaching `service-business`
+  - Social-skills apps `no-code-friendly`
 
 ### Death, Grief & Legacy `underserved`
 
@@ -1006,36 +1006,36 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Wealth > Retirement & Wealth Planning > Estate planning  
 
 - **End-of-life planning**
-  - Advance directives
-  - End-of-life planning apps
+  - Advance directives `no-code-friendly`
+  - End-of-life planning apps `no-code-friendly`
   - Funeral pre-planning
-  - Death doulas
+  - Death doulas `service-business`
   - Hospice & palliative care
 - **Funeral services** `regulated`: *State funeral law and the FTC Funeral Rule.*
   - Direct cremation
   - Green burial
   - Alternative dispositions: *Water cremation and human composting; legal only in some jurisdictions.*
-  - Funeral price comparison
+  - Funeral price comparison `content`
   - Funeral home software `b2b`
 - **Memorialization**
-  - Online memorials
+  - Online memorials `no-code-friendly`
   - Memorial keepsakes: *e.g. cremation jewelry.*
   - AI memorial avatars `ai-native`: *'Griefbots'. Open ethical questions about consent and the effect on grief.*
 - **Grief support**
   - ↗ *see* Lifestyle, Home & Experiences > Pets & Animal Care > Pet lifestyle > Pet loss & grief
   - Grief counseling
-  - Grief apps
+  - Grief apps `no-code-friendly`
   - Child grief programs
   - Workplace bereavement support `b2b`
 - **Digital legacy**: *e.g. Empathy.*
-  - Account closure
-  - Digital estate vaults
+  - Account closure `service-business` `no-code-friendly`
+  - Digital estate vaults `no-code-friendly`
   - Crypto inheritance
-  - Legacy memoirs
-- **After-death logistics**
+  - Legacy memoirs `service-business`
+- **After-death logistics** `service-business`
   - Death admin concierge
   - Survivor benefits claims
-  - Probate navigation
+  - Probate navigation `content`
   - Estate cleanout
   - Downsizing services
 ---
@@ -1051,56 +1051,56 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **Meditation**
   - Meditation studios
-  - Meditation retreats
-  - Workplace mindfulness `b2b`
+  - Meditation retreats `service-business`
+  - Workplace mindfulness `b2b` `service-business`
 - **Breathwork**
-  - Breathwork apps
+  - Breathwork apps `content` `no-code-friendly`
   - Breath-training devices
-- **Journaling & reflection**
+- **Journaling & reflection** `no-code-friendly`
   - Journaling apps: *e.g. Day One.*
   - AI journaling `ai-native`
 - **Somatics & embodiment**
-  - Somatic practitioner training
-  - Nervous-system regulation apps
+  - Somatic practitioner training `content`
+  - Nervous-system regulation apps `no-code-friendly`
 - **Digital wellness**
-  - Screen-time apps
+  - Screen-time apps `no-code-friendly`
   - Minimalist phones
   - Phone lockers & pouches: *e.g. Yondr.*
-  - Phone-free social events
+  - Phone-free social events `service-business`
 
 ### Spirituality & Faith
 
 *Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths.*  
 
 - **Faith tech** `b2b`: *Faith communities: giving, streaming and church management.*
-  - Church management
+  - Church management `no-code-friendly`
   - Giving platforms
   - Service streaming
-  - Congregant engagement apps
+  - Congregant engagement apps `no-code-friendly`
   - Faith-based school software
 - **Prayer & scripture**: *e.g. Hallow.*
-  - Prayer apps
-  - Scripture study
-  - AI scripture study `ai-native`
-  - Faith-based meditation
+  - Prayer apps `content` `no-code-friendly`
+  - Scripture study `content`
+  - AI scripture study `ai-native` `no-code-friendly`
+  - Faith-based meditation `content`
 - **Spiritual guidance**
-  - Chaplaincy services: *Hospitals, workplaces, universities.*
-  - Online religious education
-  - Astrology apps: *e.g. Co-Star.*
+  - Chaplaincy services `service-business`: *Hospitals, workplaces, universities.*
+  - Online religious education `content`
+  - Astrology apps `content` `no-code-friendly`: *e.g. Co-Star.*
 
 ### Purpose & Life Transitions
 
 *Guidance on direction and life stages. Self-directed growth products live in Personal Development.*  
 
 - **Life coaching**
-  - Coach certification
-  - Coaching marketplaces
-  - AI life coaches `ai-native`
-  - Coaching practice software `b2b`
-- **Self-discovery**
+  - Coach certification `content`
+  - Coaching marketplaces `marketplace`
+  - AI life coaches `ai-native` `no-code-friendly`
+  - Coaching practice software `b2b` `no-code-friendly`
+- **Self-discovery** `content` `no-code-friendly`
   - Strengths & values assessments
   - Personality assessments
-- **Life-stage transitions**
+- **Life-stage transitions** `service-business` `content`
   - Midlife reinvention
   - Encore careers: *Un-retirement and second careers after 60.*
   - Sabbatical planning
@@ -1110,43 +1110,43 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 *Self-directed growth products: content, programs, experiences and peer groups.*  
 
 - **Self-help content**
-  - Book summaries & audio
-  - Personal development apps
-  - Challenge programs: *e.g. 30-day and 75-day challenges.*
+  - Book summaries & audio `content`
+  - Personal development apps `no-code-friendly`
+  - Challenge programs `content` `no-code-friendly`: *e.g. 30-day and 75-day challenges.*
 - **Inner-work programs**: *Non-clinical. Clinical care lives in Mental Health.*
-  - Body-image programs
-  - Resilience training
+  - Body-image programs `content`
+  - Resilience training `service-business`
   - Wilderness programs
-- **Performance & mindset**
+- **Performance & mindset** `service-business`
   - Peak-performance coaching
   - Mental-skills coaching: *For athletes, performers and executives.*
-  - Habit coaching
-- **Growth communities**
-  - Men's circles
-  - Women's circles
-  - Mastermind groups
-  - Peer coaching networks
+  - Habit coaching `no-code-friendly`
+- **Growth communities** `content`
+  - Men's circles `service-business`
+  - Women's circles `service-business`
+  - Mastermind groups `service-business`
+  - Peer coaching networks `marketplace`
 
 ### Productivity
 
-- **Tasks & habits**
+- **Tasks & habits** `no-code-friendly`
   - Gamified productivity
-  - Goal-setting & accountability
-- **Time management**
+  - Goal-setting & accountability `service-business`
+- **Time management** `no-code-friendly`
   - AI calendars `ai-native`: *e.g. Motion.*
   - Time tracking
 - **Knowledge management**: *Second brain / PKM.*
-  - Note-taking apps: *e.g. Notion, Obsidian.*
-  - AI knowledge assistants `ai-native`
+  - Note-taking apps `content`: *e.g. Notion, Obsidian.*
+  - AI knowledge assistants `ai-native` `no-code-friendly`
 - **ADHD-friendly productivity**
   - ↗ *see* Care & Conditions > Brain & Neurological Health > Neurodivergence > Executive-function coaching
-  - Body doubling: *e.g. Flow Club, Focusmate.*
-  - ADHD planners
-  - AI task breakdown `ai-native`
+  - Body doubling `service-business` `marketplace` `no-code-friendly`: *e.g. Flow Club, Focusmate.*
+  - ADHD planners `content`
+  - AI task breakdown `ai-native` `no-code-friendly`
 - **AI personal assistants 🔥** `ai-native`
   - Personal AI agents
   - AI browser agents
-  - Inbox & email AI
+  - Inbox & email AI `no-code-friendly`
   - AI answer engines
   - AI glasses & wearables: *AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta.*
 
@@ -1155,133 +1155,133 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Enterprise & AI > Work & HR Tech > Learning & development  
 
 - **Online learning**
-  - Cohort-based courses
+  - Cohort-based courses `content`
   - Masterclass platforms
-  - Microlearning apps
-- **AI tutoring 🔥** `ai-native`
+  - Microlearning apps `content` `no-code-friendly`
+- **AI tutoring 🔥** `ai-native` `no-code-friendly`
   - AI tutors: *e.g. Khanmigo.*
   - AI reading coaches
   - Homework help apps
   - AI study tools
 - **Test prep & credentials**
-  - Test prep
-  - Professional certifications
-  - Micro-credentials
+  - Test prep `service-business` `content`
+  - Professional certifications `content`
+  - Micro-credentials `content`
   - Credential verification `b2b`
   - Online proctoring `b2b`
 - **Language learning**
-  - AI language tutors `ai-native`
-  - Conversation practice
-  - Workplace English
-  - Heritage-language programs
+  - AI language tutors `ai-native` `no-code-friendly`
+  - Conversation practice `service-business` `marketplace`
+  - Workplace English `service-business`
+  - Heritage-language programs `service-business` `content`
 - **K-12 & alternatives**
-  - Homeschooling
-  - Learning pods
-  - Tutoring
+  - Homeschooling `content`
+  - Learning pods `service-business` `marketplace`
+  - Tutoring `service-business` `marketplace`
   - Microschools
   - Special education `underserved`
 - **Early & enrichment learning**
-  - Early-learning apps
+  - Early-learning apps `no-code-friendly`
   - Preschools
-  - Kids' coding classes
-  - Music lessons
-  - After-school programs
+  - Kids' coding classes `service-business`
+  - Music lessons `service-business` `marketplace`
+  - After-school programs `service-business`
 - **Higher education**
-  - College admissions
-  - Financial-aid navigation
+  - College admissions `service-business` `content`
+  - Financial-aid navigation `service-business` `content`
   - Online degrees
-  - Transfer & credit mapping
+  - Transfer & credit mapping `content`
   - Student services
   - Campus mental health
 - **School EdTech** `b2b`
-  - Teacher tools
-  - Lesson-planning AI `ai-native`
-  - AI grading & assessment `ai-native`
-  - Curriculum marketplaces
+  - Teacher tools `no-code-friendly`
+  - Lesson-planning AI `ai-native` `no-code-friendly`
+  - AI grading & assessment `ai-native` `no-code-friendly`
+  - Curriculum marketplaces `content` `marketplace`
   - School management
-  - Parent-school communication
+  - Parent-school communication `no-code-friendly`
   - Academic-integrity tools
 
 ### Creativity & Craft
 
 - **Writing**
-  - Writing tools
-  - AI writing assistants `ai-native`
+  - Writing tools `no-code-friendly`
+  - AI writing assistants `ai-native` `no-code-friendly`
   - Screenwriting software
-  - Self-publishing
+  - Self-publishing `service-business` `content`
 - **Music creation**
-  - Music production: *DAWs and plugins.*
-  - Sample marketplaces: *e.g. Splice.*
-  - Instrument learning
+  - Music production `service-business` `content`: *DAWs and plugins.*
+  - Sample marketplaces `content` `marketplace`: *e.g. Splice.*
+  - Instrument learning `service-business` `content`
   - AI music tools `ai-native`
   - Music distribution: *e.g. DistroKid.*
 - **Visual arts & craft**: *Artisan revival.*
   - Pottery studios
   - Digital art tools: *e.g. Procreate.*
-  - Craft kits
-  - Artist marketplaces
+  - Craft kits `content`
+  - Artist marketplaces `marketplace`
 - **Fiber arts**
-  - Pattern marketplaces
+  - Pattern marketplaces `content` `marketplace`
   - Yarn & fabric DTC
 - **Photo & video**
-  - Film photography: *Part of the Gen Z analog revival.*
+  - Film photography `content`: *Part of the Gen Z analog revival.*
   - Editing tools
   - AI video generation 🔥 `ai-native`
-  - Stock media marketplaces
+  - Stock media marketplaces `content` `marketplace`
 - **Maker culture**
-  - 3D printing
+  - 3D printing `service-business` `content`
   - Electronics kits
   - CNC & laser cutters
-- **Performing arts**: *Taking part yourself, as opposed to attending.*
+- **Performing arts** `service-business`: *Taking part yourself, as opposed to attending.*
   - Dance classes
-  - Voice & singing lessons
+  - Voice & singing lessons `marketplace`
 
 ### Career Development
 
 - **Job search**
-  - Resume tools
-  - AI job-application tools `ai-native`
-  - Interview preparation
-  - Salary negotiation tools
+  - Resume tools `service-business` `no-code-friendly`
+  - AI job-application tools `ai-native` `no-code-friendly`
+  - Interview preparation `service-business` `no-code-friendly`
+  - Salary negotiation tools `service-business` `content`
 - **Upskilling**: *Covers communication, project management, data, software, sales, cybersecurity and AI skills.*
-  - AI upskilling 🔥
-  - Leadership development
-  - Manager training
-  - Technical upskilling
-  - Sales training
+  - AI upskilling 🔥 `service-business` `content`
+  - Leadership development `service-business`
+  - Manager training `service-business` `content`
+  - Technical upskilling `content`
+  - Sales training `service-business` `content`
   - Education-benefit platforms `b2b`: *Employer-paid tuition, e.g. Guild.*
 - **Career transitions**
-  - Career coaching
-  - Career switching
+  - Career coaching `service-business`
+  - Career switching `service-business` `content`
   - Returnships `underserved`: *Career re-entry, e.g. for caregivers.*
-  - Veterans' transition `underserved`
-  - Outplacement
+  - Veterans' transition `underserved` `service-business` `content`
+  - Outplacement `service-business`
 - **Inclusive employment** `underserved`
-  - Neurodivergent hiring: *e.g. autism-hiring programs.*
+  - Neurodivergent hiring `service-business`: *e.g. autism-hiring programs.*
   - Disability employment
-  - Workplace accommodations tools
-  - Older-worker hiring
+  - Workplace accommodations tools `no-code-friendly`
+  - Older-worker hiring `marketplace`
   - Refugee & immigrant employment
-  - Second-chance hiring
+  - Second-chance hiring `marketplace`
 - **Skilled trades careers**
   - ↗ *see* Wealth > Entrepreneurship > Small business > Skilled-trades businesses
   - Trade schools
-  - Apprenticeship marketplaces
-  - Licensing exam prep
-  - Trade job boards
-  - Trades continuing education
-- **Work arrangements**
+  - Apprenticeship marketplaces `marketplace`
+  - Licensing exam prep `content`
+  - Trade job boards `marketplace`
+  - Trades continuing education `content`
+- **Work arrangements** `marketplace`
   - ↗ *see* Wealth > Entrepreneurship > Freelancing & fractional
   - Flexible & part-time jobs
-  - Interim management
+  - Interim management `service-business`
 - **Professional networking**
-  - Professional communities
-  - Mentorship platforms
-  - Personal branding tools
-  - Warm-intro tools
+  - Professional communities `content`
+  - Mentorship platforms `marketplace`
+  - Personal branding tools `service-business` `no-code-friendly`
+  - Warm-intro tools `no-code-friendly`
 - **Workplace navigation**
-  - Salary data platforms
-  - Leave navigation: *Parental, medical and caregiving leave.*
+  - Salary data platforms `content`
+  - Leave navigation `service-business` `content`: *Parental, medical and caregiving leave.*
   - Employment-law help `regulated`
 ---
 
@@ -1293,32 +1293,32 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ### Travel & Adventure
 
 - **Trip planning**
-  - AI trip planners `ai-native`: *e.g. Mindtrip.*
-  - Itinerary apps
-  - Group trip planning
-  - Creator travel guides
-  - Travel rewards
+  - AI trip planners `ai-native` `no-code-friendly`: *e.g. Mindtrip.*
+  - Itinerary apps `no-code-friendly`
+  - Group trip planning `service-business` `no-code-friendly`
+  - Creator travel guides `content`
+  - Travel rewards `content`
 - **Experiential travel**
-  - Adventure tours
-  - Culinary travel
-  - Sports & event travel
-  - Experiences marketplaces
+  - Adventure tours `service-business`
+  - Culinary travel `service-business`
+  - Sports & event travel `service-business`
+  - Experiences marketplaces `marketplace`
 - **Digital nomadism**
   - ↗ *see* Lifestyle, Home & Experiences > Home & Living > Living arrangements > Coliving
   - ↗ *see* Wealth > Tax & Legal > Tax planning > International & expat tax
-  - Nomad communities: *e.g. Nomad List.*
+  - Nomad communities `content`: *e.g. Nomad List.*
   - Coworking passes
-  - Remote-work retreats
+  - Remote-work retreats `service-business`
   - Nomad insurance
 - **Wellness travel**
-  - Wellness retreats
-  - Fitness retreats
+  - Wellness retreats `service-business`
+  - Fitness retreats `service-business`
   - Longevity retreats
-- **Traveler segments**
-  - Solo travel
+- **Traveler segments** `content`
+  - Solo travel `service-business`
   - Family travel
-  - Senior travel
-  - Accessible travel `underserved`
+  - Senior travel `service-business`
+  - Accessible travel `underserved` `service-business`
 - **Road & outdoor travel**
   - RV rentals: *Peer-to-peer, e.g. Outdoorsy.*
   - Glamping
@@ -1327,9 +1327,9 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - ↗ *see* Planet & Frontier > Built Environment > Property management > Short-term rental operations
   - Hotel property management
   - Hotel revenue management
-  - Guest messaging
-  - Direct booking engines
-  - Tour-operator software
+  - Guest messaging `no-code-friendly`
+  - Direct booking engines `no-code-friendly`
+  - Tour-operator software `no-code-friendly`
   - Overtourism management
 
 ### Food & Beverage
@@ -1337,10 +1337,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Meal solutions**
   - ↗ *see* Health & Wellness > Nutrition & Metabolic Health > GLP-1 economy > GLP-1 companion foods
   - Prepared meals
-  - Personal chefs
+  - Personal chefs `service-business` `marketplace`
   - Kids' & school meals
   - Corporate catering `b2b`
-  - Meal-planning apps
+  - Meal-planning apps `no-code-friendly`
   - Senior meal delivery `underserved`
 - **Better-for-you foods**
   - Functional beverages 🔥: *Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025).*
@@ -1354,70 +1354,70 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Restaurant tech** `b2b`
   - Restaurant ops software
   - Restaurant POS: *e.g. Toast.*
-  - Online ordering & loyalty
-  - Reservations & waitlists
+  - Online ordering & loyalty `no-code-friendly`
+  - Reservations & waitlists `no-code-friendly`
   - Kitchen automation
-  - Restaurant supplier marketplaces
+  - Restaurant supplier marketplaces `marketplace`
 - **Artisanal & local food**
   - Specialty food DTC
-  - Cottage-food businesses `regulated`: *Home food businesses under state cottage-food laws.*
+  - Cottage-food businesses `regulated` `content`: *Home food businesses under state cottage-food laws.*
   - Food incubators & commissaries `b2b`
 - **Food waste**
   - ↗ *see* Planet & Frontier > Climate & Energy > Circular economy
-  - Surplus-food apps: *e.g. Too Good To Go.*
+  - Surplus-food apps `marketplace` `no-code-friendly`: *e.g. Too Good To Go.*
   - Food donation logistics `b2b`
   - Food-freshness tracking
   - Home composting
   - Upcycled foods
 - **Cooking & groceries**
-  - AI cooking assistants `ai-native`
+  - AI cooking assistants `ai-native` `no-code-friendly`
   - Smart cooking appliances
-  - Grocery price comparison
+  - Grocery price comparison `no-code-friendly`
 
 ### Home & Living
 
 - **Smart home**
-  - Smart-home installation
+  - Smart-home installation `service-business`
   - Home security
   - Home robots: *Robot vacuums, mowers and pool cleaners.*
   - Home energy monitors
   - Water-leak sensors
 - **Design & decor**
-  - E-design: *e.g. Havenly.*
-  - AI interior design `ai-native`
+  - E-design `service-business`: *e.g. Havenly.*
+  - AI interior design `ai-native` `no-code-friendly`
 - **Organizing & moving**
-  - Decluttering services
-  - Home inventory apps
+  - Decluttering services `service-business`
+  - Home inventory apps `no-code-friendly`
   - Moving services
-  - Move admin: *Utilities, address changes and service setup.*
-  - Senior move management
+  - Move admin `service-business` `no-code-friendly`: *Utilities, address changes and service setup.*
+  - Senior move management `service-business`
 - **Home improvement**
-  - Renovation platforms
+  - Renovation platforms `marketplace`
   - Renovation financing `regulated`
   - Home accessibility retrofits
-  - Home maintenance apps
+  - Home maintenance apps `no-code-friendly`
   - Home inspection
 - **Home services**: *e.g. Thumbtack, TaskRabbit.*
-  - Handyman marketplaces
-  - Cleaning services
-  - Lawn & pest services
-  - Field-service software `b2b`: *Scheduling, dispatch and invoicing for trades, e.g. Jobber.*
+  - Handyman marketplaces `marketplace`
+  - Cleaning services `service-business`
+  - Lawn & pest services `service-business`
+  - Field-service software `b2b` `no-code-friendly`: *Scheduling, dispatch and invoicing for trades, e.g. Jobber.*
 - **Gardening & plants**
   - Seed & plant DTC
-  - Landscape design
-  - Native & drought-tolerant landscaping
+  - Landscape design `service-business`
+  - Native & drought-tolerant landscaping `service-business` `content`
 - **Living arrangements**
   - Coliving: *e.g. Habyt, Tripalink. Early leader Common shut down in 2024.*
   - ADUs & tiny homes
-  - Roommate matching
+  - Roommate matching `marketplace` `no-code-friendly`
 - **Home electrification**
   - ↗ *see* Planet & Frontier > Climate & Energy > Clean power
   - Heat pumps
   - Rooftop solar
   - Home batteries
   - Induction cooking
-  - Energy audits
-  - Rebate navigation: *Finding and claiming electrification incentives.*
+  - Energy audits `service-business`
+  - Rebate navigation `service-business` `content` `no-code-friendly`: *Finding and claiming electrification incentives.*
 
 ### Fashion & Beauty
 
@@ -1427,7 +1427,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Resale marketplaces
   - Luxury resale
   - Resale-as-a-service `b2b`: *Brand take-back and resale programs.*
-  - Repair & upcycling
+  - Repair & upcycling `service-business`
 - **Inclusive fashion** `underserved`
   - Plus-size fashion
   - Petite & tall sizing
@@ -1437,23 +1437,23 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Beauty & skincare**
   - K-beauty 🔥
   - Inclusive beauty: *Diverse shade ranges (the 'Fenty effect').*
-  - Textured hair care
-  - Nail care
+  - Textured hair care `service-business` `content`
+  - Nail care `service-business`
   - Fragrance
 - **Fashion & beauty tech**
   - Virtual try-on
-  - AI styling assistants `ai-native`
+  - AI styling assistants `ai-native` `no-code-friendly`
   - Size & fit tech
   - AI skin analysis `ai-native`
   - On-demand apparel manufacturing `b2b`
 - **Men's grooming**
   - Men's skincare
-  - Barbershop booking
+  - Barbershop booking `no-code-friendly`
 - **Salon & spa tech** `b2b`
-  - Salon booking software
+  - Salon booking software `no-code-friendly`
   - Salon management
-  - Salon-suite rental platforms
-  - Beauty-pro marketplaces
+  - Salon-suite rental platforms `marketplace`
+  - Beauty-pro marketplaces `marketplace`
   - Beauty-pro payments
 
 ### Pets & Animal Care
@@ -1478,55 +1478,55 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Pet health wearables
   - Smart litter boxes
 - **Pet services**: *e.g. Rover.*
-  - Pet grooming
-  - Mobile grooming
+  - Pet grooming `service-business`
+  - Mobile grooming `service-business`
   - Boarding & daycare
-  - Pet sitting
-  - Training & behavior
+  - Pet sitting `service-business` `marketplace`
+  - Training & behavior `service-business` `content`
 - **Pet lifestyle**
   - Pet adoption
-  - Pet-friendly travel
+  - Pet-friendly travel `content`
   - Pet aftercare
-  - Pet loss & grief
+  - Pet loss & grief `content`
 
 ### Sports & Hobbies
 
 ↗ *see* Health & Wellness > Fitness & Recovery > Youth sports  
 
 - **Racquet sports 🔥**
-  - Pickleball: *Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026).*
-  - Padel
+  - Pickleball `service-business` `content`: *Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026).*
+  - Padel `content`
   - Indoor pickleball venues
-  - Court booking
-  - Racquet coaching apps
+  - Court booking `no-code-friendly`
+  - Racquet coaching apps `no-code-friendly`
 - **Social sports**
-  - Run clubs 🔥
-  - Fitness racing 🔥: *e.g. Hyrox.*
-  - Adult rec leagues
-  - Pickup-game apps
+  - Run clubs 🔥 `service-business` `content`
+  - Fitness racing 🔥 `content`: *e.g. Hyrox.*
+  - Adult rec leagues `service-business`
+  - Pickup-game apps `no-code-friendly`
   - Golf entertainment: *e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators.*
 - **Women's sports 🔥**
   - Pro leagues & fandom
-  - Women's sports media
+  - Women's sports media `content`
   - Women's sports gear
-  - Girls' sports participation
+  - Girls' sports participation `service-business`
 - **Fandom & spectating**
-  - Fan engagement apps
+  - Fan engagement apps `no-code-friendly`
   - Watch-party venues
   - Amateur sports streaming
   - Stadium tech `b2b`
 - **Games & puzzles**
-  - Chess
-  - Tabletop RPGs
-  - Word games
+  - Chess `service-business` `content`
+  - Tabletop RPGs `service-business` `content`
+  - Word games `no-code-friendly`
 - **Collecting**
   - ↗ *see* Wealth > Investing & Trading > Alternative investments > Collectible assets
-  - Trading cards
+  - Trading cards `content`
   - Designer toys & blind boxes: *e.g. Pop Mart's Labubu.*
-  - Live collectible auctions 🔥: *Live-stream breaks and auctions, e.g. Whatnot.*
+  - Live collectible auctions 🔥 `content`: *Live-stream breaks and auctions, e.g. Whatnot.*
   - Grading & authentication
-- **Reading**
-  - Book discovery: *BookTok.*
+- **Reading** `no-code-friendly`
+  - Book discovery `content`: *BookTok.*
   - Reading trackers
 
 ### Entertainment & Events
@@ -1535,10 +1535,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - FAST channels: *Free ad-supported streaming TV.*
   - International content streaming
   - Microdramas 🔥
-  - Creator-led media
+  - Creator-led media `content`
 - **Podcasts & audio**
-  - Audio dramas & fiction
-  - Audio creator tools
+  - Audio dramas & fiction `content`
+  - Audio creator tools `no-code-friendly`
   - Podcast advertising `b2b`
 - **Gaming**
   - Mobile games
@@ -1546,33 +1546,33 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Indie game publishing
   - AI game-dev tools `ai-native`
 - **Live events**
-  - Local event discovery
+  - Local event discovery `content` `no-code-friendly`
   - Ticketing
   - Ticket resale `regulated`
 - **Nightlife & venues**
   - Eatertainment venues
-  - Sober nightlife
-  - Table & guest-list apps
+  - Sober nightlife `service-business`
+  - Table & guest-list apps `no-code-friendly`
   - Venue management software `b2b`
 - **Immersive experiences**
   - Immersive theater
   - Interactive art
-  - Themed pop-ups
+  - Themed pop-ups `service-business`
   - Location-based AR
 - **Weddings**
-  - Wedding planning platforms
+  - Wedding planning platforms `no-code-friendly`
   - Registries
   - Wedding attire
-  - Elopements & micro-weddings
+  - Elopements & micro-weddings `service-business` `marketplace`
   - Wedding vendor software `b2b`
 - **Celebrations & gifting**
-  - Party planning
-  - Kids' parties
+  - Party planning `service-business`
+  - Kids' parties `service-business`
   - Gifting platforms
   - Personalized gifts
-  - Group gifting
-  - Corporate gifting `b2b`
-  - Team experiences `b2b`
+  - Group gifting `no-code-friendly`
+  - Corporate gifting `b2b` `service-business`
+  - Team experiences `b2b` `service-business` `marketplace`
 
 ### Cars & Transportation
 
@@ -1580,17 +1580,17 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Online car buying: *e.g. Carvana.*
   - Car marketplaces
   - Trade-in valuation
-  - Used-car inspections
-  - Car-buying advisors
+  - Used-car inspections `service-business`
+  - Car-buying advisors `service-business`
 - **Car ownership**
   - ↗ *see* Wealth > Insurance > Property & casualty > Auto insurance
   - Maintenance & repair
-  - Mobile mechanics
-  - Detailing & care
+  - Mobile mechanics `service-business`
+  - Detailing & care `service-business`
   - Connected-car apps
   - Parking apps
   - Tolls & tickets
-- **Car enthusiasts**
+- **Car enthusiasts** `content`
   - Collector cars
   - Parts & modification
 - **EV ownership**
@@ -1598,7 +1598,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Home charging
   - Charger installation
   - Charging apps
-  - Used EVs & battery health
+  - Used EVs & battery health `content`
 - **Micromobility**
   - E-bikes
   - Cargo bikes
@@ -1624,10 +1624,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Model gateways & routing
 - **AI agents**
   - ↗ *see* Enterprise & AI > Cybersecurity & Trust > Security for AI > AI agent security
-  - Vertical agents: *Legal, sales, healthcare and other industry agents.*
+  - Vertical agents `no-code-friendly`: *Legal, sales, healthcare and other industry agents.*
   - Coding agents
   - Computer-use agents
-  - Workflow automation
+  - Workflow automation `service-business` `no-code-friendly`
   - Agent orchestration
   - Agent memory & context
   - Agent tool protocols: *e.g. MCP servers and tool registries.*
@@ -1650,7 +1650,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Sovereign AI clouds
   - Edge AI
 - **Data infrastructure**
-  - Data labeling
+  - Data labeling `service-business`
   - Synthetic data
   - Web data APIs
   - Training-data licensing
@@ -1670,11 +1670,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - AI test generation
   - Code modernization AI
 - **No-code & low-code**
-  - App builders
-  - Internal-tool builders
+  - App builders `service-business` `content`
+  - Internal-tool builders `service-business`
   - Spreadsheet-database builders: *e.g. Airtable.*
   - AI app generators 🔥 `ai-native`: *'Vibe coding.'*
-  - Workflow builders
+  - Workflow builders `service-business` `no-code-friendly`
 - **Testing & quality**
   - Test automation
   - Mobile app testing
@@ -1701,7 +1701,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - API management
   - SDK generation
   - Webhook infrastructure
-  - Integration platforms
+  - Integration platforms `service-business` `no-code-friendly`
 
 ### Cybersecurity & Trust
 
@@ -1731,7 +1731,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Email security
   - Backup & ransomware recovery
 - **Human risk**
-  - Security awareness training
+  - Security awareness training `service-business` `content`
   - Phishing simulation
   - Insider-risk management
 - **Security for AI 🔥**: *A new category.*
@@ -1750,8 +1750,8 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Consumer security** `consumer`
   - ↗ *see* Wealth > Insurance > Specialty lines > Cyber insurance
   - Identity-theft protection
-  - Data-broker removal
-  - Scam protection: *Includes elder-fraud protection.*
+  - Data-broker removal `service-business` `no-code-friendly`
+  - Scam protection `content`: *Includes elder-fraud protection.*
   - Privacy tools
 
 ### Work & HR Tech
@@ -1766,12 +1766,12 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **HRIS & people analytics**
   - HRIS
   - Performance management
-  - Engagement surveys
+  - Engagement surveys `no-code-friendly`
   - People analytics
   - Compensation benchmarking
 - **Collaboration**
   - Async collaboration
-  - Internal communications
+  - Internal communications `service-business`
   - Enterprise knowledge bases
   - AI meeting notetakers `ai-native`: *Now bundled into Zoom, Teams and Google Meet.*
 - **Employee wellbeing**
@@ -1780,12 +1780,12 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Mental-health benefits
   - Caregiving benefits
   - Benefits administration
-  - Recognition & rewards
+  - Recognition & rewards `no-code-friendly`
 - **Learning & development**
   - L&D platforms
-  - Coaching platforms: *e.g. BetterUp.*
-  - Compliance training
-  - Mentoring software
+  - Coaching platforms `marketplace`: *e.g. BetterUp.*
+  - Compliance training `service-business` `content`
+  - Mentoring software `no-code-friendly`
   - Skills intelligence
   - Internal mobility
 - **Global workforce**: *e.g. Deel, Remote.*
@@ -1795,10 +1795,10 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Global hiring
   - Employee relocation
 - **Frontline workforce**
-  - Shift scheduling
+  - Shift scheduling `no-code-friendly`
   - Shift marketplaces: *e.g. Instawork.*
   - Frontline communication
-  - Frontline training
+  - Frontline training `content`
   - Workforce management
 
 ### Legal & Compliance Tech
@@ -1810,11 +1810,11 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Legal research AI
   - eDiscovery
   - Litigation analytics
-  - AI for small firms
+  - AI for small firms `no-code-friendly`
 - **Legal operations**
   - Contract lifecycle management
   - Matter management
-  - Legal intake & triage
+  - Legal intake & triage `no-code-friendly`
   - Legal spend management
   - Entity management
   - Law-firm practice management
@@ -1831,16 +1831,16 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Children's privacy compliance: *COPPA and age-appropriate-design codes.*
 - **ESG & sustainability reporting**
   - ↗ *see* Planet & Frontier > Climate & Energy > Carbon > Carbon accounting
-  - CSRD reporting
+  - CSRD reporting `service-business`
   - Supply-chain due diligence
   - ESG data platforms
 - **AI governance**
-  - AI risk management
+  - AI risk management `service-business`
   - Model inventories
-  - AI audits
-  - EU AI Act compliance
+  - AI audits `service-business`
+  - EU AI Act compliance `service-business` `content`
 - **Trade compliance 🔥**
-  - Tariff management
+  - Tariff management `service-business` `content`
   - Customs brokerage tech
   - Country-of-origin tracking
   - Forced-labor compliance: *e.g. US UFLPA.*
@@ -1849,27 +1849,27 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **IP management**
   - Patent search AI `ai-native`
   - IP portfolio management
-  - Trademark monitoring
+  - Trademark monitoring `service-business` `no-code-friendly`
   - Open-source license compliance
 
 ### Marketing & Sales Tech
 
 - **Generative marketing** `ai-native`
-  - AI content generation
-  - Creative automation
-  - AI video ads
+  - AI content generation `service-business` `no-code-friendly`
+  - Creative automation `service-business`
+  - AI video ads `service-business`
   - Personalization engines
-  - Generative engine optimization 🔥: *Getting brands surfaced in AI assistants' answers.*
+  - Generative engine optimization 🔥 `service-business` `content`: *Getting brands surfaced in AI assistants' answers.*
 - **Lifecycle marketing**
-  - Email & SMS marketing
+  - Email & SMS marketing `service-business`
   - Push & in-app messaging
-  - Referral programs
+  - Referral programs `no-code-friendly`
   - Community-led growth tools
 - **Creator platforms**
-  - Influencer marketplaces
-  - UGC marketplaces
+  - Influencer marketplaces `marketplace`
+  - UGC marketplaces `marketplace`
   - Affiliate networks
-  - Creator analytics
+  - Creator analytics `no-code-friendly`
   - Creator payments
 - **Retail media & ads 🔥**
   - Retail media networks
@@ -1880,23 +1880,23 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Marketing mix modeling
   - Incrementality testing
   - Product analytics
-  - Server-side tracking
+  - Server-side tracking `service-business`
   - Customer data platforms
 - **Customer support 🔥**
-  - AI support agents `ai-native`
+  - AI support agents `ai-native` `service-business` `no-code-friendly`
   - Voice AI contact centers `ai-native`
   - Help desks
-  - Support QA & analytics
+  - Support QA & analytics `no-code-friendly`
 - **Event marketing**
   - Event management platforms
   - Trade-show tech
-  - Direct-mail automation
+  - Direct-mail automation `no-code-friendly`
 - **Sales tech**
-  - CRM
+  - CRM `service-business`
   - AI SDRs `ai-native`: *First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026.*
   - Sales engagement
-  - Sales data & enrichment
-  - Sales enablement
+  - Sales data & enrichment `service-business` `no-code-friendly`
+  - Sales enablement `service-business` `content`
   - Revenue intelligence
   - CPQ: *Configure-price-quote.*
 
@@ -1907,14 +1907,14 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 ↗ *see* Lifestyle, Home & Experiences > Fashion & Beauty > Salon & spa tech  
 
 - **E-commerce enablement**
-  - Shopify-app ecosystem
-  - Checkout & conversion
+  - Shopify-app ecosystem `no-code-friendly`
+  - Checkout & conversion `service-business`
   - Product information management
   - Agentic commerce 🔥 `ai-native`: *AI shopping agents and the tools merchants need to sell to them.*
-  - Loyalty & gift cards
+  - Loyalty & gift cards `no-code-friendly`
 - **Marketplace selling**
-  - Marketplace seller tools: *e.g. Amazon seller software.*
-  - Social-commerce seller tools: *e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal).*
+  - Marketplace seller tools `service-business` `no-code-friendly`: *e.g. Amazon seller software.*
+  - Social-commerce seller tools `service-business` `no-code-friendly`: *e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal).*
   - Wholesale marketplaces: *e.g. Faire.*
   - Cross-border e-commerce
 - **Retail operations**
@@ -1926,18 +1926,18 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - ↗ *see* Planet & Frontier > Industry & Supply Chain > Reverse logistics
   - Order management
   - Shipping software
-  - Post-purchase experience
-- **SMB operations**: *e.g. Jobber.*
+  - Post-purchase experience `no-code-friendly`
+- **SMB operations** `no-code-friendly`: *e.g. Jobber.*
   - Booking & scheduling
   - Invoicing & quotes
-  - Reviews & reputation
-  - AI receptionists 🔥 `ai-native`: *Voice agents that answer calls and book jobs for small businesses.*
+  - Reviews & reputation `service-business`
+  - AI receptionists 🔥 `ai-native` `service-business`: *Voice agents that answer calls and book jobs for small businesses.*
 
 ### Business Finance Tech
 
 - **Accounting**
-  - Bookkeeping 🔥 `ai-native`: *AI-native bookkeeping is the growth wedge.*
-  - Financial reporting
+  - Bookkeeping 🔥 `ai-native` `service-business`: *AI-native bookkeeping is the growth wedge.*
+  - Financial reporting `service-business`
   - Close automation
   - Sales-tax compliance
   - AR automation
@@ -1953,7 +1953,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Revenue-based financing
 - **Corporate finance**
   - Fundraising tools
-  - FP&A
+  - FP&A `service-business`
   - Treasury management
   - M&A tools
 - **Equity management**: *e.g. Carta.*
@@ -1998,7 +1998,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Thermal energy storage
   - Low-carbon chemicals
 - **Carbon**
-  - Carbon accounting
+  - Carbon accounting `service-business` `no-code-friendly`
   - Carbon capture
   - Carbon removal: *Direct air capture, enhanced weathering, biochar.*
   - MRV platforms: *Measurement, reporting and verification.*
@@ -2062,18 +2062,18 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Food traceability
   - Cold chain
   - Food-safety testing
-  - Farm-to-business marketplaces
+  - Farm-to-business marketplaces `marketplace`
 - **Farm operations & finance**
   - ↗ *see* Wealth > Insurance > Specialty lines > Crop insurance
   - Farm management software
   - Ag lending `regulated`
-  - Farm labor marketplaces
+  - Farm labor marketplaces `marketplace`
 
 ### Industry & Supply Chain
 
 - **Smart manufacturing 🔥**: *Reshoring and smart factories.*
   - Reshoring platforms
-  - Contract-manufacturing marketplaces
+  - Contract-manufacturing marketplaces `marketplace`
   - Factory automation
   - Cobots
   - Manufacturing execution systems
@@ -2100,7 +2100,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Warehouse robotics
   - Warehouse management systems
   - On-demand warehousing
-  - 3PL marketplaces
+  - 3PL marketplaces `marketplace`
 - **Last-mile delivery**
   - Route optimization
   - Parcel lockers
@@ -2109,8 +2109,8 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Returns management
   - B2B recommerce
   - Liquidation marketplaces
-  - Refurbishment
-  - Repair networks
+  - Refurbishment `service-business`
+  - Repair networks `service-business` `marketplace`
 - **Critical minerals 🔥**
   - AI mineral exploration
   - Mining automation
@@ -2128,8 +2128,8 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Property-management software
   - Resident screening `regulated`: *FCRA and fair-housing rules apply.*
   - Rent collection
-  - Maintenance coordination
-  - Short-term rental operations
+  - Maintenance coordination `service-business` `no-code-friendly`
+  - Short-term rental operations `service-business`
 - **Commercial real estate tech**
   - Lease management
   - CRE analytics
@@ -2137,14 +2137,14 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 - **Construction tech**
   - Construction project management
   - BIM software
-  - Takeoff & estimating AI `ai-native`
+  - Takeoff & estimating AI `ai-native` `service-business`
   - Jobsite safety monitoring
   - Prefab & modular
   - Construction robotics
-  - Permitting automation
+  - Permitting automation `service-business` `no-code-friendly`
 - **Construction supply chain**
   - Materials procurement
-  - Subcontractor marketplaces
+  - Subcontractor marketplaces `marketplace`
   - Construction payments & lien waivers
   - Equipment rental
 - **Smart buildings**
@@ -2155,7 +2155,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Building electrification retrofits
 - **Real estate transactions**
   - Brokerage tech
-  - Transaction management
+  - Transaction management `service-business`
   - Home valuation: *Automated valuation models.*
   - Mortgage tech
   - Title & escrow
@@ -2290,7 +2290,7 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
 
 - **GovTech**
   - Permitting software
-  - Benefits access
+  - Benefits access `content` `no-code-friendly`
   - Government procurement
   - Legacy-system modernization
   - Government AI assistants `ai-native`
@@ -2309,19 +2309,19 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Road-safety analytics: *Vision Zero programs.*
 - **Accessibility tech** `underserved`
   - AAC devices
-  - Live captioning
+  - Live captioning `service-business`
   - Sign-language AI `ai-native`
   - Cognitive-accessibility tools
   - Prosthetics & mobility aids `regulated`
-  - Accessibility compliance 🔥: *Web and app compliance as a service.*
+  - Accessibility compliance 🔥 `service-business`: *Web and app compliance as a service.*
 - **Nonprofit tech**: *e.g. Givebutter.*
   - ↗ *see* Wealth > Retirement & Wealth Planning > Wealth management > Philanthropy & DAFs
   - Fundraising platforms
   - Nonprofit CRM
-  - Volunteer management
-  - Grant-seeking tools
+  - Volunteer management `no-code-friendly`
+  - Grant-seeking tools `service-business` `no-code-friendly`
   - Grantmaking software
-  - Impact measurement
+  - Impact measurement `service-business`
 - **Global development**
   - Emerging-market edtech
   - Last-mile health delivery
@@ -2329,6 +2329,6 @@ Legend: 🔥 trending · tags in `code` · ↗ = cross-reference to where a topi
   - Smallholder agtech
   - Financial-inclusion infrastructure
 - **Civic participation & justice**
-  - Access to justice
+  - Access to justice `content`
   - Court modernization
   - Reentry services

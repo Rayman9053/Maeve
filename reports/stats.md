@@ -15,6 +15,6 @@
 | Enterprise & AI | 8 | 323 | 258 | 4 | 4 | 4.00 | 15 |
 | Planet & Frontier | 8 | 333 | 269 | 4 | 4 | 4.00 | 13 |
 
-**Tags:** `trending` 67 · `underserved` 34 · `regulated` 68 · `b2b` 47 · `consumer` 4 · `ai-native` 66
+**Tags:** `trending` 67 · `underserved` 34 · `regulated` 68 · `b2b` 47 · `consumer` 4 · `ai-native` 66 · `service-business` 214 · `content` 200 · `marketplace` 56 · `no-code-friendly` 162
 
 **Cross-references:** 68

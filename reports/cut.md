@@ -10,6 +10,10 @@ startup markets.
 
 Format: `node name` (old location): reason.
 
+## v13
+
+No nodes cut.
+
 ## v12
 
 Moved, not deleted: every leaf below scored 1–2 on startup-actionability and now lives in

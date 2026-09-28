@@ -52,7 +52,7 @@ children:
               - {name: Hereditary risk panels}
           - name: Environmental health
             children:
-              - {name: Indoor air quality, tags: [service-business, content]}
+              - {name: Indoor air quality}
               - {name: Water testing & filtration}
               - {name: Mold & toxin testing}
               - {name: Microplastics testing}
@@ -65,26 +65,25 @@ children:
             children:
               - {name: GLP-1 telehealth}
               - {name: Oral GLP-1s, note: "Wegovy pill launched in the US in January 2026."}
-              - {name: Muscle preservation, tags: [content]}
-              - {name: GLP-1 companion foods, tags: [content]}
-              - {name: Maintenance & off-ramp, tags: [content]}
+              - {name: Muscle preservation}
+              - {name: GLP-1 companion foods}
+              - {name: Maintenance & off-ramp}
           - name: Personalized nutrition
             children:
               - {name: Microbiome testing, note: "e.g. ZOE (now predicts glucose with AI instead of shipping CGMs). Clinical validity is debated."}
               - {name: CGM programs, note: "e.g. Levels. OTC CGMs cleared in 2024; benefit for non-diabetics is unproven."}
-              - {name: AI meal planning, tags: [ai-native, no-code-friendly]}
-              - {name: Metabolic health, tags: [content]}
+              - {name: AI meal planning, tags: [ai-native]}
+              - {name: Metabolic health}
           - name: Sports nutrition
             children:
-              - {name: Endurance fueling, tags: [content]}
-              - {name: Strength & protein, tags: [content]}
+              - {name: Endurance fueling}
+              - {name: Strength & protein}
               - {name: Hydration & electrolytes}
           - name: Special diets
-            tags: [content]
             children:
               - {name: Plant-based}
               - {name: Gluten-free}
-              - {name: Culturally tailored diets, tags: [no-code-friendly], note: "Halal, kosher, Ayurvedic."}
+              - {name: Culturally tailored diets, note: "Halal, kosher, Ayurvedic."}
           - name: Supplements
             tags: [regulated]
             note: "US claims are governed by DSHEA and FTC rules."
@@ -103,24 +102,22 @@ children:
       - name: Fitness & Recovery
         children:
           - name: Cardio & endurance
-            tags: [content]
             children:
               - {name: Running}
               - {name: Cycling}
               - {name: Zone-2 & VO2max training}
           - name: Mobility & flexibility
-            tags: [content]
             children:
               - {name: Stretching}
-              - {name: Yoga, tags: [service-business]}
+              - {name: Yoga}
               - {name: Pilates, tags: [trending]}
           - name: Connected fitness
             children:
               - {name: Home gyms}
               - {name: Fitness equipment}
-              - {name: Workout apps, tags: [no-code-friendly]}
-              - {name: Virtual coaching, tags: [service-business, no-code-friendly]}
-              - {name: AI personal trainers, tags: [ai-native, no-code-friendly]}
+              - {name: Workout apps}
+              - {name: Virtual coaching}
+              - {name: AI personal trainers, tags: [ai-native]}
           - name: Athletic recovery
             note: "Evidence for therapeutic claims varies by modality."
             children:
@@ -134,42 +131,41 @@ children:
               - {name: Boutique franchises, note: "e.g. F45, Orangetheory."}
               - {name: Budget gyms}
               - {name: Climbing gyms}
-              - {name: Gym management software, tags: [b2b, no-code-friendly]}
+              - {name: Gym management software, tags: [b2b]}
           - name: Adaptive & inclusive fitness
-            tags: [service-business]
             children:
-              - {name: Senior fitness, tags: [content]}
-              - {name: Plus-size fitness, tags: [content]}
+              - {name: Senior fitness}
+              - {name: Plus-size fitness}
               - {name: Adaptive training, note: "Fitness for people with disabilities."}
-              - {name: Prenatal & postnatal fitness, tags: [content]}
+              - {name: Prenatal & postnatal fitness}
           - name: Youth sports
             children:
-              - {name: Skills training, tags: [service-business]}
-              - {name: College recruiting, tags: [service-business, content]}
-              - {name: League & club software, tags: [b2b, no-code-friendly]}
+              - {name: Skills training}
+              - {name: College recruiting}
+              - {name: League & club software, tags: [b2b]}
 
       - name: Sleep
         children:
           - name: Sleep optimization
             children:
               - {name: Sleep trackers}
-              - {name: Routines & coaching, tags: [service-business, content]}
+              - {name: Routines & coaching}
               - {name: Cooling & smart beds}
               - {name: Circadian lighting}
           - name: Sleep disorders
             tags: [regulated]
             children:
-              - {name: Insomnia & CBT-I, tags: [content]}
+              - {name: Insomnia & CBT-I}
               - {name: Sleep apnea}
           - name: Infant & child sleep
             children:
-              - {name: Sleep consultants, tags: [service-business, content]}
+              - {name: Sleep consultants}
               - {name: Smart bassinets}
-              - {name: Sleep-training apps, tags: [no-code-friendly]}
+              - {name: Sleep-training apps}
           - name: Sleep products
             children:
               - {name: Mattresses & bedding}
-              - {name: Sleep audio apps, tags: [content, no-code-friendly]}
+              - {name: Sleep audio apps}
               - {name: Snoring solutions}
 
       - name: Mental Health
@@ -187,9 +183,8 @@ children:
               - {name: Major depression}
               - {name: Perinatal depression, note: "Includes paternal perinatal depression."}
           - name: Stress & burnout
-            tags: [service-business]
             children:
-              - {name: Burnout, tags: [content]}
+              - {name: Burnout}
               - {name: Workplace stress}
           - name: Therapy access
             children:
@@ -197,7 +192,7 @@ children:
               - {name: Couples therapy}
               - {name: Family therapy}
               - {name: Online therapy}
-              - {name: Therapist matching, tags: [marketplace]}
+              - {name: Therapist matching}
           - name: Trauma & PTSD
             children:
               - {name: PTSD}
@@ -206,17 +201,17 @@ children:
               - {name: Domestic-violence support, tags: [underserved]}
           - name: Addiction recovery
             children:
-              - {name: Alcohol moderation, tags: [content], note: "e.g. Sunnyside."}
+              - {name: Alcohol moderation, note: "e.g. Sunnyside."}
               - {name: Gambling addiction, note: "Demand rose with legal sports betting."}
               - {name: Opioid recovery, tags: [regulated], note: "Medication-assisted treatment is regulated."}
               - {name: Vaping cessation}
-              - {name: Recovery communities, tags: [content], note: "12-step and non-12-step."}
+              - {name: Recovery communities, note: "12-step and non-12-step."}
           - name: Digital mental health
             children:
               - {name: Mental-health apps}
               - {name: Digital therapeutics, tags: [regulated]}
               - {name: AI mental-health companions, tags: [regulated, ai-native], note: "e.g. Wysa. Woebot closed its consumer app in 2025. As of mid-2026, IL, NV, RI and ME ban AI therapy; UT, NY, CA and NE regulate it."}
-              - {name: Peer-support communities, tags: [content]}
+              - {name: Peer-support communities}
           - name: Acute & advanced care
             tags: [regulated]
             children:
@@ -226,7 +221,7 @@ children:
               - {name: Ketamine & TMS clinics}
           - name: Population-focused care
             children:
-              - {name: Men's mental health, tags: [content], note: "Includes fatherhood and men's groups."}
+              - {name: Men's mental health, note: "Includes fatherhood and men's groups."}
               - {name: Youth mental health}
               - {name: LGBTQ+ affirmative therapy}
               - {name: Culturally responsive therapy, note: "Includes bilingual therapy."}
@@ -245,10 +240,10 @@ children:
           - name: Pregnancy & postpartum
             children:
               - {name: Prenatal care}
-              - {name: Doulas & birth support, tags: [service-business, marketplace]}
-              - {name: Postpartum recovery, tags: [content]}
-              - {name: Pregnancy-loss support, tags: [content]}
-              - {name: Lactation support, tags: [service-business, content]}
+              - {name: Doulas & birth support}
+              - {name: Postpartum recovery}
+              - {name: Pregnancy-loss support}
+              - {name: Lactation support}
           - name: Contraception
             children:
               - {name: Birth-control telehealth}
@@ -265,7 +260,7 @@ children:
             see: ["Relationships > Intimacy & Sexuality > Couples intimacy"]
             children:
               - {name: Sex tech & devices, note: "Payment-processor limits; 2024-25 US age-verification laws."}
-              - {name: Sex education platforms, tags: [content]}
+              - {name: Sex education platforms}
               - {name: Sexual wellness apps}
 
       - name: Aging & Longevity
@@ -275,7 +270,7 @@ children:
               - {name: Senior mobility}
               - {name: Cognitive fitness}
               - {name: Sarcopenia programs, note: "Preventing age-related muscle loss."}
-              - {name: Healthy-aging coaching, tags: [service-business, content]}
+              - {name: Healthy-aging coaching}
           - name: Longevity medicine
             tags: [trending]
             children:
@@ -291,25 +286,25 @@ children:
             children:
               - {name: Fall detection}
               - {name: Passive home monitoring}
-              - {name: Aging in place, tags: [service-business]}
+              - {name: Aging in place}
               - {name: Senior-friendly devices}
-              - {name: Senior tech support, tags: [service-business]}
-              - {name: Solo aging, tags: [content]}
-              - {name: Senior social connection, tags: [content]}
+              - {name: Senior tech support}
+              - {name: Solo aging}
+              - {name: Senior social connection}
           - name: Caregiving
             tags: [trending, underserved]
             note: "The sandwich generation: people caring for both children and parents."
             children:
-              - {name: Care coordination, tags: [service-business]}
+              - {name: Care coordination}
               - {name: Respite care}
-              - {name: Family caregiver support, tags: [service-business, content]}
+              - {name: Family caregiver support}
               - {name: Paid family caregiving, tags: [regulated], note: "Medicaid and state programs that pay family caregivers."}
-              - {name: Caregiver marketplaces, tags: [marketplace]}
+              - {name: Caregiver marketplaces}
               - {name: Home care agencies}
           - name: Senior living
             children:
-              - {name: Senior living search, tags: [content, marketplace]}
-              - {name: Senior home-sharing, tags: [marketplace]}
+              - {name: Senior living search}
+              - {name: Senior home-sharing}
               - {name: Senior-living operator software, tags: [b2b]}
   # ───────────────────────────────────────────────────────── 2
   - name: Care & Conditions
@@ -321,7 +316,7 @@ children:
             children:
               - {name: Type 1}
               - {name: Type 2}
-              - {name: Prediabetes, tags: [content]}
+              - {name: Prediabetes}
               - {name: Glucose management}
           - name: Cardiometabolic disease
             children:
@@ -337,29 +332,29 @@ children:
           - name: Digestive health
             see: ["Health & Wellness > Nutrition & Metabolic Health > Personalized nutrition > Microbiome testing"]
             children:
-              - {name: IBS, tags: [content]}
+              - {name: IBS}
               - {name: IBD}
-              - {name: Food intolerances, tags: [content]}
+              - {name: Food intolerances}
           - name: Respiratory & allergy
             children:
               - {name: Asthma}
               - {name: COPD}
-              - {name: Food allergies, tags: [content]}
+              - {name: Food allergies}
           - name: Oncology
             see: ["Planet & Frontier > Biotech & Life Sciences > Clinical trials > Patient recruitment"]
             children:
-              - {name: Cancer navigation, tags: [service-business]}
-              - {name: Survivorship support, tags: [content]}
+              - {name: Cancer navigation}
+              - {name: Survivorship support}
               - {name: Breast cancer support}
               - {name: Prostate cancer support}
           - name: Complex & rare illness
             tags: [underserved]
             children:
-              - {name: Long COVID, tags: [content]}
-              - {name: ME/CFS, tags: [content], note: "A distinct diagnosis, not generic 'chronic fatigue'."}
-              - {name: POTS & dysautonomia, tags: [content]}
+              - {name: Long COVID}
+              - {name: ME/CFS, note: "A distinct diagnosis, not generic 'chronic fatigue'."}
+              - {name: POTS & dysautonomia}
               - {name: Rare-disease diagnostics}
-              - {name: Rare-disease communities, tags: [content]}
+              - {name: Rare-disease communities}
 
       - name: Pain & Musculoskeletal
         children:
@@ -394,11 +389,11 @@ children:
               - {name: Fibromyalgia care}
               - {name: Interventional pain clinics}
               - {name: Neuromodulation devices, tags: [regulated]}
-              - {name: Lower back pain, tags: [content]}
+              - {name: Lower back pain}
           - name: Ergonomics
             children:
               - {name: Workplace injury prevention, tags: [b2b]}
-              - {name: Ergonomic assessments, tags: [service-business]}
+              - {name: Ergonomic assessments}
               - {name: Ergonomic equipment}
               - {name: Industrial exoskeletons, tags: [b2b]}
 
@@ -411,20 +406,20 @@ children:
               - "Relationships > Social Skills > Neurodivergent social skills"
               - "Mind, Meaning & Growth > Productivity > ADHD-friendly productivity"
             children:
-              - {name: ADHD, tags: [content]}
-              - {name: Autism, tags: [content]}
-              - {name: Dyslexia & learning differences, tags: [service-business, content]}
-              - {name: Late diagnosis, tags: [content], note: "Adult ADHD and autism diagnosis."}
+              - {name: ADHD}
+              - {name: Autism}
+              - {name: Dyslexia & learning differences}
+              - {name: Late diagnosis, note: "Adult ADHD and autism diagnosis."}
               - {name: ADHD medication access, tags: [regulated], note: "DEA telehealth flexibilities for controlled substances run through Dec 31, 2026; permanent rules pending."}
-              - {name: Executive-function coaching, tags: [service-business, content]}
+              - {name: Executive-function coaching}
           - name: Dementia & cognitive decline
             tags: [underserved]
             children:
               - {name: Cognitive assessments}
               - {name: Blood-based Alzheimer's tests, tags: [regulated], note: "FDA-cleared: Fujirebio Lumipulse (May 2025), Roche Elecsys pTau181 (Oct 2025)."}
               - {name: Anti-amyloid therapy navigation}
-              - {name: Dementia care navigation, tags: [service-business]}
-              - {name: Dementia caregiver training, tags: [service-business, content]}
+              - {name: Dementia care navigation}
+              - {name: Dementia caregiver training}
               - {name: Memory care}
               - {name: Brain-health clinics}
           - name: Neurological conditions
@@ -458,7 +453,7 @@ children:
             children:
               - {name: OTC hearing aids, note: "The 2022 FDA rule opened the market."}
               - {name: Online hearing tests}
-              - {name: Tinnitus management, tags: [content]}
+              - {name: Tinnitus management}
           - name: Dermatology
             children:
               - {name: Teledermatology}
@@ -478,9 +473,9 @@ children:
           - name: Women's health
             note: "Femtech. Menstrual care serves everyone who menstruates."
             children:
-              - {name: Menopause & perimenopause, tags: [underserved, trending, content], note: "Includes menopause and sexuality."}
-              - {name: PCOS, tags: [content]}
-              - {name: Endometriosis, tags: [content]}
+              - {name: Menopause & perimenopause, tags: [underserved, trending], note: "Includes menopause and sexuality."}
+              - {name: PCOS}
+              - {name: Endometriosis}
               - {name: PMS & PMDD}
               - {name: Pelvic floor & incontinence}
               - {name: Pelvic pain}
@@ -522,7 +517,7 @@ children:
               - {name: VA care navigation}
               - {name: Disability claims support}
               - {name: Veteran PTSD programs}
-              - {name: Veteran peer support, tags: [content]}
+              - {name: Veteran peer support}
               - {name: Military-family care}
           - name: Rural & underserved care
             tags: [underserved]
@@ -530,7 +525,7 @@ children:
               - {name: Rural telehealth}
               - {name: Mobile clinics}
               - {name: Community health workers}
-              - {name: Medical interpretation, tags: [service-business, marketplace]}
+              - {name: Medical interpretation}
               - {name: Rural hospital operations, tags: [b2b]}
 
       - name: Care Delivery
@@ -561,10 +556,10 @@ children:
               - {name: Pharmacist clinical services, note: "Test-and-treat, vaccines, prescribing where allowed."}
           - name: Patient navigation
             children:
-              - {name: Patient advocacy, tags: [service-business]}
+              - {name: Patient advocacy}
               - {name: Employer health navigation, tags: [b2b]}
-              - {name: Price comparison tools, tags: [no-code-friendly]}
-              - {name: Medical bill negotiation, tags: [service-business]}
+              - {name: Price comparison tools}
+              - {name: Medical bill negotiation}
               - {name: Second opinions}
               - {name: Cash-pay surgery, note: "Price-transparent surgery centers."}
 
@@ -582,7 +577,7 @@ children:
               - {name: Patient-message triage AI}
           - name: Care operations
             children:
-              - {name: Patient intake & scheduling, tags: [no-code-friendly]}
+              - {name: Patient intake & scheduling}
               - {name: Patient engagement}
               - {name: Telehealth infrastructure, note: "White-label virtual-care platforms for providers."}
               - {name: Hospital operations, note: "Bed management and command centers."}
@@ -618,7 +613,7 @@ children:
               - {name: Staffing marketplaces}
               - {name: Nurse scheduling}
               - {name: Clinician credentialing}
-              - {name: Continuing medical education, tags: [content]}
+              - {name: Continuing medical education}
           - name: Life-science commercial tech
             children:
               - {name: Pharma CRM}
@@ -639,14 +634,14 @@ children:
               - {name: Functional medicine, note: "'Root-cause' clinic model; contested evidence for some protocols."}
               - {name: Integrative primary care}
               - {name: Integrative oncology, note: "Evidence-informed supportive care alongside standard treatment."}
-              - {name: Integrative health coaching, tags: [service-business, content]}
-              - {name: Yoga therapy, tags: [service-business]}
+              - {name: Integrative health coaching}
+              - {name: Yoga therapy}
           - name: Practitioner tools
             tags: [b2b]
             children:
-              - {name: Practice-management software, tags: [no-code-friendly]}
-              - {name: Practitioner certification, tags: [content]}
-              - {name: Practitioner marketplaces, tags: [marketplace]}
+              - {name: Practice-management software}
+              - {name: Practitioner certification}
+              - {name: Practitioner marketplaces}
               - {name: Practitioner-grade supplements, note: "Dispensaries, e.g. Fullscript."}
   # ───────────────────────────────────────────────────────── 3
   - name: Wealth
@@ -656,9 +651,8 @@ children:
         tags: [consumer]
         children:
           - name: Budgeting
-            tags: [no-code-friendly]
             children:
-              - {name: Household budgeting, tags: [content]}
+              - {name: Household budgeting}
               - {name: Expense tracking}
               - {name: AI money coaches, tags: [ai-native]}
           - name: Saving
@@ -666,27 +660,27 @@ children:
               - {name: High-yield savings}
               - {name: Kids' savings}
               - {name: Child investment accounts, note: "US 'Trump Accounts' launched July 2026, with a $1,000 federal seed for children born 2025-28."}
-              - {name: College savings, tags: [content]}
+              - {name: College savings}
           - name: Debt management
             tags: [regulated]
             children:
               - {name: Credit-card debt}
-              - {name: Student loans, tags: [content]}
+              - {name: Student loans}
               - {name: Personal loans}
               - {name: Debt consolidation}
           - name: Credit
             children:
-              - {name: Credit building, tags: [content], note: "Includes credit building for people without banks."}
+              - {name: Credit building, note: "Includes credit building for people without banks."}
               - {name: Credit cards}
-              - {name: Rewards optimization, tags: [content, no-code-friendly]}
+              - {name: Rewards optimization}
           - name: Financial wellness
             children:
-              - {name: Youth financial education, tags: [service-business, content]}
-              - {name: First-generation guidance, tags: [content]}
-              - {name: Workplace financial wellness, tags: [b2b, service-business]}
-              - {name: Financial therapy, tags: [service-business], note: "Money psychology."}
+              - {name: Youth financial education}
+              - {name: First-generation guidance}
+              - {name: Workplace financial wellness, tags: [b2b]}
+              - {name: Financial therapy, note: "Money psychology."}
           - name: Life-event finance
-            tags: [underserved, content]
+            tags: [underserved]
             see: ["Relationships > Breakups & Divorce > Divorce finance"]
             children:
               - {name: Widowhood finance}
@@ -697,7 +691,7 @@ children:
             tags: [underserved]
             note: "e.g. Catch."
             children:
-              - {name: Tax withholding tools, tags: [no-code-friendly]}
+              - {name: Tax withholding tools}
               - {name: Portable benefits}
               - {name: Income smoothing}
               - {name: Gig-worker retirement}
@@ -715,7 +709,7 @@ children:
             children:
               - {name: Pay by bank, tags: [trending], note: "Open-banking payments."}
               - {name: Bill pay}
-              - {name: Subscription management, tags: [no-code-friendly], note: "Tracking and cancelling subscriptions."}
+              - {name: Subscription management, note: "Tracking and cancelling subscriptions."}
               - {name: Stablecoin payments, tags: [trending, regulated]}
           - name: Cross-border money
             note: "Core to immigrant economies."
@@ -737,7 +731,7 @@ children:
             note: "e.g. Wahed."
             children:
               - {name: Sharia-compliant banking}
-              - {name: Halal investing, tags: [content]}
+              - {name: Halal investing}
               - {name: Islamic home finance}
               - {name: Sharia-compliant BNPL}
               - {name: Zakat & sadaqah apps}
@@ -764,7 +758,7 @@ children:
             note: "Retail access is governed by securities law (Reg A/CF, accreditation)."
             children:
               - {name: Private credit}
-              - {name: Collectible assets, tags: [content], note: "Art, wine & spirits, trading cards as investments."}
+              - {name: Collectible assets, note: "Art, wine & spirits, trading cards as investments."}
               - {name: Private-market access, tags: [trending], note: "Secondaries; Fundrise model."}
           - name: Digital assets
             tags: [regulated]
@@ -780,8 +774,8 @@ children:
           - name: Homebuying
             children:
               - {name: Mortgages, tags: [regulated]}
-              - {name: First-time buyer programs, tags: [content]}
-              - {name: Down-payment assistance, tags: [content]}
+              - {name: First-time buyer programs}
+              - {name: Down-payment assistance}
               - {name: Rent-to-own}
           - name: Renting
             children:
@@ -790,8 +784,8 @@ children:
               - {name: Renter services}
           - name: Real estate investing
             children:
-              - {name: Rental properties, tags: [content]}
-              - {name: Short-term rentals, tags: [service-business, content]}
+              - {name: Rental properties}
+              - {name: Short-term rentals}
               - {name: Fractional ownership, tags: [regulated]}
           - name: Home equity
             tags: [regulated]
@@ -804,7 +798,7 @@ children:
           - name: Retirement planning
             children:
               - {name: Retirement income}
-              - {name: Social Security planning, tags: [content]}
+              - {name: Social Security planning}
           - name: Retirement accounts
             children:
               - {name: IRAs & 401(k)s}
@@ -861,12 +855,12 @@ children:
               - {name: Individual tax}
               - {name: Small-business tax}
               - {name: Tax-loss harvesting}
-              - {name: International & expat tax, tags: [content]}
+              - {name: International & expat tax}
               - {name: Crypto tax}
           - name: Tax preparation
             children:
               - {name: AI tax prep, tags: [trending, ai-native]}
-              - {name: Tax-pro marketplaces, tags: [marketplace]}
+              - {name: Tax-pro marketplaces}
               - {name: Tax-credit finders}
               - {name: Tax resolution, tags: [regulated]}
           - name: Consumer legal services
@@ -901,39 +895,38 @@ children:
         children:
           - name: Starting a business
             children:
-              - {name: Idea validation, tags: [service-business, content, no-code-friendly]}
-              - {name: Market research, tags: [service-business]}
-              - {name: Business formation, tags: [no-code-friendly], note: "Entity structures and compliance; e.g. Stripe Atlas."}
+              - {name: Idea validation}
+              - {name: Market research}
+              - {name: Business formation, note: "Entity structures and compliance; e.g. Stripe Atlas."}
           - name: Acquisition entrepreneurship
             note: "Buying a business (ETA, micro-PE)."
             children:
-              - {name: Search funds, tags: [content]}
-              - {name: Business-for-sale marketplaces, tags: [marketplace]}
+              - {name: Search funds}
+              - {name: Business-for-sale marketplaces}
               - {name: SBA acquisition loans, tags: [regulated]}
               - {name: Small-business roll-ups}
           - name: Small business
             children:
-              - {name: Local services, tags: [service-business]}
+              - {name: Local services}
               - {name: Franchises}
-              - {name: Skilled-trades businesses, tags: [trending, service-business], note: "HVAC, electrical, plumbing; acute labor shortage."}
+              - {name: Skilled-trades businesses, tags: [trending], note: "HVAC, electrical, plumbing; acute labor shortage."}
           - name: Online business
             children:
-              - {name: E-commerce, tags: [no-code-friendly]}
-              - {name: SaaS, tags: [no-code-friendly]}
-              - {name: Digital products, tags: [content, no-code-friendly]}
-              - {name: Memberships, tags: [content, no-code-friendly]}
-              - {name: Online courses, tags: [content]}
+              - {name: E-commerce}
+              - {name: SaaS}
+              - {name: Digital products}
+              - {name: Memberships}
+              - {name: Online courses}
           - name: Creator economy
             see: ["Enterprise & AI > Marketing & Sales Tech > Creator platforms > UGC marketplaces"]
             children:
-              - {name: Podcasting, tags: [content]}
-              - {name: Newsletters, tags: [content]}
-              - {name: Influencer brands, tags: [content], note: "Includes personal brands."}
+              - {name: Podcasting}
+              - {name: Newsletters}
+              - {name: Influencer brands, note: "Includes personal brands."}
               - {name: AI virtual creators, tags: [ai-native]}
-              - {name: Live & social commerce, tags: [trending, content]}
-              - {name: Fan memberships, tags: [content, no-code-friendly], note: "e.g. Patreon."}
+              - {name: Live & social commerce, tags: [trending]}
+              - {name: Fan memberships, note: "e.g. Patreon."}
           - name: Freelancing & fractional
-            tags: [service-business]
             children:
               - {name: Consulting}
               - {name: Design}
@@ -941,18 +934,17 @@ children:
               - {name: Marketing services}
               - {name: Fractional executives, note: "Fractional CFO/CMO/CTO."}
           - name: Agencies
-            tags: [service-business]
             children:
               - {name: Digital marketing}
               - {name: Web development}
-              - {name: AI automation agencies, tags: [no-code-friendly]}
+              - {name: AI automation agencies}
           - name: Solopreneurship
             tags: [trending]
             children:
-              - {name: AI-leveraged solo businesses, tags: [ai-native, service-business, no-code-friendly]}
-              - {name: Micro-SaaS, tags: [no-code-friendly]}
-              - {name: Productized services, tags: [service-business]}
-              - {name: Solo operator tools, tags: [content, no-code-friendly]}
+              - {name: AI-leveraged solo businesses, tags: [ai-native]}
+              - {name: Micro-SaaS}
+              - {name: Productized services}
+              - {name: Solo operator tools}
   # ───────────────────────────────────────────────────────── 4
   - name: Relationships
     note: "Products and services for forming, keeping, repairing and losing relationships. Clinical sexual health lives in Health & Wellness."
@@ -962,27 +954,26 @@ children:
           - name: Dating platforms
             children:
               - {name: Curated apps}
-              - {name: Profile optimization, tags: [service-business, no-code-friendly]}
+              - {name: Profile optimization}
           - name: AI dating tools
-            tags: [ai-native, no-code-friendly]
+            tags: [ai-native]
             children:
               - {name: AI profile writing}
               - {name: AI message coaching}
               - {name: AI matchmaking}
           - name: Matchmaking, coaching & events
-            tags: [service-business]
             children:
               - {name: Professional matchmaking}
-              - {name: Niche matchmaking, tags: [marketplace]}
+              - {name: Niche matchmaking}
               - {name: Speed dating}
               - {name: Singles events}
-              - {name: Dating coaches, tags: [content]}
+              - {name: Dating coaches}
           - name: Niche dating
             children:
-              - {name: Senior dating, tags: [service-business]}
+              - {name: Senior dating}
               - {name: LGBTQ+ dating}
               - {name: Single-parent dating}
-              - {name: Sober dating, tags: [service-business, content]}
+              - {name: Sober dating}
               - {name: Dating with disability}
               - {name: Faith-based dating}
           - name: Dating safety
@@ -990,7 +981,7 @@ children:
             children:
               - {name: Identity verification}
               - {name: Background checks, tags: [regulated], note: "FCRA applies."}
-              - {name: Date check-in apps, tags: [no-code-friendly]}
+              - {name: Date check-in apps}
               - {name: Romance-scam protection}
 
       - name: Couples & Marriage
@@ -998,44 +989,44 @@ children:
         children:
           - name: Premarital
             children:
-              - {name: Premarital counseling, tags: [service-business]}
-              - {name: Premarital courses, tags: [content]}
-              - {name: Faith-based marriage prep, tags: [service-business, content]}
+              - {name: Premarital counseling}
+              - {name: Premarital courses}
+              - {name: Faith-based marriage prep}
               - {name: Prenups, tags: [regulated]}
               - {name: Cohabitation agreements, tags: [regulated]}
           - name: Relationship coaching
             note: "Covers communication, trust, conflict resolution, boundaries, shared goals and recurring relationship patterns."
             see: ["Health & Wellness > Mental Health > Therapy access > Couples therapy"]
             children:
-              - {name: Couples apps, tags: [no-code-friendly], note: "e.g. Paired, Lasting (part of Talkspace)."}
-              - {name: AI relationship coaching, tags: [ai-native, no-code-friendly]}
-              - {name: Relationship check-in tools, tags: [no-code-friendly]}
-              - {name: Couples coaching, tags: [service-business]}
-              - {name: Relationship courses, tags: [content]}
+              - {name: Couples apps, note: "e.g. Paired, Lasting (part of Talkspace)."}
+              - {name: AI relationship coaching, tags: [ai-native]}
+              - {name: Relationship check-in tools}
+              - {name: Couples coaching}
+              - {name: Relationship courses}
           - name: Marriage enrichment
             children:
-              - {name: Date-night services, tags: [service-business]}
-              - {name: Couples activities, tags: [content]}
-              - {name: Relationship retreats, tags: [service-business]}
+              - {name: Date-night services}
+              - {name: Couples activities}
+              - {name: Relationship retreats}
           - name: Long-distance relationships
             children:
-              - {name: LDR apps, tags: [no-code-friendly]}
-              - {name: Shared-experience tools, tags: [no-code-friendly]}
-              - {name: Military couples, tags: [underserved, content]}
+              - {name: LDR apps}
+              - {name: Shared-experience tools}
+              - {name: Military couples, tags: [underserved]}
           - name: Relationship repair
             note: "Covers jealousy, insecurity, resentment and recurring conflict."
             children:
-              - {name: Infidelity recovery, tags: [service-business, content]}
+              - {name: Infidelity recovery}
               - {name: Marriage intensives}
               - {name: Couples programs in recovery, note: "For couples where one partner is in addiction recovery."}
               - {name: Discernment counseling}
           - name: Shared household
             see: ["Wealth > Money Management > Life-event finance > Couples' finances"]
             children:
-              - {name: Household-task apps, tags: [no-code-friendly]}
-              - {name: Shared calendars, tags: [no-code-friendly]}
-              - {name: Mental-load tools, tags: [no-code-friendly]}
-              - {name: Household managers, tags: [service-business, marketplace]}
+              - {name: Household-task apps}
+              - {name: Shared calendars}
+              - {name: Mental-load tools}
+              - {name: Household managers}
 
       - name: Intimacy & Sexuality
         note: "Partnered and relational intimacy. Individual sexual health, devices and sex education live in Health & Wellness > Sexual & Reproductive Health."
@@ -1045,32 +1036,32 @@ children:
             children:
               - {name: Sex therapists}
               - {name: Sex-therapy telehealth}
-              - {name: Intimacy coaches, tags: [service-business]}
+              - {name: Intimacy coaches}
               - {name: Sexual performance anxiety}
           - name: Couples intimacy
             children:
-              - {name: Guided intimacy courses, tags: [content]}
-              - {name: Intimacy apps, tags: [no-code-friendly]}
-              - {name: Conversation card games, tags: [content]}
+              - {name: Guided intimacy courses}
+              - {name: Intimacy apps}
+              - {name: Conversation card games}
           - name: Life-stage intimacy
             children:
-              - {name: Postpartum intimacy, tags: [content]}
-              - {name: Midlife intimacy, tags: [content], see: ["Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause"]}
+              - {name: Postpartum intimacy}
+              - {name: Midlife intimacy, see: ["Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause"]}
               - {name: Intimacy after cancer}
               - {name: Intimacy with illness & disability, tags: [underserved]}
           - name: Desire & communication
             children:
               - {name: Desire-mismatch programs}
-              - {name: Consent education, tags: [service-business, content]}
+              - {name: Consent education}
               - {name: Trauma-informed intimacy programs, tags: [underserved], note: "For survivors of sexual trauma and their partners."}
 
       - name: Breakups & Divorce
         children:
           - name: Divorce process
             children:
-              - {name: Divorce preparation, tags: [service-business, content]}
-              - {name: Divorce coaching, tags: [service-business]}
-              - {name: Divorce mediation, tags: [service-business]}
+              - {name: Divorce preparation}
+              - {name: Divorce coaching}
+              - {name: Divorce mediation}
               - {name: Collaborative divorce}
               - {name: Online divorce, tags: [regulated]}
               - {name: Divorce attorney matching, tags: [regulated]}
@@ -1078,46 +1069,45 @@ children:
             children:
               - {name: Asset-splitting tools}
               - {name: Financial transition planning}
-              - {name: Divorce financial analysts, tags: [service-business]}
+              - {name: Divorce financial analysts}
               - {name: Retirement-account division, note: "QDROs."}
               - {name: Marital home buyouts}
           - name: Co-parenting
             children:
-              - {name: Co-parenting apps, tags: [no-code-friendly]}
-              - {name: Custody scheduling, tags: [no-code-friendly]}
-              - {name: Co-parent expense sharing, tags: [no-code-friendly]}
-              - {name: Children's divorce support, tags: [content]}
+              - {name: Co-parenting apps}
+              - {name: Custody scheduling}
+              - {name: Co-parent expense sharing}
+              - {name: Children's divorce support}
           - name: Safe separation
             tags: [underserved]
             note: "Leaving an abusive relationship. Handle with trauma-informed design and strict privacy."
             see: ["Health & Wellness > Mental Health > Trauma & PTSD > Domestic-violence support"]
             children:
-              - {name: Safety planning apps, tags: [no-code-friendly]}
+              - {name: Safety planning apps}
               - {name: Protective-order assistance, tags: [regulated]}
               - {name: Stalkerware detection}
               - {name: Emergency housing search}
           - name: Rebuilding after separation
             children:
               - {name: Post-divorce housing}
-              - {name: Name-change services, tags: [service-business, no-code-friendly]}
-              - {name: Breakup coaching, tags: [service-business, content]}
+              - {name: Name-change services}
+              - {name: Breakup coaching}
 
       - name: Parenting & Family
         see: ["Health & Wellness > Aging & Longevity > Caregiving"]
         children:
           - name: Parenting stages
-            tags: [content]
             children:
               - {name: Newborns}
               - {name: Teens}
           - name: Parenting support
             note: "Covers parent-child communication, discipline and emotional connection."
             children:
-              - {name: Parent coaching, tags: [service-business]}
-              - {name: Parenting courses, tags: [content]}
-              - {name: Parenting communities, tags: [content]}
-              - {name: Family organizers, tags: [no-code-friendly]}
-              - {name: Chore & allowance apps, tags: [no-code-friendly]}
+              - {name: Parent coaching}
+              - {name: Parenting courses}
+              - {name: Parenting communities}
+              - {name: Family organizers}
+              - {name: Chore & allowance apps}
           - name: Child online safety
             tags: [regulated]
             note: "COPPA and age-appropriate-design laws."
@@ -1125,33 +1115,33 @@ children:
               - {name: Parental controls}
               - {name: Kids' phones}
               - {name: Age verification, tags: [trending], note: "Driven by 2025 laws: UK Online Safety Act, US state laws upheld in Free Speech Coalition v. Paxton, Australia's under-16 social-media ban."}
-              - {name: Online-safety education, tags: [content]}
+              - {name: Online-safety education}
           - name: Childcare
             tags: [underserved]
             note: "Acute 'care desert' shortage."
             children:
-              - {name: Childcare marketplaces, tags: [marketplace]}
-              - {name: Nannies & babysitters, tags: [marketplace]}
-              - {name: Nanny shares, tags: [marketplace, no-code-friendly]}
+              - {name: Childcare marketplaces}
+              - {name: Nannies & babysitters}
+              - {name: Nanny shares}
               - {name: Employer childcare, tags: [b2b]}
           - name: Baby & kids products
             children:
               - {name: Baby tech, note: "Monitors and smart nursery devices."}
               - {name: STEM toys}
-              - {name: Kids' activity booking, tags: [marketplace, no-code-friendly]}
+              - {name: Kids' activity booking}
               - {name: Kids' clothing}
           - name: Family structures
             children:
-              - {name: Single parents, tags: [content]}
-              - {name: Adoption & foster care, tags: [underserved, content]}
+              - {name: Single parents}
+              - {name: Adoption & foster care, tags: [underserved]}
               - {name: Kinship care}
-              - {name: Genealogy & family history, tags: [service-business, content]}
+              - {name: Genealogy & family history}
           - name: Special-needs parenting
             tags: [underserved]
             children:
-              - {name: IEP & school advocacy, tags: [service-business, content]}
+              - {name: IEP & school advocacy}
               - {name: Therapy coordination}
-              - {name: Special-needs parent communities, tags: [content]}
+              - {name: Special-needs parent communities}
 
       - name: Friendship & Community
         see: ["Mind, Meaning & Growth > Spirituality & Faith > Faith tech"]
@@ -1159,25 +1149,25 @@ children:
           - name: Making friends
             note: "Adult, workplace, community and online friendship. Also covers friendship upkeep and breakups."
             children:
-              - {name: Friendship apps, tags: [no-code-friendly], note: "e.g. BFF by Bumble (relaunched as a standalone app in 2025)."}
+              - {name: Friendship apps, note: "e.g. BFF by Bumble (relaunched as a standalone app in 2025)."}
               - {name: Parent friendship apps, note: "e.g. Peanut."}
-              - {name: Activity-partner apps, tags: [no-code-friendly]}
-              - {name: Friend-matching dinners, tags: [service-business]}
-              - {name: Newcomer networks, tags: [service-business, content]}
+              - {name: Activity-partner apps}
+              - {name: Friend-matching dinners}
+              - {name: Newcomer networks}
           - name: Loneliness & connection
             tags: [underserved]
             note: "US Surgeon General advisory on loneliness, 2023."
             children:
               - {name: Third places}
-              - {name: Community dinners, tags: [service-business]}
+              - {name: Community dinners}
               - {name: Social prescribing}
-              - {name: Intergenerational programs, tags: [service-business]}
-              - {name: Friendly-visitor services, tags: [service-business, marketplace]}
+              - {name: Intergenerational programs}
+              - {name: Friendly-visitor services}
           - name: Clubs & groups
             children:
-              - {name: Social clubs, tags: [service-business, content]}
+              - {name: Social clubs}
               - {name: Alumni networks}
-              - {name: Expat & immigrant communities, tags: [content]}
+              - {name: Expat & immigrant communities}
           - name: AI companions
             tags: [trending, regulated, ai-native]
             note: "Open ethical and regulatory questions, especially for minors."
@@ -1191,33 +1181,33 @@ children:
             children:
               - {name: Community software, tags: [b2b]}
               - {name: Club membership management, tags: [b2b]}
-              - {name: Social event apps, tags: [no-code-friendly]}
+              - {name: Social event apps}
 
       - name: Social Skills
         note: "Interpersonal skills training sold as coaching, courses, apps and corporate programs."
         children:
           - name: Communication training
             children:
-              - {name: Communication coaching, tags: [service-business], note: "Active listening, assertiveness and conversation skills."}
-              - {name: AI conversation roleplay, tags: [trending, ai-native, no-code-friendly], note: "Practice difficult conversations with an AI partner."}
-              - {name: Workplace communication programs, tags: [b2b, service-business]}
+              - {name: Communication coaching, note: "Active listening, assertiveness and conversation skills."}
+              - {name: AI conversation roleplay, tags: [trending, ai-native], note: "Practice difficult conversations with an AI partner."}
+              - {name: Workplace communication programs, tags: [b2b]}
           - name: Public speaking & presence
             children:
-              - {name: Public speaking coaching, tags: [service-business]}
-              - {name: Speech feedback AI, tags: [ai-native, no-code-friendly], note: "e.g. Yoodli."}
-              - {name: Executive presence coaching, tags: [service-business]}
+              - {name: Public speaking coaching}
+              - {name: Speech feedback AI, tags: [ai-native], note: "e.g. Yoodli."}
+              - {name: Executive presence coaching}
           - name: Emotional intelligence
             children:
-              - {name: EQ assessments, tags: [content, no-code-friendly]}
-              - {name: EQ training, tags: [b2b, service-business]}
-              - {name: Conflict-resolution training, tags: [service-business]}
-              - {name: Empathy programs for kids, tags: [content], note: "Social-emotional learning (SEL) curricula."}
+              - {name: EQ assessments}
+              - {name: EQ training, tags: [b2b]}
+              - {name: Conflict-resolution training}
+              - {name: Empathy programs for kids, note: "Social-emotional learning (SEL) curricula."}
           - name: Neurodivergent social skills
             tags: [underserved]
             children:
-              - {name: Social-skills groups, tags: [service-business]}
-              - {name: Workplace social coaching, tags: [service-business]}
-              - {name: Social-skills apps, tags: [no-code-friendly]}
+              - {name: Social-skills groups}
+              - {name: Workplace social coaching}
+              - {name: Social-skills apps}
 
       - name: Death, Grief & Legacy
         tags: [underserved]
@@ -1226,10 +1216,10 @@ children:
         children:
           - name: End-of-life planning
             children:
-              - {name: Advance directives, tags: [no-code-friendly]}
-              - {name: End-of-life planning apps, tags: [no-code-friendly]}
+              - {name: Advance directives}
+              - {name: End-of-life planning apps}
               - {name: Funeral pre-planning}
-              - {name: Death doulas, tags: [service-business]}
+              - {name: Death doulas}
               - {name: Hospice & palliative care}
           - name: Funeral services
             tags: [regulated]
@@ -1238,33 +1228,32 @@ children:
               - {name: Direct cremation}
               - {name: Green burial}
               - {name: Alternative dispositions, note: "Water cremation and human composting; legal only in some jurisdictions."}
-              - {name: Funeral price comparison, tags: [content]}
+              - {name: Funeral price comparison}
               - {name: Funeral home software, tags: [b2b]}
           - name: Memorialization
             children:
-              - {name: Online memorials, tags: [no-code-friendly]}
+              - {name: Online memorials}
               - {name: Memorial keepsakes, note: "e.g. cremation jewelry."}
               - {name: AI memorial avatars, tags: [ai-native], note: "'Griefbots'. Open ethical questions about consent and the effect on grief."}
           - name: Grief support
             see: ["Lifestyle, Home & Experiences > Pets & Animal Care > Pet lifestyle > Pet loss & grief"]
             children:
               - {name: Grief counseling}
-              - {name: Grief apps, tags: [no-code-friendly]}
+              - {name: Grief apps}
               - {name: Child grief programs}
               - {name: Workplace bereavement support, tags: [b2b]}
           - name: Digital legacy
             note: "e.g. Empathy."
             children:
-              - {name: Account closure, tags: [service-business, no-code-friendly]}
-              - {name: Digital estate vaults, tags: [no-code-friendly]}
+              - {name: Account closure}
+              - {name: Digital estate vaults}
               - {name: Crypto inheritance}
-              - {name: Legacy memoirs, tags: [service-business]}
+              - {name: Legacy memoirs}
           - name: After-death logistics
-            tags: [service-business]
             children:
               - {name: Death admin concierge}
               - {name: Survivor benefits claims}
-              - {name: Probate navigation, tags: [content]}
+              - {name: Probate navigation}
               - {name: Estate cleanout}
               - {name: Downsizing services}
   # ───────────────────────────────────────────────────────── 5
@@ -1277,27 +1266,26 @@ children:
           - name: Meditation
             children:
               - {name: Meditation studios}
-              - {name: Meditation retreats, tags: [service-business]}
-              - {name: Workplace mindfulness, tags: [b2b, service-business]}
+              - {name: Meditation retreats}
+              - {name: Workplace mindfulness, tags: [b2b]}
           - name: Breathwork
             children:
-              - {name: Breathwork apps, tags: [content, no-code-friendly]}
+              - {name: Breathwork apps}
               - {name: Breath-training devices}
           - name: Journaling & reflection
-            tags: [no-code-friendly]
             children:
               - {name: Journaling apps, note: "e.g. Day One."}
               - {name: AI journaling, tags: [ai-native]}
           - name: Somatics & embodiment
             children:
-              - {name: Somatic practitioner training, tags: [content]}
-              - {name: Nervous-system regulation apps, tags: [no-code-friendly]}
+              - {name: Somatic practitioner training}
+              - {name: Nervous-system regulation apps}
           - name: Digital wellness
             children:
-              - {name: Screen-time apps, tags: [no-code-friendly]}
+              - {name: Screen-time apps}
               - {name: Minimalist phones}
               - {name: Phone lockers & pouches, note: "e.g. Yondr."}
-              - {name: Phone-free social events, tags: [service-business]}
+              - {name: Phone-free social events}
 
       - name: Spirituality & Faith
         note: "Across traditions (Christian, Muslim, Jewish, Hindu, Buddhist, Sikh and others) and secular paths."
@@ -1306,40 +1294,38 @@ children:
             tags: [b2b]
             note: "Faith communities: giving, streaming and church management."
             children:
-              - {name: Church management, tags: [no-code-friendly]}
+              - {name: Church management}
               - {name: Giving platforms}
               - {name: Service streaming}
-              - {name: Congregant engagement apps, tags: [no-code-friendly]}
+              - {name: Congregant engagement apps}
               - {name: Faith-based school software}
           - name: Prayer & scripture
             note: "e.g. Hallow."
             children:
-              - {name: Prayer apps, tags: [content, no-code-friendly]}
-              - {name: Scripture study, tags: [content]}
-              - {name: AI scripture study, tags: [ai-native, no-code-friendly]}
-              - {name: Faith-based meditation, tags: [content]}
+              - {name: Prayer apps}
+              - {name: Scripture study}
+              - {name: AI scripture study, tags: [ai-native]}
+              - {name: Faith-based meditation}
           - name: Spiritual guidance
             children:
-              - {name: Chaplaincy services, tags: [service-business], note: "Hospitals, workplaces, universities."}
-              - {name: Online religious education, tags: [content]}
-              - {name: Astrology apps, tags: [content, no-code-friendly], note: "e.g. Co-Star."}
+              - {name: Chaplaincy services, note: "Hospitals, workplaces, universities."}
+              - {name: Online religious education}
+              - {name: Astrology apps, note: "e.g. Co-Star."}
 
       - name: Purpose & Life Transitions
         note: "Guidance on direction and life stages. Self-directed growth products live in Personal Development."
         children:
           - name: Life coaching
             children:
-              - {name: Coach certification, tags: [content]}
-              - {name: Coaching marketplaces, tags: [marketplace]}
-              - {name: AI life coaches, tags: [ai-native, no-code-friendly]}
-              - {name: Coaching practice software, tags: [b2b, no-code-friendly]}
+              - {name: Coach certification}
+              - {name: Coaching marketplaces}
+              - {name: AI life coaches, tags: [ai-native]}
+              - {name: Coaching practice software, tags: [b2b]}
           - name: Self-discovery
-            tags: [content, no-code-friendly]
             children:
               - {name: Strengths & values assessments}
               - {name: Personality assessments}
           - name: Life-stage transitions
-            tags: [service-business, content]
             children:
               - {name: Midlife reinvention}
               - {name: Encore careers, note: "Un-retirement and second careers after 60."}
@@ -1350,58 +1336,54 @@ children:
         children:
           - name: Self-help content
             children:
-              - {name: Book summaries & audio, tags: [content]}
-              - {name: Personal development apps, tags: [no-code-friendly]}
-              - {name: Challenge programs, tags: [content, no-code-friendly], note: "e.g. 30-day and 75-day challenges."}
+              - {name: Book summaries & audio}
+              - {name: Personal development apps}
+              - {name: Challenge programs, note: "e.g. 30-day and 75-day challenges."}
           - name: Inner-work programs
             note: "Non-clinical. Clinical care lives in Mental Health."
             children:
-              - {name: Body-image programs, tags: [content]}
-              - {name: Resilience training, tags: [service-business]}
+              - {name: Body-image programs}
+              - {name: Resilience training}
               - {name: Wilderness programs}
           - name: Performance & mindset
-            tags: [service-business]
             children:
               - {name: Peak-performance coaching}
               - {name: Mental-skills coaching, note: "For athletes, performers and executives."}
-              - {name: Habit coaching, tags: [no-code-friendly]}
+              - {name: Habit coaching}
           - name: Growth communities
-            tags: [content]
             children:
-              - {name: Men's circles, tags: [service-business]}
-              - {name: Women's circles, tags: [service-business]}
-              - {name: Mastermind groups, tags: [service-business]}
-              - {name: Peer coaching networks, tags: [marketplace]}
+              - {name: Men's circles}
+              - {name: Women's circles}
+              - {name: Mastermind groups}
+              - {name: Peer coaching networks}
 
       - name: Productivity
         children:
           - name: Tasks & habits
-            tags: [no-code-friendly]
             children:
               - {name: Gamified productivity}
-              - {name: Goal-setting & accountability, tags: [service-business]}
+              - {name: Goal-setting & accountability}
           - name: Time management
-            tags: [no-code-friendly]
             children:
               - {name: AI calendars, tags: [ai-native], note: "e.g. Motion."}
               - {name: Time tracking}
           - name: Knowledge management
             note: "Second brain / PKM."
             children:
-              - {name: Note-taking apps, tags: [content], note: "e.g. Notion, Obsidian."}
-              - {name: AI knowledge assistants, tags: [ai-native, no-code-friendly]}
+              - {name: Note-taking apps, note: "e.g. Notion, Obsidian."}
+              - {name: AI knowledge assistants, tags: [ai-native]}
           - name: ADHD-friendly productivity
             see: ["Care & Conditions > Brain & Neurological Health > Neurodivergence > Executive-function coaching"]
             children:
-              - {name: Body doubling, tags: [service-business, marketplace, no-code-friendly], note: "e.g. Flow Club, Focusmate."}
-              - {name: ADHD planners, tags: [content]}
-              - {name: AI task breakdown, tags: [ai-native, no-code-friendly]}
+              - {name: Body doubling, note: "e.g. Flow Club, Focusmate."}
+              - {name: ADHD planners}
+              - {name: AI task breakdown, tags: [ai-native]}
           - name: AI personal assistants
             tags: [trending, ai-native]
             children:
               - {name: Personal AI agents}
               - {name: AI browser agents}
-              - {name: Inbox & email AI, tags: [no-code-friendly]}
+              - {name: Inbox & email AI}
               - {name: AI answer engines}
               - {name: AI glasses & wearables, note: "AI-glasses shipments grew 263% in H1 2026, led by Ray-Ban Meta."}
 
@@ -1410,11 +1392,11 @@ children:
         children:
           - name: Online learning
             children:
-              - {name: Cohort-based courses, tags: [content]}
+              - {name: Cohort-based courses}
               - {name: Masterclass platforms}
-              - {name: Microlearning apps, tags: [content, no-code-friendly]}
+              - {name: Microlearning apps}
           - name: AI tutoring
-            tags: [trending, ai-native, no-code-friendly]
+            tags: [trending, ai-native]
             children:
               - {name: AI tutors, note: "e.g. Khanmigo."}
               - {name: AI reading coaches}
@@ -1422,63 +1404,63 @@ children:
               - {name: AI study tools}
           - name: Test prep & credentials
             children:
-              - {name: Test prep, tags: [service-business, content]}
-              - {name: Professional certifications, tags: [content]}
-              - {name: Micro-credentials, tags: [content]}
+              - {name: Test prep}
+              - {name: Professional certifications}
+              - {name: Micro-credentials}
               - {name: Credential verification, tags: [b2b]}
               - {name: Online proctoring, tags: [b2b]}
           - name: Language learning
             children:
-              - {name: AI language tutors, tags: [ai-native, no-code-friendly]}
-              - {name: Conversation practice, tags: [service-business, marketplace]}
-              - {name: Workplace English, tags: [service-business]}
-              - {name: Heritage-language programs, tags: [service-business, content]}
+              - {name: AI language tutors, tags: [ai-native]}
+              - {name: Conversation practice}
+              - {name: Workplace English}
+              - {name: Heritage-language programs}
           - name: K-12 & alternatives
             children:
-              - {name: Homeschooling, tags: [content]}
-              - {name: Learning pods, tags: [service-business, marketplace]}
-              - {name: Tutoring, tags: [service-business, marketplace]}
+              - {name: Homeschooling}
+              - {name: Learning pods}
+              - {name: Tutoring}
               - {name: Microschools}
               - {name: Special education, tags: [underserved]}
           - name: Early & enrichment learning
             children:
-              - {name: Early-learning apps, tags: [no-code-friendly]}
+              - {name: Early-learning apps}
               - {name: Preschools}
-              - {name: Kids' coding classes, tags: [service-business]}
-              - {name: Music lessons, tags: [service-business, marketplace]}
-              - {name: After-school programs, tags: [service-business]}
+              - {name: Kids' coding classes}
+              - {name: Music lessons}
+              - {name: After-school programs}
           - name: Higher education
             children:
-              - {name: College admissions, tags: [service-business, content]}
-              - {name: Financial-aid navigation, tags: [service-business, content]}
+              - {name: College admissions}
+              - {name: Financial-aid navigation}
               - {name: Online degrees}
-              - {name: Transfer & credit mapping, tags: [content]}
+              - {name: Transfer & credit mapping}
               - {name: Student services}
               - {name: Campus mental health}
           - name: School EdTech
             tags: [b2b]
             children:
-              - {name: Teacher tools, tags: [no-code-friendly]}
-              - {name: Lesson-planning AI, tags: [ai-native, no-code-friendly]}
-              - {name: AI grading & assessment, tags: [ai-native, no-code-friendly]}
-              - {name: Curriculum marketplaces, tags: [content, marketplace]}
+              - {name: Teacher tools}
+              - {name: Lesson-planning AI, tags: [ai-native]}
+              - {name: AI grading & assessment, tags: [ai-native]}
+              - {name: Curriculum marketplaces}
               - {name: School management}
-              - {name: Parent-school communication, tags: [no-code-friendly]}
+              - {name: Parent-school communication}
               - {name: Academic-integrity tools}
 
       - name: Creativity & Craft
         children:
           - name: Writing
             children:
-              - {name: Writing tools, tags: [no-code-friendly]}
-              - {name: AI writing assistants, tags: [ai-native, no-code-friendly]}
+              - {name: Writing tools}
+              - {name: AI writing assistants, tags: [ai-native]}
               - {name: Screenwriting software}
-              - {name: Self-publishing, tags: [service-business, content]}
+              - {name: Self-publishing}
           - name: Music creation
             children:
-              - {name: Music production, tags: [service-business, content], note: "DAWs and plugins."}
-              - {name: Sample marketplaces, tags: [content, marketplace], note: "e.g. Splice."}
-              - {name: Instrument learning, tags: [service-business, content]}
+              - {name: Music production, note: "DAWs and plugins."}
+              - {name: Sample marketplaces, note: "e.g. Splice."}
+              - {name: Instrument learning}
               - {name: AI music tools, tags: [ai-native]}
               - {name: Music distribution, note: "e.g. DistroKid."}
           - name: Visual arts & craft
@@ -1486,87 +1468,85 @@ children:
             children:
               - {name: Pottery studios}
               - {name: Digital art tools, note: "e.g. Procreate."}
-              - {name: Craft kits, tags: [content]}
-              - {name: Artist marketplaces, tags: [marketplace]}
+              - {name: Craft kits}
+              - {name: Artist marketplaces}
           - name: Fiber arts
             children:
-              - {name: Pattern marketplaces, tags: [content, marketplace]}
+              - {name: Pattern marketplaces}
               - {name: Yarn & fabric DTC}
           - name: Photo & video
             children:
-              - {name: Film photography, tags: [content], note: "Part of the Gen Z analog revival."}
+              - {name: Film photography, note: "Part of the Gen Z analog revival."}
               - {name: Editing tools}
               - {name: AI video generation, tags: [trending, ai-native]}
-              - {name: Stock media marketplaces, tags: [content, marketplace]}
+              - {name: Stock media marketplaces}
           - name: Maker culture
             children:
-              - {name: 3D printing, tags: [service-business, content]}
+              - {name: 3D printing}
               - {name: Electronics kits}
               - {name: CNC & laser cutters}
           - name: Performing arts
-            tags: [service-business]
             note: "Taking part yourself, as opposed to attending."
             children:
               - {name: Dance classes}
-              - {name: Voice & singing lessons, tags: [marketplace]}
+              - {name: Voice & singing lessons}
 
       - name: Career Development
         children:
           - name: Job search
             children:
-              - {name: Resume tools, tags: [service-business, no-code-friendly]}
-              - {name: AI job-application tools, tags: [ai-native, no-code-friendly]}
-              - {name: Interview preparation, tags: [service-business, no-code-friendly]}
-              - {name: Salary negotiation tools, tags: [service-business, content]}
+              - {name: Resume tools}
+              - {name: AI job-application tools, tags: [ai-native]}
+              - {name: Interview preparation}
+              - {name: Salary negotiation tools}
           - name: Upskilling
             note: "Covers communication, project management, data, software, sales, cybersecurity and AI skills."
             children:
-              - {name: AI upskilling, tags: [trending, service-business, content]}
-              - {name: Leadership development, tags: [service-business]}
-              - {name: Manager training, tags: [service-business, content]}
-              - {name: Technical upskilling, tags: [content]}
-              - {name: Sales training, tags: [service-business, content]}
+              - {name: AI upskilling, tags: [trending]}
+              - {name: Leadership development}
+              - {name: Manager training}
+              - {name: Technical upskilling}
+              - {name: Sales training}
               - {name: Education-benefit platforms, tags: [b2b], note: "Employer-paid tuition, e.g. Guild."}
           - name: Career transitions
             children:
-              - {name: Career coaching, tags: [service-business]}
-              - {name: Career switching, tags: [service-business, content]}
+              - {name: Career coaching}
+              - {name: Career switching}
               - {name: Returnships, tags: [underserved], note: "Career re-entry, e.g. for caregivers."}
-              - {name: Veterans' transition, tags: [underserved, service-business, content]}
-              - {name: Outplacement, tags: [service-business]}
+              - {name: Veterans' transition, tags: [underserved]}
+              - {name: Outplacement}
           - name: Inclusive employment
             tags: [underserved]
             children:
-              - {name: Neurodivergent hiring, tags: [service-business], note: "e.g. autism-hiring programs."}
+              - {name: Neurodivergent hiring, note: "e.g. autism-hiring programs."}
               - {name: Disability employment}
-              - {name: Workplace accommodations tools, tags: [no-code-friendly]}
-              - {name: Older-worker hiring, tags: [marketplace]}
+              - {name: Workplace accommodations tools}
+              - {name: Older-worker hiring}
               - {name: Refugee & immigrant employment}
-              - {name: Second-chance hiring, tags: [marketplace]}
+              - {name: Second-chance hiring}
           - name: Skilled trades careers
             see: ["Wealth > Entrepreneurship > Small business > Skilled-trades businesses"]
             children:
               - {name: Trade schools}
-              - {name: Apprenticeship marketplaces, tags: [marketplace]}
-              - {name: Licensing exam prep, tags: [content]}
-              - {name: Trade job boards, tags: [marketplace]}
-              - {name: Trades continuing education, tags: [content]}
+              - {name: Apprenticeship marketplaces}
+              - {name: Licensing exam prep}
+              - {name: Trade job boards}
+              - {name: Trades continuing education}
           - name: Work arrangements
-            tags: [marketplace]
             see: ["Wealth > Entrepreneurship > Freelancing & fractional"]
             children:
               - {name: Flexible & part-time jobs}
-              - {name: Interim management, tags: [service-business]}
+              - {name: Interim management}
           - name: Professional networking
             children:
-              - {name: Professional communities, tags: [content]}
-              - {name: Mentorship platforms, tags: [marketplace]}
-              - {name: Personal branding tools, tags: [service-business, no-code-friendly]}
-              - {name: Warm-intro tools, tags: [no-code-friendly]}
+              - {name: Professional communities}
+              - {name: Mentorship platforms}
+              - {name: Personal branding tools}
+              - {name: Warm-intro tools}
           - name: Workplace navigation
             children:
-              - {name: Salary data platforms, tags: [content]}
-              - {name: Leave navigation, tags: [service-business, content], note: "Parental, medical and caregiving leave."}
+              - {name: Salary data platforms}
+              - {name: Leave navigation, note: "Parental, medical and caregiving leave."}
               - {name: Employment-law help, tags: [regulated]}
   # ───────────────────────────────────────────────────────── 6
   - name: Lifestyle, Home & Experiences
@@ -1576,38 +1556,37 @@ children:
         children:
           - name: Trip planning
             children:
-              - {name: AI trip planners, tags: [ai-native, no-code-friendly], note: "e.g. Mindtrip."}
-              - {name: Itinerary apps, tags: [no-code-friendly]}
-              - {name: Group trip planning, tags: [service-business, no-code-friendly]}
-              - {name: Creator travel guides, tags: [content]}
-              - {name: Travel rewards, tags: [content]}
+              - {name: AI trip planners, tags: [ai-native], note: "e.g. Mindtrip."}
+              - {name: Itinerary apps}
+              - {name: Group trip planning}
+              - {name: Creator travel guides}
+              - {name: Travel rewards}
           - name: Experiential travel
             children:
-              - {name: Adventure tours, tags: [service-business]}
-              - {name: Culinary travel, tags: [service-business]}
-              - {name: Sports & event travel, tags: [service-business]}
-              - {name: Experiences marketplaces, tags: [marketplace]}
+              - {name: Adventure tours}
+              - {name: Culinary travel}
+              - {name: Sports & event travel}
+              - {name: Experiences marketplaces}
           - name: Digital nomadism
             see:
               - "Lifestyle, Home & Experiences > Home & Living > Living arrangements > Coliving"
               - "Wealth > Tax & Legal > Tax planning > International & expat tax"
             children:
-              - {name: Nomad communities, tags: [content], note: "e.g. Nomad List."}
+              - {name: Nomad communities, note: "e.g. Nomad List."}
               - {name: Coworking passes}
-              - {name: Remote-work retreats, tags: [service-business]}
+              - {name: Remote-work retreats}
               - {name: Nomad insurance}
           - name: Wellness travel
             children:
-              - {name: Wellness retreats, tags: [service-business]}
-              - {name: Fitness retreats, tags: [service-business]}
+              - {name: Wellness retreats}
+              - {name: Fitness retreats}
               - {name: Longevity retreats}
           - name: Traveler segments
-            tags: [content]
             children:
-              - {name: Solo travel, tags: [service-business]}
+              - {name: Solo travel}
               - {name: Family travel}
-              - {name: Senior travel, tags: [service-business]}
-              - {name: Accessible travel, tags: [underserved, service-business]}
+              - {name: Senior travel}
+              - {name: Accessible travel, tags: [underserved]}
           - name: Road & outdoor travel
             children:
               - {name: RV rentals, note: "Peer-to-peer, e.g. Outdoorsy."}
@@ -1619,9 +1598,9 @@ children:
             children:
               - {name: Hotel property management}
               - {name: Hotel revenue management}
-              - {name: Guest messaging, tags: [no-code-friendly]}
-              - {name: Direct booking engines, tags: [no-code-friendly]}
-              - {name: Tour-operator software, tags: [no-code-friendly]}
+              - {name: Guest messaging}
+              - {name: Direct booking engines}
+              - {name: Tour-operator software}
               - {name: Overtourism management}
 
       - name: Food & Beverage
@@ -1630,10 +1609,10 @@ children:
             see: ["Health & Wellness > Nutrition & Metabolic Health > GLP-1 economy > GLP-1 companion foods"]
             children:
               - {name: Prepared meals}
-              - {name: Personal chefs, tags: [service-business, marketplace]}
+              - {name: Personal chefs}
               - {name: Kids' & school meals}
               - {name: Corporate catering, tags: [b2b]}
-              - {name: Meal-planning apps, tags: [no-code-friendly]}
+              - {name: Meal-planning apps}
               - {name: Senior meal delivery, tags: [underserved]}
           - name: Better-for-you foods
             children:
@@ -1651,73 +1630,73 @@ children:
             children:
               - {name: Restaurant ops software}
               - {name: Restaurant POS, note: "e.g. Toast."}
-              - {name: Online ordering & loyalty, tags: [no-code-friendly]}
-              - {name: Reservations & waitlists, tags: [no-code-friendly]}
+              - {name: Online ordering & loyalty}
+              - {name: Reservations & waitlists}
               - {name: Kitchen automation}
-              - {name: Restaurant supplier marketplaces, tags: [marketplace]}
+              - {name: Restaurant supplier marketplaces}
           - name: Artisanal & local food
             children:
               - {name: Specialty food DTC}
-              - {name: Cottage-food businesses, tags: [regulated, content], note: "Home food businesses under state cottage-food laws."}
+              - {name: Cottage-food businesses, tags: [regulated], note: "Home food businesses under state cottage-food laws."}
               - {name: Food incubators & commissaries, tags: [b2b]}
           - name: Food waste
             see: ["Planet & Frontier > Climate & Energy > Circular economy"]
             children:
-              - {name: Surplus-food apps, tags: [marketplace, no-code-friendly], note: "e.g. Too Good To Go."}
+              - {name: Surplus-food apps, note: "e.g. Too Good To Go."}
               - {name: Food donation logistics, tags: [b2b]}
               - {name: Food-freshness tracking}
               - {name: Home composting}
               - {name: Upcycled foods}
           - name: Cooking & groceries
             children:
-              - {name: AI cooking assistants, tags: [ai-native, no-code-friendly]}
+              - {name: AI cooking assistants, tags: [ai-native]}
               - {name: Smart cooking appliances}
-              - {name: Grocery price comparison, tags: [no-code-friendly]}
+              - {name: Grocery price comparison}
 
       - name: Home & Living
         children:
           - name: Smart home
             children:
-              - {name: Smart-home installation, tags: [service-business]}
+              - {name: Smart-home installation}
               - {name: Home security}
               - {name: Home robots, note: "Robot vacuums, mowers and pool cleaners."}
               - {name: Home energy monitors}
               - {name: Water-leak sensors}
           - name: Design & decor
             children:
-              - {name: E-design, tags: [service-business], note: "e.g. Havenly."}
-              - {name: AI interior design, tags: [ai-native, no-code-friendly]}
+              - {name: E-design, note: "e.g. Havenly."}
+              - {name: AI interior design, tags: [ai-native]}
           - name: Organizing & moving
             children:
-              - {name: Decluttering services, tags: [service-business]}
-              - {name: Home inventory apps, tags: [no-code-friendly]}
+              - {name: Decluttering services}
+              - {name: Home inventory apps}
               - {name: Moving services}
-              - {name: Move admin, tags: [service-business, no-code-friendly], note: "Utilities, address changes and service setup."}
-              - {name: Senior move management, tags: [service-business]}
+              - {name: Move admin, note: "Utilities, address changes and service setup."}
+              - {name: Senior move management}
           - name: Home improvement
             children:
-              - {name: Renovation platforms, tags: [marketplace]}
+              - {name: Renovation platforms}
               - {name: Renovation financing, tags: [regulated]}
               - {name: Home accessibility retrofits}
-              - {name: Home maintenance apps, tags: [no-code-friendly]}
+              - {name: Home maintenance apps}
               - {name: Home inspection}
           - name: Home services
             note: "e.g. Thumbtack, TaskRabbit."
             children:
-              - {name: Handyman marketplaces, tags: [marketplace]}
-              - {name: Cleaning services, tags: [service-business]}
-              - {name: Lawn & pest services, tags: [service-business]}
-              - {name: Field-service software, tags: [b2b, no-code-friendly], note: "Scheduling, dispatch and invoicing for trades, e.g. Jobber."}
+              - {name: Handyman marketplaces}
+              - {name: Cleaning services}
+              - {name: Lawn & pest services}
+              - {name: Field-service software, tags: [b2b], note: "Scheduling, dispatch and invoicing for trades, e.g. Jobber."}
           - name: Gardening & plants
             children:
               - {name: Seed & plant DTC}
-              - {name: Landscape design, tags: [service-business]}
-              - {name: Native & drought-tolerant landscaping, tags: [service-business, content]}
+              - {name: Landscape design}
+              - {name: Native & drought-tolerant landscaping}
           - name: Living arrangements
             children:
               - {name: Coliving, note: "e.g. Habyt, Tripalink. Early leader Common shut down in 2024."}
               - {name: ADUs & tiny homes}
-              - {name: Roommate matching, tags: [marketplace, no-code-friendly]}
+              - {name: Roommate matching}
           - name: Home electrification
             see: ["Planet & Frontier > Climate & Energy > Clean power"]
             children:
@@ -1725,8 +1704,8 @@ children:
               - {name: Rooftop solar}
               - {name: Home batteries}
               - {name: Induction cooking}
-              - {name: Energy audits, tags: [service-business]}
-              - {name: Rebate navigation, tags: [service-business, content, no-code-friendly], note: "Finding and claiming electrification incentives."}
+              - {name: Energy audits}
+              - {name: Rebate navigation, note: "Finding and claiming electrification incentives."}
 
       - name: Fashion & Beauty
         see: ["Care & Conditions > Specialty Care > Dermatology"]
@@ -1738,7 +1717,7 @@ children:
               - {name: Resale marketplaces}
               - {name: Luxury resale}
               - {name: Resale-as-a-service, tags: [b2b], note: "Brand take-back and resale programs."}
-              - {name: Repair & upcycling, tags: [service-business]}
+              - {name: Repair & upcycling}
           - name: Inclusive fashion
             tags: [underserved]
             children:
@@ -1751,27 +1730,27 @@ children:
             children:
               - {name: K-beauty, tags: [trending]}
               - {name: Inclusive beauty, note: "Diverse shade ranges (the 'Fenty effect')."}
-              - {name: Textured hair care, tags: [service-business, content]}
-              - {name: Nail care, tags: [service-business]}
+              - {name: Textured hair care}
+              - {name: Nail care}
               - {name: Fragrance}
           - name: Fashion & beauty tech
             children:
               - {name: Virtual try-on}
-              - {name: AI styling assistants, tags: [ai-native, no-code-friendly]}
+              - {name: AI styling assistants, tags: [ai-native]}
               - {name: Size & fit tech}
               - {name: AI skin analysis, tags: [ai-native]}
               - {name: On-demand apparel manufacturing, tags: [b2b]}
           - name: Men's grooming
             children:
               - {name: Men's skincare}
-              - {name: Barbershop booking, tags: [no-code-friendly]}
+              - {name: Barbershop booking}
           - name: Salon & spa tech
             tags: [b2b]
             children:
-              - {name: Salon booking software, tags: [no-code-friendly]}
+              - {name: Salon booking software}
               - {name: Salon management}
-              - {name: Salon-suite rental platforms, tags: [marketplace]}
-              - {name: Beauty-pro marketplaces, tags: [marketplace]}
+              - {name: Salon-suite rental platforms}
+              - {name: Beauty-pro marketplaces}
               - {name: Beauty-pro payments}
 
       - name: Pets & Animal Care
@@ -1800,17 +1779,17 @@ children:
           - name: Pet services
             note: "e.g. Rover."
             children:
-              - {name: Pet grooming, tags: [service-business]}
-              - {name: Mobile grooming, tags: [service-business]}
+              - {name: Pet grooming}
+              - {name: Mobile grooming}
               - {name: Boarding & daycare}
-              - {name: Pet sitting, tags: [service-business, marketplace]}
-              - {name: Training & behavior, tags: [service-business, content]}
+              - {name: Pet sitting}
+              - {name: Training & behavior}
           - name: Pet lifestyle
             children:
               - {name: Pet adoption}
-              - {name: Pet-friendly travel, tags: [content]}
+              - {name: Pet-friendly travel}
               - {name: Pet aftercare}
-              - {name: Pet loss & grief, tags: [content]}
+              - {name: Pet loss & grief}
 
       - name: Sports & Hobbies
         see: ["Health & Wellness > Fitness & Recovery > Youth sports"]
@@ -1818,47 +1797,46 @@ children:
           - name: Racquet sports
             tags: [trending]
             children:
-              - {name: Pickleball, tags: [service-business, content], note: "Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026)."}
-              - {name: Padel, tags: [content]}
+              - {name: Pickleball, note: "Fastest-growing US sport five years running; 24.3M US players in 2025 (SFIA 2026)."}
+              - {name: Padel}
               - {name: Indoor pickleball venues}
-              - {name: Court booking, tags: [no-code-friendly]}
-              - {name: Racquet coaching apps, tags: [no-code-friendly]}
+              - {name: Court booking}
+              - {name: Racquet coaching apps}
           - name: Social sports
             children:
-              - {name: Run clubs, tags: [trending, service-business, content]}
-              - {name: Fitness racing, tags: [trending, content], note: "e.g. Hyrox."}
-              - {name: Adult rec leagues, tags: [service-business]}
-              - {name: Pickup-game apps, tags: [no-code-friendly]}
+              - {name: Run clubs, tags: [trending]}
+              - {name: Fitness racing, tags: [trending], note: "e.g. Hyrox."}
+              - {name: Adult rec leagues}
+              - {name: Pickup-game apps}
               - {name: Golf entertainment, note: "e.g. Topgolf (majority-owned by Leonard Green since 2026), simulators."}
           - name: Women's sports
             tags: [trending]
             children:
               - {name: Pro leagues & fandom}
-              - {name: Women's sports media, tags: [content]}
+              - {name: Women's sports media}
               - {name: Women's sports gear}
-              - {name: Girls' sports participation, tags: [service-business]}
+              - {name: Girls' sports participation}
           - name: Fandom & spectating
             children:
-              - {name: Fan engagement apps, tags: [no-code-friendly]}
+              - {name: Fan engagement apps}
               - {name: Watch-party venues}
               - {name: Amateur sports streaming}
               - {name: Stadium tech, tags: [b2b]}
           - name: Games & puzzles
             children:
-              - {name: Chess, tags: [service-business, content]}
-              - {name: Tabletop RPGs, tags: [service-business, content]}
-              - {name: Word games, tags: [no-code-friendly]}
+              - {name: Chess}
+              - {name: Tabletop RPGs}
+              - {name: Word games}
           - name: Collecting
             see: ["Wealth > Investing & Trading > Alternative investments > Collectible assets"]
             children:
-              - {name: Trading cards, tags: [content]}
+              - {name: Trading cards}
               - {name: Designer toys & blind boxes, note: "e.g. Pop Mart's Labubu."}
-              - {name: Live collectible auctions, tags: [trending, content], note: "Live-stream breaks and auctions, e.g. Whatnot."}
+              - {name: Live collectible auctions, tags: [trending], note: "Live-stream breaks and auctions, e.g. Whatnot."}
               - {name: Grading & authentication}
           - name: Reading
-            tags: [no-code-friendly]
             children:
-              - {name: Book discovery, tags: [content], note: "BookTok."}
+              - {name: Book discovery, note: "BookTok."}
               - {name: Reading trackers}
 
       - name: Entertainment & Events
@@ -1868,11 +1846,11 @@ children:
               - {name: FAST channels, note: "Free ad-supported streaming TV."}
               - {name: International content streaming}
               - {name: Microdramas, tags: [trending]}
-              - {name: Creator-led media, tags: [content]}
+              - {name: Creator-led media}
           - name: Podcasts & audio
             children:
-              - {name: Audio dramas & fiction, tags: [content]}
-              - {name: Audio creator tools, tags: [no-code-friendly]}
+              - {name: Audio dramas & fiction}
+              - {name: Audio creator tools}
               - {name: Podcast advertising, tags: [b2b]}
           - name: Gaming
             children:
@@ -1882,37 +1860,37 @@ children:
               - {name: AI game-dev tools, tags: [ai-native]}
           - name: Live events
             children:
-              - {name: Local event discovery, tags: [content, no-code-friendly]}
+              - {name: Local event discovery}
               - {name: Ticketing}
               - {name: Ticket resale, tags: [regulated]}
           - name: Nightlife & venues
             children:
               - {name: Eatertainment venues}
-              - {name: Sober nightlife, tags: [service-business]}
-              - {name: Table & guest-list apps, tags: [no-code-friendly]}
+              - {name: Sober nightlife}
+              - {name: Table & guest-list apps}
               - {name: Venue management software, tags: [b2b]}
           - name: Immersive experiences
             children:
               - {name: Immersive theater}
               - {name: Interactive art}
-              - {name: Themed pop-ups, tags: [service-business]}
+              - {name: Themed pop-ups}
               - {name: Location-based AR}
           - name: Weddings
             children:
-              - {name: Wedding planning platforms, tags: [no-code-friendly]}
+              - {name: Wedding planning platforms}
               - {name: Registries}
               - {name: Wedding attire}
-              - {name: Elopements & micro-weddings, tags: [service-business, marketplace]}
+              - {name: Elopements & micro-weddings}
               - {name: Wedding vendor software, tags: [b2b]}
           - name: Celebrations & gifting
             children:
-              - {name: Party planning, tags: [service-business]}
-              - {name: Kids' parties, tags: [service-business]}
+              - {name: Party planning}
+              - {name: Kids' parties}
               - {name: Gifting platforms}
               - {name: Personalized gifts}
-              - {name: Group gifting, tags: [no-code-friendly]}
-              - {name: Corporate gifting, tags: [b2b, service-business]}
-              - {name: Team experiences, tags: [b2b, service-business, marketplace]}
+              - {name: Group gifting}
+              - {name: Corporate gifting, tags: [b2b]}
+              - {name: Team experiences, tags: [b2b]}
 
       - name: Cars & Transportation
         children:
@@ -1921,19 +1899,18 @@ children:
               - {name: Online car buying, note: "e.g. Carvana."}
               - {name: Car marketplaces}
               - {name: Trade-in valuation}
-              - {name: Used-car inspections, tags: [service-business]}
-              - {name: Car-buying advisors, tags: [service-business]}
+              - {name: Used-car inspections}
+              - {name: Car-buying advisors}
           - name: Car ownership
             see: ["Wealth > Insurance > Property & casualty > Auto insurance"]
             children:
               - {name: Maintenance & repair}
-              - {name: Mobile mechanics, tags: [service-business]}
-              - {name: Detailing & care, tags: [service-business]}
+              - {name: Mobile mechanics}
+              - {name: Detailing & care}
               - {name: Connected-car apps}
               - {name: Parking apps}
               - {name: Tolls & tickets}
           - name: Car enthusiasts
-            tags: [content]
             children:
               - {name: Collector cars}
               - {name: Parts & modification}
@@ -1943,7 +1920,7 @@ children:
               - {name: Home charging}
               - {name: Charger installation}
               - {name: Charging apps}
-              - {name: Used EVs & battery health, tags: [content]}
+              - {name: Used EVs & battery health}
           - name: Micromobility
             children:
               - {name: E-bikes}
@@ -1973,10 +1950,10 @@ children:
           - name: AI agents
             see: ["Enterprise & AI > Cybersecurity & Trust > Security for AI > AI agent security"]
             children:
-              - {name: Vertical agents, tags: [no-code-friendly], note: "Legal, sales, healthcare and other industry agents."}
+              - {name: Vertical agents, note: "Legal, sales, healthcare and other industry agents."}
               - {name: Coding agents}
               - {name: Computer-use agents}
-              - {name: Workflow automation, tags: [service-business, no-code-friendly]}
+              - {name: Workflow automation}
               - {name: Agent orchestration}
               - {name: Agent memory & context}
               - {name: Agent tool protocols, note: "e.g. MCP servers and tool registries."}
@@ -2003,7 +1980,7 @@ children:
               - {name: Edge AI}
           - name: Data infrastructure
             children:
-              - {name: Data labeling, tags: [service-business]}
+              - {name: Data labeling}
               - {name: Synthetic data}
               - {name: Web data APIs}
               - {name: Training-data licensing}
@@ -2027,11 +2004,11 @@ children:
               - {name: Code modernization AI}
           - name: No-code & low-code
             children:
-              - {name: App builders, tags: [service-business, content]}
-              - {name: Internal-tool builders, tags: [service-business]}
+              - {name: App builders}
+              - {name: Internal-tool builders}
               - {name: Spreadsheet-database builders, note: "e.g. Airtable."}
               - {name: AI app generators, tags: [trending, ai-native], note: "'Vibe coding.'"}
-              - {name: Workflow builders, tags: [service-business, no-code-friendly]}
+              - {name: Workflow builders}
           - name: Testing & quality
             children:
               - {name: Test automation}
@@ -2063,7 +2040,7 @@ children:
               - {name: API management}
               - {name: SDK generation}
               - {name: Webhook infrastructure}
-              - {name: Integration platforms, tags: [service-business, no-code-friendly]}
+              - {name: Integration platforms}
 
       - name: Cybersecurity & Trust
         children:
@@ -2098,7 +2075,7 @@ children:
               - {name: Backup & ransomware recovery}
           - name: Human risk
             children:
-              - {name: Security awareness training, tags: [service-business, content]}
+              - {name: Security awareness training}
               - {name: Phishing simulation}
               - {name: Insider-risk management}
           - name: Security for AI
@@ -2123,8 +2100,8 @@ children:
             see: ["Wealth > Insurance > Specialty lines > Cyber insurance"]
             children:
               - {name: Identity-theft protection}
-              - {name: Data-broker removal, tags: [service-business, no-code-friendly]}
-              - {name: Scam protection, tags: [content], note: "Includes elder-fraud protection."}
+              - {name: Data-broker removal}
+              - {name: Scam protection, note: "Includes elder-fraud protection."}
               - {name: Privacy tools}
 
       - name: Work & HR Tech
@@ -2143,13 +2120,13 @@ children:
             children:
               - {name: HRIS}
               - {name: Performance management}
-              - {name: Engagement surveys, tags: [no-code-friendly]}
+              - {name: Engagement surveys}
               - {name: People analytics}
               - {name: Compensation benchmarking}
           - name: Collaboration
             children:
               - {name: Async collaboration}
-              - {name: Internal communications, tags: [service-business]}
+              - {name: Internal communications}
               - {name: Enterprise knowledge bases}
               - {name: AI meeting notetakers, tags: [ai-native], note: "Now bundled into Zoom, Teams and Google Meet."}
           - name: Employee wellbeing
@@ -2160,13 +2137,13 @@ children:
               - {name: Mental-health benefits}
               - {name: Caregiving benefits}
               - {name: Benefits administration}
-              - {name: Recognition & rewards, tags: [no-code-friendly]}
+              - {name: Recognition & rewards}
           - name: Learning & development
             children:
               - {name: L&D platforms}
-              - {name: Coaching platforms, tags: [marketplace], note: "e.g. BetterUp."}
-              - {name: Compliance training, tags: [service-business, content]}
-              - {name: Mentoring software, tags: [no-code-friendly]}
+              - {name: Coaching platforms, note: "e.g. BetterUp."}
+              - {name: Compliance training}
+              - {name: Mentoring software}
               - {name: Skills intelligence}
               - {name: Internal mobility}
           - name: Global workforce
@@ -2179,10 +2156,10 @@ children:
               - {name: Employee relocation}
           - name: Frontline workforce
             children:
-              - {name: Shift scheduling, tags: [no-code-friendly]}
+              - {name: Shift scheduling}
               - {name: Shift marketplaces, note: "e.g. Instawork."}
               - {name: Frontline communication}
-              - {name: Frontline training, tags: [content]}
+              - {name: Frontline training}
               - {name: Workforce management}
 
       - name: Legal & Compliance Tech
@@ -2195,12 +2172,12 @@ children:
               - {name: Legal research AI}
               - {name: eDiscovery}
               - {name: Litigation analytics}
-              - {name: AI for small firms, tags: [no-code-friendly]}
+              - {name: AI for small firms}
           - name: Legal operations
             children:
               - {name: Contract lifecycle management}
               - {name: Matter management}
-              - {name: Legal intake & triage, tags: [no-code-friendly]}
+              - {name: Legal intake & triage}
               - {name: Legal spend management}
               - {name: Entity management}
               - {name: Law-firm practice management}
@@ -2220,19 +2197,19 @@ children:
           - name: ESG & sustainability reporting
             see: ["Planet & Frontier > Climate & Energy > Carbon > Carbon accounting"]
             children:
-              - {name: CSRD reporting, tags: [service-business]}
+              - {name: CSRD reporting}
               - {name: Supply-chain due diligence}
               - {name: ESG data platforms}
           - name: AI governance
             children:
-              - {name: AI risk management, tags: [service-business]}
+              - {name: AI risk management}
               - {name: Model inventories}
-              - {name: AI audits, tags: [service-business]}
-              - {name: EU AI Act compliance, tags: [service-business, content]}
+              - {name: AI audits}
+              - {name: EU AI Act compliance}
           - name: Trade compliance
             tags: [trending]
             children:
-              - {name: Tariff management, tags: [service-business, content]}
+              - {name: Tariff management}
               - {name: Customs brokerage tech}
               - {name: Country-of-origin tracking}
               - {name: Forced-labor compliance, note: "e.g. US UFLPA."}
@@ -2242,7 +2219,7 @@ children:
             children:
               - {name: Patent search AI, tags: [ai-native]}
               - {name: IP portfolio management}
-              - {name: Trademark monitoring, tags: [service-business, no-code-friendly]}
+              - {name: Trademark monitoring}
               - {name: Open-source license compliance}
 
       - name: Marketing & Sales Tech
@@ -2250,23 +2227,23 @@ children:
           - name: Generative marketing
             tags: [ai-native]
             children:
-              - {name: AI content generation, tags: [service-business, no-code-friendly]}
-              - {name: Creative automation, tags: [service-business]}
-              - {name: AI video ads, tags: [service-business]}
+              - {name: AI content generation}
+              - {name: Creative automation}
+              - {name: AI video ads}
               - {name: Personalization engines}
-              - {name: Generative engine optimization, tags: [trending, service-business, content], note: "Getting brands surfaced in AI assistants' answers."}
+              - {name: Generative engine optimization, tags: [trending], note: "Getting brands surfaced in AI assistants' answers."}
           - name: Lifecycle marketing
             children:
-              - {name: Email & SMS marketing, tags: [service-business]}
+              - {name: Email & SMS marketing}
               - {name: Push & in-app messaging}
-              - {name: Referral programs, tags: [no-code-friendly]}
+              - {name: Referral programs}
               - {name: Community-led growth tools}
           - name: Creator platforms
             children:
-              - {name: Influencer marketplaces, tags: [marketplace]}
-              - {name: UGC marketplaces, tags: [marketplace]}
+              - {name: Influencer marketplaces}
+              - {name: UGC marketplaces}
               - {name: Affiliate networks}
-              - {name: Creator analytics, tags: [no-code-friendly]}
+              - {name: Creator analytics}
               - {name: Creator payments}
           - name: Retail media & ads
             tags: [trending]
@@ -2280,27 +2257,27 @@ children:
               - {name: Marketing mix modeling}
               - {name: Incrementality testing}
               - {name: Product analytics}
-              - {name: Server-side tracking, tags: [service-business]}
+              - {name: Server-side tracking}
               - {name: Customer data platforms}
           - name: Customer support
             tags: [trending]
             children:
-              - {name: AI support agents, tags: [ai-native, service-business, no-code-friendly]}
+              - {name: AI support agents, tags: [ai-native]}
               - {name: Voice AI contact centers, tags: [ai-native]}
               - {name: Help desks}
-              - {name: Support QA & analytics, tags: [no-code-friendly]}
+              - {name: Support QA & analytics}
           - name: Event marketing
             children:
               - {name: Event management platforms}
               - {name: Trade-show tech}
-              - {name: Direct-mail automation, tags: [no-code-friendly]}
+              - {name: Direct-mail automation}
           - name: Sales tech
             children:
-              - {name: CRM, tags: [service-business]}
+              - {name: CRM}
               - {name: AI SDRs, tags: [ai-native], note: "First-generation autonomous AI SDRs saw high churn; hybrid human-plus-AI setups are winning in 2026."}
               - {name: Sales engagement}
-              - {name: Sales data & enrichment, tags: [service-business, no-code-friendly]}
-              - {name: Sales enablement, tags: [service-business, content]}
+              - {name: Sales data & enrichment}
+              - {name: Sales enablement}
               - {name: Revenue intelligence}
               - {name: CPQ, note: "Configure-price-quote."}
 
@@ -2312,15 +2289,15 @@ children:
         children:
           - name: E-commerce enablement
             children:
-              - {name: Shopify-app ecosystem, tags: [no-code-friendly]}
-              - {name: Checkout & conversion, tags: [service-business]}
+              - {name: Shopify-app ecosystem}
+              - {name: Checkout & conversion}
               - {name: Product information management}
               - {name: Agentic commerce, tags: [trending, ai-native], note: "AI shopping agents and the tools merchants need to sell to them."}
-              - {name: Loyalty & gift cards, tags: [no-code-friendly]}
+              - {name: Loyalty & gift cards}
           - name: Marketplace selling
             children:
-              - {name: Marketplace seller tools, tags: [service-business, no-code-friendly], note: "e.g. Amazon seller software."}
-              - {name: Social-commerce seller tools, tags: [service-business, no-code-friendly], note: "e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal)."}
+              - {name: Marketplace seller tools, note: "e.g. Amazon seller software."}
+              - {name: Social-commerce seller tools, note: "e.g. TikTok Shop (still run by ByteDance after the 2026 US joint-venture deal)."}
               - {name: Wholesale marketplaces, note: "e.g. Faire."}
               - {name: Cross-border e-commerce}
           - name: Retail operations
@@ -2334,22 +2311,21 @@ children:
             children:
               - {name: Order management}
               - {name: Shipping software}
-              - {name: Post-purchase experience, tags: [no-code-friendly]}
+              - {name: Post-purchase experience}
           - name: SMB operations
-            tags: [no-code-friendly]
             note: "e.g. Jobber."
             children:
               - {name: Booking & scheduling}
               - {name: Invoicing & quotes}
-              - {name: Reviews & reputation, tags: [service-business]}
-              - {name: AI receptionists, tags: [trending, ai-native, service-business], note: "Voice agents that answer calls and book jobs for small businesses."}
+              - {name: Reviews & reputation}
+              - {name: AI receptionists, tags: [trending, ai-native], note: "Voice agents that answer calls and book jobs for small businesses."}
 
       - name: Business Finance Tech
         children:
           - name: Accounting
             children:
-              - {name: Bookkeeping, tags: [trending, ai-native, service-business], note: "AI-native bookkeeping is the growth wedge."}
-              - {name: Financial reporting, tags: [service-business]}
+              - {name: Bookkeeping, tags: [trending, ai-native], note: "AI-native bookkeeping is the growth wedge."}
+              - {name: Financial reporting}
               - {name: Close automation}
               - {name: Sales-tax compliance}
               - {name: AR automation}
@@ -2370,7 +2346,7 @@ children:
           - name: Corporate finance
             children:
               - {name: Fundraising tools}
-              - {name: FP&A, tags: [service-business]}
+              - {name: FP&A}
               - {name: Treasury management}
               - {name: M&A tools}
           - name: Equity management
@@ -2419,7 +2395,7 @@ children:
               - {name: Low-carbon chemicals}
           - name: Carbon
             children:
-              - {name: Carbon accounting, tags: [service-business, no-code-friendly]}
+              - {name: Carbon accounting}
               - {name: Carbon capture}
               - {name: Carbon removal, note: "Direct air capture, enhanced weathering, biochar."}
               - {name: MRV platforms, note: "Measurement, reporting and verification."}
@@ -2493,13 +2469,13 @@ children:
               - {name: Food traceability}
               - {name: Cold chain}
               - {name: Food-safety testing}
-              - {name: Farm-to-business marketplaces, tags: [marketplace]}
+              - {name: Farm-to-business marketplaces}
           - name: Farm operations & finance
             see: ["Wealth > Insurance > Specialty lines > Crop insurance"]
             children:
               - {name: Farm management software}
               - {name: Ag lending, tags: [regulated]}
-              - {name: Farm labor marketplaces, tags: [marketplace]}
+              - {name: Farm labor marketplaces}
 
       - name: Industry & Supply Chain
         children:
@@ -2508,7 +2484,7 @@ children:
             note: "Reshoring and smart factories."
             children:
               - {name: Reshoring platforms}
-              - {name: Contract-manufacturing marketplaces, tags: [marketplace]}
+              - {name: Contract-manufacturing marketplaces}
               - {name: Factory automation}
               - {name: Cobots}
               - {name: Manufacturing execution systems}
@@ -2539,7 +2515,7 @@ children:
               - {name: Warehouse robotics}
               - {name: Warehouse management systems}
               - {name: On-demand warehousing}
-              - {name: 3PL marketplaces, tags: [marketplace]}
+              - {name: 3PL marketplaces}
           - name: Last-mile delivery
             children:
               - {name: Route optimization}
@@ -2550,8 +2526,8 @@ children:
               - {name: Returns management}
               - {name: B2B recommerce}
               - {name: Liquidation marketplaces}
-              - {name: Refurbishment, tags: [service-business]}
-              - {name: Repair networks, tags: [service-business, marketplace]}
+              - {name: Refurbishment}
+              - {name: Repair networks}
           - name: Critical minerals
             tags: [trending]
             children:
@@ -2571,8 +2547,8 @@ children:
               - {name: Property-management software}
               - {name: Resident screening, tags: [regulated], note: "FCRA and fair-housing rules apply."}
               - {name: Rent collection}
-              - {name: Maintenance coordination, tags: [service-business, no-code-friendly]}
-              - {name: Short-term rental operations, tags: [service-business]}
+              - {name: Maintenance coordination}
+              - {name: Short-term rental operations}
           - name: Commercial real estate tech
             children:
               - {name: Lease management}
@@ -2582,15 +2558,15 @@ children:
             children:
               - {name: Construction project management}
               - {name: BIM software}
-              - {name: Takeoff & estimating AI, tags: [ai-native, service-business]}
+              - {name: Takeoff & estimating AI, tags: [ai-native]}
               - {name: Jobsite safety monitoring}
               - {name: Prefab & modular}
               - {name: Construction robotics}
-              - {name: Permitting automation, tags: [service-business, no-code-friendly]}
+              - {name: Permitting automation}
           - name: Construction supply chain
             children:
               - {name: Materials procurement}
-              - {name: Subcontractor marketplaces, tags: [marketplace]}
+              - {name: Subcontractor marketplaces}
               - {name: Construction payments & lien waivers}
               - {name: Equipment rental}
           - name: Smart buildings
@@ -2603,7 +2579,7 @@ children:
           - name: Real estate transactions
             children:
               - {name: Brokerage tech}
-              - {name: Transaction management, tags: [service-business]}
+              - {name: Transaction management}
               - {name: Home valuation, note: "Automated valuation models."}
               - {name: Mortgage tech}
               - {name: Title & escrow}
@@ -2771,7 +2747,7 @@ children:
           - name: GovTech
             children:
               - {name: Permitting software}
-              - {name: Benefits access, tags: [content, no-code-friendly]}
+              - {name: Benefits access}
               - {name: Government procurement}
               - {name: Legacy-system modernization}
               - {name: Government AI assistants, tags: [ai-native]}
@@ -2794,21 +2770,21 @@ children:
             tags: [underserved]
             children:
               - {name: AAC devices}
-              - {name: Live captioning, tags: [service-business]}
+              - {name: Live captioning}
               - {name: Sign-language AI, tags: [ai-native]}
               - {name: Cognitive-accessibility tools}
               - {name: Prosthetics & mobility aids, tags: [regulated]}
-              - {name: Accessibility compliance, tags: [trending, service-business], note: "Web and app compliance as a service."}
+              - {name: Accessibility compliance, tags: [trending], note: "Web and app compliance as a service."}
           - name: Nonprofit tech
             note: "e.g. Givebutter."
             see: ["Wealth > Retirement & Wealth Planning > Wealth management > Philanthropy & DAFs"]
             children:
               - {name: Fundraising platforms}
               - {name: Nonprofit CRM}
-              - {name: Volunteer management, tags: [no-code-friendly]}
-              - {name: Grant-seeking tools, tags: [service-business, no-code-friendly]}
+              - {name: Volunteer management}
+              - {name: Grant-seeking tools}
               - {name: Grantmaking software}
-              - {name: Impact measurement, tags: [service-business]}
+              - {name: Impact measurement}
           - name: Global development
             children:
               - {name: Emerging-market edtech}
@@ -2818,6 +2794,6 @@ children:
               - {name: Financial-inclusion infrastructure}
           - name: Civic participation & justice
             children:
-              - {name: Access to justice, tags: [content]}
+              - {name: Access to justice}
               - {name: Court modernization}
               - {name: Reentry services}
