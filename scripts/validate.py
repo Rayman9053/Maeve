@@ -12,8 +12,7 @@ Errors (must fix):
   - symbols or [tags] embedded in names
   - duplicate sibling names (case-insensitive)
   - depth > 4 (Pillar > Category > Subcategory > Leaf)
-  - a pillar or category with fewer than 3 or more than 8 children, or a subcategory
-    with fewer than 2 (MIN_LEAVES) or more than 8 leaves
+  - a non-leaf with fewer than 3 or more than 8 children (MIN_CHILDREN, MIN_LEAVES)
   - tags outside the vocabulary, repeated tags, a tag repeating an ancestor's tag,
     b2b and consumer on the same node
   - a solo-founder model other than `content` inside a `regulated` subtree

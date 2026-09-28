@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,038 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,048 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### Prevention &amp; Diagnostics
@@ -110,6 +110,7 @@ markmap:
 - <span title="Tags: regulated">Sleep disorders</span>
   - <span title="Tags: content">Insomnia &amp; CBT-I</span>
   - Sleep apnea
+  - <span title="At-home sleep-apnea tests; demand rising with GLP-1 apnea treatment.">Home sleep testing</span>
 - Infant &amp; child sleep
   - <span title="Tags: service-business, content">Sleep consultants</span>
   - Smart bassinets
@@ -129,6 +130,7 @@ markmap:
 - <span title="Tags: service-business">Stress &amp; burnout</span>
   - <span title="Tags: content">Burnout</span>
   - Workplace stress
+  - <span title="Courses and workshops for individuals and employers. | Tags: content">Stress-management programs</span>
 - Therapy access
   - Individual therapy
   - Couples therapy
@@ -202,6 +204,7 @@ markmap:
 - Biohacking
   - Longevity data dashboards
   - Smart rings 🔥
+  - <span title="Strain, HRV and recovery tracking; e.g. WHOOP.">Recovery wearables</span>
 - Age tech
   - Fall detection
   - Passive home monitoring
@@ -237,6 +240,7 @@ markmap:
 - Autoimmune disease
   - Rheumatoid arthritis
   - Hashimoto's
+  - <span title="Specialist-led virtual programs spanning autoimmune conditions.">Autoimmune virtual care</span>
 - <span title="See also: Health &amp; Wellness &gt; Nutrition &amp; Metabolic Health &gt; Personalized nutrition &gt; Microbiome testing">Digestive health ↗</span>
   - <span title="Tags: content">IBS</span>
   - IBD
@@ -264,6 +268,7 @@ markmap:
 - Foot &amp; ankle care
   - Custom orthotics
   - Podiatry telehealth
+  - <span title="Ulcer prevention and remote foot monitoring. | Tags: underserved">Diabetic foot care</span>
 - Physical rehabilitation
   - <span title="Conditioning before surgery.">Prehab</span>
   - Post-surgical rehab
@@ -567,11 +572,11 @@ markmap:
 - <span title="Tags: regulated">Home equity</span>
   - <span title="Reverse mortgages.">Equity release</span>
   - Home-equity investments
+  - <span title="Homeowner dashboards for equity, refinancing and selling; e.g. Homebot.">Home-equity tracking</span>
 ### Retirement &amp; Wealth Planning
 - Retirement planning
   - Retirement income
   - <span title="Tags: content">Social Security planning</span>
-- Retirement accounts
   - IRAs &amp; 401(k)s
   - <span title="Tags: b2b">Small-business retirement plans</span>
 - <span title="Tags: regulated">Wealth management</span>
@@ -681,6 +686,7 @@ markmap:
 - Dating platforms
   - Curated apps
   - <span title="Tags: service-business, no-code-friendly">Profile optimization</span>
+  - <span title="Apps that route matches to events and in-person meetups as swipe fatigue grows.">IRL-first dating apps</span>
 - <span title="Tags: ai-native, no-code-friendly">AI dating tools</span>
   - AI profile writing
   - AI message coaching
@@ -782,15 +788,14 @@ markmap:
   - <span title="Tags: service-business, no-code-friendly">Name-change services</span>
   - <span title="Tags: service-business, content">Breakup coaching</span>
 ### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
-- <span title="Tags: content">Parenting stages</span>
-  - Newborns
-  - Teens
 - <span title="Covers parent-child communication, discipline and emotional connection.">Parenting support</span>
   - <span title="Tags: service-business">Parent coaching</span>
   - <span title="Tags: content">Parenting courses</span>
   - <span title="Tags: content">Parenting communities</span>
   - <span title="Tags: no-code-friendly">Family organizers</span>
   - <span title="Tags: no-code-friendly">Chore &amp; allowance apps</span>
+  - <span title="Tags: content">Newborns</span>
+  - <span title="Tags: content">Teens</span>
 - <span title="COPPA and age-appropriate-design laws. | Tags: regulated">Child online safety</span>
   - Parental controls
   - Kids' phones
@@ -899,15 +904,15 @@ markmap:
   - Meditation studios
   - <span title="Tags: service-business">Meditation retreats</span>
   - <span title="Tags: b2b, service-business">Workplace mindfulness</span>
-- Breathwork
+- Breathwork &amp; somatics
   - <span title="Tags: content, no-code-friendly">Breathwork apps</span>
   - Breath-training devices
+  - <span title="Tags: content">Somatic practitioner training</span>
+  - <span title="Tags: no-code-friendly">Nervous-system regulation apps</span>
 - <span title="Tags: no-code-friendly">Journaling &amp; reflection</span>
   - <span title="e.g. Day One.">Journaling apps</span>
   - <span title="Tags: ai-native">AI journaling</span>
-- Somatics &amp; embodiment
-  - <span title="Tags: content">Somatic practitioner training</span>
-  - <span title="Tags: no-code-friendly">Nervous-system regulation apps</span>
+  - Mood tracking apps
 - Digital wellness
   - <span title="Tags: no-code-friendly">Screen-time apps</span>
   - Minimalist phones
@@ -935,9 +940,10 @@ markmap:
   - <span title="Tags: marketplace">Coaching marketplaces</span>
   - <span title="Tags: ai-native, no-code-friendly">AI life coaches</span>
   - <span title="Tags: b2b, no-code-friendly">Coaching practice software</span>
-- <span title="Tags: content, no-code-friendly">Self-discovery</span>
-  - Strengths &amp; values assessments
-  - Personality assessments
+- <span title="Tags: no-code-friendly">Self-discovery</span>
+  - <span title="Tags: content">Strengths &amp; values assessments</span>
+  - <span title="Tags: content">Personality assessments</span>
+  - <span title="Tools to build, license and deliver assessments to coaches and HR teams. | Tags: b2b">Psychometric test platforms</span>
 - <span title="Tags: service-business, content">Life-stage transitions</span>
   - Midlife reinvention
   - <span title="Un-retirement and second careers after 60.">Encore careers</span>
@@ -961,15 +967,15 @@ markmap:
   - <span title="Tags: service-business">Mastermind groups</span>
   - <span title="Tags: marketplace">Peer coaching networks</span>
 ### Productivity
-- <span title="Tags: no-code-friendly">Tasks &amp; habits</span>
+- <span title="Tags: no-code-friendly">Tasks &amp; time</span>
   - Gamified productivity
   - <span title="Tags: service-business">Goal-setting &amp; accountability</span>
-- <span title="Tags: no-code-friendly">Time management</span>
   - <span title="e.g. Motion. | Tags: ai-native">AI calendars</span>
   - Time tracking
 - <span title="Second brain / PKM.">Knowledge management</span>
   - <span title="e.g. Notion, Obsidian. | Tags: content">Note-taking apps</span>
   - <span title="Tags: ai-native, no-code-friendly">AI knowledge assistants</span>
+  - <span title="Notion, Obsidian and spreadsheet templates; e.g. Gumroad sellers. | Tags: content, marketplace">Template marketplaces</span>
 - <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">ADHD-friendly productivity ↗</span>
   - <span title="e.g. Flow Club, Focusmate. | Tags: service-business, marketplace, no-code-friendly">Body doubling</span>
   - <span title="Tags: content">ADHD planners</span>
@@ -1045,7 +1051,6 @@ markmap:
   - <span title="e.g. Procreate.">Digital art tools</span>
   - <span title="Tags: content">Craft kits</span>
   - <span title="Tags: marketplace">Artist marketplaces</span>
-- Fiber arts
   - <span title="Tags: content, marketplace">Pattern marketplaces</span>
   - Yarn &amp; fabric DTC
 - Photo &amp; video
@@ -1057,9 +1062,10 @@ markmap:
   - <span title="Tags: service-business, content">3D printing</span>
   - Electronics kits
   - CNC &amp; laser cutters
-- <span title="Taking part yourself, as opposed to attending. | Tags: service-business">Performing arts</span>
-  - Dance classes
-  - <span title="Tags: marketplace">Voice &amp; singing lessons</span>
+- <span title="Taking part yourself, as opposed to attending.">Performing arts</span>
+  - <span title="Tags: service-business">Dance classes</span>
+  - <span title="Tags: service-business, marketplace">Voice &amp; singing lessons</span>
+  - <span title="Scheduling, billing and recitals for dance and performing-arts studios. | Tags: b2b, no-code-friendly">Dance-studio software</span>
 ### Career Development
 - Job search
   - <span title="Tags: service-business, no-code-friendly">Resume tools</span>
@@ -1095,6 +1101,7 @@ markmap:
 - <span title="Tags: marketplace | See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
   - Flexible &amp; part-time jobs
   - <span title="Tags: service-business">Interim management</span>
+  - <span title="Job boards and advocacy for compressed work weeks.">Four-day-week jobs</span>
 - Professional networking
   - <span title="Tags: content">Professional communities</span>
   - <span title="Tags: marketplace">Mentorship platforms</span>
@@ -1150,13 +1157,12 @@ markmap:
   - <span title="Tags: b2b">Corporate catering</span>
   - <span title="Tags: no-code-friendly">Meal-planning apps</span>
   - <span title="Tags: underserved">Senior meal delivery</span>
-- Better-for-you foods
+- Better-for-you food &amp; drink
   - <span title="Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025).">Functional beverages 🔥</span>
   - Protein-forward foods 🔥
   - Low-sugar snacks
   - Gut-health foods
   - Allergen-free foods
-- Beverages
   - Tea &amp; matcha 🔥
   - <span title="e.g. Athletic Brewing.">Non-alcoholic drinks 🔥</span>
 - <span title="Tags: b2b">Restaurant tech</span>
@@ -1190,6 +1196,7 @@ markmap:
 - Design &amp; decor
   - <span title="e.g. Havenly. | Tags: service-business">E-design</span>
   - <span title="Tags: ai-native, no-code-friendly">AI interior design</span>
+  - <span title="Staging homes for sale, including AI virtual staging. | Tags: service-business">Home staging</span>
 - Organizing &amp; moving
   - <span title="Tags: service-business">Decluttering services</span>
   - <span title="Tags: no-code-friendly">Home inventory apps</span>
@@ -1240,21 +1247,20 @@ markmap:
   - <span title="Tags: service-business, content">Textured hair care</span>
   - <span title="Tags: service-business">Nail care</span>
   - Fragrance
+  - Men's skincare
 - Fashion &amp; beauty tech
   - Virtual try-on
   - <span title="Tags: ai-native, no-code-friendly">AI styling assistants</span>
   - Size &amp; fit tech
   - <span title="Tags: ai-native">AI skin analysis</span>
   - <span title="Tags: b2b">On-demand apparel manufacturing</span>
-- Men's grooming
-  - Men's skincare
-  - <span title="Tags: no-code-friendly">Barbershop booking</span>
 - <span title="Tags: b2b">Salon &amp; spa tech</span>
   - <span title="Tags: no-code-friendly">Salon booking software</span>
   - Salon management
   - <span title="Tags: marketplace">Salon-suite rental platforms</span>
   - <span title="Tags: marketplace">Beauty-pro marketplaces</span>
   - Beauty-pro payments
+  - <span title="Barber-specific booking and payments. | Tags: no-code-friendly">Barbershop booking</span>
 ### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
 - Pet food
   - <span title="e.g. The Farmer&#x27;s Dog.">Fresh pet food</span>
@@ -1316,9 +1322,10 @@ markmap:
   - <span title="e.g. Pop Mart&#x27;s Labubu.">Designer toys &amp; blind boxes</span>
   - <span title="Live-stream breaks and auctions, e.g. Whatnot. | Tags: content">Live collectible auctions 🔥</span>
   - Grading &amp; authentication
-- <span title="Tags: no-code-friendly">Reading</span>
-  - <span title="BookTok. | Tags: content">Book discovery</span>
-  - Reading trackers
+- Reading
+  - <span title="BookTok. | Tags: content, no-code-friendly">Book discovery</span>
+  - <span title="Tags: no-code-friendly">Reading trackers</span>
+  - <span title="Serialized and web novels; e.g. Wattpad, Royal Road. | Tags: content">Web-fiction platforms</span>
 ### Entertainment &amp; Events
 - Streaming &amp; video
   - <span title="Free ad-supported streaming TV.">FAST channels</span>
@@ -1379,6 +1386,7 @@ markmap:
 - <span title="Tags: content">Car enthusiasts</span>
   - Collector cars
   - Parts &amp; modification
+  - Classic-car restoration
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">EV ownership ↗</span>
   - Home charging
   - Charger installation
@@ -1392,6 +1400,7 @@ markmap:
 - Autonomous &amp; shared rides 🔥
   - <span title="e.g. Turo.">Peer-to-peer car sharing</span>
   - <span title="Non-emergency medical transportation. | Tags: underserved">Medical &amp; senior rides</span>
+  - <span title="Depots, cleaning, charging and remote assistance for autonomous fleets. | Tags: b2b">Robotaxi fleet operations</span>
 ## <span title="Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology). | Tags: b2b">Enterprise &amp; AI</span>
 ### <span title="Tags: ai-native">AI Infrastructure 🔥</span>
 - Foundation models
@@ -1944,6 +1953,7 @@ markmap:
 - Launch &amp; in-space
   - In-space servicing
   - In-space manufacturing
+  - <span title="In-orbit last-mile delivery; e.g. Impulse Space.">Orbital transfer vehicles</span>
 - <span title="e.g. Starlink.">Satellites &amp; space data</span>
   - Earth-observation imagery
   - <span title="Tags: ai-native">Geospatial analytics</span>

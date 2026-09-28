@@ -12,7 +12,8 @@
 #             elsewhere. This is the cross-reference for a topic that is kept once.
 #   children: optional list of nodes
 #
-# Levels: Pillar > Category > Subcategory > Leaf (max depth 4). Every non-leaf has 3-8 children.
+# Levels: Pillar > Category > Subcategory > Leaf (max depth 4). Pillars and categories have 3-8 children;
+# subcategories have 2-8 leaves.
 
 name: Startup Opportunity Map
 note: "Markets where someone could start a company, organized by the life domain or industry they serve."
@@ -160,7 +161,6 @@ children:
             children:
               - {name: Insomnia & CBT-I, tags: [content]}
               - {name: Sleep apnea}
-              - {name: Home sleep testing, note: "At-home sleep-apnea tests; demand rising with GLP-1 apnea treatment."}
           - name: Infant & child sleep
             children:
               - {name: Sleep consultants, tags: [service-business, content]}
@@ -191,7 +191,6 @@ children:
             children:
               - {name: Burnout, tags: [content]}
               - {name: Workplace stress}
-              - {name: Stress-management programs, tags: [content], note: "Courses and workshops for individuals and employers."}
           - name: Therapy access
             children:
               - {name: Individual therapy}
@@ -288,7 +287,6 @@ children:
             children:
               - {name: Longevity data dashboards}
               - {name: Smart rings, tags: [trending]}
-              - {name: Recovery wearables, note: "Strain, HRV and recovery tracking; e.g. WHOOP."}
           - name: Age tech
             children:
               - {name: Fall detection}
@@ -336,7 +334,6 @@ children:
             children:
               - {name: Rheumatoid arthritis}
               - {name: Hashimoto's}
-              - {name: Autoimmune virtual care, note: "Specialist-led virtual programs spanning autoimmune conditions."}
           - name: Digestive health
             see: ["Health & Wellness > Nutrition & Metabolic Health > Personalized nutrition > Microbiome testing"]
             children:
@@ -375,7 +372,6 @@ children:
             children:
               - {name: Custom orthotics}
               - {name: Podiatry telehealth}
-              - {name: Diabetic foot care, tags: [underserved], note: "Ulcer prevention and remote foot monitoring."}
           - name: Physical rehabilitation
             children:
               - {name: Prehab, note: "Conditioning before surgery."}
@@ -802,7 +798,6 @@ children:
             children:
               - {name: Equity release, note: "Reverse mortgages."}
               - {name: Home-equity investments}
-              - {name: Home-equity tracking, note: "Homeowner dashboards for equity, refinancing and selling; e.g. Homebot."}
 
       - name: Retirement & Wealth Planning
         children:
@@ -810,6 +805,8 @@ children:
             children:
               - {name: Retirement income}
               - {name: Social Security planning, tags: [content]}
+          - name: Retirement accounts
+            children:
               - {name: IRAs & 401(k)s}
               - {name: Small-business retirement plans, tags: [b2b]}
           - name: Wealth management
@@ -966,7 +963,6 @@ children:
             children:
               - {name: Curated apps}
               - {name: Profile optimization, tags: [service-business, no-code-friendly]}
-              - {name: IRL-first dating apps, note: "Apps that route matches to events and in-person meetups as swipe fatigue grows."}
           - name: AI dating tools
             tags: [ai-native, no-code-friendly]
             children:
@@ -1109,6 +1105,11 @@ children:
       - name: Parenting & Family
         see: ["Health & Wellness > Aging & Longevity > Caregiving"]
         children:
+          - name: Parenting stages
+            tags: [content]
+            children:
+              - {name: Newborns}
+              - {name: Teens}
           - name: Parenting support
             note: "Covers parent-child communication, discipline and emotional connection."
             children:
@@ -1117,8 +1118,6 @@ children:
               - {name: Parenting communities, tags: [content]}
               - {name: Family organizers, tags: [no-code-friendly]}
               - {name: Chore & allowance apps, tags: [no-code-friendly]}
-              - {name: Newborns, tags: [content]}
-              - {name: Teens, tags: [content]}
           - name: Child online safety
             tags: [regulated]
             note: "COPPA and age-appropriate-design laws."
@@ -1280,18 +1279,19 @@ children:
               - {name: Meditation studios}
               - {name: Meditation retreats, tags: [service-business]}
               - {name: Workplace mindfulness, tags: [b2b, service-business]}
-          - name: Breathwork & somatics
+          - name: Breathwork
             children:
               - {name: Breathwork apps, tags: [content, no-code-friendly]}
               - {name: Breath-training devices}
-              - {name: Somatic practitioner training, tags: [content]}
-              - {name: Nervous-system regulation apps, tags: [no-code-friendly]}
           - name: Journaling & reflection
             tags: [no-code-friendly]
             children:
               - {name: Journaling apps, note: "e.g. Day One."}
               - {name: AI journaling, tags: [ai-native]}
-              - {name: Mood tracking apps}
+          - name: Somatics & embodiment
+            children:
+              - {name: Somatic practitioner training, tags: [content]}
+              - {name: Nervous-system regulation apps, tags: [no-code-friendly]}
           - name: Digital wellness
             children:
               - {name: Screen-time apps, tags: [no-code-friendly]}
@@ -1334,11 +1334,10 @@ children:
               - {name: AI life coaches, tags: [ai-native, no-code-friendly]}
               - {name: Coaching practice software, tags: [b2b, no-code-friendly]}
           - name: Self-discovery
-            tags: [no-code-friendly]
+            tags: [content, no-code-friendly]
             children:
-              - {name: Strengths & values assessments, tags: [content]}
-              - {name: Personality assessments, tags: [content]}
-              - {name: Psychometric test platforms, tags: [b2b], note: "Tools to build, license and deliver assessments to coaches and HR teams."}
+              - {name: Strengths & values assessments}
+              - {name: Personality assessments}
           - name: Life-stage transitions
             tags: [service-business, content]
             children:
@@ -1376,11 +1375,14 @@ children:
 
       - name: Productivity
         children:
-          - name: Tasks & time
+          - name: Tasks & habits
             tags: [no-code-friendly]
             children:
               - {name: Gamified productivity}
               - {name: Goal-setting & accountability, tags: [service-business]}
+          - name: Time management
+            tags: [no-code-friendly]
+            children:
               - {name: AI calendars, tags: [ai-native], note: "e.g. Motion."}
               - {name: Time tracking}
           - name: Knowledge management
@@ -1388,7 +1390,6 @@ children:
             children:
               - {name: Note-taking apps, tags: [content], note: "e.g. Notion, Obsidian."}
               - {name: AI knowledge assistants, tags: [ai-native, no-code-friendly]}
-              - {name: Template marketplaces, tags: [content, marketplace], note: "Notion, Obsidian and spreadsheet templates; e.g. Gumroad sellers."}
           - name: ADHD-friendly productivity
             see: ["Care & Conditions > Brain & Neurological Health > Neurodivergence > Executive-function coaching"]
             children:
@@ -1487,6 +1488,8 @@ children:
               - {name: Digital art tools, note: "e.g. Procreate."}
               - {name: Craft kits, tags: [content]}
               - {name: Artist marketplaces, tags: [marketplace]}
+          - name: Fiber arts
+            children:
               - {name: Pattern marketplaces, tags: [content, marketplace]}
               - {name: Yarn & fabric DTC}
           - name: Photo & video
@@ -1501,11 +1504,11 @@ children:
               - {name: Electronics kits}
               - {name: CNC & laser cutters}
           - name: Performing arts
+            tags: [service-business]
             note: "Taking part yourself, as opposed to attending."
             children:
-              - {name: Dance classes, tags: [service-business]}
-              - {name: Voice & singing lessons, tags: [service-business, marketplace]}
-              - {name: Dance-studio software, tags: [b2b, no-code-friendly], note: "Scheduling, billing and recitals for dance and performing-arts studios."}
+              - {name: Dance classes}
+              - {name: Voice & singing lessons, tags: [marketplace]}
 
       - name: Career Development
         children:
@@ -1554,7 +1557,6 @@ children:
             children:
               - {name: Flexible & part-time jobs}
               - {name: Interim management, tags: [service-business]}
-              - {name: Four-day-week jobs, note: "Job boards and advocacy for compressed work weeks."}
           - name: Professional networking
             children:
               - {name: Professional communities, tags: [content]}
@@ -1633,13 +1635,15 @@ children:
               - {name: Corporate catering, tags: [b2b]}
               - {name: Meal-planning apps, tags: [no-code-friendly]}
               - {name: Senior meal delivery, tags: [underserved]}
-          - name: Better-for-you food & drink
+          - name: Better-for-you foods
             children:
               - {name: Functional beverages, tags: [trending], note: "Prebiotic sodas, e.g. Olipop; Poppi (acquired by PepsiCo in 2025)."}
               - {name: Protein-forward foods, tags: [trending]}
               - {name: Low-sugar snacks}
               - {name: Gut-health foods}
               - {name: Allergen-free foods}
+          - name: Beverages
+            children:
               - {name: Tea & matcha, tags: [trending]}
               - {name: Non-alcoholic drinks, tags: [trending], note: "e.g. Athletic Brewing."}
           - name: Restaurant tech
@@ -1683,7 +1687,6 @@ children:
             children:
               - {name: E-design, tags: [service-business], note: "e.g. Havenly."}
               - {name: AI interior design, tags: [ai-native, no-code-friendly]}
-              - {name: Home staging, tags: [service-business], note: "Staging homes for sale, including AI virtual staging."}
           - name: Organizing & moving
             children:
               - {name: Decluttering services, tags: [service-business]}
@@ -1751,7 +1754,6 @@ children:
               - {name: Textured hair care, tags: [service-business, content]}
               - {name: Nail care, tags: [service-business]}
               - {name: Fragrance}
-              - {name: Men's skincare}
           - name: Fashion & beauty tech
             children:
               - {name: Virtual try-on}
@@ -1759,6 +1761,10 @@ children:
               - {name: Size & fit tech}
               - {name: AI skin analysis, tags: [ai-native]}
               - {name: On-demand apparel manufacturing, tags: [b2b]}
+          - name: Men's grooming
+            children:
+              - {name: Men's skincare}
+              - {name: Barbershop booking, tags: [no-code-friendly]}
           - name: Salon & spa tech
             tags: [b2b]
             children:
@@ -1767,7 +1773,6 @@ children:
               - {name: Salon-suite rental platforms, tags: [marketplace]}
               - {name: Beauty-pro marketplaces, tags: [marketplace]}
               - {name: Beauty-pro payments}
-              - {name: Barbershop booking, tags: [no-code-friendly], note: "Barber-specific booking and payments."}
 
       - name: Pets & Animal Care
         see: ["Wealth > Insurance > Specialty lines > Pet insurance"]
@@ -1851,10 +1856,10 @@ children:
               - {name: Live collectible auctions, tags: [trending, content], note: "Live-stream breaks and auctions, e.g. Whatnot."}
               - {name: Grading & authentication}
           - name: Reading
+            tags: [no-code-friendly]
             children:
-              - {name: Book discovery, tags: [content, no-code-friendly], note: "BookTok."}
-              - {name: Reading trackers, tags: [no-code-friendly]}
-              - {name: Web-fiction platforms, tags: [content], note: "Serialized and web novels; e.g. Wattpad, Royal Road."}
+              - {name: Book discovery, tags: [content], note: "BookTok."}
+              - {name: Reading trackers}
 
       - name: Entertainment & Events
         children:
@@ -1932,7 +1937,6 @@ children:
             children:
               - {name: Collector cars}
               - {name: Parts & modification}
-              - {name: Classic-car restoration}
           - name: EV ownership
             see: ["Planet & Frontier > Climate & Energy > EV infrastructure > Charging networks"]
             children:
@@ -1951,7 +1955,6 @@ children:
             children:
               - {name: Peer-to-peer car sharing, note: "e.g. Turo."}
               - {name: Medical & senior rides, tags: [underserved], note: "Non-emergency medical transportation."}
-              - {name: Robotaxi fleet operations, tags: [b2b], note: "Depots, cleaning, charging and remote assistance for autonomous fleets."}
   # ───────────────────────────────────────────────────────── 7
   - name: Enterprise & AI
     tags: [b2b]
@@ -2682,7 +2685,6 @@ children:
             children:
               - {name: In-space servicing}
               - {name: In-space manufacturing}
-              - {name: Orbital transfer vehicles, note: "In-orbit last-mile delivery; e.g. Impulse Space."}
           - name: Satellites & space data
             note: "e.g. Starlink."
             children:

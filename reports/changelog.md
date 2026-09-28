@@ -1,5 +1,82 @@
 # Changelog
 
+## v14: the 27 two-leaf subcategories
+
+Input: `source/taxonomy-v13.yaml`. After v12 left 27 subcategories with 2 leaves, each one gained a leaf or was merged
+into a sibling. Every non-leaf now has 3–8 children again, so `MIN_LEAVES` is back to 3. New leaves were scored
+(`data/actionability.csv`, all 3–4) and given solo-founder tags where they fit. Eight first-choice additions
+were rejected because the v12 prune had archived near-identical leaves (HELOCs, remote job boards, book clubs,
+improv and acting classes, track days, printed guided journals, purpose programs, attachment-style assessments).
+Re-adding them would reverse that decision.
+
+### Added a leaf (17)
+
+| Subcategory | New leaf | Why |
+|---|---|---|
+| Sleep disorders | Home sleep testing | Distinct product; apnea diagnosis demand rising alongside GLP-1 apnea treatment |
+| Stress & burnout | Stress-management programs | The product side of the two condition leaves |
+| Biohacking | Recovery wearables | Strap and band trackers (WHOOP), next to Smart rings |
+| Autoimmune disease | Autoimmune virtual care | A care model rather than a third condition label |
+| Foot & ankle care | Diabetic foot care | Ulcer prevention and remote monitoring; `underserved` |
+| Home equity | Home-equity tracking | Homeowner equity dashboards (Homebot, verified active 2026) |
+| Dating platforms | IRL-first dating apps | Apps routing matches to in-person meetups |
+| Journaling & reflection | Mood tracking apps | Adjacent self-tracking product |
+| Self-discovery | Psychometric test platforms | B2B tools behind the two assessment leaves |
+| Knowledge management | Template marketplaces | Notion/Obsidian template sellers |
+| Performing arts | Dance-studio software | B2B studio management |
+| Work arrangements | Four-day-week jobs | Niche job boards for compressed weeks |
+| Design & decor | Home staging | Physical and AI virtual staging |
+| Reading | Web-fiction platforms | Serialized fiction (Wattpad, Royal Road) |
+| Car enthusiasts | Classic-car restoration | Restoration content and services |
+| Autonomous & shared rides | Robotaxi fleet operations | B2B depots, cleaning, charging, remote assistance |
+| Launch & in-space | Orbital transfer vehicles | In-orbit delivery (Impulse Space Mira/Helios, verified) |
+
+<!-- ADDITIONS:v14:START -->
+20 added nodes.
+
+- **Health & Wellness › Sleep › Sleep disorders**: Home sleep testing
+- **Health & Wellness › Mental Health › Stress & burnout**: Stress-management programs
+- **Health & Wellness › Aging & Longevity › Biohacking**: Recovery wearables
+- **Care & Conditions › Chronic Conditions › Autoimmune disease**: Autoimmune virtual care
+- **Care & Conditions › Pain & Musculoskeletal › Foot & ankle care**: Diabetic foot care
+- **Wealth › Housing & Real Estate › Home equity**: Home-equity tracking
+- **Relationships › Dating › Dating platforms**: IRL-first dating apps
+- **Mind, Meaning & Growth › Contemplative Practice**: Breathwork & somatics
+- **Mind, Meaning & Growth › Contemplative Practice › Journaling & reflection**: Mood tracking apps
+- **Mind, Meaning & Growth › Purpose & Life Transitions › Self-discovery**: Psychometric test platforms
+- **Mind, Meaning & Growth › Productivity**: Tasks & time
+- **Mind, Meaning & Growth › Productivity › Knowledge management**: Template marketplaces
+- **Mind, Meaning & Growth › Creativity & Craft › Performing arts**: Dance-studio software
+- **Mind, Meaning & Growth › Career Development › Work arrangements**: Four-day-week jobs
+- **Lifestyle, Home & Experiences › Food & Beverage**: Better-for-you food & drink
+- **Lifestyle, Home & Experiences › Home & Living › Design & decor**: Home staging
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Reading**: Web-fiction platforms
+- **Lifestyle, Home & Experiences › Cars & Transportation › Car enthusiasts**: Classic-car restoration
+- **Lifestyle, Home & Experiences › Cars & Transportation › Autonomous & shared rides**: Robotaxi fleet operations
+- **Planet & Frontier › Aerospace & Defense › Launch & in-space**: Orbital transfer vehicles
+<!-- ADDITIONS:v14:END -->
+
+### Merged or folded (10 subcategories)
+
+| Before | After | Why |
+|---|---|---|
+| `Retirement accounts` (2) | leaves moved into Retirement planning (now 4) | Same buyer and decision |
+| `Parenting stages` (2) | Newborns and Teens moved into Parenting support (now 7) | Stage labels read as parenting-support audiences |
+| `Breathwork` (2) + `Somatics & embodiment` (2) | **Breathwork & somatics** (4) | Overlapping body-based practices |
+| `Tasks & habits` (2) + `Time management` (2) | **Tasks & time** (4) | Same product category |
+| `Fiber arts` (2) | leaves moved into Visual arts & craft (now 6) | Craft supplies and patterns sit with craft kits |
+| `Beverages` (2) | leaves moved into `Better-for-you foods`, renamed **Better-for-you food & drink** (now 7) | It already held Functional beverages |
+| `Men's grooming` (2) | Men's skincare → Beauty & skincare; Barbershop booking → Salon & spa tech | Split by buyer: consumer product vs. shop software |
+
+### Tag changes
+
+- Tags pushed down to leaves where a subcategory gained a leaf it doesn't cover or was dissolved: `content` (Self-discovery; Parenting stages), `service-business` (Performing arts) and `no-code-friendly` (Reading; Journaling kept its tag).
+- `no-code-friendly` stays on the merged Tasks & time, because both parts carried it.
+
+### Rule change
+
+`MIN_LEAVES` restored from 2 to 3. `taxonomy.yaml` header, `validate.py` and the README updated.
+
 ## v13: solo-founder models become tags
 
 Input: `source/taxonomy-v12.yaml`. The solo-founder labels that were kept in `data/solo-founder.csv` are now tags in

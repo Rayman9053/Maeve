@@ -65,7 +65,7 @@ Rules the validator enforces:
 - The YAML parses; only the keys above are allowed.
 - Sibling names are unique (case-insensitive).
 - Max depth is 4: Pillar › Category › Subcategory › Leaf. If a leaf needs children, promote it or split it.
-- Pillars and categories have 3–8 children; subcategories have 2–8 leaves (`MIN_LEAVES`, relaxed from 3 in v12).
+- Every non-leaf has 3–8 children (subcategories were allowed 2 during v12–v13; restored in v14).
 - Names are ≤ 4 words and contain no emoji or `[tags]`. Markers are rendered from `tags`.
 - Tags come from the vocabulary above. A tag covers its whole subtree, so descendants must not repeat it. `b2b` and `consumer` can't both be on one node.
 - Every `see:` path resolves to exactly one node and doesn't point at the node itself or one of its ancestors.

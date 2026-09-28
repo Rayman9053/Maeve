@@ -8,7 +8,7 @@ markmap:
   spacingVertical: 6
 ---
 
-# Solo Founder, Low Capital<br><small>543 of 1,593 leaves one founder could start for under ~$10k · 🛠️ service-business (237) · ✍️ content (220) · 🤝 marketplace (57) · 🧩 no-code-friendly (177) · 🔥 trending · click to expand, hover for notes</small>
+# Solo Founder, Low Capital<br><small>552 of 1,610 leaves one founder could start for under ~$10k · 🛠️ service-business (239) · ✍️ content (224) · 🤝 marketplace (59) · 🧩 no-code-friendly (180) · 🔥 trending · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### Prevention &amp; Diagnostics
@@ -67,6 +67,7 @@ markmap:
 - <span title="Tags: service-business">Stress &amp; burnout</span>
   - <span title="Solo-founder models: service-business, content">Burnout 🛠️✍️</span>
   - <span title="Solo-founder models: service-business">Workplace stress 🛠️</span>
+  - <span title="Courses and workshops for individuals and employers. | Solo-founder models: service-business, content">Stress-management programs 🛠️✍️</span>
 - Therapy access
   - <span title="Solo-founder models: marketplace">Therapist matching 🤝</span>
 - Addiction recovery
@@ -322,15 +323,14 @@ markmap:
   - <span title="Solo-founder models: service-business, no-code-friendly">Name-change services 🛠️🧩</span>
   - <span title="Solo-founder models: service-business, content">Breakup coaching 🛠️✍️</span>
 ### <span title="See also: Health &amp; Wellness &gt; Aging &amp; Longevity &gt; Caregiving">Parenting &amp; Family ↗</span>
-- <span title="Tags: content">Parenting stages</span>
-  - <span title="Solo-founder models: content">Newborns ✍️</span>
-  - <span title="Solo-founder models: content">Teens ✍️</span>
 - <span title="Covers parent-child communication, discipline and emotional connection.">Parenting support</span>
   - <span title="Solo-founder models: service-business">Parent coaching 🛠️</span>
   - <span title="Solo-founder models: content">Parenting courses ✍️</span>
   - <span title="Solo-founder models: content">Parenting communities ✍️</span>
   - <span title="Solo-founder models: no-code-friendly">Family organizers 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Chore &amp; allowance apps 🧩</span>
+  - <span title="Solo-founder models: content">Newborns ✍️</span>
+  - <span title="Solo-founder models: content">Teens ✍️</span>
 - <span title="COPPA and age-appropriate-design laws. | Tags: regulated">Child online safety</span>
   - <span title="Solo-founder models: content">Online-safety education ✍️</span>
 - <span title="Acute &#x27;care desert&#x27; shortage. | Tags: underserved">Childcare</span>
@@ -405,14 +405,14 @@ markmap:
 - Meditation
   - <span title="Solo-founder models: service-business">Meditation retreats 🛠️</span>
   - <span title="Tags: b2b | Solo-founder models: service-business">Workplace mindfulness 🛠️</span>
-- Breathwork
+- Breathwork &amp; somatics
   - <span title="Solo-founder models: content, no-code-friendly">Breathwork apps ✍️🧩</span>
+  - <span title="Solo-founder models: content">Somatic practitioner training ✍️</span>
+  - <span title="Solo-founder models: no-code-friendly">Nervous-system regulation apps 🧩</span>
 - <span title="Tags: no-code-friendly">Journaling &amp; reflection</span>
   - <span title="e.g. Day One. | Solo-founder models: no-code-friendly">Journaling apps 🧩</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI journaling 🧩</span>
-- Somatics &amp; embodiment
-  - <span title="Solo-founder models: content">Somatic practitioner training ✍️</span>
-  - <span title="Solo-founder models: no-code-friendly">Nervous-system regulation apps 🧩</span>
+  - <span title="Solo-founder models: no-code-friendly">Mood tracking apps 🧩</span>
 - Digital wellness
   - <span title="Solo-founder models: no-code-friendly">Screen-time apps 🧩</span>
   - <span title="Solo-founder models: service-business">Phone-free social events 🛠️</span>
@@ -435,9 +435,10 @@ markmap:
   - <span title="Solo-founder models: marketplace">Coaching marketplaces 🤝</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI life coaches 🧩</span>
   - <span title="Tags: b2b | Solo-founder models: no-code-friendly">Coaching practice software 🧩</span>
-- <span title="Tags: content, no-code-friendly">Self-discovery</span>
+- <span title="Tags: no-code-friendly">Self-discovery</span>
   - <span title="Solo-founder models: content, no-code-friendly">Strengths &amp; values assessments ✍️🧩</span>
   - <span title="Solo-founder models: content, no-code-friendly">Personality assessments ✍️🧩</span>
+  - <span title="Tools to build, license and deliver assessments to coaches and HR teams. | Tags: b2b | Solo-founder models: no-code-friendly">Psychometric test platforms 🧩</span>
 - <span title="Tags: service-business, content">Life-stage transitions</span>
   - <span title="Solo-founder models: service-business, content">Midlife reinvention 🛠️✍️</span>
   - <span title="Un-retirement and second careers after 60. | Solo-founder models: service-business, content">Encore careers 🛠️✍️</span>
@@ -460,15 +461,15 @@ markmap:
   - <span title="Solo-founder models: service-business, content">Mastermind groups 🛠️✍️</span>
   - <span title="Solo-founder models: content, marketplace">Peer coaching networks ✍️🤝</span>
 ### Productivity
-- <span title="Tags: no-code-friendly">Tasks &amp; habits</span>
+- <span title="Tags: no-code-friendly">Tasks &amp; time</span>
   - <span title="Solo-founder models: no-code-friendly">Gamified productivity 🧩</span>
   - <span title="Solo-founder models: service-business, no-code-friendly">Goal-setting &amp; accountability 🛠️🧩</span>
-- <span title="Tags: no-code-friendly">Time management</span>
   - <span title="e.g. Motion. | Tags: ai-native | Solo-founder models: no-code-friendly">AI calendars 🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Time tracking 🧩</span>
 - <span title="Second brain / PKM.">Knowledge management</span>
   - <span title="e.g. Notion, Obsidian. | Solo-founder models: content">Note-taking apps ✍️</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI knowledge assistants 🧩</span>
+  - <span title="Notion, Obsidian and spreadsheet templates; e.g. Gumroad sellers. | Solo-founder models: content, marketplace">Template marketplaces ✍️🤝</span>
 - <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence &gt; Executive-function coaching">ADHD-friendly productivity ↗</span>
   - <span title="e.g. Flow Club, Focusmate. | Solo-founder models: service-business, marketplace, no-code-friendly">Body doubling 🛠️🤝🧩</span>
   - <span title="Solo-founder models: content">ADHD planners ✍️</span>
@@ -524,16 +525,16 @@ markmap:
 - <span title="Artisan revival.">Visual arts &amp; craft</span>
   - <span title="Solo-founder models: content">Craft kits ✍️</span>
   - <span title="Solo-founder models: marketplace">Artist marketplaces 🤝</span>
-- Fiber arts
   - <span title="Solo-founder models: content, marketplace">Pattern marketplaces ✍️🤝</span>
 - Photo &amp; video
   - <span title="Part of the Gen Z analog revival. | Solo-founder models: content">Film photography ✍️</span>
   - <span title="Solo-founder models: content, marketplace">Stock media marketplaces ✍️🤝</span>
 - Maker culture
   - <span title="Solo-founder models: service-business, content">3D printing 🛠️✍️</span>
-- <span title="Taking part yourself, as opposed to attending. | Tags: service-business">Performing arts</span>
+- <span title="Taking part yourself, as opposed to attending.">Performing arts</span>
   - <span title="Solo-founder models: service-business">Dance classes 🛠️</span>
   - <span title="Solo-founder models: service-business, marketplace">Voice &amp; singing lessons 🛠️🤝</span>
+  - <span title="Scheduling, billing and recitals for dance and performing-arts studios. | Tags: b2b | Solo-founder models: no-code-friendly">Dance-studio software 🧩</span>
 ### Career Development
 - Job search
   - <span title="Solo-founder models: service-business, no-code-friendly">Resume tools 🛠️🧩</span>
@@ -564,6 +565,7 @@ markmap:
 - <span title="Tags: marketplace | See also: Wealth &gt; Entrepreneurship &gt; Freelancing &amp; fractional">Work arrangements ↗</span>
   - <span title="Solo-founder models: marketplace">Flexible &amp; part-time jobs 🤝</span>
   - <span title="Solo-founder models: service-business, marketplace">Interim management 🛠️🤝</span>
+  - <span title="Job boards and advocacy for compressed work weeks. | Solo-founder models: marketplace">Four-day-week jobs 🤝</span>
 - Professional networking
   - <span title="Solo-founder models: content">Professional communities ✍️</span>
   - <span title="Solo-founder models: marketplace">Mentorship platforms 🤝</span>
@@ -621,6 +623,7 @@ markmap:
 - Design &amp; decor
   - <span title="e.g. Havenly. | Solo-founder models: service-business">E-design 🛠️</span>
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI interior design 🧩</span>
+  - <span title="Staging homes for sale, including AI virtual staging. | Solo-founder models: service-business">Home staging 🛠️</span>
 - Organizing &amp; moving
   - <span title="Solo-founder models: service-business">Decluttering services 🛠️</span>
   - <span title="Solo-founder models: no-code-friendly">Home inventory apps 🧩</span>
@@ -650,12 +653,11 @@ markmap:
   - <span title="Solo-founder models: service-business">Nail care 🛠️</span>
 - Fashion &amp; beauty tech
   - <span title="Tags: ai-native | Solo-founder models: no-code-friendly">AI styling assistants 🧩</span>
-- Men's grooming
-  - <span title="Solo-founder models: no-code-friendly">Barbershop booking 🧩</span>
 - <span title="Tags: b2b">Salon &amp; spa tech</span>
   - <span title="Solo-founder models: no-code-friendly">Salon booking software 🧩</span>
   - <span title="Solo-founder models: marketplace">Salon-suite rental platforms 🤝</span>
   - <span title="Solo-founder models: marketplace">Beauty-pro marketplaces 🤝</span>
+  - <span title="Barber-specific booking and payments. | Solo-founder models: no-code-friendly">Barbershop booking 🧩</span>
 ### <span title="See also: Wealth &gt; Insurance &gt; Specialty lines &gt; Pet insurance">Pets &amp; Animal Care ↗</span>
 - <span title="e.g. Rover.">Pet services</span>
   - <span title="Solo-founder models: service-business">Pet grooming 🛠️</span>
@@ -688,9 +690,10 @@ markmap:
 - <span title="See also: Wealth &gt; Investing &amp; Trading &gt; Alternative investments &gt; Collectible assets">Collecting ↗</span>
   - <span title="Solo-founder models: content">Trading cards ✍️</span>
   - <span title="Live-stream breaks and auctions, e.g. Whatnot. | Solo-founder models: content">Live collectible auctions 🔥 ✍️</span>
-- <span title="Tags: no-code-friendly">Reading</span>
+- Reading
   - <span title="BookTok. | Solo-founder models: content, no-code-friendly">Book discovery ✍️🧩</span>
   - <span title="Solo-founder models: no-code-friendly">Reading trackers 🧩</span>
+  - <span title="Serialized and web novels; e.g. Wattpad, Royal Road. | Solo-founder models: content">Web-fiction platforms ✍️</span>
 ### Entertainment &amp; Events
 - Streaming &amp; video
   - <span title="Solo-founder models: content">Creator-led media ✍️</span>
@@ -723,6 +726,7 @@ markmap:
 - <span title="Tags: content">Car enthusiasts</span>
   - <span title="Solo-founder models: content">Collector cars ✍️</span>
   - <span title="Solo-founder models: content">Parts &amp; modification ✍️</span>
+  - <span title="Solo-founder models: content">Classic-car restoration ✍️</span>
 - <span title="See also: Planet &amp; Frontier &gt; Climate &amp; Energy &gt; EV infrastructure &gt; Charging networks">EV ownership ↗</span>
   - <span title="Solo-founder models: content">Used EVs &amp; battery health ✍️</span>
 ## <span title="Horizontal B2B software and AI infrastructure. Vertical B2B tools stay with their domain (e.g. Health Technology). | Tags: b2b">Enterprise &amp; AI</span>

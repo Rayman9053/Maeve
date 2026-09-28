@@ -1,5 +1,25 @@
 # Handoff
 
+## v14: no more two-leaf subcategories
+
+All 27 two-leaf subcategories left by the v12 prune are fixed. Every non-leaf has 3–8 children again, and the
+validator's 3-leaf minimum is back.
+- 17 subcategories gained a new, actionable leaf, all scored 3–4. Examples: Home sleep testing, Diabetic foot care, Robotaxi fleet operations and Orbital transfer vehicles.
+- The other 10 were merged or folded into a sibling, e.g. Breathwork + Somatics → Breathwork & somatics, Tasks & habits + Time management → Tasks & time, and Beverages into Better-for-you food & drink.
+- Eight first-choice leaves were rejected because the prune had archived near-identical ones. Adding them back would undo the prune.
+
+| | v13 | v14 |
+|---|---|---|
+| Total nodes | 2,038 | 2,048 |
+| Leaves | 1,593 | 1,610 |
+| Subcategories | 374 | 367 |
+| Two-leaf subcategories | 27 | 0 |
+| Solo-founder view | 543 leaves | 552 leaves |
+
+Details are in `changelog.md` (v14). Every version (v0–v13) reconciles with 0 unaccounted.
+
+---
+
 ## v13: solo-founder models are tags now
 
 The four solo-founder labels now live in `taxonomy.yaml` as tags: `service-business`, `content`, `marketplace` and
