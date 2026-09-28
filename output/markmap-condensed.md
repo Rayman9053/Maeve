@@ -8,14 +8,14 @@ markmap:
   spacingVertical: 6
 ---
 
-# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,048 nodes · click to expand, hover for notes</small>
+# Startup Opportunity Map<br><small>🔥 trending · ↗ cross-reference · 2,126 nodes · click to expand, hover for notes</small>
 
 ## <span title="Consumer wellness and prevention. Clinical conditions and care delivery live in Care &amp; Conditions.">Health &amp; Wellness</span>
 ### Prevention &amp; Diagnostics
 ### Nutrition &amp; Metabolic Health
 ### Fitness &amp; Recovery
 ### Sleep
-### <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence | See also: Mind, Meaning &amp; Growth &gt; Contemplative Practice &gt; Meditation | See also: Relationships &gt; Death, Grief &amp; Legacy &gt; Grief support">Mental Health ↗</span>
+### <span title="See also: Care &amp; Conditions &gt; Brain &amp; Neurological Health &gt; Neurodivergence | See also: Mind, Meaning &amp; Growth &gt; Contemplative Practice &gt; Meditation &amp; reflection | See also: Relationships &gt; Death, Grief &amp; Legacy &gt; Grief support">Mental Health ↗</span>
 ### <span title="See also: Care &amp; Conditions &gt; Population-Specific Care &gt; LGBTQ+ health">Sexual &amp; Reproductive Health ↗</span>
 ### Aging &amp; Longevity
 ## <span title="Clinical conditions, specialty and population-specific care, care delivery and health-system technology.">Care &amp; Conditions</span>

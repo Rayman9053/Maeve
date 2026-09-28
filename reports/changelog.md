@@ -1,5 +1,223 @@
 # Changelog
 
+## v15: the 96 three-leaf subcategories
+
+Input: `source/taxonomy-v14.yaml`. Every subcategory that had exactly 3 leaves gained a leaf or was merged with a
+closely related sibling that also had 3. The bar for a new leaf was a distinct, actionable market (score ≥ 3), not
+another label.
+- 84 subcategories gained a leaf.
+- The other 12 were resolved by 7 merges or folds, one of which also gained a leaf (Orthopedic bracing).
+- That makes 85 new leaves: 77 scored 3 and 8 scored 4.
+- Subcategories now hold 4–8 leaves. The validator still enforces 3, so a future 3-leaf subcategory is allowed.
+
+Sixteen first-choice leaves were rejected because the v12 prune had archived the same idea. Examples: Credit repair,
+Focus apps, Makerspaces, Plant-care apps, Pet cameras, Webinar platforms, Cultivated meat, board-game cafés,
+read-later apps, pilgrimage and farmland investing. Different, distinct markets replaced them.
+
+### Merged or folded
+
+| Before | After | Why |
+|---|---|---|
+| `Sleep products` (3) | leaves moved into Sleep optimization (now 7) | Mattresses, sleep audio and snoring aids are optimization products |
+| `Joint & bone health` (3) + `Foot & ankle care` (3) + new Orthopedic bracing | **Joint, bone & foot health** (7) | One orthopedic market |
+| `Dating platforms` (3) + `AI dating tools` (3) | **Dating apps & tools** (6) | AI tools are features of the same apps; `ai-native` and `no-code-friendly` pushed down to the AI leaves |
+| `Couples intimacy` (3) + `Desire & communication` (3) | **Couples intimacy & communication** (6) | Same buyers and programs |
+| `Communication training` (3) + `Public speaking & presence` (3) | **Communication & presence** (6) | Same coaching market |
+| `Meditation` (3) + `Journaling & reflection` (3) | **Meditation & reflection** (6) | `no-code-friendly` pushed down to the journaling leaves |
+| `Homebuying` (4) + `Home equity` (3) | **Home financing** (7) | Mortgages and equity products share lenders; `regulated` pushed down to the equity leaves |
+
+Two cross-references updated to the renamed paths: Mental Health → `Meditation & reflection`, Sexual wellness →
+`Couples intimacy & communication`.
+
+### Tags pushed down so new leaves aren't mis-tagged
+
+`content` (Cardio & endurance, so Race registration isn't tagged content) and `no-code-friendly` (Budgeting, so Money
+coaching isn't tagged no-code). New leaves have solo-founder tags only where the rubric fits.
+
+### Added a leaf (85)
+
+<!-- ADDITIONS:v15:START -->
+89 added nodes.
+
+- **Health & Wellness › Prevention & Diagnostics › At-home testing**: Consumer lab ordering
+- **Health & Wellness › Nutrition & Metabolic Health › Sports nutrition**: Athlete meal prep
+- **Health & Wellness › Nutrition & Metabolic Health › Special diets**: Diet-friendly dining guides
+- **Health & Wellness › Nutrition & Metabolic Health › Clinical nutrition**: Medically tailored meals
+- **Health & Wellness › Fitness & Recovery › Cardio & endurance**: Race registration
+- **Health & Wellness › Fitness & Recovery › Mobility & flexibility**: Mobility apps
+- **Health & Wellness › Fitness & Recovery › Youth sports**: Sports camps
+- **Health & Wellness › Sleep › Sleep disorders**: Oral sleep appliances
+- **Health & Wellness › Sleep › Infant & child sleep**: Baby monitors
+- **Health & Wellness › Mental Health › Stress & burnout**: Manager mental-health training
+- **Health & Wellness › Sexual & Reproductive Health › Contraception**: OTC birth control
+- **Health & Wellness › Sexual & Reproductive Health › Sexual wellness**: Intimate care products
+- **Health & Wellness › Aging & Longevity › Biohacking**: Quantified-self communities
+- **Health & Wellness › Aging & Longevity › Senior living**: Senior-living financing
+- **Care & Conditions › Chronic Conditions › Autoimmune disease**: Autoimmune diet programs
+- **Care & Conditions › Chronic Conditions › Digestive health**: Gut-brain therapy apps
+- **Care & Conditions › Chronic Conditions › Respiratory & allergy**: Allergy immunotherapy
+- **Care & Conditions › Pain & Musculoskeletal**: Joint, bone & foot health
+- **Care & Conditions › Pain & Musculoskeletal › Joint, bone & foot health**: Orthopedic bracing
+- **Care & Conditions › Brain & Neurological Health › Consumer neurotech**: Brain-stimulation headsets
+- **Care & Conditions › Specialty Care › Dental & oral health**: Dental AI imaging
+- **Care & Conditions › Specialty Care › Vision**: Low-vision tech
+- **Care & Conditions › Specialty Care › Hearing**: Hearing protection
+- **Care & Conditions › Specialty Care › Medical aesthetics**: Med-spa software
+- **Care & Conditions › Integrative Medicine › Manual therapies**: On-demand massage
+- **Wealth › Money Management › Budgeting**: Money coaching
+- **Wealth › Money Management › Credit**: Cross-border credit history
+- **Wealth › Investing & Trading › Investing tools**: Investment research tools
+- **Wealth › Investing & Trading › Alternative investments**: Royalty investing
+- **Wealth › Housing & Real Estate**: Home financing
+- **Wealth › Housing & Real Estate › Renting**: Deposit alternatives
+- **Wealth › Housing & Real Estate › Real estate investing**: Deal-analysis tools
+- **Wealth › Insurance › Property & casualty**: High-risk home insurance
+- **Wealth › Tax & Legal › Family & elder law**: Special-needs trusts
+- **Wealth › Entrepreneurship › Starting a business**: Brand identity tools
+- **Wealth › Entrepreneurship › Small business**: Franchise brokers
+- **Wealth › Entrepreneurship › Agencies**: Content & video agencies
+- **Relationships › Dating**: Dating apps & tools
+- **Relationships › Couples & Marriage › Marriage enrichment**: Couples getaways
+- **Relationships › Couples & Marriage › Long-distance relationships**: Long-distance gadgets
+- **Relationships › Breakups & Divorce › Rebuilding after separation**: Divorce recovery communities
+- **Relationships › Parenting & Family › Special-needs parenting**: Adaptive camps & activities
+- **Relationships › Friendship & Community › Clubs & groups**: Supper clubs
+- **Relationships › Friendship & Community › Community platforms**: Group discovery apps
+- **Relationships › Social Skills**: Communication & presence
+- **Relationships › Social Skills › Neurodivergent social skills**: School social-skills curricula
+- **Relationships › Death, Grief & Legacy › Memorialization**: Memorial forests
+- **Mind, Meaning & Growth › Spirituality & Faith › Spiritual guidance**: Officiant services
+- **Mind, Meaning & Growth › Purpose & Life Transitions › Self-discovery**: Life-design courses
+- **Mind, Meaning & Growth › Purpose & Life Transitions › Life-stage transitions**: Retirement transition coaching
+- **Mind, Meaning & Growth › Personal Development › Self-help content**: Personal-growth podcasts
+- **Mind, Meaning & Growth › Personal Development › Inner-work programs**: Confidence-building programs
+- **Mind, Meaning & Growth › Personal Development › Performance & mindset**: Executive coaching
+- **Mind, Meaning & Growth › Productivity › Knowledge management**: Personal CRM apps
+- **Mind, Meaning & Growth › Productivity › ADHD-friendly productivity**: Visual planning apps
+- **Mind, Meaning & Growth › Learning & Education › Online learning**: Course-creation platforms
+- **Mind, Meaning & Growth › Creativity & Craft › Maker culture**: 3D model marketplaces
+- **Mind, Meaning & Growth › Creativity & Craft › Performing arts**: Online dance lessons
+- **Mind, Meaning & Growth › Career Development › Work arrangements**: Seasonal & temp jobs
+- **Mind, Meaning & Growth › Career Development › Workplace navigation**: Open-enrollment help
+- **Lifestyle, Home & Experiences › Travel & Adventure › Wellness travel**: Retreat booking platforms
+- **Lifestyle, Home & Experiences › Travel & Adventure › Road & outdoor travel**: Outdoor gear rental
+- **Lifestyle, Home & Experiences › Food & Beverage › Artisanal & local food**: Food labeling software
+- **Lifestyle, Home & Experiences › Food & Beverage › Cooking & groceries**: Specialty grocery delivery
+- **Lifestyle, Home & Experiences › Home & Living › Design & decor**: Furniture resale
+- **Lifestyle, Home & Experiences › Home & Living › Gardening & plants**: Garden coaching
+- **Lifestyle, Home & Experiences › Home & Living › Living arrangements**: Co-buying platforms
+- **Lifestyle, Home & Experiences › Pets & Animal Care › Pet tech**: Smart pet feeders
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Games & puzzles**: Board-game publishing
+- **Lifestyle, Home & Experiences › Sports & Hobbies › Reading**: Book subscription boxes
+- **Lifestyle, Home & Experiences › Entertainment & Events › Podcasts & audio**: Podcast production services
+- **Lifestyle, Home & Experiences › Entertainment & Events › Live events**: Event staffing marketplaces
+- **Lifestyle, Home & Experiences › Cars & Transportation › Car enthusiasts**: Car-meet apps
+- **Lifestyle, Home & Experiences › Cars & Transportation › Autonomous & shared rides**: Autonomous shuttles
+- **Enterprise & AI › Software & Developer Tools › Developer platforms**: Documentation platforms
+- **Enterprise & AI › Software & Developer Tools › Hosting & compute**: Agent sandboxes
+- **Enterprise & AI › Cybersecurity & Trust › Human risk**: Executive digital protection
+- **Enterprise & AI › Legal & Compliance Tech › ESG & sustainability reporting**: Product lifecycle assessment
+- **Enterprise & AI › Marketing & Sales Tech › Event marketing**: Sponsorship marketplaces
+- **Enterprise & AI › Commerce & Retail Tech › Fulfillment & post-purchase**: Fulfillment networks
+- **Enterprise & AI › Business Finance Tech › Equity management**: Tender-offer tools
+- **Planet & Frontier › Agriculture & Food Systems › Livestock & aquaculture**: Livestock health diagnostics
+- **Planet & Frontier › Agriculture & Food Systems › Alternative proteins**: Fermentation scale-up facilities
+- **Planet & Frontier › Agriculture & Food Systems › Farm operations & finance**: Grain marketing tools
+- **Planet & Frontier › Industry & Supply Chain › Last-mile delivery**: Delivery management software
+- **Planet & Frontier › Built Environment › Commercial real estate tech**: Flex-space marketplaces
+- **Planet & Frontier › Biotech & Life Sciences › Longevity biotech**: Geroscience drug repurposing
+- **Planet & Frontier › Aerospace & Defense › Launch & in-space**: Spaceport services
+- **Planet & Frontier › Public Interest & Impact › Civic participation & justice**: Record expungement
+<!-- ADDITIONS:v15:END -->
+
+| Pillar | Subcategory | New leaf | Score |
+|---|---|---|---|
+| Health & Wellness | At-home testing | Consumer lab ordering | 3 |
+| Health & Wellness | Sports nutrition | Athlete meal prep | 3 |
+| Health & Wellness | Special diets | Diet-friendly dining guides | 3 |
+| Health & Wellness | Clinical nutrition | Medically tailored meals | 4 |
+| Health & Wellness | Cardio & endurance | Race registration | 3 |
+| Health & Wellness | Mobility & flexibility | Mobility apps | 3 |
+| Health & Wellness | Youth sports | Sports camps | 3 |
+| Health & Wellness | Sleep disorders | Oral sleep appliances | 3 |
+| Health & Wellness | Infant & child sleep | Baby monitors | 3 |
+| Health & Wellness | Stress & burnout | Manager mental-health training | 3 |
+| Health & Wellness | Contraception | OTC birth control | 4 |
+| Health & Wellness | Sexual wellness | Intimate care products | 3 |
+| Health & Wellness | Biohacking | Quantified-self communities | 3 |
+| Health & Wellness | Senior living | Senior-living financing | 3 |
+| Care & Conditions | Autoimmune disease | Autoimmune diet programs | 3 |
+| Care & Conditions | Digestive health | Gut-brain therapy apps | 3 |
+| Care & Conditions | Respiratory & allergy | Allergy immunotherapy | 4 |
+| Care & Conditions | Joint, bone & foot health | Orthopedic bracing | 3 |
+| Care & Conditions | Consumer neurotech | Brain-stimulation headsets | 3 |
+| Care & Conditions | Dental & oral health | Dental AI imaging | 4 |
+| Care & Conditions | Vision | Low-vision tech | 3 |
+| Care & Conditions | Hearing | Hearing protection | 3 |
+| Care & Conditions | Medical aesthetics | Med-spa software | 3 |
+| Care & Conditions | Manual therapies | On-demand massage | 3 |
+| Wealth | Budgeting | Money coaching | 3 |
+| Wealth | Credit | Cross-border credit history | 3 |
+| Wealth | Investing tools | Investment research tools | 3 |
+| Wealth | Alternative investments | Royalty investing | 3 |
+| Wealth | Renting | Deposit alternatives | 4 |
+| Wealth | Real estate investing | Deal-analysis tools | 3 |
+| Wealth | Property & casualty | High-risk home insurance | 4 |
+| Wealth | Family & elder law | Special-needs trusts | 3 |
+| Wealth | Starting a business | Brand identity tools | 3 |
+| Wealth | Small business | Franchise brokers | 3 |
+| Wealth | Agencies | Content & video agencies | 3 |
+| Relationships | Marriage enrichment | Couples getaways | 3 |
+| Relationships | Long-distance relationships | Long-distance gadgets | 3 |
+| Relationships | Rebuilding after separation | Divorce recovery communities | 3 |
+| Relationships | Special-needs parenting | Adaptive camps & activities | 3 |
+| Relationships | Clubs & groups | Supper clubs | 3 |
+| Relationships | Community platforms | Group discovery apps | 3 |
+| Relationships | Neurodivergent social skills | School social-skills curricula | 3 |
+| Relationships | Memorialization | Memorial forests | 3 |
+| Mind, Meaning & Growth | Spiritual guidance | Officiant services | 3 |
+| Mind, Meaning & Growth | Self-discovery | Life-design courses | 3 |
+| Mind, Meaning & Growth | Life-stage transitions | Retirement transition coaching | 3 |
+| Mind, Meaning & Growth | Self-help content | Personal-growth podcasts | 3 |
+| Mind, Meaning & Growth | Inner-work programs | Confidence-building programs | 3 |
+| Mind, Meaning & Growth | Performance & mindset | Executive coaching | 3 |
+| Mind, Meaning & Growth | Knowledge management | Personal CRM apps | 3 |
+| Mind, Meaning & Growth | ADHD-friendly productivity | Visual planning apps | 3 |
+| Mind, Meaning & Growth | Online learning | Course-creation platforms | 3 |
+| Mind, Meaning & Growth | Maker culture | 3D model marketplaces | 3 |
+| Mind, Meaning & Growth | Performing arts | Online dance lessons | 3 |
+| Mind, Meaning & Growth | Work arrangements | Seasonal & temp jobs | 3 |
+| Mind, Meaning & Growth | Workplace navigation | Open-enrollment help | 3 |
+| Lifestyle, Home & Experiences | Wellness travel | Retreat booking platforms | 3 |
+| Lifestyle, Home & Experiences | Road & outdoor travel | Outdoor gear rental | 3 |
+| Lifestyle, Home & Experiences | Artisanal & local food | Food labeling software | 3 |
+| Lifestyle, Home & Experiences | Cooking & groceries | Specialty grocery delivery | 3 |
+| Lifestyle, Home & Experiences | Design & decor | Furniture resale | 3 |
+| Lifestyle, Home & Experiences | Gardening & plants | Garden coaching | 3 |
+| Lifestyle, Home & Experiences | Living arrangements | Co-buying platforms | 3 |
+| Lifestyle, Home & Experiences | Pet tech | Smart pet feeders | 3 |
+| Lifestyle, Home & Experiences | Games & puzzles | Board-game publishing | 3 |
+| Lifestyle, Home & Experiences | Reading | Book subscription boxes | 3 |
+| Lifestyle, Home & Experiences | Podcasts & audio | Podcast production services | 3 |
+| Lifestyle, Home & Experiences | Live events | Event staffing marketplaces | 3 |
+| Lifestyle, Home & Experiences | Car enthusiasts | Car-meet apps | 3 |
+| Lifestyle, Home & Experiences | Autonomous & shared rides | Autonomous shuttles | 3 |
+| Enterprise & AI | Developer platforms | Documentation platforms | 4 |
+| Enterprise & AI | Hosting & compute | Agent sandboxes | 4 |
+| Enterprise & AI | Human risk | Executive digital protection | 3 |
+| Enterprise & AI | ESG & sustainability reporting | Product lifecycle assessment | 3 |
+| Enterprise & AI | Event marketing | Sponsorship marketplaces | 3 |
+| Enterprise & AI | Fulfillment & post-purchase | Fulfillment networks | 3 |
+| Enterprise & AI | Equity management | Tender-offer tools | 3 |
+| Planet & Frontier | Livestock & aquaculture | Livestock health diagnostics | 3 |
+| Planet & Frontier | Alternative proteins | Fermentation scale-up facilities | 3 |
+| Planet & Frontier | Farm operations & finance | Grain marketing tools | 3 |
+| Planet & Frontier | Last-mile delivery | Delivery management software | 3 |
+| Planet & Frontier | Commercial real estate tech | Flex-space marketplaces | 3 |
+| Planet & Frontier | Longevity biotech | Geroscience drug repurposing | 3 |
+| Planet & Frontier | Launch & in-space | Spaceport services | 3 |
+| Planet & Frontier | Civic participation & justice | Record expungement | 3 |
+
 ## v14: the 27 two-leaf subcategories
 
 Input: `source/taxonomy-v13.yaml`. After v12 left 27 subcategories with 2 leaves, each one gained a leaf or was merged

@@ -6,6 +6,7 @@ Health & Wellness > Prevention & Diagnostics > Health screenings > Cardiovascula
 Health & Wellness > Prevention & Diagnostics > At-home testing > Home lab kits,4
 Health & Wellness > Prevention & Diagnostics > At-home testing > Blood-test memberships,5
 Health & Wellness > Prevention & Diagnostics > At-home testing > Hormone tests,4
+Health & Wellness > Prevention & Diagnostics > At-home testing > Consumer lab ordering,3
 Health & Wellness > Prevention & Diagnostics > Early-detection imaging > Whole-body MRI,4
 Health & Wellness > Prevention & Diagnostics > Early-detection imaging > Coronary calcium scoring,3
 Health & Wellness > Prevention & Diagnostics > Early-detection imaging > DEXA body scans,3
@@ -30,9 +31,11 @@ Health & Wellness > Nutrition & Metabolic Health > Personalized nutrition > Meta
 Health & Wellness > Nutrition & Metabolic Health > Sports nutrition > Endurance fueling,3
 Health & Wellness > Nutrition & Metabolic Health > Sports nutrition > Strength & protein,3
 Health & Wellness > Nutrition & Metabolic Health > Sports nutrition > Hydration & electrolytes,4
+Health & Wellness > Nutrition & Metabolic Health > Sports nutrition > Athlete meal prep,3
 Health & Wellness > Nutrition & Metabolic Health > Special diets > Plant-based,3
 Health & Wellness > Nutrition & Metabolic Health > Special diets > Gluten-free,3
 Health & Wellness > Nutrition & Metabolic Health > Special diets > Culturally tailored diets,3
+Health & Wellness > Nutrition & Metabolic Health > Special diets > Diet-friendly dining guides,3
 Health & Wellness > Nutrition & Metabolic Health > Supplements > Vitamins & minerals,3
 Health & Wellness > Nutrition & Metabolic Health > Supplements > Protein powders,3
 Health & Wellness > Nutrition & Metabolic Health > Supplements > Creatine,4
@@ -41,12 +44,15 @@ Health & Wellness > Nutrition & Metabolic Health > Supplements > Longevity suppl
 Health & Wellness > Nutrition & Metabolic Health > Clinical nutrition > Dietitian telehealth,5
 Health & Wellness > Nutrition & Metabolic Health > Clinical nutrition > Medical nutrition therapy,4
 Health & Wellness > Nutrition & Metabolic Health > Clinical nutrition > Eating-disorder treatment,4
+Health & Wellness > Nutrition & Metabolic Health > Clinical nutrition > Medically tailored meals,4
 Health & Wellness > Fitness & Recovery > Cardio & endurance > Running,3
 Health & Wellness > Fitness & Recovery > Cardio & endurance > Cycling,3
 Health & Wellness > Fitness & Recovery > Cardio & endurance > Zone-2 & VO2max training,3
+Health & Wellness > Fitness & Recovery > Cardio & endurance > Race registration,3
 Health & Wellness > Fitness & Recovery > Mobility & flexibility > Stretching,3
 Health & Wellness > Fitness & Recovery > Mobility & flexibility > Yoga,3
 Health & Wellness > Fitness & Recovery > Mobility & flexibility > Pilates,4
+Health & Wellness > Fitness & Recovery > Mobility & flexibility > Mobility apps,3
 Health & Wellness > Fitness & Recovery > Connected fitness > Home gyms,3
 Health & Wellness > Fitness & Recovery > Connected fitness > Fitness equipment,3
 Health & Wellness > Fitness & Recovery > Connected fitness > Workout apps,4
@@ -68,19 +74,22 @@ Health & Wellness > Fitness & Recovery > Adaptive & inclusive fitness > Prenatal
 Health & Wellness > Fitness & Recovery > Youth sports > Skills training,3
 Health & Wellness > Fitness & Recovery > Youth sports > College recruiting,4
 Health & Wellness > Fitness & Recovery > Youth sports > League & club software,4
+Health & Wellness > Fitness & Recovery > Youth sports > Sports camps,3
 Health & Wellness > Sleep > Sleep optimization > Sleep trackers,4
 Health & Wellness > Sleep > Sleep optimization > Routines & coaching,3
 Health & Wellness > Sleep > Sleep optimization > Cooling & smart beds,4
 Health & Wellness > Sleep > Sleep optimization > Circadian lighting,3
+Health & Wellness > Sleep > Sleep optimization > Mattresses & bedding,3
+Health & Wellness > Sleep > Sleep optimization > Sleep audio apps,3
+Health & Wellness > Sleep > Sleep optimization > Snoring solutions,3
 Health & Wellness > Sleep > Sleep disorders > Insomnia & CBT-I,5
 Health & Wellness > Sleep > Sleep disorders > Sleep apnea,5
 Health & Wellness > Sleep > Sleep disorders > Home sleep testing,4
+Health & Wellness > Sleep > Sleep disorders > Oral sleep appliances,3
 Health & Wellness > Sleep > Infant & child sleep > Sleep consultants,4
 Health & Wellness > Sleep > Infant & child sleep > Smart bassinets,4
 Health & Wellness > Sleep > Infant & child sleep > Sleep-training apps,3
-Health & Wellness > Sleep > Sleep products > Mattresses & bedding,3
-Health & Wellness > Sleep > Sleep products > Sleep audio apps,3
-Health & Wellness > Sleep > Sleep products > Snoring solutions,3
+Health & Wellness > Sleep > Infant & child sleep > Baby monitors,3
 Health & Wellness > Mental Health > Anxiety & mood > Generalized anxiety,3
 Health & Wellness > Mental Health > Anxiety & mood > Social anxiety,3
 Health & Wellness > Mental Health > Anxiety & mood > Performance anxiety,3
@@ -90,6 +99,7 @@ Health & Wellness > Mental Health > Anxiety & mood > Perinatal depression,4
 Health & Wellness > Mental Health > Stress & burnout > Burnout,3
 Health & Wellness > Mental Health > Stress & burnout > Workplace stress,3
 Health & Wellness > Mental Health > Stress & burnout > Stress-management programs,3
+Health & Wellness > Mental Health > Stress & burnout > Manager mental-health training,3
 Health & Wellness > Mental Health > Therapy access > Individual therapy,3
 Health & Wellness > Mental Health > Therapy access > Couples therapy,4
 Health & Wellness > Mental Health > Therapy access > Family therapy,3
@@ -130,6 +140,7 @@ Health & Wellness > Sexual & Reproductive Health > Pregnancy & postpartum > Lact
 Health & Wellness > Sexual & Reproductive Health > Contraception > Birth-control telehealth,4
 Health & Wellness > Sexual & Reproductive Health > Contraception > Vasectomy,3
 Health & Wellness > Sexual & Reproductive Health > Contraception > Male contraception,3
+Health & Wellness > Sexual & Reproductive Health > Contraception > OTC birth control,4
 Health & Wellness > Sexual & Reproductive Health > Sexual health services > STI testing,4
 Health & Wellness > Sexual & Reproductive Health > Sexual health services > PrEP access,4
 Health & Wellness > Sexual & Reproductive Health > Sexual health services > Erectile dysfunction,3
@@ -137,6 +148,7 @@ Health & Wellness > Sexual & Reproductive Health > Sexual health services > Low 
 Health & Wellness > Sexual & Reproductive Health > Sexual wellness > Sex tech & devices,3
 Health & Wellness > Sexual & Reproductive Health > Sexual wellness > Sex education platforms,3
 Health & Wellness > Sexual & Reproductive Health > Sexual wellness > Sexual wellness apps,3
+Health & Wellness > Sexual & Reproductive Health > Sexual wellness > Intimate care products,3
 Health & Wellness > Aging & Longevity > Healthy aging > Senior mobility,3
 Health & Wellness > Aging & Longevity > Healthy aging > Cognitive fitness,3
 Health & Wellness > Aging & Longevity > Healthy aging > Sarcopenia programs,4
@@ -148,6 +160,7 @@ Health & Wellness > Aging & Longevity > Longevity medicine > Healthspan programs
 Health & Wellness > Aging & Longevity > Biohacking > Longevity data dashboards,4
 Health & Wellness > Aging & Longevity > Biohacking > Smart rings,4
 Health & Wellness > Aging & Longevity > Biohacking > Recovery wearables,4
+Health & Wellness > Aging & Longevity > Biohacking > Quantified-self communities,3
 Health & Wellness > Aging & Longevity > Age tech > Fall detection,4
 Health & Wellness > Aging & Longevity > Age tech > Passive home monitoring,5
 Health & Wellness > Aging & Longevity > Age tech > Aging in place,4
@@ -164,6 +177,7 @@ Health & Wellness > Aging & Longevity > Caregiving > Home care agencies,4
 Health & Wellness > Aging & Longevity > Senior living > Senior living search,3
 Health & Wellness > Aging & Longevity > Senior living > Senior home-sharing,3
 Health & Wellness > Aging & Longevity > Senior living > Senior-living operator software,4
+Health & Wellness > Aging & Longevity > Senior living > Senior-living financing,3
 Care & Conditions > Chronic Conditions > Diabetes > Type 1,3
 Care & Conditions > Chronic Conditions > Diabetes > Type 2,4
 Care & Conditions > Chronic Conditions > Diabetes > Prediabetes,4
@@ -176,12 +190,15 @@ Care & Conditions > Chronic Conditions > Cardiometabolic disease > Fatty liver d
 Care & Conditions > Chronic Conditions > Autoimmune disease > Rheumatoid arthritis,3
 Care & Conditions > Chronic Conditions > Autoimmune disease > Hashimoto's,3
 Care & Conditions > Chronic Conditions > Autoimmune disease > Autoimmune virtual care,3
+Care & Conditions > Chronic Conditions > Autoimmune disease > Autoimmune diet programs,3
 Care & Conditions > Chronic Conditions > Digestive health > IBS,4
 Care & Conditions > Chronic Conditions > Digestive health > IBD,3
 Care & Conditions > Chronic Conditions > Digestive health > Food intolerances,3
+Care & Conditions > Chronic Conditions > Digestive health > Gut-brain therapy apps,3
 Care & Conditions > Chronic Conditions > Respiratory & allergy > Asthma,3
 Care & Conditions > Chronic Conditions > Respiratory & allergy > COPD,3
 Care & Conditions > Chronic Conditions > Respiratory & allergy > Food allergies,4
+Care & Conditions > Chronic Conditions > Respiratory & allergy > Allergy immunotherapy,4
 Care & Conditions > Chronic Conditions > Oncology > Cancer navigation,5
 Care & Conditions > Chronic Conditions > Oncology > Survivorship support,4
 Care & Conditions > Chronic Conditions > Oncology > Breast cancer support,3
@@ -191,12 +208,13 @@ Care & Conditions > Chronic Conditions > Complex & rare illness > ME/CFS,3
 Care & Conditions > Chronic Conditions > Complex & rare illness > POTS & dysautonomia,3
 Care & Conditions > Chronic Conditions > Complex & rare illness > Rare-disease diagnostics,4
 Care & Conditions > Chronic Conditions > Complex & rare illness > Rare-disease communities,3
-Care & Conditions > Pain & Musculoskeletal > Joint & bone health > Osteoarthritis,3
-Care & Conditions > Pain & Musculoskeletal > Joint & bone health > Joint replacement navigation,4
-Care & Conditions > Pain & Musculoskeletal > Joint & bone health > Osteoporosis,3
-Care & Conditions > Pain & Musculoskeletal > Foot & ankle care > Custom orthotics,3
-Care & Conditions > Pain & Musculoskeletal > Foot & ankle care > Podiatry telehealth,3
-Care & Conditions > Pain & Musculoskeletal > Foot & ankle care > Diabetic foot care,4
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Osteoarthritis",3
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Joint replacement navigation",4
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Osteoporosis",3
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Custom orthotics",3
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Podiatry telehealth",3
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Diabetic foot care",4
+"Care & Conditions > Pain & Musculoskeletal > Joint, bone & foot health > Orthopedic bracing",3
 Care & Conditions > Pain & Musculoskeletal > Physical rehabilitation > Prehab,4
 Care & Conditions > Pain & Musculoskeletal > Physical rehabilitation > Post-surgical rehab,4
 Care & Conditions > Pain & Musculoskeletal > Physical rehabilitation > Sports rehab,3
@@ -240,15 +258,19 @@ Care & Conditions > Brain & Neurological Health > Neurological conditions > Neur
 Care & Conditions > Brain & Neurological Health > Consumer neurotech > EEG headbands,3
 Care & Conditions > Brain & Neurological Health > Consumer neurotech > Neurofeedback,3
 Care & Conditions > Brain & Neurological Health > Consumer neurotech > Vagus-nerve stimulation devices,3
+Care & Conditions > Brain & Neurological Health > Consumer neurotech > Brain-stimulation headsets,3
 Care & Conditions > Specialty Care > Dental & oral health > Teledentistry,3
 Care & Conditions > Specialty Care > Dental & oral health > Clear aligners,3
 Care & Conditions > Specialty Care > Dental & oral health > Dental membership plans,4
+Care & Conditions > Specialty Care > Dental & oral health > Dental AI imaging,4
 Care & Conditions > Specialty Care > Vision > Online eye exams,3
 Care & Conditions > Specialty Care > Vision > DTC eyewear,3
 Care & Conditions > Specialty Care > Vision > Myopia control,4
+Care & Conditions > Specialty Care > Vision > Low-vision tech,3
 Care & Conditions > Specialty Care > Hearing > OTC hearing aids,4
 Care & Conditions > Specialty Care > Hearing > Online hearing tests,3
 Care & Conditions > Specialty Care > Hearing > Tinnitus management,3
+Care & Conditions > Specialty Care > Hearing > Hearing protection,3
 Care & Conditions > Specialty Care > Dermatology > Teledermatology,4
 Care & Conditions > Specialty Care > Dermatology > Acne & eczema care,4
 Care & Conditions > Specialty Care > Dermatology > Psoriasis & rosacea,3
@@ -256,6 +278,7 @@ Care & Conditions > Specialty Care > Dermatology > Hair loss,4
 Care & Conditions > Specialty Care > Medical aesthetics > Med spas,4
 Care & Conditions > Specialty Care > Medical aesthetics > Injectables,3
 Care & Conditions > Specialty Care > Medical aesthetics > Laser & energy devices,3
+Care & Conditions > Specialty Care > Medical aesthetics > Med-spa software,3
 Care & Conditions > Population-Specific Care > Women's health > Menopause & perimenopause,5
 Care & Conditions > Population-Specific Care > Women's health > PCOS,4
 Care & Conditions > Population-Specific Care > Women's health > Endometriosis,4
@@ -351,6 +374,7 @@ Care & Conditions > Health Technology > Life-science commercial tech > Pharmacov
 Care & Conditions > Integrative Medicine > Manual therapies > Acupuncture,3
 Care & Conditions > Integrative Medicine > Manual therapies > Chiropractic,3
 Care & Conditions > Integrative Medicine > Manual therapies > Massage & bodywork,3
+Care & Conditions > Integrative Medicine > Manual therapies > On-demand massage,3
 Care & Conditions > Integrative Medicine > Integrative clinics > Functional medicine,3
 Care & Conditions > Integrative Medicine > Integrative clinics > Integrative primary care,3
 Care & Conditions > Integrative Medicine > Integrative clinics > Integrative oncology,3
@@ -363,6 +387,7 @@ Care & Conditions > Integrative Medicine > Practitioner tools > Practitioner-gra
 Wealth > Money Management > Budgeting > Household budgeting,3
 Wealth > Money Management > Budgeting > Expense tracking,3
 Wealth > Money Management > Budgeting > AI money coaches,4
+Wealth > Money Management > Budgeting > Money coaching,3
 Wealth > Money Management > Saving > High-yield savings,3
 Wealth > Money Management > Saving > Kids' savings,3
 Wealth > Money Management > Saving > Child investment accounts,4
@@ -374,6 +399,7 @@ Wealth > Money Management > Debt management > Debt consolidation,3
 Wealth > Money Management > Credit > Credit building,4
 Wealth > Money Management > Credit > Credit cards,3
 Wealth > Money Management > Credit > Rewards optimization,3
+Wealth > Money Management > Credit > Cross-border credit history,3
 Wealth > Money Management > Financial wellness > Youth financial education,3
 Wealth > Money Management > Financial wellness > First-generation guidance,3
 Wealth > Money Management > Financial wellness > Workplace financial wellness,4
@@ -417,26 +443,30 @@ Wealth > Banking & Payments > Financial inclusion > Cash-access networks,3
 Wealth > Investing & Trading > Investing tools > Direct indexing,3
 Wealth > Investing & Trading > Investing tools > AI investing copilots,4
 Wealth > Investing & Trading > Investing tools > AI trading tools,3
+Wealth > Investing & Trading > Investing tools > Investment research tools,3
 Wealth > Investing & Trading > Alternative investments > Private credit,3
 Wealth > Investing & Trading > Alternative investments > Collectible assets,3
 Wealth > Investing & Trading > Alternative investments > Private-market access,4
+Wealth > Investing & Trading > Alternative investments > Royalty investing,3
 Wealth > Investing & Trading > Digital assets > Crypto exchanges & wallets,3
 Wealth > Investing & Trading > Digital assets > Stablecoins,5
 Wealth > Investing & Trading > Digital assets > DeFi & staking,3
 Wealth > Investing & Trading > Digital assets > Tokenized real-world assets,4
-Wealth > Housing & Real Estate > Homebuying > Mortgages,3
-Wealth > Housing & Real Estate > Homebuying > First-time buyer programs,3
-Wealth > Housing & Real Estate > Homebuying > Down-payment assistance,4
-Wealth > Housing & Real Estate > Homebuying > Rent-to-own,3
+Wealth > Housing & Real Estate > Home financing > Mortgages,3
+Wealth > Housing & Real Estate > Home financing > First-time buyer programs,3
+Wealth > Housing & Real Estate > Home financing > Down-payment assistance,4
+Wealth > Housing & Real Estate > Home financing > Rent-to-own,3
+Wealth > Housing & Real Estate > Home financing > Equity release,3
+Wealth > Housing & Real Estate > Home financing > Home-equity investments,4
+Wealth > Housing & Real Estate > Home financing > Home-equity tracking,3
 Wealth > Housing & Real Estate > Renting > Rent reporting,3
 Wealth > Housing & Real Estate > Renting > Landlord-tenant disputes,3
 Wealth > Housing & Real Estate > Renting > Renter services,3
+Wealth > Housing & Real Estate > Renting > Deposit alternatives,4
 Wealth > Housing & Real Estate > Real estate investing > Rental properties,3
 Wealth > Housing & Real Estate > Real estate investing > Short-term rentals,3
 Wealth > Housing & Real Estate > Real estate investing > Fractional ownership,3
-Wealth > Housing & Real Estate > Home equity > Equity release,3
-Wealth > Housing & Real Estate > Home equity > Home-equity investments,4
-Wealth > Housing & Real Estate > Home equity > Home-equity tracking,3
+Wealth > Housing & Real Estate > Real estate investing > Deal-analysis tools,3
 Wealth > Retirement & Wealth Planning > Retirement planning > Retirement income,4
 Wealth > Retirement & Wealth Planning > Retirement planning > Social Security planning,3
 Wealth > Retirement & Wealth Planning > Retirement planning > IRAs & 401(k)s,3
@@ -456,6 +486,7 @@ Wealth > Insurance > Health & benefits > ICHRA,5
 Wealth > Insurance > Property & casualty > Home insurance,4
 Wealth > Insurance > Property & casualty > Commercial property insurance,3
 Wealth > Insurance > Property & casualty > Auto insurance,3
+Wealth > Insurance > Property & casualty > High-risk home insurance,4
 Wealth > Insurance > Specialty lines > Disability insurance,3
 Wealth > Insurance > Specialty lines > Long-term care insurance,3
 Wealth > Insurance > Specialty lines > Pet insurance,3
@@ -483,6 +514,7 @@ Wealth > Tax & Legal > Consumer legal services > Online notarization,3
 Wealth > Tax & Legal > Family & elder law > Powers of attorney,3
 Wealth > Tax & Legal > Family & elder law > Guardianship & conservatorship,3
 Wealth > Tax & Legal > Family & elder law > Elder law services,3
+Wealth > Tax & Legal > Family & elder law > Special-needs trusts,3
 Wealth > Tax & Legal > Immigration services > Visa applications,4
 Wealth > Tax & Legal > Immigration services > Green cards,3
 Wealth > Tax & Legal > Immigration services > Citizenship,3
@@ -491,6 +523,7 @@ Wealth > Tax & Legal > Immigration services > Employer immigration,4
 Wealth > Entrepreneurship > Starting a business > Idea validation,3
 Wealth > Entrepreneurship > Starting a business > Market research,3
 Wealth > Entrepreneurship > Starting a business > Business formation,3
+Wealth > Entrepreneurship > Starting a business > Brand identity tools,3
 Wealth > Entrepreneurship > Acquisition entrepreneurship > Search funds,3
 Wealth > Entrepreneurship > Acquisition entrepreneurship > Business-for-sale marketplaces,4
 Wealth > Entrepreneurship > Acquisition entrepreneurship > SBA acquisition loans,3
@@ -498,6 +531,7 @@ Wealth > Entrepreneurship > Acquisition entrepreneurship > Small-business roll-u
 Wealth > Entrepreneurship > Small business > Local services,3
 Wealth > Entrepreneurship > Small business > Franchises,3
 Wealth > Entrepreneurship > Small business > Skilled-trades businesses,5
+Wealth > Entrepreneurship > Small business > Franchise brokers,3
 Wealth > Entrepreneurship > Online business > E-commerce,3
 Wealth > Entrepreneurship > Online business > SaaS,4
 Wealth > Entrepreneurship > Online business > Digital products,3
@@ -517,16 +551,17 @@ Wealth > Entrepreneurship > Freelancing & fractional > Fractional executives,4
 Wealth > Entrepreneurship > Agencies > Digital marketing,3
 Wealth > Entrepreneurship > Agencies > Web development,3
 Wealth > Entrepreneurship > Agencies > AI automation agencies,5
+Wealth > Entrepreneurship > Agencies > Content & video agencies,3
 Wealth > Entrepreneurship > Solopreneurship > AI-leveraged solo businesses,5
 Wealth > Entrepreneurship > Solopreneurship > Micro-SaaS,4
 Wealth > Entrepreneurship > Solopreneurship > Productized services,4
 Wealth > Entrepreneurship > Solopreneurship > Solo operator tools,4
-Relationships > Dating > Dating platforms > Curated apps,4
-Relationships > Dating > Dating platforms > Profile optimization,3
-Relationships > Dating > Dating platforms > IRL-first dating apps,4
-Relationships > Dating > AI dating tools > AI profile writing,4
-Relationships > Dating > AI dating tools > AI message coaching,4
-Relationships > Dating > AI dating tools > AI matchmaking,4
+Relationships > Dating > Dating apps & tools > Curated apps,4
+Relationships > Dating > Dating apps & tools > Profile optimization,3
+Relationships > Dating > Dating apps & tools > IRL-first dating apps,4
+Relationships > Dating > Dating apps & tools > AI profile writing,4
+Relationships > Dating > Dating apps & tools > AI message coaching,4
+Relationships > Dating > Dating apps & tools > AI matchmaking,4
 "Relationships > Dating > Matchmaking, coaching & events > Professional matchmaking",4
 "Relationships > Dating > Matchmaking, coaching & events > Niche matchmaking",3
 "Relationships > Dating > Matchmaking, coaching & events > Speed dating",3
@@ -555,9 +590,11 @@ Relationships > Couples & Marriage > Relationship coaching > Relationship course
 Relationships > Couples & Marriage > Marriage enrichment > Date-night services,3
 Relationships > Couples & Marriage > Marriage enrichment > Couples activities,3
 Relationships > Couples & Marriage > Marriage enrichment > Relationship retreats,3
+Relationships > Couples & Marriage > Marriage enrichment > Couples getaways,3
 Relationships > Couples & Marriage > Long-distance relationships > LDR apps,3
 Relationships > Couples & Marriage > Long-distance relationships > Shared-experience tools,3
 Relationships > Couples & Marriage > Long-distance relationships > Military couples,3
+Relationships > Couples & Marriage > Long-distance relationships > Long-distance gadgets,3
 Relationships > Couples & Marriage > Relationship repair > Infidelity recovery,3
 Relationships > Couples & Marriage > Relationship repair > Marriage intensives,3
 Relationships > Couples & Marriage > Relationship repair > Couples programs in recovery,3
@@ -570,16 +607,16 @@ Relationships > Intimacy & Sexuality > Therapy & coaching > Sex therapists,3
 Relationships > Intimacy & Sexuality > Therapy & coaching > Sex-therapy telehealth,4
 Relationships > Intimacy & Sexuality > Therapy & coaching > Intimacy coaches,3
 Relationships > Intimacy & Sexuality > Therapy & coaching > Sexual performance anxiety,3
-Relationships > Intimacy & Sexuality > Couples intimacy > Guided intimacy courses,3
-Relationships > Intimacy & Sexuality > Couples intimacy > Intimacy apps,3
-Relationships > Intimacy & Sexuality > Couples intimacy > Conversation card games,3
+Relationships > Intimacy & Sexuality > Couples intimacy & communication > Guided intimacy courses,3
+Relationships > Intimacy & Sexuality > Couples intimacy & communication > Intimacy apps,3
+Relationships > Intimacy & Sexuality > Couples intimacy & communication > Conversation card games,3
+Relationships > Intimacy & Sexuality > Couples intimacy & communication > Desire-mismatch programs,3
+Relationships > Intimacy & Sexuality > Couples intimacy & communication > Consent education,3
+Relationships > Intimacy & Sexuality > Couples intimacy & communication > Trauma-informed intimacy programs,3
 Relationships > Intimacy & Sexuality > Life-stage intimacy > Postpartum intimacy,3
 Relationships > Intimacy & Sexuality > Life-stage intimacy > Midlife intimacy,3
 Relationships > Intimacy & Sexuality > Life-stage intimacy > Intimacy after cancer,3
 Relationships > Intimacy & Sexuality > Life-stage intimacy > Intimacy with illness & disability,3
-Relationships > Intimacy & Sexuality > Desire & communication > Desire-mismatch programs,3
-Relationships > Intimacy & Sexuality > Desire & communication > Consent education,3
-Relationships > Intimacy & Sexuality > Desire & communication > Trauma-informed intimacy programs,3
 Relationships > Breakups & Divorce > Divorce process > Divorce preparation,3
 Relationships > Breakups & Divorce > Divorce process > Divorce coaching,3
 Relationships > Breakups & Divorce > Divorce process > Divorce mediation,4
@@ -602,6 +639,7 @@ Relationships > Breakups & Divorce > Safe separation > Emergency housing search,
 Relationships > Breakups & Divorce > Rebuilding after separation > Post-divorce housing,3
 Relationships > Breakups & Divorce > Rebuilding after separation > Name-change services,3
 Relationships > Breakups & Divorce > Rebuilding after separation > Breakup coaching,3
+Relationships > Breakups & Divorce > Rebuilding after separation > Divorce recovery communities,3
 Relationships > Parenting & Family > Parenting support > Parent coaching,3
 Relationships > Parenting & Family > Parenting support > Parenting courses,3
 Relationships > Parenting & Family > Parenting support > Parenting communities,3
@@ -628,6 +666,7 @@ Relationships > Parenting & Family > Family structures > Genealogy & family hist
 Relationships > Parenting & Family > Special-needs parenting > IEP & school advocacy,4
 Relationships > Parenting & Family > Special-needs parenting > Therapy coordination,4
 Relationships > Parenting & Family > Special-needs parenting > Special-needs parent communities,3
+Relationships > Parenting & Family > Special-needs parenting > Adaptive camps & activities,3
 Relationships > Friendship & Community > Making friends > Friendship apps,4
 Relationships > Friendship & Community > Making friends > Parent friendship apps,3
 Relationships > Friendship & Community > Making friends > Activity-partner apps,3
@@ -641,6 +680,7 @@ Relationships > Friendship & Community > Loneliness & connection > Friendly-visi
 Relationships > Friendship & Community > Clubs & groups > Social clubs,3
 Relationships > Friendship & Community > Clubs & groups > Alumni networks,3
 Relationships > Friendship & Community > Clubs & groups > Expat & immigrant communities,3
+Relationships > Friendship & Community > Clubs & groups > Supper clubs,3
 Relationships > Friendship & Community > AI companions > Companion apps,4
 Relationships > Friendship & Community > AI companions > Voice companions,3
 Relationships > Friendship & Community > AI companions > Senior AI companions,4
@@ -649,12 +689,13 @@ Relationships > Friendship & Community > AI companions > Companion safety & age 
 Relationships > Friendship & Community > Community platforms > Community software,4
 Relationships > Friendship & Community > Community platforms > Club membership management,4
 Relationships > Friendship & Community > Community platforms > Social event apps,4
-Relationships > Social Skills > Communication training > Communication coaching,3
-Relationships > Social Skills > Communication training > AI conversation roleplay,5
-Relationships > Social Skills > Communication training > Workplace communication programs,4
-Relationships > Social Skills > Public speaking & presence > Public speaking coaching,3
-Relationships > Social Skills > Public speaking & presence > Speech feedback AI,4
-Relationships > Social Skills > Public speaking & presence > Executive presence coaching,3
+Relationships > Friendship & Community > Community platforms > Group discovery apps,3
+Relationships > Social Skills > Communication & presence > Communication coaching,3
+Relationships > Social Skills > Communication & presence > AI conversation roleplay,5
+Relationships > Social Skills > Communication & presence > Workplace communication programs,4
+Relationships > Social Skills > Communication & presence > Public speaking coaching,3
+Relationships > Social Skills > Communication & presence > Speech feedback AI,4
+Relationships > Social Skills > Communication & presence > Executive presence coaching,3
 Relationships > Social Skills > Emotional intelligence > EQ assessments,3
 Relationships > Social Skills > Emotional intelligence > EQ training,3
 Relationships > Social Skills > Emotional intelligence > Conflict-resolution training,3
@@ -662,6 +703,7 @@ Relationships > Social Skills > Emotional intelligence > Empathy programs for ki
 Relationships > Social Skills > Neurodivergent social skills > Social-skills groups,3
 Relationships > Social Skills > Neurodivergent social skills > Workplace social coaching,3
 Relationships > Social Skills > Neurodivergent social skills > Social-skills apps,3
+Relationships > Social Skills > Neurodivergent social skills > School social-skills curricula,3
 "Relationships > Death, Grief & Legacy > End-of-life planning > Advance directives",3
 "Relationships > Death, Grief & Legacy > End-of-life planning > End-of-life planning apps",4
 "Relationships > Death, Grief & Legacy > End-of-life planning > Funeral pre-planning",3
@@ -675,6 +717,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Relationships > Death, Grief & Legacy > Memorialization > Online memorials",3
 "Relationships > Death, Grief & Legacy > Memorialization > Memorial keepsakes",3
 "Relationships > Death, Grief & Legacy > Memorialization > AI memorial avatars",3
+"Relationships > Death, Grief & Legacy > Memorialization > Memorial forests",3
 "Relationships > Death, Grief & Legacy > Grief support > Grief counseling",3
 "Relationships > Death, Grief & Legacy > Grief support > Grief apps",3
 "Relationships > Death, Grief & Legacy > Grief support > Child grief programs",3
@@ -688,16 +731,16 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Relationships > Death, Grief & Legacy > After-death logistics > Probate navigation",4
 "Relationships > Death, Grief & Legacy > After-death logistics > Estate cleanout",3
 "Relationships > Death, Grief & Legacy > After-death logistics > Downsizing services",3
-"Mind, Meaning & Growth > Contemplative Practice > Meditation > Meditation studios",3
-"Mind, Meaning & Growth > Contemplative Practice > Meditation > Meditation retreats",3
-"Mind, Meaning & Growth > Contemplative Practice > Meditation > Workplace mindfulness",3
+"Mind, Meaning & Growth > Contemplative Practice > Meditation & reflection > Meditation studios",3
+"Mind, Meaning & Growth > Contemplative Practice > Meditation & reflection > Meditation retreats",3
+"Mind, Meaning & Growth > Contemplative Practice > Meditation & reflection > Workplace mindfulness",3
+"Mind, Meaning & Growth > Contemplative Practice > Meditation & reflection > Journaling apps",3
+"Mind, Meaning & Growth > Contemplative Practice > Meditation & reflection > AI journaling",4
+"Mind, Meaning & Growth > Contemplative Practice > Meditation & reflection > Mood tracking apps",3
 "Mind, Meaning & Growth > Contemplative Practice > Breathwork & somatics > Breathwork apps",3
 "Mind, Meaning & Growth > Contemplative Practice > Breathwork & somatics > Breath-training devices",3
 "Mind, Meaning & Growth > Contemplative Practice > Breathwork & somatics > Somatic practitioner training",3
 "Mind, Meaning & Growth > Contemplative Practice > Breathwork & somatics > Nervous-system regulation apps",3
-"Mind, Meaning & Growth > Contemplative Practice > Journaling & reflection > Journaling apps",3
-"Mind, Meaning & Growth > Contemplative Practice > Journaling & reflection > AI journaling",4
-"Mind, Meaning & Growth > Contemplative Practice > Journaling & reflection > Mood tracking apps",3
 "Mind, Meaning & Growth > Contemplative Practice > Digital wellness > Screen-time apps",3
 "Mind, Meaning & Growth > Contemplative Practice > Digital wellness > Minimalist phones",4
 "Mind, Meaning & Growth > Contemplative Practice > Digital wellness > Phone lockers & pouches",4
@@ -714,6 +757,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Spirituality & Faith > Spiritual guidance > Chaplaincy services",3
 "Mind, Meaning & Growth > Spirituality & Faith > Spiritual guidance > Online religious education",3
 "Mind, Meaning & Growth > Spirituality & Faith > Spiritual guidance > Astrology apps",3
+"Mind, Meaning & Growth > Spirituality & Faith > Spiritual guidance > Officiant services",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Life coaching > Coach certification",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Life coaching > Coaching marketplaces",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Life coaching > AI life coaches",4
@@ -721,18 +765,23 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Purpose & Life Transitions > Self-discovery > Strengths & values assessments",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Self-discovery > Personality assessments",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Self-discovery > Psychometric test platforms",3
+"Mind, Meaning & Growth > Purpose & Life Transitions > Self-discovery > Life-design courses",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Life-stage transitions > Midlife reinvention",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Life-stage transitions > Encore careers",3
 "Mind, Meaning & Growth > Purpose & Life Transitions > Life-stage transitions > Sabbatical planning",3
+"Mind, Meaning & Growth > Purpose & Life Transitions > Life-stage transitions > Retirement transition coaching",3
 "Mind, Meaning & Growth > Personal Development > Self-help content > Book summaries & audio",3
 "Mind, Meaning & Growth > Personal Development > Self-help content > Personal development apps",3
 "Mind, Meaning & Growth > Personal Development > Self-help content > Challenge programs",3
+"Mind, Meaning & Growth > Personal Development > Self-help content > Personal-growth podcasts",3
 "Mind, Meaning & Growth > Personal Development > Inner-work programs > Body-image programs",3
 "Mind, Meaning & Growth > Personal Development > Inner-work programs > Resilience training",3
 "Mind, Meaning & Growth > Personal Development > Inner-work programs > Wilderness programs",3
+"Mind, Meaning & Growth > Personal Development > Inner-work programs > Confidence-building programs",3
 "Mind, Meaning & Growth > Personal Development > Performance & mindset > Peak-performance coaching",3
 "Mind, Meaning & Growth > Personal Development > Performance & mindset > Mental-skills coaching",3
 "Mind, Meaning & Growth > Personal Development > Performance & mindset > Habit coaching",3
+"Mind, Meaning & Growth > Personal Development > Performance & mindset > Executive coaching",3
 "Mind, Meaning & Growth > Personal Development > Growth communities > Men's circles",3
 "Mind, Meaning & Growth > Personal Development > Growth communities > Women's circles",3
 "Mind, Meaning & Growth > Personal Development > Growth communities > Mastermind groups",3
@@ -744,9 +793,11 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Productivity > Knowledge management > Note-taking apps",3
 "Mind, Meaning & Growth > Productivity > Knowledge management > AI knowledge assistants",4
 "Mind, Meaning & Growth > Productivity > Knowledge management > Template marketplaces",3
+"Mind, Meaning & Growth > Productivity > Knowledge management > Personal CRM apps",3
 "Mind, Meaning & Growth > Productivity > ADHD-friendly productivity > Body doubling",4
 "Mind, Meaning & Growth > Productivity > ADHD-friendly productivity > ADHD planners",3
 "Mind, Meaning & Growth > Productivity > ADHD-friendly productivity > AI task breakdown",4
+"Mind, Meaning & Growth > Productivity > ADHD-friendly productivity > Visual planning apps",3
 "Mind, Meaning & Growth > Productivity > AI personal assistants > Personal AI agents",4
 "Mind, Meaning & Growth > Productivity > AI personal assistants > AI browser agents",4
 "Mind, Meaning & Growth > Productivity > AI personal assistants > Inbox & email AI",4
@@ -755,6 +806,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Learning & Education > Online learning > Cohort-based courses",3
 "Mind, Meaning & Growth > Learning & Education > Online learning > Masterclass platforms",3
 "Mind, Meaning & Growth > Learning & Education > Online learning > Microlearning apps",3
+"Mind, Meaning & Growth > Learning & Education > Online learning > Course-creation platforms",3
 "Mind, Meaning & Growth > Learning & Education > AI tutoring > AI tutors",5
 "Mind, Meaning & Growth > Learning & Education > AI tutoring > AI reading coaches",4
 "Mind, Meaning & Growth > Learning & Education > AI tutoring > Homework help apps",3
@@ -813,9 +865,11 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Creativity & Craft > Maker culture > 3D printing",3
 "Mind, Meaning & Growth > Creativity & Craft > Maker culture > Electronics kits",3
 "Mind, Meaning & Growth > Creativity & Craft > Maker culture > CNC & laser cutters",3
+"Mind, Meaning & Growth > Creativity & Craft > Maker culture > 3D model marketplaces",3
 "Mind, Meaning & Growth > Creativity & Craft > Performing arts > Dance classes",3
 "Mind, Meaning & Growth > Creativity & Craft > Performing arts > Voice & singing lessons",3
 "Mind, Meaning & Growth > Creativity & Craft > Performing arts > Dance-studio software",3
+"Mind, Meaning & Growth > Creativity & Craft > Performing arts > Online dance lessons",3
 "Mind, Meaning & Growth > Career Development > Job search > Resume tools",3
 "Mind, Meaning & Growth > Career Development > Job search > AI job-application tools",4
 "Mind, Meaning & Growth > Career Development > Job search > Interview preparation",4
@@ -845,6 +899,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Career Development > Work arrangements > Flexible & part-time jobs",3
 "Mind, Meaning & Growth > Career Development > Work arrangements > Interim management",3
 "Mind, Meaning & Growth > Career Development > Work arrangements > Four-day-week jobs",3
+"Mind, Meaning & Growth > Career Development > Work arrangements > Seasonal & temp jobs",3
 "Mind, Meaning & Growth > Career Development > Professional networking > Professional communities",3
 "Mind, Meaning & Growth > Career Development > Professional networking > Mentorship platforms",3
 "Mind, Meaning & Growth > Career Development > Professional networking > Personal branding tools",3
@@ -852,6 +907,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Mind, Meaning & Growth > Career Development > Workplace navigation > Salary data platforms",3
 "Mind, Meaning & Growth > Career Development > Workplace navigation > Leave navigation",4
 "Mind, Meaning & Growth > Career Development > Workplace navigation > Employment-law help",3
+"Mind, Meaning & Growth > Career Development > Workplace navigation > Open-enrollment help",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Trip planning > AI trip planners",4
 "Lifestyle, Home & Experiences > Travel & Adventure > Trip planning > Itinerary apps",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Trip planning > Group trip planning",3
@@ -868,6 +924,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel > Wellness retreats",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel > Fitness retreats",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel > Longevity retreats",3
+"Lifestyle, Home & Experiences > Travel & Adventure > Wellness travel > Retreat booking platforms",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Traveler segments > Solo travel",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Traveler segments > Family travel",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Traveler segments > Senior travel",3
@@ -875,6 +932,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Travel & Adventure > Road & outdoor travel > RV rentals",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Road & outdoor travel > Glamping",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Road & outdoor travel > Campground booking",4
+"Lifestyle, Home & Experiences > Travel & Adventure > Road & outdoor travel > Outdoor gear rental",3
 "Lifestyle, Home & Experiences > Travel & Adventure > Hospitality tech > Hotel property management",4
 "Lifestyle, Home & Experiences > Travel & Adventure > Hospitality tech > Hotel revenue management",4
 "Lifestyle, Home & Experiences > Travel & Adventure > Hospitality tech > Guest messaging",4
@@ -903,6 +961,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Food & Beverage > Artisanal & local food > Specialty food DTC",3
 "Lifestyle, Home & Experiences > Food & Beverage > Artisanal & local food > Cottage-food businesses",3
 "Lifestyle, Home & Experiences > Food & Beverage > Artisanal & local food > Food incubators & commissaries",3
+"Lifestyle, Home & Experiences > Food & Beverage > Artisanal & local food > Food labeling software",3
 "Lifestyle, Home & Experiences > Food & Beverage > Food waste > Surplus-food apps",3
 "Lifestyle, Home & Experiences > Food & Beverage > Food waste > Food donation logistics",4
 "Lifestyle, Home & Experiences > Food & Beverage > Food waste > Food-freshness tracking",3
@@ -911,6 +970,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Food & Beverage > Cooking & groceries > AI cooking assistants",3
 "Lifestyle, Home & Experiences > Food & Beverage > Cooking & groceries > Smart cooking appliances",3
 "Lifestyle, Home & Experiences > Food & Beverage > Cooking & groceries > Grocery price comparison",3
+"Lifestyle, Home & Experiences > Food & Beverage > Cooking & groceries > Specialty grocery delivery",3
 "Lifestyle, Home & Experiences > Home & Living > Smart home > Smart-home installation",3
 "Lifestyle, Home & Experiences > Home & Living > Smart home > Home security",3
 "Lifestyle, Home & Experiences > Home & Living > Smart home > Home robots",4
@@ -919,6 +979,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Home & Living > Design & decor > E-design",3
 "Lifestyle, Home & Experiences > Home & Living > Design & decor > AI interior design",4
 "Lifestyle, Home & Experiences > Home & Living > Design & decor > Home staging",3
+"Lifestyle, Home & Experiences > Home & Living > Design & decor > Furniture resale",3
 "Lifestyle, Home & Experiences > Home & Living > Organizing & moving > Decluttering services",3
 "Lifestyle, Home & Experiences > Home & Living > Organizing & moving > Home inventory apps",3
 "Lifestyle, Home & Experiences > Home & Living > Organizing & moving > Moving services",3
@@ -936,9 +997,11 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Home & Living > Gardening & plants > Seed & plant DTC",3
 "Lifestyle, Home & Experiences > Home & Living > Gardening & plants > Landscape design",3
 "Lifestyle, Home & Experiences > Home & Living > Gardening & plants > Native & drought-tolerant landscaping",3
+"Lifestyle, Home & Experiences > Home & Living > Gardening & plants > Garden coaching",3
 "Lifestyle, Home & Experiences > Home & Living > Living arrangements > Coliving",3
 "Lifestyle, Home & Experiences > Home & Living > Living arrangements > ADUs & tiny homes",4
 "Lifestyle, Home & Experiences > Home & Living > Living arrangements > Roommate matching",3
+"Lifestyle, Home & Experiences > Home & Living > Living arrangements > Co-buying platforms",3
 "Lifestyle, Home & Experiences > Home & Living > Home electrification > Heat pumps",4
 "Lifestyle, Home & Experiences > Home & Living > Home electrification > Rooftop solar",3
 "Lifestyle, Home & Experiences > Home & Living > Home electrification > Home batteries",4
@@ -985,6 +1048,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Pets & Animal Care > Pet tech > GPS trackers",4
 "Lifestyle, Home & Experiences > Pets & Animal Care > Pet tech > Pet health wearables",3
 "Lifestyle, Home & Experiences > Pets & Animal Care > Pet tech > Smart litter boxes",3
+"Lifestyle, Home & Experiences > Pets & Animal Care > Pet tech > Smart pet feeders",3
 "Lifestyle, Home & Experiences > Pets & Animal Care > Pet services > Pet grooming",3
 "Lifestyle, Home & Experiences > Pets & Animal Care > Pet services > Mobile grooming",3
 "Lifestyle, Home & Experiences > Pets & Animal Care > Pet services > Boarding & daycare",3
@@ -1015,6 +1079,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Sports & Hobbies > Games & puzzles > Chess",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Games & puzzles > Tabletop RPGs",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Games & puzzles > Word games",3
+"Lifestyle, Home & Experiences > Sports & Hobbies > Games & puzzles > Board-game publishing",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Collecting > Trading cards",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Collecting > Designer toys & blind boxes",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Collecting > Live collectible auctions",4
@@ -1022,6 +1087,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Sports & Hobbies > Reading > Book discovery",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Reading > Reading trackers",3
 "Lifestyle, Home & Experiences > Sports & Hobbies > Reading > Web-fiction platforms",3
+"Lifestyle, Home & Experiences > Sports & Hobbies > Reading > Book subscription boxes",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Streaming & video > FAST channels",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Streaming & video > International content streaming",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Streaming & video > Microdramas",4
@@ -1029,6 +1095,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Entertainment & Events > Podcasts & audio > Audio dramas & fiction",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Podcasts & audio > Audio creator tools",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Podcasts & audio > Podcast advertising",3
+"Lifestyle, Home & Experiences > Entertainment & Events > Podcasts & audio > Podcast production services",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Gaming > Mobile games",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Gaming > Game UGC platforms",4
 "Lifestyle, Home & Experiences > Entertainment & Events > Gaming > Indie game publishing",3
@@ -1036,6 +1103,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Entertainment & Events > Live events > Local event discovery",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Live events > Ticketing",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Live events > Ticket resale",3
+"Lifestyle, Home & Experiences > Entertainment & Events > Live events > Event staffing marketplaces",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Nightlife & venues > Eatertainment venues",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Nightlife & venues > Sober nightlife",3
 "Lifestyle, Home & Experiences > Entertainment & Events > Nightlife & venues > Table & guest-list apps",3
@@ -1070,6 +1138,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Cars & Transportation > Car enthusiasts > Collector cars",3
 "Lifestyle, Home & Experiences > Cars & Transportation > Car enthusiasts > Parts & modification",3
 "Lifestyle, Home & Experiences > Cars & Transportation > Car enthusiasts > Classic-car restoration",3
+"Lifestyle, Home & Experiences > Cars & Transportation > Car enthusiasts > Car-meet apps",3
 "Lifestyle, Home & Experiences > Cars & Transportation > EV ownership > Home charging",3
 "Lifestyle, Home & Experiences > Cars & Transportation > EV ownership > Charger installation",4
 "Lifestyle, Home & Experiences > Cars & Transportation > EV ownership > Charging apps",3
@@ -1081,6 +1150,7 @@ Relationships > Social Skills > Neurodivergent social skills > Social-skills app
 "Lifestyle, Home & Experiences > Cars & Transportation > Autonomous & shared rides > Peer-to-peer car sharing",3
 "Lifestyle, Home & Experiences > Cars & Transportation > Autonomous & shared rides > Medical & senior rides",4
 "Lifestyle, Home & Experiences > Cars & Transportation > Autonomous & shared rides > Robotaxi fleet operations",4
+"Lifestyle, Home & Experiences > Cars & Transportation > Autonomous & shared rides > Autonomous shuttles",3
 Enterprise & AI > AI Infrastructure > Foundation models > Open-weight models,3
 Enterprise & AI > AI Infrastructure > Foundation models > Domain-specific models,4
 Enterprise & AI > AI Infrastructure > Foundation models > Small & on-device models,4
@@ -1117,6 +1187,7 @@ Enterprise & AI > AI Infrastructure > Data infrastructure > Data pipelines,3
 Enterprise & AI > Software & Developer Tools > Developer platforms > Cloud development environments,4
 Enterprise & AI > Software & Developer Tools > Developer platforms > Developer portals,3
 Enterprise & AI > Software & Developer Tools > Developer platforms > Open-source commercialization,4
+Enterprise & AI > Software & Developer Tools > Developer platforms > Documentation platforms,4
 Enterprise & AI > Software & Developer Tools > AI coding tools > AI code editors,5
 Enterprise & AI > Software & Developer Tools > AI coding tools > AI code review,5
 Enterprise & AI > Software & Developer Tools > AI coding tools > AI test generation,4
@@ -1139,6 +1210,7 @@ Enterprise & AI > Software & Developer Tools > DevOps & observability > Cloud co
 Enterprise & AI > Software & Developer Tools > Hosting & compute > App hosting,3
 Enterprise & AI > Software & Developer Tools > Hosting & compute > Serverless functions,3
 Enterprise & AI > Software & Developer Tools > Hosting & compute > Edge compute,3
+Enterprise & AI > Software & Developer Tools > Hosting & compute > Agent sandboxes,4
 Enterprise & AI > Software & Developer Tools > Databases > Managed databases,3
 Enterprise & AI > Software & Developer Tools > Databases > Serverless databases,4
 Enterprise & AI > Software & Developer Tools > Databases > Analytics engineering tools,3
@@ -1171,6 +1243,7 @@ Enterprise & AI > Cybersecurity & Trust > Data security > Backup & ransomware re
 Enterprise & AI > Cybersecurity & Trust > Human risk > Security awareness training,3
 Enterprise & AI > Cybersecurity & Trust > Human risk > Phishing simulation,3
 Enterprise & AI > Cybersecurity & Trust > Human risk > Insider-risk management,4
+Enterprise & AI > Cybersecurity & Trust > Human risk > Executive digital protection,3
 Enterprise & AI > Cybersecurity & Trust > Security for AI > Model security,5
 Enterprise & AI > Cybersecurity & Trust > Security for AI > AI agent security,5
 Enterprise & AI > Cybersecurity & Trust > Security for AI > Prompt-injection defense,5
@@ -1244,6 +1317,7 @@ Enterprise & AI > Legal & Compliance Tech > Privacy & data compliance > Children
 Enterprise & AI > Legal & Compliance Tech > ESG & sustainability reporting > CSRD reporting,3
 Enterprise & AI > Legal & Compliance Tech > ESG & sustainability reporting > Supply-chain due diligence,4
 Enterprise & AI > Legal & Compliance Tech > ESG & sustainability reporting > ESG data platforms,3
+Enterprise & AI > Legal & Compliance Tech > ESG & sustainability reporting > Product lifecycle assessment,3
 Enterprise & AI > Legal & Compliance Tech > AI governance > AI risk management,5
 Enterprise & AI > Legal & Compliance Tech > AI governance > Model inventories,4
 Enterprise & AI > Legal & Compliance Tech > AI governance > AI audits,4
@@ -1288,6 +1362,7 @@ Enterprise & AI > Marketing & Sales Tech > Customer support > Support QA & analy
 Enterprise & AI > Marketing & Sales Tech > Event marketing > Event management platforms,3
 Enterprise & AI > Marketing & Sales Tech > Event marketing > Trade-show tech,3
 Enterprise & AI > Marketing & Sales Tech > Event marketing > Direct-mail automation,3
+Enterprise & AI > Marketing & Sales Tech > Event marketing > Sponsorship marketplaces,3
 Enterprise & AI > Marketing & Sales Tech > Sales tech > CRM,3
 Enterprise & AI > Marketing & Sales Tech > Sales tech > AI SDRs,3
 Enterprise & AI > Marketing & Sales Tech > Sales tech > Sales engagement,3
@@ -1311,6 +1386,7 @@ Enterprise & AI > Commerce & Retail Tech > Retail operations > Loss prevention,4
 Enterprise & AI > Commerce & Retail Tech > Fulfillment & post-purchase > Order management,3
 Enterprise & AI > Commerce & Retail Tech > Fulfillment & post-purchase > Shipping software,3
 Enterprise & AI > Commerce & Retail Tech > Fulfillment & post-purchase > Post-purchase experience,3
+Enterprise & AI > Commerce & Retail Tech > Fulfillment & post-purchase > Fulfillment networks,3
 Enterprise & AI > Commerce & Retail Tech > SMB operations > Booking & scheduling,4
 Enterprise & AI > Commerce & Retail Tech > SMB operations > Invoicing & quotes,3
 Enterprise & AI > Commerce & Retail Tech > SMB operations > Reviews & reputation,3
@@ -1335,6 +1411,7 @@ Enterprise & AI > Business Finance Tech > Corporate finance > M&A tools,3
 Enterprise & AI > Business Finance Tech > Equity management > Cap-table software,3
 Enterprise & AI > Business Finance Tech > Equity management > 409A valuations,3
 Enterprise & AI > Business Finance Tech > Equity management > Employee equity tools,3
+Enterprise & AI > Business Finance Tech > Equity management > Tender-offer tools,3
 Enterprise & AI > Business Finance Tech > Fintech infrastructure > Payment processing,3
 Enterprise & AI > Business Finance Tech > Fintech infrastructure > Banking-as-a-service,3
 Enterprise & AI > Business Finance Tech > Fintech infrastructure > Embedded finance,4
@@ -1401,9 +1478,11 @@ Planet & Frontier > Agriculture & Food Systems > Ag biologicals & genetics > Reg
 Planet & Frontier > Agriculture & Food Systems > Livestock & aquaculture > Aquaculture tech,3
 Planet & Frontier > Agriculture & Food Systems > Livestock & aquaculture > Livestock monitoring,4
 Planet & Frontier > Agriculture & Food Systems > Livestock & aquaculture > Methane-reducing feed,4
+Planet & Frontier > Agriculture & Food Systems > Livestock & aquaculture > Livestock health diagnostics,3
 Planet & Frontier > Agriculture & Food Systems > Alternative proteins > Precision fermentation,4
 Planet & Frontier > Agriculture & Food Systems > Alternative proteins > Biomass fermentation,3
 Planet & Frontier > Agriculture & Food Systems > Alternative proteins > Alt-dairy,3
+Planet & Frontier > Agriculture & Food Systems > Alternative proteins > Fermentation scale-up facilities,3
 Planet & Frontier > Agriculture & Food Systems > Food supply chain > Food traceability,4
 Planet & Frontier > Agriculture & Food Systems > Food supply chain > Cold chain,3
 Planet & Frontier > Agriculture & Food Systems > Food supply chain > Food-safety testing,4
@@ -1411,6 +1490,7 @@ Planet & Frontier > Agriculture & Food Systems > Food supply chain > Farm-to-bus
 Planet & Frontier > Agriculture & Food Systems > Farm operations & finance > Farm management software,3
 Planet & Frontier > Agriculture & Food Systems > Farm operations & finance > Ag lending,3
 Planet & Frontier > Agriculture & Food Systems > Farm operations & finance > Farm labor marketplaces,3
+Planet & Frontier > Agriculture & Food Systems > Farm operations & finance > Grain marketing tools,3
 Planet & Frontier > Industry & Supply Chain > Smart manufacturing > Reshoring platforms,3
 Planet & Frontier > Industry & Supply Chain > Smart manufacturing > Contract-manufacturing marketplaces,4
 Planet & Frontier > Industry & Supply Chain > Smart manufacturing > Factory automation,4
@@ -1439,6 +1519,7 @@ Planet & Frontier > Industry & Supply Chain > Warehousing > 3PL marketplaces,3
 Planet & Frontier > Industry & Supply Chain > Last-mile delivery > Route optimization,3
 Planet & Frontier > Industry & Supply Chain > Last-mile delivery > Parcel lockers,3
 Planet & Frontier > Industry & Supply Chain > Last-mile delivery > Delivery drones,3
+Planet & Frontier > Industry & Supply Chain > Last-mile delivery > Delivery management software,3
 Planet & Frontier > Industry & Supply Chain > Reverse logistics > Returns management,4
 Planet & Frontier > Industry & Supply Chain > Reverse logistics > B2B recommerce,4
 Planet & Frontier > Industry & Supply Chain > Reverse logistics > Liquidation marketplaces,3
@@ -1458,6 +1539,7 @@ Planet & Frontier > Built Environment > Property management > Short-term rental 
 Planet & Frontier > Built Environment > Commercial real estate tech > Lease management,3
 Planet & Frontier > Built Environment > Commercial real estate tech > CRE analytics,3
 Planet & Frontier > Built Environment > Commercial real estate tech > Space planning,3
+Planet & Frontier > Built Environment > Commercial real estate tech > Flex-space marketplaces,3
 Planet & Frontier > Built Environment > Construction tech > Construction project management,4
 Planet & Frontier > Built Environment > Construction tech > BIM software,3
 Planet & Frontier > Built Environment > Construction tech > Takeoff & estimating AI,5
@@ -1520,9 +1602,11 @@ Planet & Frontier > Biotech & Life Sciences > Biotech services > IP & licensing 
 Planet & Frontier > Biotech & Life Sciences > Longevity biotech > Senolytics,3
 Planet & Frontier > Biotech & Life Sciences > Longevity biotech > Cellular reprogramming,3
 Planet & Frontier > Biotech & Life Sciences > Longevity biotech > Aging biomarker discovery,3
+Planet & Frontier > Biotech & Life Sciences > Longevity biotech > Geroscience drug repurposing,3
 Planet & Frontier > Aerospace & Defense > Launch & in-space > In-space servicing,3
 Planet & Frontier > Aerospace & Defense > Launch & in-space > In-space manufacturing,3
 Planet & Frontier > Aerospace & Defense > Launch & in-space > Orbital transfer vehicles,4
+Planet & Frontier > Aerospace & Defense > Launch & in-space > Spaceport services,3
 Planet & Frontier > Aerospace & Defense > Satellites & space data > Earth-observation imagery,3
 Planet & Frontier > Aerospace & Defense > Satellites & space data > Geospatial analytics,5
 Planet & Frontier > Aerospace & Defense > Satellites & space data > Direct-to-device satellite,3
@@ -1609,3 +1693,4 @@ Planet & Frontier > Public Interest & Impact > Global development > Financial-in
 Planet & Frontier > Public Interest & Impact > Civic participation & justice > Access to justice,3
 Planet & Frontier > Public Interest & Impact > Civic participation & justice > Court modernization,3
 Planet & Frontier > Public Interest & Impact > Civic participation & justice > Reentry services,3
+Planet & Frontier > Public Interest & Impact > Civic participation & justice > Record expungement,3

@@ -1,5 +1,27 @@
 # Handoff
 
+## v15: no more three-leaf subcategories
+
+All 96 three-leaf subcategories are fixed, so every subcategory now has 4–8 leaves.
+- 84 gained a distinct, actionable leaf: 77 scored 3 and 8 scored 4.
+- The other 12 were combined in 7 merges with a closely related sibling, e.g. Meditation + Journaling → Meditation & reflection, and Homebuying + Home equity → Home financing.
+- Sixteen first-choice leaves were rejected because the v12 prune had archived the same idea.
+
+| | v14 | v15 |
+|---|---|---|
+| Total nodes | 2,048 | 2,126 |
+| Leaves | 1,610 | 1,695 |
+| Subcategories | 367 | 360 |
+| Smallest subcategory | 3 leaves (96 of them) | 4 leaves (194) |
+| Solo-founder view | 552 leaves | 597 leaves |
+
+Trade-off: the map is now 88 nodes larger than right after the v12 prune (2,038). The validator minimum stays at 3.
+Say if you want it raised to 4 to lock this in. The alternative is to leave 3 legal so a subcategory never needs padding.
+
+Details are in `changelog.md` (v15). Every version (v0–v14) reconciles with 0 unaccounted.
+
+---
+
 ## v14: no more two-leaf subcategories
 
 All 27 two-leaf subcategories left by the v12 prune are fixed. Every non-leaf has 3–8 children again, and the

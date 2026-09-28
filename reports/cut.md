@@ -10,6 +10,10 @@ startup markets.
 
 Format: `node name` (old location): reason.
 
+## v15
+
+No nodes cut. Merged subcategories are logged in `changelog.md` (v15).
+
 ## v14
 
 No nodes cut. Merged and folded subcategories are logged in `changelog.md` (v14).
