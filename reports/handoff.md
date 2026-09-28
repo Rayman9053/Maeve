@@ -15,8 +15,10 @@ All 96 three-leaf subcategories are fixed, so every subcategory now has 4–8 le
 | Smallest subcategory | 3 leaves (96 of them) | 4 leaves (194) |
 | Solo-founder view | 552 leaves | 597 leaves |
 
-Trade-off: the map is now 88 nodes larger than right after the v12 prune (2,038). The validator minimum stays at 3.
-Say if you want it raised to 4 to lock this in. The alternative is to leave 3 legal so a subcategory never needs padding.
+Trade-off: the map is now 88 nodes larger than right after the v12 prune (2,038).
+
+Decision: the validator minimum stays at 3 leaves per subcategory. A complete 3-leaf subcategory is valid and never
+needs padding. The 4-leaf floor reached in v15 is a result, not a rule.
 
 Details are in `changelog.md` (v15). Every version (v0–v14) reconciles with 0 unaccounted.
 
