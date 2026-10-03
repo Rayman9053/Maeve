@@ -1,4 +1,4 @@
-.PHONY: all validate build reconcile
+.PHONY: all validate build reconcile mods-check
 
 all: validate build
 
@@ -14,3 +14,7 @@ LATEST_SNAPSHOT := $(shell ls source/taxonomy-v*.yaml | sort -V | tail -1)
 reconcile:
 	python3 scripts/reconcile.py $(LATEST_SNAPSHOT)
 	python3 scripts/reconcile.py source/taxonomy-v0.md
+
+# Claude Code mods under mods/ (see mods/README.md): validate each, then run its tests.
+mods-check:
+	@set -e; for m in mods/*/; do echo "== $$m"; claude plugin validate $$m; (cd $$m && claude plugin test); done

@@ -1,0 +1,18 @@
+{
+  "name": "collision-guard",
+  "version": "0.1.0",
+  "description": "Asks before one Claude Code chat edits a file that another open chat changed recently",
+  "author": {
+    "name": "Maeve"
+  },
+  "userConfig": {
+    "windowMinutes": {
+      "type": "number",
+      "title": "Collision window (minutes)",
+      "description": "How recently another chat must have edited a file for Collision Guard to ask before this chat edits it too.",
+      "default": 30,
+      "min": 1,
+      "max": 1440
+    }
+  }
+}

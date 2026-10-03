@@ -1,0 +1,37 @@
+{
+  "name": "next-steps",
+  "version": "0.1.0",
+  "description": "After each turn, offers a few suggested next prompts above the prompt box; pick one to fill the box, or dismiss them",
+  "author": {
+    "name": "Maeve"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "useModel": {
+      "type": "boolean",
+      "title": "Ask a small model for suggestions",
+      "description": "After each turn, make one small, cheap model call to suggest next steps. It uses a little of your usage. Off, you only get this repo's built-in steps for the taxonomy loop.",
+      "default": true
+    },
+    "model": {
+      "type": "string",
+      "title": "Model for suggestions",
+      "description": "An alias such as haiku, or a full model id.",
+      "default": "haiku"
+    },
+    "maxSuggestions": {
+      "type": "number",
+      "title": "How many suggestions",
+      "description": "The most suggestions to show (1 to 4).",
+      "default": 3,
+      "min": 1,
+      "max": 4
+    },
+    "projectHint": {
+      "type": "string",
+      "title": "About this project",
+      "description": "A sentence or two the suggestion model reads, so its suggestions fit your project.",
+      "default": "This repo is a startup-opportunity taxonomy. taxonomy.yaml is the single source of truth, and the loop is: snapshot it into source/, edit it, make validate, log the change in reports/changelog.md, make reconcile, then make build."
+    }
+  }
+}

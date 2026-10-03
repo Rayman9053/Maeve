@@ -1,0 +1,39 @@
+{
+  "name": "cache-keeper",
+  "version": "0.1.0",
+  "description": "A band above the prompt with context size, usage limits, API-equivalent cost and a prompt-cache countdown, plus buttons for session handoffs",
+  "author": {
+    "name": "Maeve"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "cacheMinutes": {
+      "type": "number",
+      "title": "Prompt cache lifetime (minutes)",
+      "description": "How long the prompt cache is kept after your last message. Claude Code cannot report this, so set it to what your setup uses: 5 for the standard cache, 60 for the one-hour cache.",
+      "default": 60,
+      "min": 1,
+      "max": 1440
+    },
+    "warnMinutes": {
+      "type": "number",
+      "title": "Warn when this many minutes are left",
+      "description": "Show a notification when the cache timer gets this low.",
+      "default": 5,
+      "min": 1,
+      "max": 120
+    },
+    "handoffPrompt": {
+      "type": "string",
+      "title": "Handoff prompt",
+      "description": "What the Handoff button sends.",
+      "default": "Write a handoff for the next session. Add a new section at the top of reports/handoff.md in the same style as the existing sections: what changed in this session and why, where things stand now, and what to iterate on next. Change nothing else."
+    },
+    "continuePrompt": {
+      "type": "string",
+      "title": "Continue prompt",
+      "description": "What the Clear + continue button sends into the fresh conversation, right after /clear.",
+      "default": "Read the newest (top) section of reports/handoff.md and continue from its next steps. Ask me before starting anything large."
+    }
+  }
+}

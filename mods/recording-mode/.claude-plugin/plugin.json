@@ -1,0 +1,35 @@
+{
+  "name": "recording-mode",
+  "version": "0.1.0",
+  "description": "Hides sensitive details on screen while you record or demo Claude Code; the model still works with the real text",
+  "author": {
+    "name": "Maeve"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "startOn": {
+      "type": "boolean",
+      "title": "Start with recording mode on",
+      "description": "Turn recording mode on whenever a session starts. Otherwise use /recording on.",
+      "default": false
+    },
+    "hideTerms": {
+      "type": "string",
+      "title": "Always hide",
+      "description": "Words or phrases to hide whenever recording mode is on, such as client names, product names or prices.",
+      "multiple": true
+    },
+    "maskMoney": {
+      "type": "boolean",
+      "title": "Hide money amounts",
+      "description": "Also hide amounts such as $39 or $1.2M.",
+      "default": false
+    },
+    "maskHomePath": {
+      "type": "boolean",
+      "title": "Hide home folder paths",
+      "description": "Show /home/you/project as ~/project, so your username stays off screen.",
+      "default": true
+    }
+  }
+}

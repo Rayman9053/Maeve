@@ -49,6 +49,7 @@ python3 scripts/build.py             # needs Node 18+ (npx) for the HTML; use --
 | `scripts/yaml_style.py` | Writes taxonomy YAML in the house style. Run alone to check `taxonomy.yaml` round-trips byte for byte. |
 | `scripts/audit_stats.py` | Parses the legacy markdown format and prints audit stats. |
 | `scripts/taxonomy_lib.py` | Shared loader, walker and stats. |
+| `mods/` | Five Claude Code mods (next steps, cache keeper, recording mode, goal meter, collision guard). Not part of the taxonomy build. See `mods/README.md`. |
 
 ## Node schema
 

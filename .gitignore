@@ -1,2 +1,5 @@
 __pycache__/
 node_modules/
+
+# Claude Code writes this next to a mod each time it loads it (the types land in a self-ignoring folder)
+mods/*/tsconfig.json
