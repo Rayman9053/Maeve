@@ -46,8 +46,10 @@ Run `/plugin` and look for a line like `5 mods active`. Edits to a mod's files r
 chat panel and `claude -p`, the hooks still run but nothing is drawn. Each mod therefore has a text command that
 works everywhere: `/next`, `/cache`, `/recording`, `/goals`, `/collisions`.
 
-**Collision Guard needs every chat to load it.** It can only see chats that also run the mod. If you run
-several chats at once, start them all with `--plugin-dir mods/collision-guard`.
+**Collision Guard needs every chat to load it, on one machine.** It can only see chats that also run the mod,
+and chats pass notes through a folder under `~/.claude/`, so they must share a machine. Chats in separate cloud
+sessions run in separate containers and cannot see each other. If you run several chats at once on your
+computer, start them all with `--plugin-dir mods/collision-guard`.
 
 ## Settings
 
